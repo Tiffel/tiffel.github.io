@@ -12,6 +12,7 @@ dpaurl: https://docs.github.com/en/free-pro-team@latest/github/site-policy/githu
 sccurl: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1--the-standard-contractual-clauses-processors
 privacyemail: support@github.com
 flag: us
+layout: page
 ---
 ### Hosting 
 Unser Hoster erhebt in sog. Logfiles folgende Daten, die Ihr Browser übermittelt:
