@@ -9,7 +9,7 @@ Gedanke 1: Ich möchte Familie und Freunden zeigen, was ich diesen Sommer so tue
 
 Gedanke 2: Ich möchte eine Art Tagebuch für mich selber führen. Es wird eine ganze Menge passieren und mich wird die Menge an Eindrücken vermutlich überwältigen. Deswegen ist der Plan, an jedem Ort zumindest einen Text zu den Eindrücken zu schreiben.
 
-###. Warum nicht Instagram, Twitter, $anyOtherSocialNetwork?
+### Warum nicht Instagram, Twitter, $anyOtherSocialNetwork?
 Ich hab nicht perse etwas gegen Meta, Twitter oder einen anderen Konzern. Ich tue das hier auch nicht aus Datenschutz Idealismuss ohne die Plattformen. Dieser Blog läuft nichtmal auf eigener Infra, sondern bei Github Pages.
 
 Mein primärer Beweggrund ist, dass ich für mich selber eine Dokumentation haben möchte, die auch noch in 20 Jahren verfügbar ist. Und ob $Plattform dann noch existiert weiß einfach niemand.
