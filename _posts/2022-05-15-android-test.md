@@ -15,3 +15,4 @@ Der erste Versuch, markdown auf Android zu schreiben
 
 ### Fotos
 Wie auch immer das geht, herausfinden muss ich es
+![Bild an der Elbe](/assets/PXL_20220514_162826611.MP.jpg)
