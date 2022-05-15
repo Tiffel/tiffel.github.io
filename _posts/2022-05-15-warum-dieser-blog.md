@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Warum dieser Blog"
-date:   2022-05-15 18:13:00 +0200
+date:   2022-05-15 16:13:00 +0200
 ---
 
 ### Warum überhaupt etwas online?
@@ -17,4 +17,4 @@ Mein primärer Beweggrund ist, dass ich für mich selber eine Dokumentation habe
 Zusätzlich erwische ich mich bei der Nutzung von Sozialen Medien doch immer wieder, dass ich schaue, wer alles meinen Post sieht, liked etc. Das sorgt zwar auf der einen Seite für Glücksgefühle, macht aber auf der anderen Seite auch abhängig. Ich will das hier aber für mich selber tun und nicht in die Versuchung kommen, über Hashtags, gestellte Fotos und was auch immer mir Aufmerksamkeit zu holen.
 Zusätzlich kann ich nicht auf der einen Seite über den Müllcontent auf Instagram meckern, auf der anderen Seite selber Content dort zuliefern.
 
-Ein letzer Punkt aber sicherlich auch noch, dass ich Technik Bastelei mag. Die Challange ist also hier nur von meinem Mobiltelefon mit Markdown Editor und einem Git Client den Content zu produzieren. Klar hätte ich mir auch ein Wordpress irgendwo hinlegen können, aber das wäre zu einfach.
+Ein letzer Punkt aber sicherlich auch noch, dass ich Technik Bastelei mag. Die Challenge ist also hier nur von meinem Mobiltelefon mit Markdown Editor und einem Git Client den Content zu produzieren. Klar hätte ich mir auch ein Wordpress irgendwo hinlegen können, aber das wäre zu einfach.
