@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Warum dieser Blog"
-date:   2022-05-16 07:54:00 +0200
+date:   2022-05-15 18:13:00 +0200
 ---
 
 h3. Warum überhaupt etwas online?
