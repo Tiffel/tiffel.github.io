@@ -53,3 +53,7 @@ show_excerpts: false
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+#https://dmnfarrell.github.io/software/jekyll-galleries
+imagesurl: "/img/"
+thumbsurl: "/thumbs/"

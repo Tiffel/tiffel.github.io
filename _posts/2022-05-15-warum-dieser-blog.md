@@ -18,4 +18,13 @@ Zusätzlich kann ich nicht auf der einen Seite über den Müllcontent auf Instag
 
 Ein letzer Punkt aber sicherlich auch noch, dass ich Technik Bastelei mag. Die Challenge ist also hier nur von meinem Mobiltelefon mit Markdown Editor und einem Git Client den Content zu produzieren. Klar hätte ich mir auch ein Wordpress irgendwo hinlegen können, aber das wäre zu einfach. Nach den ersten Versuchen habe ich zwar gemerkt, dass das schon etwas masochistisch ist. Aber trotzdem habe ich es erfolgreich geschafft, ein Bild von gestern nachmittag hinzuzufügen. Der Durchstich ist also getan.
 
-![](/assets/PXL_20220514_162826611.MP.jpg)
+{% assign filenames = "PXL_20220514_162826611.MP.jpg" | split: "," %}
+<div class ="image-gallery">
+{% for name in filenames %}
+    <div class="box">
+    <a href="{{ site.imagesurl }}{{ name }}">
+      <img src="{{ site.thumbsurl }}{{ name }} " alt="{{ name }}"  class="img-gallery" />
+     </a>
+    </div>
+ {% endfor %}
+</div>
