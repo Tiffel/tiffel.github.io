@@ -9,5 +9,9 @@ Mein erster "Wettkampf" Lauf. 5km durch die Innenstadt mit Kollegen. Lauf offizi
 <video width='480' height='480' preload='none' controls poster='/assets/teamchallenge.jpg'> <source src='/assets/teamchallenge_ziel.mp4' type='video/mp4' /></video>
 
 ## Wanderung über den Brocken
-Mal schnell mit dem Zug von Dresden nach Bad Harzburg, dort Lena getroffen, eine Nacht im Airbnb geschlafen. Samstag früh dann mit dem Bus nach Elend (ja, das Dorf heißt tatsächlich so) und über den Brocken zurück nach Bad Harzbug. 22km, 1000 Höhenmeter, 5 Grad am Gipfel.
+Mal schnell mit dem Zug von Dresden nach Bad Harzburg, dort Lena getroffen, eine Nacht im Airbnb geschlafen. Samstag früh dann mit dem Bus und Taxi nach Elend (ja, das Dorf heißt tatsächlich so) und über den Brocken zurück nach Bad Harzbug. Eine Wunderschöne Wanderung. Der Harz ist toll, die Wanderung über den Teufelsstieg angenehm anspruchsvoll.
 
+Das Wetter war durchaus wechselhaft, insofern waren die Momente in der Sonne umso schöner. Und beim Abstieg gab noch ein wenig Geschichtsunterricht an der ehemaligen Innerdeutschen Grenze, mitten durch die Eckertalsperre.
+![](/assets/brocken_strava.png)
+
+Ich komme auf jeden Fall nochmal mit dem Fahrrad wieder, um den Brocken zu bezwingen.
