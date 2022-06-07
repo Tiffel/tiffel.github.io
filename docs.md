@@ -31,11 +31,14 @@ Prequisite: `sudo apt-get install imagemagick`
 <!-- -->
     for img in $(ls); do convert -resize 20% "$img" "$thumbsdir/$img"; done;
 
-### current way
+### single way
 * insert into to post
 
 <!-- -->
     {% raw %}{% include gallery.html fnstring="2022-05-30/IMG-20220529-WA0017.jpg,2022-05-30/PXL_20220528_085128752.MP.jpg" %}{% endraw %}
 
-### better way
-adapt include to use folder instead of a list of filenames
+### folder way
+* insert into post
+
+<!-- -->
+    {% raw %}{% include foldergallery.html folder="2022-06-07/2" %}{% endraw %}
