@@ -9,6 +9,11 @@ published: false
 * <https://jekyllrb.com/docs/>
 * <https://www.markdownguide.org/basic-syntax>
 
+Gallery stuff
+* <https://dmnfarrell.github.io/software/jekyll-galleries>
+* <https://github.com/Kirlovon/Zoomtastic>
+* <https://fengyuanchen.github.io/viewerjs/>
+
 ## start site locally
 drafts for blogposts in _drafts, unpublished for this page.
 
@@ -42,3 +47,8 @@ Prequisite: `sudo apt-get install imagemagick`
 
 <!-- -->
     {% raw %}{% include foldergallery.html folder="2022-06-07/2" %}{% endraw %}
+
+## videos
+todo: build an include
+
+until now manully done for teamchallenge
