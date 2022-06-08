@@ -82,7 +82,7 @@ Jan Delay ist sowohl Solo, mit den Beginnern aber insbesondere mit der Disko No.
 
 Scooter hatte ich vor zwei Wochen in der Olypmiahalle München live gesehen. Wer mit Frühsport anfängt kann abends nicht so lange. 
 
-
+{% include foldergallery.html folder="2022-06-07/4" %}
 ## Ausgefallene Sturmflut am Sonntag
 #### Sportfreunde Stiller
 Die Sporties machen auch exakt das gleiche wie vor 10 Jahren. Oh warte, 2002 war nicht vor 10 Jahren...
