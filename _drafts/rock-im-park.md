@@ -58,13 +58,15 @@ Für Billy Talent war ich nach Volbeat einfach zu platt. Ich war Nass, mir war k
 #### Donots
 Bei weitem nicht voll, aber alle hatten Bock
 Dauerlauf in der Circle Pit
+<video width='480' preload='metadata' controls> <source src='/assets/donots-we_re_not-gonna_take_it.m4v' type='video/mp4'/> </video>
+
 #### The Offspring
 Ist das schon Classic Rock?
 #### Broilers
 Mein Highlight, erste Welle. Die Klassiker, einiges vom aktuellen Album.
 
 Witzig war es, direkt mit dem ersten Song in die Gesichter der 20 Jährigen zu schauen. Vermutlich waren diese das erste Mal auf einem Konzert, auf sah man, wie verstört sie waren, dass direkt neben ihnen eine Circle Pit startete. Ist halt kein Sitzpatz Konzert hier.
-
+<video width='480' preload='metadata' controls> <source src='/assets/broilers_alice_und_sarah.m4v' type='video/mp4'/> </video>
 #### Green Day
 Nur ein Bierverkäufer in der ersten Welle, ich musste leider raus
 
