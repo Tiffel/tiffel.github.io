@@ -20,7 +20,7 @@ Die war leider temporär erfolgreich, für mich war der Donnerstag ab Mittags vo
 {% include foldergallery.html folder="2022-06-07/2" %}
 
 ## Die ersten Konzerte am Freitag 
-[![Timetable](/img/2022-06-07/rip-timetable.jpg)](/img/2022-06-07/rip-timetable.jpg)
+[![Timetable](/thumbs/2022-06-07/rip-timetable.jpg)](/img/2022-06-07/rip-timetable.jpg)
 
 Aus Dresden machte sich Auto Drei mit Andrea, Björn und Jule auf den Weg. Ich prüfte derweil den Zustand meines Magens. Nach leichter Skepis ging feste Nachrung und dann auch irgendwann wieder Bier.
 
@@ -63,7 +63,7 @@ Für Billy Talent war ich nach Volbeat einfach zu platt. Ich war nass, mir war k
 Die Donots hatten sich für Rock am Ring mit Absicht auf den Opener Slot setzen lassen, nun bei RIP eben am Samstag morgen. Geladen wurde zum Frühsport, gegen den ein normes Fitness Programm ganz schön abstinkt.
 Ausdauerlauf in der Circle Pit, Hochsprung für die Beine, Bauchmuskeln in der Mosphit, Oberarme durch ständige Crowdsurfer. Die ja selber im Prinzip nur Planiking betrieben haben.
 Das Infield war um kurz vor Eins natürlich nicht voll, aber Anwesenden hatten richtig Bock. Ich habe selten so eine Energie von Lied eins an bei einem Konzert gespürt.
-<video width='480' preload='metadata' controls> <source src='/assets/donots-we_re_not-gonna_take_it.m4v' type='video/mp4'/> </video>
+<video width='100%' preload='metadata' controls> <source src='/assets/donots-we_re_not-gonna_take_it.m4v' type='video/mp4'/> </video>
 
 #### The Offspring
 Legende Nummer Zwei des Wochenendes. Ist das, was man heutzutage als Classic Rock bezeichnet? Die alten Herren sahen vielleicht nicht mehr ganz taufrisch aus, haben aber ihre Klassiker solide abgeliefert. Hat richtig Spass gemacht, wobei ich im letzen drittel den Durchstich ins Infield angehen musste. Glücklicherweise stand ich so in der Schlange, dass ich das ganze Konzert sehen konnte.
