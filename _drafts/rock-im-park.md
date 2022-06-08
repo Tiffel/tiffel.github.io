@@ -19,25 +19,40 @@ Während nach Warten, Tragen und Aufbauen der gemütliche Teil begann, beschloss
 {% include foldergallery.html folder="2022-06-07/2" %}
 
 ## Die ersten Konzerte am Freitag 
-![](/img/2022-06-07/rip-timetable.jpg)
+[![Timetable](/img/2022-06-07/rip-timetable.jpg)](/img/2022-06-07/rip-timetable.jpg)
 
-Aus Dresden machte sich Auto Drei mit Andrea, Björn und Jule auf den Weg. Ich prüfte derweil den Zustand meines Magens. 
+Aus Dresden machte sich Auto Drei mit Andrea, Björn und Jule auf den Weg. Ich prüfte derweil den Zustand meines Magens. Nach leichter Skepis ging feste Nachrung und dann auch irgendwann wieder Bier.
+
+Wir machten  uns auf den Weg zur ersten Band, auf dem Weg wurde ich in die Tradition des Zufallsshirts im Impericon Shop eingeführt. 
 #### Airbourne
-AC/DC Sound zur Eröffnung
+Man tut den Jubgs zwar irgendwie Unrecht, aber sie klingen einfach wie ein modernes AC/DC. Classic Rock mit super Sound zur Eröffnung.
 
 #### Bullet for my Valentine
-Brett
+Die Gangart auf der Mainstage wurde härter. Aber auch noch mal ein ganze Stück besser. Ein schönes Metal Brett, die Double Bass massierte den mittlweile wieder fitten Magen.
+Ich kannte Bullet vorher nur lose, aber das ist einer der Bands für die Liste. Die Liste der Bands, die ich aktiv zuhause nachhören muss.
+Nach der Hälfte es Konzerts ging es aber für mich weiter zur anderen Bühne.
+
 #### Royal Republic
-Fancy Stuff
+Nachdem diese Band auf dem Highfield 2019 mich so positiv überrascht hatte, war der Slot hier Pflicht.
+Extrem tanzbarer, etwas seichter Rock. Nach einer Weile im Backfield bin ich dann auch auf der Alterna Stage das erste mal vorne rein in die Menge. 
+Die Schweden sind nicht nur gut, sondern auch einfach witzig mit ihren Sprüchen und dem ständigen Versuch, Deutsch zu reden.
+
 #### Korn
-Legenden
+Zurück auf der Mainstage die erste Legende des Wochenendes. Ich hatte bisher nie die Change, die Begründer des nu metals live zu sehen. Verdammt, waren die Jungs gut. 30 Jahre Erfahrung auf der Bühne und super viele Hits perfekt gespielt. Hab nicht erwartet, dass das Konzert so viel Spass macht.
+
 #### Volbeat
-Vorne in Welle 1. Die Menschen wurden locker, als der Regen begann
+Mein erklärtes Ziel des Tages war das Infield bei Volbeat. Ich bin alleine losgezogen und mit etwas geschicktem drängeln und mogeln hab ichs dann auch vorne rein geschafft.
+Qualitativ ein klasse Konzert, einfach gute Musiker. Mich haben zu beginn ein bischen die Menschen gestört, die erstaunlich wenig Lust hatten, vorne drin abzugehen.
+Klar, Volbeat ist keine Musik zum dauerhaften springen, aber das war schon fast Arbeitsverweigerung für Konzertgänger.
+Als der strömende Regen begann, wurden aber auch die fusswippenden Menschen locker. Auf einmal war es einfach eine gute Party. Wenn man die Jungs mag kann ich ein Livekonzert echt empfehlen, allerdings nicht für Moshpit und Stagedive. Sondern für druckvoll und auf den Punkt gespielte Versionen ihrer Songs.
 
-#### Skips: Beatsteaks, Billy Talent
-Beatsteaks leider parallel zu volbeat.
+#### Was ich verpasst habe
+Die Beatsteaks waren leider parallel zu Volbeat gesetzt. Die Jungs machen super Spass, ich hatte sie aber schon zweimal live gesehen.
 
-Für Billy Talent nach Volbeat zu platt. Nass, Kalt, noch mehr als eine Halbe Stunde zu warten.
+
+Für Billy Talent war ich nach Volbeat einfach zu platt. Ich war Nass, mir war kalt, es war noch mehr als eine Halbe Stunde zu warten. Außerdem hab ich die Jungs schon ein paar mal auf Festivals live gesehen.
+
+{% include foldergallery.html folder="2022-06-07/3" %}
 
 ## Frühsport am Samstag
 #### Donots
@@ -59,7 +74,12 @@ Zitat Benni: Für Green Day bist du vermutlich 20 Jahre zu spät dran.
 #### Materia
 Kurz mal rein gehört, machte einen extrem Spaßigen Eindruck. Durch die Anzahl an Effekten war es aber nicht möglich, von Hinten irgendwie ein Konzert zu sehen
 
-#### Skip: Jan Delay, Scooter
+#### Was ich verpasst habe
+Jan Delay ist sowohl Solo, mit den Beginnern aber insbesondere mit der Disko No.1 immer einen Besuch wert. Die Entscheidung für die Broilers war aber Goldrichtig
+
+
+Scooter hatte ich vor zwei Wochen in der Olypmiahalle München live gesehen. Wer mit Frühsport anfängt kann abends nicht so lange. 
+
 
 ## Ausgefallene Sturmflut am Sonntag
 #### Sportfreunde Stiller
@@ -74,10 +94,9 @@ Wow, was ein Brett. Ich hatte die Band vorher nie aktiv gehört. Aber man merkte
 #### Kassierer
 Uff, war das scheisse
 #### Sondaschule
-Laut, aber spassig. Mrr fehlte Energie
-#### Casper
-Nur kurz reingehört. 
-#### Skip: Schmutzki, Casper
+Laut, aber spassig. Mrr fehlte Energie. Auf dem Highfield hab ich nochmal die Change
+
+#### Was ich verpasst habe
 Schmutzki Parallel zu Alligahotah, muss dann wohl auf dem Deichbrand sein
 
 Casper nur kurz reingehört. Cool. Vielleicht passt es ja auf dem Highfield besser.
