@@ -74,7 +74,7 @@ Mein Konzert Highlight dieses Festivals. Natürlich von ganz vorne drin. Alle Kl
 Eine Anekdote am Rande: Es war sehr witzig, zu Beginn des Konzerts in die verstörten Gesichter der 20 Jährigen zu schauen. Vermutlich waren diese coronabedingt das erste Mal auf einem Konzert dieser Größenordnung.
 Man sah einfach, wie perlex sie waren, als direkt neben ihnen im ersten Song eine Circle Pit startete.
 Komplette Verwirrung, was sie tun sollen. War halt kein Sitzpatz Konzert.
-<video width='480' preload='metadata' controls> <source src='/assets/broilers_alice_und_sarah.m4v' type='video/mp4'/> </video>
+<video width='100%' preload='metadata' controls> <source src='/assets/broilers_alice_und_sarah.m4v' type='video/mp4'/> </video>
 #### Green Day
 Nach dem Broilers Abriss hatte ich eigentlich den Plan, für Greenday gleich vorne drin zu bleiben.
 Leider hab es nur einen einzigen Bierverkäufer für das gesamte Infield. Keine Change an ein Getränk zu kommen.
@@ -113,7 +113,7 @@ Und der eine Song vom neuen Album hat irgendwie niemanden abgeholt.
 
 #### Alligatoah
 Ein weiteres Highlight von RIP für mich. Ein großartiger Solo Musiker mit intelligenten Texten und einem fantastischen aktuellen Album zieht alle Register. Sehr entspannt im Infield getanzt und gesungen. Ist zwar nicht so richtig Rock, aber trotzdem einfach gut. 
-<video width='480' preload='metadata' controls> <source src='/assets/alligatoah_mit_dir_schlafen.m4v' type='video/mp4'/> </video>
+<video width='100%' preload='metadata' controls> <source src='/assets/alligatoah_mit_dir_schlafen.m4v' type='video/mp4'/> </video>
 #### Muse
 Wow, was ein Brett. Ich hatte die Band vorher nie aktiv gehört.
 Aber man merkte sehr schnell, dass hier richtig gute Musiker am Werk sind, die mal kurz das Zeppelin Feld abreisen.
