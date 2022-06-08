@@ -50,30 +50,38 @@ Als der strömende Regen begann, wurden aber auch die fusswippenden Menschen loc
 Die Beatsteaks waren leider parallel zu Volbeat gesetzt. Die Jungs machen super Spass, ich hatte sie aber schon zweimal live gesehen.
 
 
-Für Billy Talent war ich nach Volbeat einfach zu platt. Ich war Nass, mir war kalt, es war noch mehr als eine Halbe Stunde zu warten. Außerdem hab ich die Jungs schon ein paar mal auf Festivals live gesehen.
+Für Billy Talent war ich nach Volbeat einfach zu platt. Ich war nass, mir war kalt, es wäre noch mehr als eine halbe Stunde zu warten gewesen. Außerdem hab ich die Jungs schon ein paar mal auf Festivals live gesehen.
 
 {% include foldergallery.html folder="2022-06-07/3" %}
 
 ## Frühsport am Samstag
 #### Donots
-Bei weitem nicht voll, aber alle hatten Bock
-Dauerlauf in der Circle Pit
+Die Donots hatten sich für Rock am Ring mit Absicht auf den Opener Slot setzen lassen, nun bei RIP eben am Samstag morgen. Geladen wurde zum Frühsport, gegen den ein normes Fitness Programm ganz schön abstinkt.
+Ausdauerlauf in der Circle Pit, Hochsprung für die Beine, Bauchmuskeln in der Mosphit, Oberarme durch ständige Crowdsurfer. Die ja selber im Prinzip nur Planiking betrieben haben.
+Das Infield war um kurz vor Eins natürlich nicht voll, aber Anwesenden hatten richtig Bock. Ich habe selten so eine Energie von Lied eins an bei einem Konzert gespürt.
 <video width='480' preload='metadata' controls> <source src='/assets/donots-we_re_not-gonna_take_it.m4v' type='video/mp4'/> </video>
 
 #### The Offspring
-Ist das schon Classic Rock?
-#### Broilers
-Mein Highlight, erste Welle. Die Klassiker, einiges vom aktuellen Album.
+Legende Nummer Zwei des Wochenendes. Ist das, was man heutzutage als Classic Rock bezeichnet? Die alten Herren sahen vielleicht nicht mehr ganz taufrisch aus, haben aber ihre Klassiker solide abgeliefert. Hat richtig Spass gemacht, wobei ich im letzen drittel den Durchstich ins Infield angehen musste. Glücklicherweise stand ich so in der Schlange, dass ich das ganze Konzert sehen konnte.
 
-Witzig war es, direkt mit dem ersten Song in die Gesichter der 20 Jährigen zu schauen. Vermutlich waren diese das erste Mal auf einem Konzert, auf sah man, wie verstört sie waren, dass direkt neben ihnen eine Circle Pit startete. Ist halt kein Sitzpatz Konzert hier.
+#### Broilers
+Mein Konzert Highlight dieses Festivals. Natürlich von ganz vorne drin. Alle Klassiker, aber auch viele richtig gute Songs der letzten beiden Alben. Eine perfekte Mischung, die Broilers machen live einfach unglaublich Spass. Ich kann das garnicht so richtig beschreiben, warum es mir so gut gefallen hat. Vermutlich war es die Gute Laune, die der Musikstil mit den großartigen Bläsern und Texten verbreitet.
+
+Eine Anekdote am Rande: Es war sehr witzig, zu Beginn des Konzerts in die verstörten Gesichter der 20 Jährigen zu schauen. Vermutlich waren diese coronabedingt das erste Mal auf einem Konzert dieser Größenordnung. Man sah einfach, wie verstört sie waren, als direkt neben ihnen im ersten Song eine Circle Pit startete.
+Komplette Verwirrung, was sie tun sollen. War halt kein Sitzpatz Konzert.
 <video width='480' preload='metadata' controls> <source src='/assets/broilers_alice_und_sarah.m4v' type='video/mp4'/> </video>
 #### Green Day
-Nur ein Bierverkäufer in der ersten Welle, ich musste leider raus
+Nach dem Broilers Abriss ganz vorne drin hatte ich eigentlich den Plan, für Greeday gleich vorne drin zu bleiben.
+Leider hab es nur einen einzigen Bierverkäufer für das gesamte Infield. Keine Change an ein Getränk zu kommen.
+Da ich aber wirklich Durst hatte, musste ich leider raus gehen. Und dann gibts natürlich keine Chance, wieder vorne reinzukommen :(
 
-Klang leider exakt wie die bekannten Live Alben. Einerseits Respekt an die Sound Techniker, aber andererseits leider etwas langweilig. Die Setlist, die Sprüche, das heraufhohlen einer Person zum Gitarre spielen. Alles schonmal zuhause gesehen. 
+Etwas schade, denn aus den Backfield hat Greenday nur halb Spass gemacht.
+Es klang alles wie die bekannten (und auch sehr guten Live Alben). Also wirklich alles. Sound, Setlist, Witze, Aktionen wie den Fan der einen Song auf der Gitarre mitspielen und sie dann behalten darf. 
+Einerseits gilt mein Respekt erneut den Musikern und Sound Technikern für diese Qualität, aber andererseits war es leider langweilig. Ich hab mich gefühlt wie eine Konzertaufnahme im Stehen zu sehen.
 
-Zitat Benni: Für Green Day bist du vermutlich 20 Jahre zu spät dran.
+Ich denke, das Zitat von Benni am nächsten Morgen bringt es auf den Punkt: "Für ein geiles Green Day Konzert bist du vermutlich 20 Jahre zu spät dran."
 #### Materia
+
 Kurz mal rein gehört, machte einen extrem Spaßigen Eindruck. Durch die Anzahl an Effekten war es aber nicht möglich, von Hinten irgendwie ein Konzert zu sehen
 
 #### Was ich verpasst habe
