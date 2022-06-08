@@ -26,11 +26,11 @@ Aus Dresden machte sich Auto Drei mit Andrea, Björn und Jule auf den Weg. Ich p
 
 Wir machten  uns auf den Weg zur ersten Band, auf dem Weg wurde ich in die Tradition des Zufallsshirts im Impericon Shop eingeführt. 
 #### Airbourne
-Man tut den Jubgs zwar irgendwie Unrecht, aber sie klingen einfach wie ein modernes AC/DC. Classic Rock mit super Sound zur Eröffnung.
+Man tut den Jungs zwar irgendwie Unrecht, aber sie klingen einfach wie ein modernes AC/DC. Classic Rock mit super Sound zur Eröffnung.
 
 #### Bullet for my Valentine
 Die Gangart auf der Mainstage wurde härter. Aber auch noch mal ein ganze Stück besser.
-Ein schönes Metal Brett, die Double Bass massierte den mittlweile wieder fitten Magen.
+Ein schönes Metal Brett, die Double Bass massierte den mittlerweile wieder fitten Magen.
 Ich kannte Bullet vorher nur lose, aber das ist einer der Bands für die Liste. Die Liste der Bands, die ich aktiv zuhause nachhören muss.
 Nach der Hälfte es Konzerts ging es aber für mich weiter zur anderen Bühne.
 
@@ -45,16 +45,16 @@ Verdammt, waren die Jungs gut. 30 Jahre Erfahrung auf der Bühne und super viele
 
 #### Volbeat
 Mein erklärtes Ziel des Tages war das Infield bei Volbeat.
-Ich bin alleine losgezogen und mit etwas geschicktem drängeln und mogeln hab ichs dann auch vorne rein geschafft.
-Qualitativ ein klasse Konzert, einfach gute Musiker. Mich haben zu beginn ein bischen die Menschen gestört, die erstaunlich wenig Lust hatten, vorne drin abzugehen.
+Ich bin alleine losgezogen und mit etwas geschicktem Drängeln und Mogeln hab ichs dann auch vorne rein geschafft.
+Qualitativ ein klasse Konzert, einfach gute Musiker. Mich haben zu beginn ein bischen die Menschen gestört, die erstaunlich wenig Lust hatten vorne drin abzugehen.
 Klar, Volbeat ist keine Musik zum dauerhaften springen, aber das war schon fast Arbeitsverweigerung für Konzertgänger.
 Als der strömende Regen begann, wurden aber auch die fusswippenden Menschen locker. Auf einmal war es einfach eine gute Party. Wenn man die Jungs mag kann ich ein Livekonzert echt empfehlen, allerdings nicht für Moshpit und Stagedive. Sondern für druckvoll und auf den Punkt gespielte Versionen ihrer Songs.
 
 #### Was ich verpasst habe
-Die Beatsteaks waren leider parallel zu Volbeat gesetzt. Die Jungs machen super Spass, ich hatte sie aber schon zweimal live gesehen.
+Die Beatsteaks waren leider parallel zu Volbeat gesetzt. Die machen super Spass, ich hatte sie aber schon zweimal live gesehen.
 
 
-Für Billy Talent war ich nach Volbeat einfach zu platt. Ich war nass, mir war kalt, es wäre noch mehr als eine halbe Stunde zu warten gewesen. Außerdem hab ich die Jungs schon ein paar mal auf Festivals live gesehen.
+Für Billy Talent war ich nach Volbeat einfach zu platt. Ich war nass, mir war kalt, es wäre noch mehr als eine halbe Stunde zu warten gewesen. Außerdem hab ich acuh die schon einige Male auf Festivals live gesehen.
 
 {% include foldergallery.html folder="2022-06-07/3" %}
 
@@ -66,7 +66,9 @@ Das Infield war um kurz vor Eins natürlich nicht voll, aber Anwesenden hatten r
 <video width='100%' preload='metadata' controls> <source src='/assets/donots-we_re_not-gonna_take_it.m4v' type='video/mp4'/> </video>
 
 #### The Offspring
-Legende Nummer Zwei des Wochenendes. Ist das, was man heutzutage als Classic Rock bezeichnet? Die alten Herren sahen vielleicht nicht mehr ganz taufrisch aus, haben aber ihre Klassiker solide abgeliefert. Hat richtig Spass gemacht, wobei ich im letzen drittel den Durchstich ins Infield angehen musste. Glücklicherweise stand ich so in der Schlange, dass ich das ganze Konzert sehen konnte.
+Legende Nummer Zwei des Wochenendes. Ist dass das, was man heutzutage als Classic Rock bezeichnet?
+Die alten Herren sahen vielleicht nicht mehr ganz taufrisch aus, haben aber ihre Klassiker solide abgeliefert.
+Hat richtig Spass gemacht, wobei ich im letzen Drittel den Durchstich ins Infield angehen musste. Glücklicherweise stand ich so in der Schlange, dass ich das ganze Konzert sehen konnte.
 
 #### Broilers
 Mein Konzert Highlight dieses Festivals. Natürlich von ganz vorne drin. Alle Klassiker, aber auch viele richtig gute Songs der letzten beiden Alben. Eine perfekte Mischung, die Broilers machen live einfach unglaublich Spass. Ich kann das garnicht so richtig beschreiben, warum es mir so gut gefallen hat. Vermutlich war es die Gute Laune, die der Musikstil mit den großartigen Bläsern und Texten verbreitet.
@@ -76,19 +78,20 @@ Man sah einfach, wie perlex sie waren, als direkt neben ihnen im ersten Song ein
 Komplette Verwirrung, was sie tun sollen. War halt kein Sitzpatz Konzert.
 <video width='100%' preload='metadata' controls> <source src='/assets/broilers_alice_und_sarah.m4v' type='video/mp4'/> </video>
 #### Green Day
-Nach dem Broilers Abriss hatte ich eigentlich den Plan, für Greenday gleich vorne drin zu bleiben.
+Nach dem Broilers Abriss hatte ich eigentlich den Plan, für Green Day gleich vorne drin zu bleiben.
 Leider hab es nur einen einzigen Bierverkäufer für das gesamte Infield. Keine Change an ein Getränk zu kommen.
-Da ich aber wirklich Durst hatte, musste ich leider raus gehen. Und dann gab es natürlich keine Chance, wieder vorne reinzukommen :(
+Da ich aber wirklich Durst hatte, musste ich leider raus gehen. Und dann gab es natürlich keine Möglickeit mehr, vorne wieder reinzukommen :(
 
-Etwas schade, denn aus den Backfield hat Greenday nur halb Spass gemacht.
+Etwas schade, denn aus den Backfield hat Green Day nur halb Spass gemacht.
 Es klang alles wie die bekannten (und auch sehr guten Live Alben). Also wirklich alles. Sound, Setlist, Witze, Aktionen wie den Fan der einen Song auf der Gitarre mitspielen und sie dann behalten darf. 
 Einerseits gilt mein Respekt erneut den Musikern und Sound Technikern für diese Qualität, aber andererseits war es leider langweilig. Ich hab mich gefühlt wie eine Konzertaufnahme im Stehen zu sehen.
 
 Ich denke, das Zitat von Benni am nächsten Morgen bringt es auf den Punkt: "Für ein geiles Green Day Konzert bist du vermutlich 20 Jahre zu spät dran."
 #### Materia
-Nachdem Greenday ja weniger spannend war und der Weg von Stage zu Stage ziemlich kurz ist, habe ich hier zwischendurch für ein paar Songs reingehört.
+Nachdem Green Day ja weniger spannend war und der Weg von Stage zu Stage ziemlich kurz ist, habe ich hier zwischendurch für ein paar Songs reingehört.
 Machte einen Spaßigen Eindruck, wird aber nie meine bevorzugte Musik werden.
-Hier hat man sehr gemerkt, wie durchgestyled die Bühnenshows mittlerweile sind. Durch die Anzahl an Effekten auf den Videoleinwänden war es praktisch nicht möglich, von hinten sinnvoll das Konzert zu sehen. Was ja irgendwie der Zweck der Videoleinwände sein sollte. Von mir aus tobt euch auf der Großen Leinwand hinter der Bühne mit Effekten aus wie ihr wollt, aber die beiden Hochkant Leinwände an den Seiten sollten einfach die Bühne zeigen.
+Hier hat man sehr gemerkt, wie durchgestyled die Bühnenshows mittlerweile sind. Durch die Anzahl an Effekten auf den Videoleinwänden war es praktisch nicht möglich, von hinten sinnvoll das Konzert zu sehen. Was ja irgendwie der Zweck der Videoleinwände sein sollte.
+Von mir aus tobt euch auf der großen Leinwand hinter der Bühne mit Effekten aus wie ihr wollt, aber die beiden Hochkant Leinwände an den Seiten sollten einfach die Bühne zeigen.
 
 #### Was ich verpasst habe
 Jan Delay ist sowohl Solo, mit den Beginnern, aber insbesondere mit der Disko No.1 immer einen Besuch wert. Alle Varianten mehrfach gesehen. 
@@ -99,7 +102,7 @@ Scooter hatte ich zwei Wochen vor RIP in der Olypmiahalle München Live gesehen.
 
 {% include foldergallery.html folder="2022-06-07/4" %}
 ## Ausgefallene Sturmflut am Sonntag
-Am Sonntag morgen Stand der Wetterbericht auf Weltuntergang. Um halb 9 sah die Wettervorhersage so aus, als würden wir um 11 komplett untergehen, wegwehen, ertrinken.
+Am Sonntagmorgen stand der Wetterbericht auf Weltuntergang. Um halb 9 sah die Wettervorhersage so aus, als würden wir um 11 komplett untergehen, wegwehen, ertrinken.
 Die Mischung aus Faulheit, Coolness und Lethargie hat sich aber bewährt. Wir haben einfach nichts gemacht. Von Minute zu Minute wurde die Vorhersage besser, letzlich haben wir eine halbe Stunde einen leichten Schauer abbekommen.
 
 #### Sportfreunde Stiller
@@ -121,13 +124,13 @@ Mega Show, Mega Sound, eine Band für "die Liste".
 
 #### Kassierer
 Uff, war das Scheiße.
-Wir hatten erwartet, dass die Clubstage zum letzen Konzert der Sondaschule aus allen Näten platzt, deswegen ging es so schnell es geht nach Muse dort rein. 
+Wir hatten erwartet, dass die Clubstage zum letzen Konzert der Sondaschule aus allen Näten platzt, deswegen ging es so schnell wie möglich nach Muse dort rein. 
 Es ist wirklich bitter, dass wirklich viele Leute diese Band so feiern. Musikalisch eh schon grenzwertig, aber was der Sänger auf der Bühne fabriziert ist unter aller Sau. Er kann weder seine Texte, noch Takt oder Rhythmus und über Intonation braucht man garnicht erst nachdenken.
 
 #### Sondaschule
 Nachdem ich auf dem Rang vom Eishockey Stadion bei den Kassieren kurz weggenickt war, hab ich zumindest noch die ersten fünf Songs der Sondaschule mitbekommen.
 Mir fehlte aber tatsächlich die Energie nach soviel Festial, nochmals in die Menge rein zu gehen. Etwas unerwart, aber es war nicht besonders voll. Man wäre locker noch nach vorne gekommen. Müde wie ich leider war ging es für mich in Richtung Zelt, währen der Rest der Truppe bis zum Ende durchgezogen hat. 
-Auf dem Highfield hab ich nochmal die Change auf Sondaschule, dort werde ich sie nutzen.
+Auf dem Highfield hab ich nochmal die Chance auf Sondaschule, dort werde ich sie nutzen.
 
 #### Was ich verpasst habe
 Schmutzki ist immer gut, lief aber leider parallel zu Alligatoah. Ich geb mir die Jungs dann wohl auf dem Deichbrand.
