@@ -89,7 +89,7 @@ Die Sporties machen auch exakt das gleiche wie vor 10 Jahren. Oh warte, 2002 war
 
 #### Alligatoah
 Mein zweites Highlight. Ein großartiger Solo Musiker mit intelligenten Texten und einem fantastischen aktuellen Album zieht alle Register. Sehr entspanntes Tanzen
-
+<video width='480' preload='metadata' controls> <source src='/assets/alligatoah_mit_dir_schlafen.m4v' type='video/mp4'/> </video>
 #### Muse
 Wow, was ein Brett. Ich hatte die Band vorher nie aktiv gehört. Aber man merkte sehr schnell, dass hier richtig gute Musiker am Werk sind, die mal kurz das Zepelin Feld abreisen.
 
@@ -103,6 +103,7 @@ Schmutzki Parallel zu Alligahotah, muss dann wohl auf dem Deichbrand sein
 
 Casper nur kurz reingehört. Cool. Vielleicht passt es ja auf dem Highfield besser.
 
+{% include foldergallery.html folder="2022-06-07/5" %}
 ## Abreise am Montag
 Retintegration in die Gesellschaft
 Quiz im Barneby
