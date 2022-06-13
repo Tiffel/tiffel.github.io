@@ -25,7 +25,7 @@ Welcher aber immer einen punkigen, linken Hintergedanken hat. Daran wurde auch h
 Ganz spannend zu beobachten war allerdings, wie körperlich aktiv sich die drei Ärzte auf der Bühne im Vergleich zu Konzerten vor 15 Jahren verhalten haben.
 Damals war Farin der aufgedrehte Flummi mit zuviel Energie, mittlerweile ist Stehschlagzeuger Bela der aktivste der Ärzte. Und Rod ist halt Rod :)
 
-Wo wir gerade bei Energie waren: Ich hatte mich nach RIP auf ein entspanntes Konzert eingestellt und nicht vor, die Welt zu erobern.
+Wo wir gerade bei Energie waren: Ich hatte mich nach RIP auf ein entspanntes Konzert eingestellt und hatte nicht vor, die Welt zu erobern.
 Also bin ich entsprechend mit Sneakers, Armbanduhr und Brille aufgeschlagen.
 Man könnte meinen, ich würde mich selber nicht kennen. Spätestens ab der Hälfte des Konzertes war ich dann doch mitten in der Moshpit vertreten. Allerdings nicht allein, wir waren alle hinter dem ersten Wellenbrecher. Zitat Martin nach einer Runde nettem Geschubse: "Sowas hab ich zwanzig Jahre nicht mehr gemacht!".
 
