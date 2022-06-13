@@ -21,7 +21,7 @@ Aber eben auch Songs wie "Am Strand" von HELL warten am Start.
 <video width='100%' preload='metadata' controls> <source src='/assets/aerzte_unrockbar.mp4' type='video/mp4'/> </video>
 
 Wer die Ärzte schonmal live gesehen hat, weiß wohl, dass ein großer Teil der Show rumblödeln und Quatsch erzählen ist.
-Welcher aber immer einen punkingen linken Hintergedanken hat. Daran wurde auch hier nicht gespart, die Dynamik zwischen den dreien ist auch nach all den Jahren auf der Bühne sehenswert.
+Welcher aber immer einen punkigen, linken Hintergedanken hat. Daran wurde auch hier nicht gespart, die Dynamik zwischen den dreien ist auch nach all den Jahren auf der Bühne sehenswert.
 Ganz spannend zu beobachten war allerdings, wie körperlich aktiv sich die drei Ärzte auf der Bühne im Vergleich zu Konzerten vor 15 Jahren verhalten haben.
 Damals war Farin der aufgedrehte Flummi mit zuviel Energie, mittlerweile ist Stehschlagzeuger Bela der aktivste der Ärzte. Und Rod ist halt Rod :)
 
