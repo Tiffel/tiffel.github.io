@@ -52,3 +52,8 @@ Prequisite: `sudo apt-get install imagemagick`
 todo: build an include
 
 until now manully done for teamchallenge
+
+### encode h265 from phone for web
+    ffmpeg -i aerzte_westerland.mp4 -vcodec libx264 -vf scale=1280:720 -acodec copy -preset slow -crf 23 aerzte_westerland-out.mp
+4
+https://stackoverflow.com/a/69316283
