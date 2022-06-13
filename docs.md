@@ -34,7 +34,7 @@ Prequisite: `sudo apt-get install imagemagick`
 * convert images
 
 <!-- -->
-    for img in $(ls); do convert -resize 20% "$img" "$thumbsdir/$img"; done;
+    for img in $(ls); do convert -resize 10% "$img" "$thumbsdir/$img"; done;
 
 ### single way
 * insert into to post
