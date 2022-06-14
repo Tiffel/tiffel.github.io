@@ -33,7 +33,7 @@ Wenn ich sowas mal vorhabe, müsste wohl mindestens ein Gravelbike, weitere Tasc
 Aber das mach ich vielleicht nächtes Jahr mal. Bikepacking mit "allem dabei".
 
 Nach der Anreise am Freitag saßen wir mit grob 10 Erwachsenen und 5 Kindern zusammen bei leckerem Essen und Getränken.
-Fast alle Menschen hatten über Cornalia mal voneinander gehört, sich aber noch nie gesehen oder miteinander gesprochen.
+Fast alle Menschen hatten über Cornelia mal voneinander gehört, sich aber noch nie gesehen oder miteinander gesprochen.
 Entsprechend spannend war der Abend. Ich hab einfach viele nette Leute kennengelernt. 
 
 Nach ausgiebigem Frühstück am Samstagmorgen ging es dann zu einer Wanderung über Hohnstein und den Brand, natürlich mit der berühmten Brandaussicht auf Schrammsteine, Lilienstein und Königstein.
