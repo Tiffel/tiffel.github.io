@@ -126,10 +126,12 @@ Um 08:45 ging es am Hotel mit Rucksack los, um kurz nach 10 war ich vor Ort.
 Angeblich soll man ja die Metro in Brüssel mal benutzt haben, ich habe den Fußweg bevorzugt.
 
 Der Weg zum Atomium war schon echt cool.
-Das "Gebäude" von 1958 ist von außen wirklich beeindruckend.
-Leider ist es eben von außen beeindruckender als von Innen.
+Ich habe ganz schön viel von der Stadt gesehen, fernab von Touri Attraktionen
+Das "Gebäude" des Atomiums von 1958 ist von außen wirklich beeindruckend.
+Leider ist es aber von außen beeindruckender als von Innen.
 Nachdem ich meinen Rucksack im Ticket Office eingeschlossen hatte, besuchte ich Teil 1 der Runde.
 Was eine umständliche Umschreibung dafür ist, mit dem Fahrstuhl aus der Basis in das höchste "Elektron" des Atomiums zu fahren.
+
 Die Aussicht war wirklich nur mittelmäßgig gut.
 Die Deutschen, die sich über $whatever beschwerten erfüllten mal wieder jedes Klischee von Deutschen im Ausland.
 > Die Fenster hätte man ja auch mal putzen können
@@ -153,12 +155,12 @@ Die erste Aussstellung scheint eine einmal im Jahr wechselnde Lichtinstallation 
 Ohne die Installationen der anderen Jahre zu kennen oder überhaupt eine große Ahnung von Installationskunst zu haben muss ich einfach sagen: "Wow".
 Das war wirklich cool anzusehen.
 Die Umgebung der Spheren wurde mit der Lichtinstallation einfach cool einbezogen, der eigens hierfür komponierte Ton sorgte für die runde Gesamtstimmung.
-Ich war tatsächlich zusammen mit einem französischen Paar, mit dem ich mich dannach unterhalten habe einer der wenigen,
+Ich war tatsächlich zusammen mit einem französischen Paar, mit dem ich mich dannach unterhalten habe, einer der wenigen,
 die das zu schätzen wussten.
 Die meisten Menschen sind mit ihrem Telefon in der Hand und einem wackeligen 10 Sekunden Video darauf einfach durchgerannt.
 <video width='100%' preload='metadata' controls> <source src='/assets/atomium.mp4' type='video/mp4' /></video>
   
-Die zweite temporäre Ausstellung befasste sich mit dem "View from my Window" Phänomen, was ja grob bekannt sein dürfte, wenn man die letzen zwei Jahre nicht unter einem Stein gelebt hat.
+Die zweite temporäre Ausstellung befasste sich mit dem "View from my window" Phänomen, was ja grob bekannt sein dürfte, wenn man die letzen zwei Jahre nicht unter einem Stein gelebt hat.
 Corona bedingt eingesperrte Menschen posten Bilder aus ihrem Fenster, damit die anderen eingesperrten Menschen tolle Blicke aus der Welt sehen können.
 
 Ansich wurde hier eine wunderschöne Auswahl an Photos kuratiert.
@@ -178,6 +180,6 @@ So ein Modell vom "Lago di Vogorno" mag ja nett sein, aber da fahre ich lieber s
 
 Insofern war die Entscheidung einfach:
 Chillen und Mittagessen in Park um die Ecke, einfach mal ne Stunde in mein Buch reinschauen.
-Dannach bin ich entspannt am Kanal entlang in Richtung Bruxelles-Midi, während ich auf dem Weg noch ein paar nette Ecken vin Brüssel kennenlernen durfte.
+Dannach bin ich entspannt am Kanal entlang in Richtung Bruxelles-Midi, während ich auf dem Weg zu Fuß noch ein paar nette Ecken von Brüssel kennenlernen durfte.
  
 {% include foldergallery.html folder="2022-06-15/4" %}
