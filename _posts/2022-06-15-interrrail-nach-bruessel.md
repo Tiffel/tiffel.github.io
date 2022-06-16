@@ -156,9 +156,7 @@ Die Umgebung der Spheren wurde mit der Lichtinstallation einfach cool einbezogen
 Ich war tatsächlich zusammen mit einem französischen Paar, mit dem ich mich dannach unterhalten habe einer der wenigen,
 die das zu schätzen wussten.
 Die meisten Menschen sind mit ihrem Telefon in der Hand und einem wackeligen 10 Sekunden Video darauf einfach durchgerannt.
-
-TODO Video
-
+<video width='100%' preload='metadata' controls> <source src='/assets/atomium.mp4' type='video/mp4' /></video>
   
 Die zweite temporäre Ausstellung befasste sich mit dem "View from my Window" Phänomen, was ja grob bekannt sein dürfte, wenn man die letzen zwei Jahre nicht unter einem Stein gelebt hat.
 Corona bedingt eingesperrte Menschen posten Bilder aus ihrem Fenster, damit die anderen eingesperrten Menschen tolle Blicke aus der Welt sehen können.
@@ -181,3 +179,5 @@ So ein Modell vom "Lago di Vogorno" mag ja nett sein, aber da fahre ich lieber s
 Insofern war die Entscheidung einfach:
 Chillen und Mittagessen in Park um die Ecke, einfach mal ne Stunde in mein Buch reinschauen.
 Dannach bin ich entspannt am Kanal entlang in Richtung Bruxelles-Midi, während ich auf dem Weg noch ein paar nette Ecken vin Brüssel kennenlernen durfte.
+ 
+{% include foldergallery.html folder="2022-06-15/4" %}
