@@ -30,12 +30,36 @@ Dafür konnte man mit einem Laptop auf dem riesigen Tisch ganz gut arbeiten. Sol
 # Der erste Abend in Paris
 Auch für Paris hatte ich mit wieder eine Laufroute vorgeplant, um die Stadt kennenzulernen.
 
+* waschen
+* 10 Stunden schlafen
 
 {% include foldergallery.html folder="2022-06-17/2" %}
 
 ## Paris Tag 1: Roaming the City
+* Sacre ceure
+* Rue du Mont-Cenis
+* Geiles croissant
+* Metro Pt Dauphine
+** Ansagen immer zwei mal mit verschiedenener Betonung
+* Triumph Bogen
+* Champs Elise runter, Nike store
+* Essen im park
+* Place de la Concorde
+* Durch jardin de tuileries zum Sportplatz an der Seine 
+* Notre Dame
+** cooler comic 
+* Rathaus mit snack 
+* Flasche Wein im park, Schweizer Taschenmesser
+* Belleville
+** Rundgang
+** Food market
+* Bier an der Seine zum abschluss
+
+* Öffentliche Toiletten, Wasser Brunnen 
 
 ## Paris Tag 2: Louvre
+* Frühstück im Hotel
+* Metro zum Louvre
 
 
 ## Paris noch 2 Tage:
