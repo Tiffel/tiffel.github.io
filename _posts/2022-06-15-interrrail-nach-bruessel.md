@@ -77,7 +77,7 @@ Insofern war klar, dass ich nochmals wieder kommen muss.
 
 Weiter ging es über den Grand Place durch die Innenstadt, in der ich mich nun in Ruhe umsehen konnte.
 Beim Joggen bekommmt man ja doch einiges nicht mit. 
-Echt schick, dieser Marktplatz. Wenn auch relativ unbevölkert um 10 Uhr morgens. "Beat the Tourist!"
+Echt schick, dieser Marktplatz. Wenn auch relativ unbevölkert um 10 Uhr morgens.
 
 Der Plan war dann, sich auf den Weg zur Basilique Nationale du Sacré-Cœur zu machen.
 Auf der 5km langen Strecke ging ich in einem Supermarkt einkaufen, um im Park vor der Basilika zu mittag zu essen. 
