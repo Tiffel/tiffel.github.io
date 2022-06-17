@@ -94,29 +94,29 @@ Dabei hab ich noch einige richtig schöne Ecken wie zum Beispiel einen See mit e
 
 Dannach habe ich nochmal kurz die Gegend um das Europaparlament begutachtet und einen Moment im Parc du Bruxelles die Füße hoch gelegt.
 Der wichtige Teil des Tages war aber kulinarisch.
-Manneken Pis in Klammoten zu Ehren von $whoeverYouAreIDoNotCare war für ca. 20 Sekunden nett, dannach ging es in Richtung geiler Waffeln.
+Manneken Pis in Klammoten zu Ehren von wem auch immer war für ca. 20 Sekunden nett, dannach ging es in Richtung leckerer Waffeln.
 
-Ich hab viel erwartet und das wurde tatsäöchlich übertroffen. 
+Ich hab viel erwartet und das wurde tatsächlich übertroffen. 
 Brüsseler Waffeln sind einfach unfassbar lecker.
 In meinem Fall mit Schoko Soße und Erdbeer Eis.
-Die Lütticher Variante habe ich nicht probiert.
+Die Lütticher Waffeln habe ich nicht probiert.
 Aber nur damit des die Welt mal gehört hat: Die eine "belgische Waffel" gibt es nicht.
 Sondern mindestens die Brüsseler und die Lütticher Variante.
  
 Nennt mich unvernünftig, aber direkt nach der Waffel hatte ich Bock auf Pommes.
-Und fucking hell, die Belgier können einfach Pommes.
-Wenn du noch nie in deinem Leben belgische Pommes mit Sauce Andalouse hattest: Go for it. 
+Und ja, die Belgier können einfach Pommes.
+Wenn du noch nie in deinem Leben belgische Pommes mit Sauce Andalouse hattest: Da gibt es etwas nachzuholen. 
 So ein einfaches Lebensmittel, so unfassbar gut.
 
-Mir ist es einfach unverständlich, wie das Pommes Niveau in Deutschland so schlecht seien kann, während eine optisch echt schäbige Bude so unglaublich gute Fritten produzieren kann.
+Mir ist es einfach unverständlich, wie das Pommes Niveau in Deutschland so schlecht seien kann, während eine optisch echt schäbige Bude in Belgien so unglaublich gute Fritten produzieren kann.
 Wenn ich so an die Zeit in der Heimat in Ostwestfalen denke und das mit dem Leben in Dresden vergleiche, waren Pommes in der Heimat immer irgenwie wichtig.
-Aber wenn ich mir die Qualität so anschaue, war es ehrlich gesacht immer scheisse. 
+Aber wenn ich mir die Qualität so anschaue, war es ehrlich gesacht immer schlecht. 
 Sowohl bei "Zippi" in der Heimat (das kennen sicherlich nur auserwählte Personen) als auch in allen Läden in Dresden in denen ich verkehre.
 Pommes scheint eine Belgische Spezialität zu bleiben. 
 
-Back to topic:
+Zurück zum Thema:
 Ich bin dannach fix ins Hotel, lange Sachen anziehen und dann in den Park bei Port de Hal, um mit nem Bier in der Hand an unter anderem diesem Beitrag zu tippen und Fotos zu sortieren.
-Man kann es durchaus auf Unvernunft schieben, aber auf dem Weg zurück ins Hotel ging es nochmals bei Joe La Fritte für eine weitere Runde geiler Pommes vorbei.
+Man kann es durchaus auf Unvernunft schieben, aber auf dem Weg zurück ins Hotel ging es nochmals bei Joe La Fritte für eine weitere Runde fantastischer Pommes vorbei.
 
 {% include foldergallery.html folder="2022-06-15/3" %}
 ## Brüssel Tag 2: Atomium und Entdeckungstour
