@@ -126,28 +126,29 @@ Um 08:45 ging es am Hotel mit Rucksack los, um kurz nach 10 war ich vor Ort.
 Angeblich soll man ja die Metro in Brüssel mal benutzt haben, ich habe den Fußweg bevorzugt.
 
 Der Weg zum Atomium war schon echt cool.
-Ich habe ganz schön viel von der Stadt gesehen, fernab von Touri Attraktionen
+Ich habe ganz schön viel von der Stadt gesehen, fernab von Touri Attraktionen. 
+
 Das "Gebäude" des Atomiums von 1958 ist von außen wirklich beeindruckend.
 Leider ist es aber von außen beeindruckender als von Innen.
 Nachdem ich meinen Rucksack im Ticket Office eingeschlossen hatte, besuchte ich Teil 1 der Runde.
 Was eine umständliche Umschreibung dafür ist, mit dem Fahrstuhl aus der Basis in das höchste "Elektron" des Atomiums zu fahren.
 
 Die Aussicht war wirklich nur mittelmäßgig gut.
-Die Deutschen, die sich über $whatever beschwerten erfüllten mal wieder jedes Klischee von Deutschen im Ausland.
+Die Deutschen, die sich über alles mögliche beschwerten erfüllten mal wieder jedes Klischee von Deutschen im Ausland.
 > Die Fenster hätte man ja auch mal putzen können
 
 > Zuhause schmeckt der Kaffee aber besser
 
-> $irgendwas mit schreienden Kinden
+> Hört auf zu schreien Kinder und habt gefälligst Spaß 
 
 Das erste Mal, dass ich beschlossen habe, nur noch Englisch zu sprechen, bis ich wieder in Dresden bin.
 Ist ja eh nötig, um in Frankreich und Italien klarzukommen.
 Aber das war alles in allem echt Peinlich.
 
 Aber gut, zurück zum Atomium. Teil 2 der Runde war erstaunlich cool.
-Es ging in Richtung permanenter und dann zwei temporärer Ausstellungen.
+Es ging in Richtung permanenter und dann zweier temporärer Ausstellungen.
 Die permanente Ausstellung dreht sich um die EXPO 1958.
-Muss man mögen, da wird halt ein Weltbild postuliert, was ich für nicht mehr ganz zeitgemäß halte.
+Muss man mögen, da wird halt ein Weltbild postuliert, welches ich für nicht mehr ganz zeitgemäß halte.
 Aber nett gemacht ist es.
 Die beiden zwei temporären Ausstellungen in den folgenden Elektronen haben dann aber den Besuch im Atomium letzlich erinnerungswürdig gemacht.
 
@@ -169,12 +170,12 @@ Hinter den flashenden Monitoren gab es zwar eine große Wand um statische Bilder
 Aber die war in ca. 100 DPI auf schlechter Leinwand gedruckt, was bei näherer Betrachtung den schönen Fotos leider jede Inspiration geraubt hat. 
 
 Im Anschluss bin ich kurz in das Design Museum Brussels, weil es im Ticket mit drin war. Sah leider aus wie jedes Design Museum in jeder größeren Stadt.
-> Oh, wir haben Plastik erfunden. Lass uns allen hässlichen Scheiß, den wir von 1940 bis 1970 entwickelt haben in einen Raum kippen, damit die Nachwelt es doof findet. 
+> Oh, wir haben Plastik erfunden. Lass uns alle hässlichen Dinge, die wir von 1940 bis 1970 entwickelt haben in einen Raum stellen, damit die Nachwelt es anschauen kann. 
 
 Kann man sich sparen.
 
 Auf jeden Fall war der Beschluss klar, keine 20€ für Mini Europe auszugebeben. Ich hatte den Park aus dem Atomium von oben gesehen.
-Nett, aber auch in ner Stunde durch.
+Nett, aber auch extrem kitschig und man wäre wohl in einer Stunde durch.
 Für Modelle von Europa, die ich mir eigentlich alle lieber in echt anschauen will.
 So ein Modell vom "Lago di Vogorno" mag ja nett sein, aber da fahre ich lieber selber mal hin und schaue es mir vor Ort an.
 
