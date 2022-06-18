@@ -15,7 +15,7 @@ Gallery stuff
 * <https://fengyuanchen.github.io/viewerjs/>
 
 ## start site locally
-drafts for blogposts in _drafts, unpublished for this page.
+drafts for blogposts in _drafts, unpublished for this page, future for upcoming posts.
 
     bundle exec jekyll serve --drafts --unpublished
 
