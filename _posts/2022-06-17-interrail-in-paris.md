@@ -30,7 +30,7 @@ Dafür konnte man mit einem Laptop auf dem riesigen Tisch ganz gut arbeiten. So 
 Auch für Paris hatte ich mir wieder eine Laufroute vorgeplant, um die Stadt kennenzulernen.
 Wie in Brüssel ca 12,5 km in 90 Minuten. 
 
-Der Weg zur Seine war ein kleines bischen anstrengend, denn die Stadt war einfach voll von Menschen die in die Bars drängten.
+Der Weg zur Seine war ein kleines bischen anstrengend, denn die Stadt war einfach voll von Menschen, die in die Bars drängten.
 Aber als ich dann am Fluss war, war es den Weg auf jeden Fall wert.
 Tolle Ausblicke und viele Menschen, die alle Arten von verrückten Sportarten machen. Kickboxen, Yoga, Tanz und Dinge, die ich noch nie gesehen hatte.
 Extrem cool an Paris ist, dass es alle paar Meter einen Frischwasser Brunnen gibt, an dem man einen Schluck trinken oder sich den Kopf und Oberkörper einfach nass machen kann.
@@ -40,14 +40,14 @@ Nach der Runde war aber nicht mehr viel mit mir los. Fix noch Klamotten gewasche
 
 {% include foldergallery.html folder="2022-06-17/2" %}
 
-## Paris Tag 1: Roaming the City
+## Paris Tag 1: Erste Erkundungstour
 Da mein Hotel direkt neben Montmartre liegt, war die Basilique du Sacré-Cœur de Montmartre nach 10 Minuten Fußweg die erste Station.
 Der Montmartre-Hügel ist dafür, dass er mitten in der Stadt liegt, ganz schön steil. Aber genau das sorgt für den beeindruckenden Anblick der Basilika.
 Den Eintritt hab ich mir an dieser Stelle mal gespart, dafür aber mit Ausblick über die Stadt gefrühstückt.
 
-Ich bin darauf hin die Rue du Mont-Cenis nach Norden vom Hügel herunter. Dort war aber, wie wohl in ganz Montmartre, um halb 10 morgens noch tote Hose.
+Ich bin daraufhin die Rue du Mont-Cenis nach Norden vom Hügel herunter. Dort war aber, wie wohl in ganz Montmartre, um halb 10 morgens noch tote Hose.
 Da muss ich nochmal wieder kommen, um die Straße und auch den Place du Tertre in belebt zu erleben.
-Ich konnte aber in einer kleinen süßen Bäckerei ein leckeres gutes Croissant ergattern.
+Ich konnte aber in einer kleinen süßen Bäckerei ein leckeres Croissant ergattern.
 Das ist ein bischen ähnlich zu den Pommes in Brüssel. Es ist unfassbar, wie gut so etwas schmecken kann, wenn jemand weiß was er tut.
 
 Da die Menschen also noch nicht am Start waren, fasste ich den Entschluss mir Gebäude anzuschauen.
@@ -60,15 +60,15 @@ Der Triumphbogen war ganz nett anzusehen, aber eben auch genauso, wie ich ihn vo
 
 Ich bin darauf hin den Champs-Élysées hinunter in Richtung Place de la Concorde. Viel Touri Krams, viele Luxus Läden, soweit so bekannt.
 Ich stand leicht verwundert vor dem Louis Vuitton Store und machte mich innerlich über die Schlagestehenden Menschen lustig, als ich den Nike Flagship Store sah.
-Nicht das ich jetzt Fan der Marke war, aber dort gab es eine sehr coole Ausstellung zur 50 Jahren Nike, der Entwicklung von Sportschuhen und der Firma als Modemarke.
+Nicht das ich jetzt Fan der Marke bin, aber dort gab es eine sehr coole Ausstellung zu 50 Jahre Nike, der Entwicklung von Sportschuhen und der Firma als Modemarke.
 Spannend gemacht, da hab ich mich locker eine Stunde mit aufgehalten.
 
 Nach so viel unnützem Sneaker Wissen habe ich mal wieder Großstadt Normade gespielt und im nahgelegenen Park zu Mittag gegessen. 
 Dieses mal war ich nicht allein, dort saßen sicherlich 5 weitere Menschen, die das gleiche taten.
-Vermutlich eher Locals, aber ganz absurd ist meine Idee nicht. Und der Camenbert war einfach fantastisch.
+Vermutlich eher Locals, aber ganz absurd ist meine Idee nicht. Und der Camembert war einfach fantastisch.
 
 Das sollte hier eigentlich kein Foodblog werden, aber ich werde nicht müde zu betonen, was es and leckeren, lokalen Lebensmitteln gibt.
-Für so einen Camenbert muss man in Deutschland vermutlich jemanden kennen, der wen kennt und dann ein Angebot machen was derjenige nicht ablehnen kann.
+Für so einen Camembert muss man in Deutschland vermutlich jemanden kennen, der wen kennt und dann ein Angebot machen was derjenige nicht ablehnen kann.
 In Paris geht man einfach in den Supermarkt. 
  
 Den Place de la Concorde hatte ich nicht so groß in Erinnerung.
@@ -91,7 +91,7 @@ So sieht man seine Ziele, etwas von der Stadt drum herum aber schaut dabei nicht
 Notre Dame war dann leider nicht besonders cool. Die gothische Kathedrale ist aktuell einfach eine Baustelle. Da ist noch eine ganze Menge Arbeit zu tun, bis dort wieder eine Messe stattfindet oder (bitte nicht!) ein König gekrönt wird.
 Was allerdings super war, war die "Dekoration" der Baustelle. Dort haben sich einige Künstler ausgetobt, das Feuer und die Restauration in verschiedenen Stilen zu visualisieren. Leider vor Ort komplett französisch, aber ich habe dann auf dem Telefon die [englische Variante](https://www.rebatirnotredamedeparis.fr/expositionbd) gelesen.  
 
-Weiter ging es zum Hôtel de Ville, also dem Rathaus, um dort den Rest vom Camenbert zu snacken.
+Weiter ging es zum Hôtel de Ville, also dem Rathaus, um dort den Rest vom Camembert zu snacken.
 Dort hab es, wie an so vielen Orten in Paris, wieder einen Frischwasserbrunnen und öffentliche Toiletten.
 Extrem beeindruckend, wie gut das in der ganzen Stadt ausgebaut ist. 
 Man kann völlig problemlos bei diesen Temperaturen deutlich über 30 ℃ den ganzen Tag unterwegs sein und ist im Prinzip immer versorgt.
