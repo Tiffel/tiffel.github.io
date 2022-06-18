@@ -13,10 +13,10 @@ Vermutlich war das Problem, dass ich auf Englisch gefragt habe, ob ich eintreten
 Bei der Premium Variante hätte es sogar eine vollwertige Mahlzeit mit freien Getränken zur Zugfahrt gegeben.
 Das, was es vor Corona in Flugzeugen auch mal gab, falls sich jemand erinnert.
 
-Bruxelles-Midi ist insofern ein besonderer Bahnhof, als das der Eurostar hier nach London fährt.
+Bruxelles-Midi ist insofern ein besonderer Bahnhof, als das hier der Eurostar nach London fährt.
 In dem Fall verlässt man den Schengen Raum, deswegen gibt es tatsächlich ein Terminal, bei dem Passkontrollen gemacht werden. 
 Außerdem hören die Ansagen in der Wartehalle einfach nie auf.
-Wenn alles auf Französisch, Englisch und teilweise Niederländung und Deutsch angesagt wird, gibt es einfach viel zu besprechen. 
+Wenn alles auf Französisch, Englisch und teilweise Niederländisch und Deutsch angesagt wird, gibt es einfach viel zu besprechen. 
 
 Zur Zugfahrt selber kann man sagen, dass so ein Thalys Zug in der ersten Klasse schon etwas besonderes hat. Riesig breite, bequeme Sitze, angenehme Atmosphäre.
 Seltsam war definitiv, dass ich einer der ganz wenigen Menschen ohne Jacket bzw. Kostum in diesem Zug war. 
