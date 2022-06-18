@@ -23,8 +23,7 @@ Seltsam war definitiv, dass ich einer der ganz wenigen Menschen ohne Jacket bzw.
 Alle ein bischen schicker angezogen als der Durchschnitt.
 
 Keine Steckdosen am Platz wirkte dafür schon sehr altertümlich.
-Dafür konnte man mit einem Laptop auf dem riesigen Tisch ganz gut arbeiten. Solange der Akku eben hält.
-
+Dafür konnte man mit einem Laptop auf dem riesigen Tisch ganz gut arbeiten. So ein Tagebuch schreibt sich schließlich nicht von alleine. 
  
 {% include foldergallery.html folder="2022-06-17/1" %}
 # Der erste Abend in Paris
@@ -33,7 +32,7 @@ Wie in Brüssel ca 12,5 km in 90 Minuten.
 
 Der Weg zur Seine war ein kleines bischen anstrengend, denn die Stadt war einfach voll von Menschen die in die Bars drängten.
 Aber als ich dann am Fluss war, war es den Weg auf jeden Fall wert.
-Richtig viele Mebschen, die alle Arten von verrückten Sportarten machen. Kickboxen, Yoga, Tanz und Dinge, die ich noch nie gesehen hatte.
+Tolle Ausblicke und viele Menschen, die alle Arten von verrückten Sportarten machen. Kickboxen, Yoga, Tanz und Dinge, die ich noch nie gesehen hatte.
 Extrem cool an Paris ist, dass es alle paar Meter einen Frischwasser Brunnen gibt, an dem man einen Schluck trinken oder sich den Kopf und Oberkörper einfach nass machen kann.
 Ziemlich gut bei 30 ℃ im Schatten, während man durch die Sonne läuft.
 
@@ -47,10 +46,11 @@ Der Montmartre-Hügel ist dafür, dass er mitten in der Stadt liegt, ganz schön
 Den Eintritt hab ich mir an dieser Stelle mal gespart, dafür aber mit Ausblick über die Stadt gefrühstückt.
 
 Ich bin darauf hin die Rue du Mont-Cenis nach Norden vom Hügel herunter. Dort war aber, wie wohl in ganz Montmartre, um halb 10 morgens noch tote Hose.
-Da muss ich wohl nochmal wieder kommen, um die Straße und auch den Place du Tertre in belebt zu erleben.
-Ich konnte aber in einer kleinen süßen Bäckerei ein unfassbar gutes Croissant ergattern. Das ist ein bischen ähnlich zu den Pommes in Brüssel. Es ist unfassbar, wie gut so etwas schmecken kann, wenn jemand weiß was er tut.
+Da muss ich nochmal wieder kommen, um die Straße und auch den Place du Tertre in belebt zu erleben.
+Ich konnte aber in einer kleinen süßen Bäckerei ein leckeres gutes Croissant ergattern.
+Das ist ein bischen ähnlich zu den Pommes in Brüssel. Es ist unfassbar, wie gut so etwas schmecken kann, wenn jemand weiß was er tut.
 
-Da die Menschen also noch nicht am Start waren, fasste ich den Entschluss, mir Gebäude anzuschauen.
+Da die Menschen also noch nicht am Start waren, fasste ich den Entschluss mir Gebäude anzuschauen.
 Auf in die Metro, ganz ans andere Ende der Stadt zur Endstation Porte Dauphine, um sich von hinten an den Arc de Triomphe anzuschleichen.
 In der Pariser Metro gibt es immer zwei Ansagen der kommenden Station. Eine 20 Sekunden vor Ankunft, eine wenn die Türen aufgehen. 
 Mein Französisch ist wirklich nicht gut (man könnte sagen nicht existent), aber es war spannend zu hören, wie sich die beiden Ansagen in der Betonung unterscheiden. 
@@ -88,7 +88,7 @@ Wenn man nach der germerkten Zeit noch nicht da ist, war man wohl nicht ganz ric
 Nicht schlimm, dann einfach von vorne: Anpeilen, Zeit merken, loslaufen.
 So sieht man seine Ziele, etwas von der Stadt drum herum aber schaut dabei nicht ständig auf sein Telefon.
 
-Notre Dame war dann leider nicht besonders cool. Die Gothische Kathedrale ist aktuell einfach eine Baustelle. Da ist noch eine ganze Menge Arbeit zu tun, bis dort wieder eine Messe stattfindet oder (bitte nicht!) ein König gekrönt wird.
+Notre Dame war dann leider nicht besonders cool. Die gothische Kathedrale ist aktuell einfach eine Baustelle. Da ist noch eine ganze Menge Arbeit zu tun, bis dort wieder eine Messe stattfindet oder (bitte nicht!) ein König gekrönt wird.
 Was allerdings super war, war die "Dekoration" der Baustelle. Dort haben sich einige Künstler ausgetobt, das Feuer und die Restauration in verschiedenen Stilen zu visualisieren. Leider vor Ort komplett französisch, aber ich habe dann auf dem Telefon die [englische Variante](https://www.rebatirnotredamedeparis.fr/expositionbd) gelesen.  
 
 Weiter ging es zum Hôtel de Ville, also dem Rathaus, um dort den Rest vom Camenbert zu snacken.
