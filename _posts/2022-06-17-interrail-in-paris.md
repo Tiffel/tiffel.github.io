@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interrail Tour Teil 2: 5 Tage in Paris"
+title:  "Interrail Tour Teil 2: Der erste Tag in Paris"
 ---
 
 ## Mit dem Zug von Bruxelles-Midi nach Paris-Nord
@@ -26,7 +26,7 @@ Keine Steckdosen am Platz wirkte dafür schon sehr altertümlich.
 Dafür konnte man mit einem Laptop auf dem riesigen Tisch ganz gut arbeiten. Solange der Akku eben hält.
 
  
-{% include foldergallery.html folder="2022-06-18/1" %}
+{% include foldergallery.html folder="2022-06-17/1" %}
 # Der erste Abend in Paris
 Auch für Paris hatte ich mir wieder eine Laufroute vorgeplant, um die Stadt kennenzulernen.
 Wie in Brüssel ca 12,5 km in 90 Minuten. 
@@ -39,14 +39,14 @@ Ziemlich gut bei 30 ℃ im Schatten, während man durch die Sonne läuft.
 
 Nach der Runde war aber nicht mehr viel mit mir los. Fix noch Klamotten gewaschen, aufgehängt und dann einfach mal 10 Stunden gepennt. 
 
-{% include foldergallery.html folder="2022-06-18/2" %}
+{% include foldergallery.html folder="2022-06-17/2" %}
 
 ## Paris Tag 1: Roaming the City
 Da mein Hotel direkt neben Montmartre liegt, war die Basilique du Sacré-Cœur de Montmartre nach 10 Minuten Fußweg die erste Station.
 Der Montmartre-Hügel ist dafür, dass er mitten in der Stadt liegt, ganz schön steil. Aber genau das sorgt für den beeindruckenden Anblick der Basilika.
 Den Eintritt hab ich mir an dieser Stelle mal gespart, dafür aber mit Ausblick über die Stadt gefrühstückt.
 
-Ich bin darauf hin die Rue du Mont-Cenis nach Norden vom Hügel herunter. Dort war aber, wie wohl in ganz Monmartre, um halb 10 morgens noch tote Hose.#
+Ich bin darauf hin die Rue du Mont-Cenis nach Norden vom Hügel herunter. Dort war aber, wie wohl in ganz Montmartre, um halb 10 morgens noch tote Hose.
 Da muss ich wohl nochmal wieder kommen, um die Straße und auch den Place du Tertre in belebt zu erleben.
 Ich konnte aber in einer kleinen süßen Bäckerei ein unfassbar gutes Croissant ergattern. Das ist ein bischen ähnlich zu den Pommes in Brüssel. Es ist unfassbar, wie gut so etwas schmecken kann, wenn jemand weiß was er tut.
 
@@ -66,31 +66,49 @@ Spannend gemacht, da hab ich mich locker eine Stunde mit aufgehalten.
 Nach so viel unnützem Sneaker Wissen habe ich mal wieder Großstadt Normade gespielt und im nahgelegenen Park zu Mittag gegessen. 
 Dieses mal war ich nicht allein, dort saßen sicherlich 5 weitere Menschen, die das gleiche taten.
 Vermutlich eher Locals, aber ganz absurd ist meine Idee nicht. Und der Camenbert war einfach fantastisch.
+
 Das sollte hier eigentlich kein Foodblog werden, aber ich werde nicht müde zu betonen, was es and leckeren, lokalen Lebensmitteln gibt.
 Für so einen Camenbert muss man in Deutschland vermutlich jemanden kennen, der wen kennt und dann ein Angebot machen was derjenige nicht ablehnen kann.
 In Paris geht man einfach in den Supermarkt. 
  
+Den Place de la Concorde hatte ich nicht so groß in Erinnerung.
+Da will man einfach nicht Auto fahren müssen.
+Gefühlt ist das eine Kombination aus achtspurigem Kreisel und einem Autobahnkreuz. 
+Aber der Obelisk ist echt cool, wenn man es denn schafft bei den vielen Autos mal einen ungestörten Blick darauf zu werfen.
+ 
+Nächtes Ziel: Notre Dame. Ich hatte keine Ahnung, wie weit der Wiederaufbau seit dem Feuer 2019 vorrangeschritten war. 
+Den Weg dahin habe aber ausgiebig genossen. Ein schneller Schwenk durch den Jardin des Tuileries.
+An der Seine entlang, wo ich nochmals die vielen Sportler vom Abend vorher beobachten konnte.
+Zur Île de la Cité, der Stadtinsel umgeben von der Seine.
 
-* Place de la Concorde 
-* Durch jardin de tuileries zum Sportplatz an der Seine 
-* Notre Dame
-  * cooler comic 
-* Rathaus mit snack 
-* Flasche Wein im park, Schweizer Taschenmesser
-* Belleville
-  * Rundgang
-  * Food market
-* Bier an der Seine zum abschluss
+Es macht einfach Spaß, sich in einer so schönen Umgebung durch die Stadt treiben zu lassen und in die grobe Richtung eines Ziels zu steuern.
+Die Strategie hat sich generell bewährt.
+Auf Google Maps das Ziel anpeilen, sich die Richtung und grob die Zeit merken und einfach loslaufen.
+Wenn man nach der germerkten Zeit noch nicht da ist, war man wohl nicht ganz richtig.
+Nicht schlimm, dann einfach von vorne: Anpeilen, Zeit merken, loslaufen.
+So sieht man seine Ziele, etwas von der Stadt drum herum aber schaut dabei nicht ständig auf sein Telefon.
 
-* Öffentliche Toiletten, Wasser Brunnen 
+Notre Dame war dann leider nicht besonders cool. Die Gothische Kathedrale ist aktuell einfach eine Baustelle. Da ist noch eine ganze Menge Arbeit zu tun, bis dort wieder eine Messe stattfindet oder (bitte nicht!) ein König gekrönt wird.
+Was allerdings super war, war die "Dekoration" der Baustelle. Dort haben sich einige Künstler ausgetobt, das Feuer und die Restauration in verschiedenen Stilen zu visualisieren. Leider vor Ort komplett französisch, aber ich habe dann auf dem Telefon die [englische Variante](https://www.rebatirnotredamedeparis.fr/expositionbd) gelesen.  
+
+Weiter ging es zum Hôtel de Ville, also dem Rathaus, um dort den Rest vom Camenbert zu snacken.
+Dort hab es, wie an so vielen Orten in Paris, wieder einen Frischwasserbrunnen und öffentliche Toiletten.
+Extrem beeindruckend, wie gut das in der ganzen Stadt ausgebaut ist. 
+Man kann völlig problemlos bei diesen Temperaturen deutlich über 30 ℃ den ganzen Tag unterwegs sein und ist im Prinzip immer versorgt.
+
+Am späten Nachmittag machte ich einen Rundgang durch den linken "Melting pot" von Paris, das Viertel Belleville.
+Solche Multikulti Viertel gibt es ja in jeder größeren Stadt, aber das hier war eins der beeindruckenderen.
+
+Der Parc de Belleville lud mich zu einem kalten Weißwein auf einer Bank im Schatten ein.
+Stilecht aus der Flasche, ein Glas hatte ich ganz zufällig nicht in der Tasche.
+Dafür aber mein Schweizer Taschenmesser, ohne dass hier garnichts passiert wäre. 
+Anscheinend sind Schraubverschlüsse für Wein in Frankreich noch nicht angekommen, selbst die 2 € Flasche Fusel im Supermarkt hat einen Korken.
+Höhepunkt der Belleville Tour war der mittlerweile geöffnete Streetfood Market, welcher einmal im Monat stattfindet.
+Danke an Janina für den Tipp. Dass es terminlich so gepasst hat, war ein netter Zufall. 
 
 
-{% include foldergallery.html folder="2022-06-18/3" %}
-## Paris Tag 2: Louvre
-* Frühstück im Hotel
-* Metro zum Louvre
-* 
+Zum Abschluss des Tages habe ich mich noch für eine Stunde mit einem kalten Bier in der Hand an die Seine gesetzt und bin dann glücklich und erschöpft ins Bett gefallen.
+14 Stunden auf den Beinen bei der Hitze ist doch etwas anstrengend.
+Ich muss wohl tagsüber mal etwas ruhiger machen, wenn noch etwas von den Abenden und Nächten in Paris mitbekommen will.  
 
-{% include foldergallery.html folder="2022-06-18/4" %}
-## Paris noch 3 Tage:
-folgt in nächstem Post
+{% include foldergallery.html folder="2022-06-17/3" %}
