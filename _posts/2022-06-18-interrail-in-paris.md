@@ -26,7 +26,7 @@ Keine Steckdosen am Platz wirkte dafür schon sehr altertümlich.
 Dafür konnte man mit einem Laptop auf dem riesigen Tisch ganz gut arbeiten. Solange der Akku eben hält.
 
  
-{% include foldergallery.html folder="2022-06-17/1" %}
+{% include foldergallery.html folder="2022-06-18/1" %}
 # Der erste Abend in Paris
 Auch für Paris hatte ich mir wieder eine Laufroute vorgeplant, um die Stadt kennenzulernen.
 Wie in Brüssel ca 12,5 km in 90 Minuten. 
@@ -39,7 +39,7 @@ Ziemlich gut bei 30 ℃ im Schatten, während man durch die Sonne läuft.
 
 Nach der Runde war aber nicht mehr viel mit mir los. Fix noch Klamotten gewaschen, aufgehängt und dann einfach mal 10 Stunden gepennt. 
 
-{% include foldergallery.html folder="2022-06-17/2" %}
+{% include foldergallery.html folder="2022-06-18/2" %}
 
 ## Paris Tag 1: Roaming the City
 Da mein Hotel direkt neben Montmartre liegt, war die Basilique du Sacré-Cœur de Montmartre nach 10 Minuten Fußweg die erste Station.
@@ -50,13 +50,27 @@ Ich bin darauf hin die Rue du Mont-Cenis nach Norden vom Hügel herunter. Dort w
 Da muss ich wohl nochmal wieder kommen, um die Straße und auch den Place du Tertre in belebt zu erleben.
 Ich konnte aber in einer kleinen süßen Bäckerei ein unfassbar gutes Croissant ergattern. Das ist ein bischen ähnlich zu den Pommes in Brüssel. Es ist unfassbar, wie gut so etwas schmecken kann, wenn jemand weiß was er tut.
 
-Da die Menschen also noch nicht am Start waren, fasste ich den Entschluss, mir Gebäude anzuschauen. Auf in die Metro, ganz ans andere Ende der Stadt zum Porte Dauphine, um von dort den Arc de Triomphe anzusehen. In der Pariser Metro gibt es immer zwei Ansagen der kommenden Station. Eine 20 Sekunden vor Ankunft, eine wenn die Türen aufgehen. 
+Da die Menschen also noch nicht am Start waren, fasste ich den Entschluss, mir Gebäude anzuschauen.
+Auf in die Metro, ganz ans andere Ende der Stadt zur Endstation Porte Dauphine, um sich von hinten an den Arc de Triomphe anzuschleichen.
+In der Pariser Metro gibt es immer zwei Ansagen der kommenden Station. Eine 20 Sekunden vor Ankunft, eine wenn die Türen aufgehen. 
 Mein Französisch ist wirklich nicht gut (man könnte sagen nicht existent), aber es war spannend zu hören, wie sich die beiden Ansagen in der Betonung unterscheiden. 
 
-  * Ansagen immer zwei mal mit verschiedenener Betonung
-* Triumph Bogen
-* Champs Elise runter, Nike store
-* Essen im park
+Der Triumphbogen war ganz nett anzusehen, aber eben auch genauso, wie ich ihn von meinem letzen Paris Besuch vor ca. 15 Jahren in Erinnerung habe: Groß und massiv.
+13€ für den Aufstieg fand ich aber ganz schön dreist. Dank einer Schlange von mehreren 100m Stellte sich die Frage aber auch garnicht.
+
+Ich bin darauf hin den Champs-Élysées hinunter in Richtung Place de la Concorde. Viel Touri Krams, viele Luxus Läden, soweit so bekannt.
+Ich stand leicht verwundert vor dem Louis Vuitton Store und machte mich innerlich über die Schlagestehenden Menschen lustig, als ich den Nike Flagship Store sah.
+Nicht das ich jetzt Fan der Marke war, aber dort gab es eine sehr coole Ausstellung zur 50 Jahren Nike, der Entwicklung von Sportschuhen und der Firma als Modemarke.
+Spannend gemacht, da hab ich mich locker eine Stunde mit aufgehalten.
+
+Nach so viel unnützem Sneaker Wissen habe ich mal wieder Großstadt Normade gespielt und im nahgelegenen Park zu Mittag gegessen. 
+Dieses mal war ich nicht allein, dort saßen sicherlich 5 weitere Menschen, die das gleiche taten.
+Vermutlich eher Locals, aber ganz absurd ist meine Idee nicht. Und der Camenbert war einfach fantastisch.
+Das sollte hier eigentlich kein Foodblog werden, aber ich werde nicht müde zu betonen, was es and leckeren, lokalen Lebensmitteln gibt.
+Für so einen Camenbert muss man in Deutschland vermutlich jemanden kennen, der wen kennt und dann ein Angebot machen was derjenige nicht ablehnen kann.
+In Paris geht man einfach in den Supermarkt. 
+ 
+
 * Place de la Concorde 
 * Durch jardin de tuileries zum Sportplatz an der Seine 
 * Notre Dame
@@ -71,12 +85,12 @@ Mein Französisch ist wirklich nicht gut (man könnte sagen nicht existent), abe
 * Öffentliche Toiletten, Wasser Brunnen 
 
 
-{% include foldergallery.html folder="2022-06-17/3" %}
+{% include foldergallery.html folder="2022-06-18/3" %}
 ## Paris Tag 2: Louvre
 * Frühstück im Hotel
 * Metro zum Louvre
 * 
 
-{% include foldergallery.html folder="2022-06-17/4" %}
-## Paris noch 2 Tage:
+{% include foldergallery.html folder="2022-06-18/4" %}
+## Paris noch 3 Tage:
 folgt in nächstem Post
