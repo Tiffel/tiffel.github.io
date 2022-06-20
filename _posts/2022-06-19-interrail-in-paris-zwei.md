@@ -122,7 +122,7 @@ Ziemlich cooler Spot für eine Pause. Außerdem ist die Brücke der Anfang der I
 Auf dem Weg zum Eiffelturm am Vormittag hatte ich schon eine Menge aufgebauter Technik gesehen und laute Musik am Seine Ufer gehört.
 An diesem Samstag fand das Red Bull Cliff Diving in Paris statt.
 Turmspringen in die Seine.
-Typisch für ein Red Bull so aufgezogen, dass es auch ohne irgendeine Ahnung von dem Sport eine gute Show ist.
+Typisch für ein Red Bull Event so aufgezogen, dass es auch ohne irgendeine Ahnung von dem Sport eine gute Show ist.
 Das hab ich mir bestimmt eine Stunde lang angeschaut. Gute Musik, glückliche Menschen mit guter Stimmung und ein bischen Unterhaltung.
 Wobei die Schattenplätze bei weiterhin knappen 40 Grad und keiner Wolke am Himmel begehrt waren.
 
