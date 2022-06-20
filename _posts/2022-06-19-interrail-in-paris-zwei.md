@@ -43,7 +43,7 @@ Was auch schon nicht ganz so einfach war. Die breite Masse an Menschen ist leide
 Können sie ja alle machen, aber wenn ich dann ganz vorne "dran bin", einfach mal zwei Minuten schaue ohne ein Selfie zu machen und dann darauf angesprochen werde ist das schon seltsam.  
 
 Gegen 14:30 bin ich dann aber zum Endgegner übergegangen. Die Grande Galerie im Denon Flügel, Ebene 1.
-Der beste Vergleich, der mir einfällt ist eine Circlepit. Vielleicht zu Ed Sheeran, das dürfte vom Tempo passen.
+Der beste Vergleich, der mir einfällt ist eine Circlepit. Vielleicht zu Musik von Ed Sheeran, das dürfte vom Tempo passen.
 Alles schiebt in eine Richtung, wenn man mitten drin ist, muss man einfach mitmachen.
 Wenn man gegen den Strom arbeitet, bricht man sich die Knochen.
 Wenn man es an den Rand schafft, hat man eine Chance auf selbstbestimmtes Bewegen.
@@ -74,38 +74,68 @@ So halt nicht.
 Naja, nachdem ich die Mona Lisa nicht aus der Nähe gesehen hatte ging es noch zu dem gigantisch großen Bildes von [Napoleons Krönung](https://commons.wikimedia.org/wiki/File:Jacques-Louis_David,_The_Coronation_of_Napoleon_edit.jpg).
 Ich habe ein Detail-und ein Gesamtfoto gemacht, das Bild ist einfach unglaublich groß und beeindruckend.
 
-Für das Ende gab es nur noch festzustellen, dass ich in der Sonderausstellung "Pharao der zwei Länder" einfach nur noch durchgelaufen bin, ohne wirklich noch etwas aufnunehmen.
+Für das Ende gab es nur noch festzustellen, dass ich in der Sonderausstellung "Pharao der zwei Länder" einfach nur noch durchgelaufen bin, ohne wirklich noch etwas aufzunehmen.
 Insofern ging es für mich um 16:30 nach über 6 Stunden spannenden Eindrücken erstmal zurück ins Hotel.
 
 ## Der Plan nach dem Louvre
 Eigentlich war mein Plan, nach dem Louvre eine Runde an der Seine laufen zu gehen.
 Also so richtig Training mit Tempo.
-Nicht Menschen vor Bars umrennen wie am Mittwoch.
+Nicht Menschen vor Bars ausweichen wie am Mittwoch.
 Leider hab ich einen echt doofen Anfänger Fehler gemacht.
 Am Mittwoch abend hatte ich schon einen leichten Vorboten einer Blase am Fuss gemerkt, sodass ich Donnerstag morgen mit einem Blasenpflaster losgezogen bin.
-Soweit so gut, aber eben dieses hatte sich am Frietag morgen nach dem Duschen leider verabschiedet. 
+Soweit so gut, aber eben dieses hatte sich am Freitag morgen nach dem Duschen leider verabschiedet. 
 Und ich hab es nicht gemerkt.
 
 Es hat im Louvre etwas gezwickt, aber ich hab das gekonnt ignoriert.
-Ratet, wer erstmal nicht mehr joggen geht.
-Bei dem geplanten Programm der nächsten Tage werde ich kaum einen Tag unter 30.000 Schritten auskommen.
-Insofern heißt es jetzt, jeden Tag ein Blasenpflaster drauf, und hoffen, dass das gut geht.
-Fürs abheilen ist keine Zeit.
-Und auf aufstechen, wie man es bei einer Alpinen Wanderung machen würde hab ich nur wenig Lust.
-Auch wenn ich eine sterile Nadel dabei hätte. 
-Aber das ist nur die Ultima Ratio.
-Wenn joggen sein lassen ausreicht, ist mir das wesentlich lieber. 
+Joggen ist also erstmal raus.
+Bei dem geplanten Programm der nächsten Tage werde ich kaum einen Tag unter 30.000 Schritten auskommen. Da sind kaputte Füße keine Option.
+Insofern heißt es jetzt jeden Tag ein Blasenpflaster drauf, und hoffen, dass das gut geht.
 
-{% include foldergallery.html folder="2022-06-18/1" %}
+{% include foldergallery.html folder="2022-06-19/1" %}
+
 ## Paris Tag 3: Eiffelturm und Turmspringen
-* Frühstück in Montmartre, Café Casiopée
-* Zu Fuß durch die Stadt, vorbei an weiteren Luxus Läden
-* über pont alexandre 3
-* auf den Eiffelturm
-  * Menschen die lieber den Aufzug genommen hätten und auch sollten
-  * Albern: anstehen für den Abstieg von Etage 2 zu 1.
-* einkauf, mittag auf brücke Bir Hakeim mit ausblick
-* Insel der Schwäne entlang zur Freiheitsstatue
-* Red Bull Cliff Diving
-* Ganz nett, aber bei mittlerweile 38 Grad ist man froh über Schatten, wo man nicht eng an eng steht, sondern noch ein Lüftchen weht. Daher Pause etwas weiter weg.
+Zum Frühstück ging es dieses mal ins Café Casiopée. Ganz kleiner Laden, der Inhaber macht den Kaffee dort noch selbst.
+Also hab ich in bester Hipster Manier den Laptop rausgeholt und bei Blätterteig Gebäck ein bischen am Blog getippt.
 
+Das eigentliche Ziel des Tages war aber der Eiffelturm.
+Aus Montmartre sind es ein paar Meter bis dahin, aber es ging mal wieder durch ein Viertel, was ich noch nicht kannte.
+Vorbei an Luxus Läden zur Pont Alexandre III.
+Wenn man nicht mehr weiß wohin mit der Kohle und der Dekadenz, baut man eben mal so eine Brücke.
+
+Ich hatte mir am Tag zuvor ein Onlineticket für den Aufstieg per Treppe bis auf Plattform Zwei gekauft.
+Die Fahrt nach ganz oben war vollständig ausverkauft, das Ticket mit dem Aufzug bis zur Plattform Zwei war nur noch vor Ort zu bekommen.
+Aber mir macht ein bischen Treppen laufen nichts aus, insofern war das total ok für mich.
+Es gab in der Schlange zum Ticketoffice eine Anzeige, dass man für ein Ticket mit dem Fahrstuhl ca. 90 Minuten anstehen muss. Und dannach steht man ja noch am Fahrstuhl an.
+Das haben sich tatsächlich sehr sehr viele Menschen angetan. 
+
+Der andere Effekt war aber, dass vereinzelt Leute, die weder die Treppen laufen wollten, noch von der körperlichen Fitness sollten, sich dort hoch gequält haben.
+Es sind "nur" zwei mal 350 Stufen, aber es war auch 38 ℃ warm. 
+
+Wie auch immer. Ich hab mich ca. zwei Stunden auf Turm aufgehalten und sowohl den Ausblick genossen als auch die Kontruktion begutachtet.
+Auch von 120 Metern Höhe kann man schon recht weit gucken. Sogar Sacré-Cœur in Montmartre konnte man erkennen.
+Ich musste mich nur tatsächlich ein bischen an die Höhe in Kombination mit dem recht starken Wind gewöhnen. Möglicherweise hab ich ein bischen Höhenangst? Wenn ich mich an mein letzes Mal auf dem Eiffel Turm erinnere, war mir dort sogar noch ein ganzes Stück unwohler. Diesesmal war nach ein paar Minuten aber alles ok.
+
+Zum späten Mittagessen ging es dann auf die Pont de Bir-Hakeim.
+Die Brücke ist bekannt aus Inception und einigen weiteren Filmen und man hat einfach einen mega Ausblick auf den Eiffel Turm.
+Ziemlich cooler Spot für eine Pause. Außerdem ist die Brücke der Anfang der Insel der Schwäne, auf der am anderen Ende die größte der Pariser Freiheitsstatuen steht. Immerhin ein Viertel der Größe zum New Yorker Vorbild.
+
+Auf dem Weg zum Eiffelturm am Vormittag hatte ich schon eine Menge aufgebauter Technik gesehen und laute Musik am Seine Ufer gehört.
+An diesem Samstag fand das Red Bull Cliff Diving in Paris statt.
+Turmspringen in die Seine.
+Typisch für ein Red Bull so aufgezogen, dass es auch ohne irgendeine Ahnung von dem Sport eine gute Show ist.
+Das hab ich mir bestimmt eine Stunde lang angeschaut. Gute Musik, glückliche Menschen mit guter Stimmung und ein bischen Unterhaltung.
+Wobei die Schattenplätze bei weiterhin knappen 40 Grad und keiner Wolke am Himmel begehrt waren.
+
+Nach dem Turmspringen habe ich mir noch ein bischen die Zeit vertrieben, unter anderem am Hôtel des Invalides und an der Seine.
+
+Gegen 21 Uhr mit langsam einsetzender Dunkelheit hatte ich mir dann aber einen Picknick Platz im Champ du Mars, dem Park vor dem Eiffel Turm, gesichert.
+Dort ist es üblich sich Abends, insbesondere Samstags, mit Freunden zu treffen.
+Bei Essen und Wein, teilweise Gitarren und anderen Instrumenten genießt man dann den Abend.
+
+Irgendwann beginnt der Eiffelturm an zu glimmen, und ab dann zu jeder vollen Stunde mit allem was er hat zu funkeln.
+Sehr cool anzusehen, aber inbesondere die Stimmung dort im Park ist einfach nett. Zumindest, wenn man das Glück von netten Picknick Nachbarn hat. 
+Zwischen zwei Eintracht Frankfurt Ultras und einem kreischenden Jungesellinen Abschied musste ich dann irgendwann mal fliehen und mir einen anderen Platz suchen :)
+
+<video width='50%' preload='metadata' controls> <source src='/assets/eiffelturm.mp4' type='video/mp4'/> </video>
+
+{% include foldergallery.html folder="2022-06-19/2" %}
