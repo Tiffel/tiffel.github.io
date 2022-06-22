@@ -124,7 +124,7 @@ An diesem Samstag fand das Red Bull Cliff Diving in Paris statt.
 Turmspringen in die Seine.
 Typisch für ein Red Bull Event so aufgezogen, dass es auch ohne irgendeine Ahnung von dem Sport eine gute Show ist.
 Das hab ich mir bestimmt eine Stunde lang angeschaut. Gute Musik, glückliche Menschen mit guter Stimmung und ein bischen Unterhaltung.
-Wobei die Schattenplätze bei weiterhin knappen 40 Grad und keiner Wolke am Himmel begehrt waren.
+Wobei die Schattenplätze bei weiterhin knappen 40℃ und keiner Wolke am Himmel begehrt waren.
 
 Nach dem Turmspringen habe ich mir noch ein bischen die Zeit vertrieben, unter anderem am Hôtel des Invalides und an der Seine.
 

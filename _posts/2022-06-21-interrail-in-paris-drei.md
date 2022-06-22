@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  "Interrail Tour Teil 2: Paris 3"
+title:  "Interrail Tour Teil 2: Weitere zwei Tage in Paris"
 ---
 
-## Paris Tag 4: Buch lesen im Park, Montmartre mit Menschen 
+## Paris Tag 4: Buch lesen im Parc des Buttes-Chaumont, Belebtes Montmartre 
 Nachdem doch etwas längeren Abend vorm Eiffelturm mit einer zweiten Flasche Wein begann dieser Tag erstmal mit ausschlafen.
 Gegen 11 machte ich mich dann aber doch mit der Metro auf den Weg zum Parc des Buttes-Chaumont und besorgte auf dem auf dem Weg noch Brunch.
-Ich hab einen regulären Park erwartet und mich gewundert, warum gerade dieser Park mir empfohlen worde.
+Ich hab einen regulären Park erwartet und mich gewundert, warum gerade dieser Park mir empfohlen wurde.
 
-Ich glaube ich habe noch nie einen so schönen Park mitten in der Stadt erlebt. Hügelig, verwinkelt, ein See um einen Berg inklusive Aussichtspunkt.
+Ich glaube ich habe noch nie einen so schönen Park mitten in der Stadt erlebt. Hügelig, verwinkelt, ein See um einen Berg inklusive Aussichtspunkt. 
+Super Sauber, mehrere kleinere Restaurants, mehr als genug Wasserspender und Toiletten. 
 Wenn man sich einen Park zum vergammeln eines ganzen Tages aussuchen kann, dann ist es genau dieser.
 Was ich im Prinzip auch getan habe.
 Vier Stunden in meinem Buch gelesen, dabei hin und wieder die Position gewechelt und noch eine Ecke vom Park erkundet.
@@ -35,19 +36,18 @@ Mein Buch (Homo Deus von Yuval Noah Harari) hatte mich doch ganz schön gefessel
 {% include foldergallery.html folder="2022-06-21/1" %}
 
 ## Paris Tag 5
-* packen, auschecken, gepäck im hotel deponieren
-* kalt, nur 20 grad und windig
-* durchs viertel Porte-Saint-Denis gelaufen, nochmals die lokalen bäcker überprüft. jap, auch hier sind sie gut
-* drei stunden unmotiviert und ziellos durch die gegend
-* abstecher zum centre pompidou
-* ruhige ecke gesucht, weiter buch lesen
+Nachdem ich meinen Rucksack gepackt, im Hotel deponiert und ausgecheckt hatte, machte ich mich relativ ziellos auf den Weg.
+Es waren nur noch 20°C und es war windig. Im Vergleich zu den extrem warmen Tagen vorher habe ich selbst in Pullover etwas gefroren.
 
+Ich bin dann durchs Viertel Porte-Saint-Denis gelaufen. Soweit so nett. Und ja, auch dort können die Bäcker gutes Zeuchs aus Blätterteig machen. 
+Aber alles in allem war ich unmotiviert, eigentlich mit Paris durch und irgendwie müde bzw. nicht so gut drauf.
+Nachdem ich am Centre Pompidou vorbei bin hab ich mir eine ruhige Ecke gesucht und wieder in meinem Buch gelesen. Komischer Tag.
 
-* gepäck aus dem hotel,
-* auf zum Gare de Paris-Austerlitz. unbedeutenster fernbahnhof von paris, aber der mit den Intercités de nuit
-, also nachtzügen in Richtung der Mittelmeerküste oder der Alpen.
+Gegen 6 habe ich dann mein Gepäck aus dem Hotel geholt. Mein Kopfhörer mit lauter Musik auf den Ohren und die aufziehende Wolkendecke sorgte auf einmal wieder für Motivation und so ich bin trotz dem schweren Rucksack nochmal mit orgendlichem Tempo zu Fuß durch die halbe Stadt.
+Der Place de la Bastille hat sich nochmals sehr gelohnt, ansonsten gab es vereinzelt nette Street Art zu beobachten.
+
+Ich hab dann nur noch fix Verpflegung eingekauft und bin zum Gare de Paris-Austerlitz. 
+Das ist der unbedeutenste der vier Fernbahnhöfe von Paris.
+Aber eben der, an dem um kurz vor 9 mein Intercity de nuit fahren sollte. Und ich wollte ja über Nacht in die Alpen.
 
 {% include foldergallery.html folder="2022-06-21/2" %}
-
-## Nachtzug nach Briacon
-*  
