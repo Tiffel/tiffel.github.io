@@ -4,16 +4,50 @@ title:  "Interrail Tour Teil 2: Paris 3"
 ---
 
 ## Paris Tag 4: Buch lesen im Park, Montmartre mit Menschen 
-* Ausgeschlafen
-* Parc des Buttes-Chaumont, auf dem Weg frühstück/mittag besorgt
-* Wunderschön
-* 4 stunden buch gelesen
-* hotel, buch wegbringen
-* Montmartre neue Runde. 
-  * Abendessen in Carotte bleu
-  * Nochmal an sacre ceur vorbei. Musiker mit gemischter Auswahl, aber gut 
-  * Place du Tertre. super schön crepes
-  * Rue du Mont-Cenis auf mnit vielen menschen nicht so beeindruckend. aber das viertel ist schön
-* um 8 im Hotel, weiter buch lesen, weil so spannend
+Nachdem doch etwas längeren Abend vorm Eiffelturm mit einer zweiten Flasche Wein begann dieser Tag erstmal mit ausschlafen.
+Gegen 11 machte ich mich dann aber doch mit der Metro auf den Weg zum Parc des Buttes-Chaumont und besorgte auf dem auf dem Weg noch Brunch.
+Ich hab einen regulären Park erwartet und mich gewundert, warum gerade dieser Park mir empfohlen worde.
+
+Ich glaube ich habe noch nie einen so schönen Park mitten in der Stadt erlebt. Hügelig, verwinkelt, ein See um einen Berg inklusive Aussichtspunkt.
+Wenn man sich einen Park zum vergammeln eines ganzen Tages aussuchen kann, dann ist es genau dieser.
+Was ich im Prinzip auch getan habe.
+Vier Stunden in meinem Buch gelesen, dabei hin und wieder die Position gewechelt und noch eine Ecke vom Park erkundet.
+
+Nach einem kurzen Abstecher ins Hotel um das Buch weg zu bringen machte ich mich auf nach Montmatre.
+Einerseits zum Abendessen, andererseits um das Viertel nochmals in belebt zu erleben.
+Die Entscheidung, mich um kurz vor 6 schon in die Bar Carotte Bleu zu setzen war genau richtig.
+Ich war der einzige Gast und konnte mich mit dem Inhaber unterhalten.
+Anscheinend einer der wenigen Menschen in Paris, die freiwillig und gut Englisch sprechen. 
+Mir wurde empfohlen, nochmals bei Sacré-Cœur vorbeizuschauen, weil dort abends oft gute Live Musik sei.
+
+Nach dem leckeren Essen machte ich mich also auf den Weg zum Place du Tetre mit kleinem Umweg über die Kathedrale.
+Über die Qualität der Musik kann man sich wohl streiten, aber zumindest gab es dort ein Gitarre/Kachon Duo.
+Welches relativ schmerzfrei von "Country Roads" in der Schlagervariation zu einer wirklich gute gemachten Interpretation von "Aïcha" sprang.
+Der Crowd war wohl beides recht, es wurde mitgesungen und getrunken. Sympathisch!
+
+Der Künstlerplatz bzw. die ganze Gegend um den Place du Tertre war belebt mit Menschen, aber nicht mehr so absurd voll wie erwartet.
+Abendessen und den Besuch zu tauschen war wohl richtig.
+Ich schaute mir zwei spannende Galerien an, auch die Straßenmaler waren beeindruckend. Und dem typischen Touri Krams wie Kühlschrankmagneten und Schlüsselanhängern ausweichen bekommt man hin. 
+
+Ich gönnte mir noch einen Crêpe zum Nachtisch, bin dann aber auch gegen 9 wieder ins Hotel.
+Mein Buch (Homo Deus von Yuval Noah Harari) hatte mich doch ganz schön gefesselt.
+
+{% include foldergallery.html folder="2022-06-21/1" %}
+
+## Paris Tag 5
+* packen, auschecken, gepäck im hotel deponieren
+* kalt, nur 20 grad und windig
+* durchs viertel Porte-Saint-Denis gelaufen, nochmals die lokalen bäcker überprüft. jap, auch hier sind sie gut
+* drei stunden unmotiviert und ziellos durch die gegend
+* abstecher zum centre pompidou
+* ruhige ecke gesucht, weiter buch lesen
 
 
+* gepäck aus dem hotel,
+* auf zum Gare de Paris-Austerlitz. unbedeutenster fernbahnhof von paris, aber der mit den Intercités de nuit
+, also nachtzügen in Richtung der Mittelmeerküste oder der Alpen.
+
+{% include foldergallery.html folder="2022-06-21/2" %}
+
+## Nachtzug nach Briacon
+*  
