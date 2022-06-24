@@ -33,7 +33,8 @@ Vermutlich ist das liegen parallel zu den Achsen, entsprechend mit Beschleunigun
 Ich bin sehr gespannt, wie man im Zug der ÖBB von Rom nach Wien liegt und wie es sich dann anfühlt. 
 
 Morgens um 5 begann der Zug mit den ersten Halts, für mich war dann auch irgendwie die Nacht vorbei.
-Als es hell wurde, hab ich mich auf den Gang vor das Abteil gestellt und die Landschaft beobachtet.
+So richtig erhohlt war ich nicht, waren ja nur 5 Stunden, und die hab ich nichtmal durchgeschlafen.
+Als es dann hell wurde, hab ich mich auf den Gang vor das Abteil gestellt und die Landschaft beobachtet.
 
 Nach 7 Tagen Großstadtjungel auf einmal in den Alpen zu sein und Berge zu sehen war schon ein großartiges Gefühl.
 Ich kann jedem empfehlen, diesen Nachtzug aus Paris nach Briançon zu fahren.
@@ -42,7 +43,8 @@ Das Zugfahren ist cool, aber in den Alpen aufzuwachen ist schwer zu beschreiben,
 {% include foldergallery.html folder="2022-06-23/1" %}
 
 ## Die Berge der Umgebung erkunden
-Vom Bahnhof bin ich nur schnell ins Hotel, den Rucksack abstellen und dann gleich los, die Umgebung erkunden.
+Vom Bahnhof bin ich morgens um halb 9 nur schnell ins Hotel, den Rucksack abstellen und dann gleich los, die Umgebung erkunden.
+Bis zum Checkin waren ja noch einige Stunden Zeit.
 
 Dadurch, dass das Briançon historisch irgendwie immer irgendwie Grenzstadt war, ist es schwer befestigt.
 Mehrere Forts in den Bergen drum herum, die Altstadt ist eine Festung für sich.
@@ -50,8 +52,9 @@ Die Berge drum herum hatte ich mir zur Erkundung vorgenommen, nach 12 Stunden im
 
 Ich bin 4 Stunden durch die Gegend gewandert und hab dabei unabsichtlich schonmal ein paar Höhenmeter gemacht.
 Schöne Gegend, sich durch die alten Militäranlagen zu schlagen war echt cool.
-Reingeschafft in Fort des Têtes oder ins noch höher gelegende Fort du Randouillet hab ich es nicht.
+Reingeschafft in Fort des Têtes oder ins noch höher gelegende Fort du Randouillet hab ich es aber leider nicht.
 Das lag jeweils nicht am Schild "Militärisches Sperrgebiet", sondern daran, dass physische Befestigung mit Gräben und Mauern tatsächlich funktioniert.
+Und auf verrücktes Klettern hatte ich nicht so große Lust.
 
 Ich traf zwischen den beiden Forts einen netten Einheimischen, der eigentlich aus Schottland stammte und Lehrer war.
 Die erste vernünftige englische Konversation seit Brüssel :)
@@ -60,16 +63,21 @@ Die erste vernünftige englische Konversation seit Brüssel :)
 ist ein Satz, der mir in starkem schottischen Akzent in Erinnerung bleiben wird.
 
 Ich bekam den Tipp, den Rückweg etwas anders zu gehen als den Hinweg und mir die Pont d'Asfeld anzusehen.
-Was eine schöne Brücke über ein richtig tiefes Tal. Und durch die historische Altstadt bin ich auch noch einmal durch.
+Was eine schöne Brücke über ein richtig tiefes Tal.
+Und durch die historische Altstadt bin ich auch noch einmal durch.
 Eine wirklich schöne kleine Stadt.
 Die, wie ich später erfahren sollte, häufig Etappenstart und -ende der Tour de France ist.
 Und auch schon einige Male die erste Etappe gastgegeben hat.
 
-Um 3 bin ich dann ins Hotel, einchecken und duschen. Nach der Nacht im Zug und der Wanderung durch die Berge bei ganz gut Sonne, war das unbedingt nötig.
-Ich bin dann nochmal raus zum Abendessen und ein wenig die Innenstadt erkunden, aber der Tag war dann auch vorbei.
+Um 3 bin ich dann nach einem kleinen Snack aus dem lokalen Supermacht ins Hotel, einchecken und duschen.
+Nach der Nacht im Zug und der Wanderung durch die Berge bei ganz gut Sonne war das unbedingt nötig.
+Ich hab mich dann eine Stunde hingelegt und bin dann zum Abendessen und ein wenig die Innenstadt erkunden nochmal raus.
+Ganz viel passiert ist da aber nicht mehr.
 
-Am nächsten Tag war um 06:30 aufstehen angesagt. Ich wollte um 7 beim Frühstück sein und um 7:30 starten.
-Laut Komoot sollte die 12,5km Wanderung von Briançon nach Claviere 3:15 Stunden dauert. Um 11:15 sollte der einzige Bus nach Oulx fahren, mit dem ich noch per Zug am Abend bis Venedig kommen sollte. Also um halb 8 los, um eine halbe Stunde puffer zu haben.
+Am nächsten Tag war um 06:30 aufstehen angesagt, ich wollte um 7 beim Frühstück sein.
+Laut Komoot sollte die 12,5km Wanderung von Briançon nach Claviere 3:15 Stunden dauern.
+Und um 11:15 sollte der einzige Bus von Claviere nach Oulx fahren, mit dem ich noch die Züge erreichen würde um abends bis Venedig zu kommen.
+Also um halb 8 los, um eine halbe Stunde Puffer zu haben.
 
 {% include foldergallery.html folder="2022-06-23/2" %}
 
@@ -89,12 +97,12 @@ Das Wasser vom Oberkörper muss ja irgendwohin, insofern war klar, dass die Ober
 
 Viel schlimmer waren aber die falschen Schuhe. Ich bin ja die ganze Tour nur in meinen Laufschuhen unterwegs, weil ich kein zweites Paar mitnehmen wollte.
 Klar, eine Paar Wanderschuhe mit steifer Sohle und Profil wäre an einigen Stellen nett gewesen. Aber das ging schon so.
-Die Laufschuhe wareni aber, wie leider beim frühstück schon erwartet, nach nur einer halben Stunde komplett durchnässt.
+Die Laufschuhe waren aber, wie leider beim Frühstück schon erwartet, nach nur einer halben Stunde komplett durchnässt.
 Also musste ich im Prinzip die gesamte Wanderung mit klatschnassen Füßen durchziehen.
 Sowas geht am besten, wenn man keine Pause macht, denn sobald man stehen bleibt wirds kalt und ekelig.
 
 Es ist wirklich beeindrucken, was Regen, Kälte, Nebel und Zeitdruck mit der Motivation machen. Klar, ich musste mich erst durchringen, überhaupt zu starten.
-Aber dann bin ich knapp 14km in zweieinhalb Stunden gelaufen. Waren wohl noch ein oder zwei Umwege drin. 
+Aber dann bin ich knapp 14km bergauf in zweieinhalb Stunden gelaufen. Waren wohl noch ein oder zwei Umwege drin. 
 
 Der Weg war richtig Steil.
 Im Durchschnitt 5,5% Steigung bedeutet, dass man nicht nur durchgehend Bergauf geht. 
@@ -111,9 +119,9 @@ Dass ich jetzt in Claviere, Italien etwas mehr als eine Stunde Zeit hatte, war a
 Ich habe in dem kleinen, relativ ausgestorbenen Ski Ort ein geöffnetes Café gefunden.
 Italiener sind so unglaublich herzlich.
 Ich hab mich nett unterhalten, zwei Espresso getrunken, abgetrocknet, aufgewärt und ein frisches Shirt angezogen.
-Und nebenbei den interessieren zwei Angestellten und drei weiteren Dorfbewohnern die Geschickte meiner Wanderung erzählt.
+Und nebenbei den interessierten zwei Angestellten und drei weiteren Dorfbewohnern die Geschickte meiner Wanderung erzählt.
 
-Das der Kaffee in Italien lecker und günstig ist, ist ja gekannt. 
+Das der Kaffee in Italien lecker und günstig ist, ist ja bekannt. 
 Aber dass ich darum streiten musste, ihn überhaupt bezahlen zu dürfen, weil wir uns so nett unterhalten hatten, war mir neu.
 Tolles Erlebniss nach der ganze Großstadt Anonymität der Tage davor.
 
@@ -123,7 +131,9 @@ Nun hang ja von diesem Bus ab, ob ich es abends bis Venedig schaffen würde, ode
 
 Also stand ich da, es wurde 15 nach, 20 nach, 25 und kein Bus in Sicht.
 Für eine spontane Wanderung 17km nach Oulx hatte ich zulange im Café gesessen, das war nicht mehr zu schaffen.
-Gab es Taxis? Google hat mir nicht helfen können. Vielleicht hätte ich einen er Menschen aus dem Café bitten können, mich zu fahren?
+Gab es Taxis? Google hat mir nicht helfen können.
+
+Vielleicht hätte ich einen er Menschen aus dem Café bitten können, mich zu fahren?
 Viele Gedanken und leichte Panik, aber letzlich kam der Bus dann, knapp 20 Minuten zu spät, doch noch.
 
 Nachdem ich dann leicht verspätet in Oulx angekommen war, hatte ich auch dort noch eine Stunde bis zum Zug.
