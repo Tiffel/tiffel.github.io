@@ -4,7 +4,7 @@ title:  "Interrail Tour Teil 3: Ein Abenteuer durch die Alpen nach Venedig"
 ---
 
 ## Mit dem Nachtzug in die Alpen nach Briançon
-Anscheinend ist es in Frankreich üblich, dass Gleis des abfahrenden Zuges erst 15 Minuten vor dem geplanten Zeitpunkt anzuzeigen?
+Anscheinend ist es in Frankreich üblich, das Gleis des abfahrenden Zuges erst 15 Minuten vor dem geplanten Zeitpunkt anzuzeigen?
 Fand ich etwas seltsam, beim Nachtzug waren es immerhin 30 Minuten.
 Denn jeder Mensch, der ein valides Ticket hatte musste sich vorweg am Beginn des Bahnsteigs erstmal ein "Festivalarmband" abholen.
 Den Sinn habe ich nicht ganz verstanden, man hätte die Leute auch nach der Kontrolle einfach auf den Bahnsteig gehen lassen können.
@@ -69,7 +69,7 @@ Eine wirklich schöne kleine Stadt.
 Die, wie ich später erfahren sollte, häufig Etappenstart und -ende der Tour de France ist.
 Und auch schon einige Male die erste Etappe gastgegeben hat.
 
-Um 3 bin ich dann nach einem kleinen Snack aus dem lokalen Supermacht ins Hotel, einchecken und duschen.
+Um 3 bin ich dann nach einem kleinen Snack aus dem lokalen Supermarkt ins Hotel, einchecken und duschen.
 Nach der Nacht im Zug und der Wanderung durch die Berge bei ganz gut Sonne war das unbedingt nötig.
 Ich hab mich dann eine Stunde hingelegt und bin dann zum Abendessen und ein wenig die Innenstadt erkunden nochmal raus.
 Ganz viel passiert ist da aber nicht mehr.
@@ -81,10 +81,10 @@ Also um halb 8 los, um eine halbe Stunde Puffer zu haben.
 
 {% include foldergallery.html folder="2022-06-23/2" %}
 
-## Durch den strömenden Regen nach Italien
-Nachdem ich aufgewacht war, kam der erste moralische Rückschlag des Tages.
+## Durch strömenden Regen nach Italien
+Nachdem ich aufgewacht war, hatte ich den ersten moralischen Rückschlag des Tages.
 Aus den angekündigten wenigen Regentropfen war über Nacht starker Dauerregen geworden.
-Und die Vorhersage sah auch bis zum Mittag nicht gut aus.
+Und die Vorhersage sah bis zum Mittag nicht nach Besserung aus.
 Ich habe ernsthaft kurz überlegt, ein Taxi zu nehmen, konnte mich dann aber doch durchringen zu wandern.
 
 Nach dem echt leckeren Frühstück im Hotel ging es los.
@@ -108,7 +108,7 @@ Der Weg war richtig Steil.
 Im Durchschnitt 5,5% Steigung bedeutet, dass man nicht nur durchgehend Bergauf geht. 
 Sondern dass man nach einem Stück mit 10% Steigung, und davon gab es einige, auch nur ein paar Meter mit geringer Steigung hat, bevor es wieder richtig rauf geht.
 Ganz schön krasse Wanderung, aber ich kann mir merken, dass mein Bergauf Tempo, was in verschiedensten Wanderurlauben schon als hoch bezeichnet wurde, wirklich fix ist.
-Ich hätte mal meinen Pulsgurt ummachen sollen, aber da hatte ich morgens nicht dran gedacht.
+Ich hätte mal meinen Pulsgurt ummachen sollen, aber daran hatte ich morgens nicht gedacht.
 
 Was ich mir aber merken werde, ist in Komoot das Fitness Level beim Wandern von "Athletic" auf das Maximum "Pro" zu stellen.
 Dann hätten die zweieinhalb Stunden (für 12,5km) auch gepasst.	 
@@ -116,7 +116,7 @@ Dann hätten die zweieinhalb Stunden (für 12,5km) auch gepasst.
 [![Wanderung](/assets/wanderung_fr_it.png)](https://www.strava.com/activities/7349119635)
 
 Dass ich jetzt in Claviere, Italien etwas mehr als eine Stunde Zeit hatte, war aber echt gut.
-Ich habe in dem kleinen, relativ ausgestorbenen Ski Ort ein geöffnetes Café gefunden.
+Ich habe in dem kleinen, relativ ausgestorbenen Skiort ein geöffnetes Café gefunden.
 Italiener sind so unglaublich herzlich.
 Ich hab mich nett unterhalten, zwei Espresso getrunken, abgetrocknet, aufgewärt und ein frisches Shirt angezogen.
 Und nebenbei den interessierten zwei Angestellten und drei weiteren Dorfbewohnern die Geschickte meiner Wanderung erzählt.
@@ -133,10 +133,10 @@ Also stand ich da, es wurde 15 nach, 20 nach, 25 und kein Bus in Sicht.
 Für eine spontane Wanderung 17km nach Oulx hatte ich zulange im Café gesessen, das war nicht mehr zu schaffen.
 Gab es Taxis? Google hat mir nicht helfen können.
 
-Vielleicht hätte ich einen er Menschen aus dem Café bitten können, mich zu fahren?
+Vielleicht hätte ich einen der Menschen aus dem Café bitten können, mich zu fahren?
 Viele Gedanken und leichte Panik, aber letzlich kam der Bus dann, knapp 20 Minuten zu spät, doch noch.
 
 Nachdem ich dann leicht verspätet in Oulx angekommen war, hatte ich auch dort noch eine Stunde bis zum Zug.
-Die hab ich aufm dem einsamen Bahnsteig genutzt, um meinen Rucksack einmal auszuräumen und alles, was nass war zu trocknen.
+Die hab ich auf dem einsamen Bahnsteig genutzt, um meinen Rucksack einmal auszuräumen und alles, was nass war zu trocknen.
 
 {% include foldergallery.html folder="2022-06-23/3" %}
