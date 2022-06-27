@@ -29,7 +29,7 @@ Und wenn man dann 2 Minuten vom Gleis läuft, steht man direkt am großen Kanal,
 Eigentlich ein ganz netter Start für den Venedig Besuch.
 
 Nach dem Checkin ins Hotel am späten Nachtmittag und einem schnellen Einkauf bin ich in ein Restaurant um die Ecke.
-Einerseits, weil ich Lust auf italienische Küche, anderersetits auf Essen gehen hatte.
+Einerseits, weil ich Lust auf italienische Küche, andererseits auf Essengehen hatte.
 Ich war doch verwundert, wie teuer doch alles ist. 
 Und dabei war ich jetzt nicht direkt neben einer Sehenswürdigkeit, sondern eben neben dem Hotel.
 Aber immerhin war es ganz ok, wenn auch nicht die beste Pizza der Welt.
@@ -50,7 +50,7 @@ Das war echt witzig.
 ## Tag 1
 
 Ich machte mich morgens auf zur nächsten Erkundungstour mit dem groben Ziel, irgendwann am Piazza San Marco anzukommen.
-Mit einem groben Ziel durch die Gegend laufen führt leider in Venedig nicht besondert weit.
+Mit einem groben Ziel durch die Gegend laufen bringt einem leider in Venedig nicht besonders weit.
 Durch die vielen kleinen Gassen sieht man einfach garnichts, bis man direkt davor steht.
 Und ansonsten verliert man durch die vielen Ecken, Wendungen, Brücken auch einfach mal die Orientierung.
 Ja, es gibt auf jeder Insel einen Platz, aber selbst den findet man nicht immer einfach so.
@@ -81,7 +81,7 @@ Und ansonsten soll man für jeden Raum, kleiner als meine Wohnung aber 3 Säulen
 {% include foldergallery.html folder="2022-06-26/3" %}
 
 ## Tag 2
-Nachdem Tag 1 ja nicht so erfolgreich für mich war, hatte ich auf der nördlichsten Insel, die per Brücke zu erreichen ist, einen kleinen Park aufgetan.
+Nachdem Tag 1 ja nicht so erfolgreich für mich war, hatte ich auf der nördlichsten Insel die per Brücke zu erreichen ist, einen kleinen Park aufgetan.
 Dort konnte ich in Ruhe, entfernt von den Menschenmassen am Vormittag in meinem Buch lesen. 
 
 Ich habe kurz überlegt, die überteuerten Wasserbusse zu benutzen.
