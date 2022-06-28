@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: README.md
 layout: page
 published: true
 ---
