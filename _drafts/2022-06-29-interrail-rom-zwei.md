@@ -16,7 +16,7 @@ hotel, hitze entgehen. kurz gepennt, gelesen
 fürs abendessen nochmal raus zu pizzaria um die ecke.
 nochmal raus für die geilste pizza bisher um die ecke für 6 euro to go. mit noch nem sekt!
 
-{% include foldergallery.html folder="2022-06-28/3" %}
+{% include foldergallery.html folder="2022-06-29/1" %}
 
 ## Tag 4: Vatikanische Museen
 Metro genommenm, weil Frühstück. funktioniert wie in london mit kreidtkarte
@@ -46,3 +46,4 @@ Plan an den strand. spontan wegen faulheit verworfen. mittagessen war geil, aber
 Nachmittag im Hotel bei Klimaanlage vergammelt. 40 Grad geht halt auf die Substanz.
 
 
+{% include foldergallery.html folder="2022-06-29/2" %}
