@@ -4,18 +4,21 @@ title:  "Interrail Tour Teil 5: Die ersten zwei Tage in Rom"
 ---
 
 ## Mit dem Zug von Venezia Santa Lucia nach Roma Termini
-nicht viel spannendes zu berichten, der gleiche zug wir von turin nach venedig
+Hier gibt es nichts spannendes zu berichten. Ich fuhr wieder in einem Frecciarossa 1000 der Trenitalia, genau wie von Turin nach Venedig.
 
-
-{% include foldergallery.html folder="2022-06-28/1" %}
+{% include foldergallery.html folder="2022-06-27/1" %}
 
 ## Der erste Nachmittag und Abend
 Idee: Mal ganz schnell zum Petersdoom und da hoch.+
 well: messe :(
 
+Am Pantheon vorbei
+
+Am Pantheon vorbei
+
 Basics, Umgebung erkunden, wo es Nahrung gibt
 
-{% include foldergallery.html folder="2022-06-28/2" %}
+{% include foldergallery.html folder="2022-06-27/2" %}
 
 ## Tag 2 - Alles mögliche Anschauen
 * Petersdom verschlafen
@@ -35,4 +38,4 @@ Basics, Umgebung erkunden, wo es Nahrung gibt
 * Leichte Eskalation, gute und schlechte Musiker auf der Straße
 * Brunnen bei Nacht kannnix
 
-{% include foldergallery.html folder="2022-06-28/3" %}
+{% include foldergallery.html folder="2022-06-27/3" %}
