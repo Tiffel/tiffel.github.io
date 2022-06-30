@@ -3,7 +3,7 @@ layout: post
 title:  "Interrail Tour Teil 5: Castel Sant'Angelo, Strand und Basilica Sancti Petri in Vaticano"
 ---
 
-## Tag 5: Petersdom Fail, Engelsburg, Strand,
+## Tag 5: Petersdom Fail, Engelsburg, Strand
 Morgens um 6 pennende Menschen in der U-Bahn 
 Halb 7 dort. Noch kein Einlass, ein paar wenige Menschen warten 
 10 vor geht das Gedrängel am Einlass los
@@ -33,6 +33,21 @@ Rückweg im Zug wieder fast ok stehen einpennen
 {% include foldergallery.html folder="2022-07-01/1" %}
 
 ## Tag 4: Petersdom Versuch 3 
-TODO
+8 Uhr vor Ort 
+Schlange nichtmal bis zum Ende des Holz Labyrinths
+20 nach durch die security
+Null Schlange für Kuppel mit Stufen 551
+Menschen die auf dem Weg nach oben fast sterben 
+Basilica beeindruckend, aber wenn man mit dem religiösen nix am Hut hat, ist man schnell durch. 9:45 fertig 
+Schlange ca. 50 Meter länger also bei mir 
+Frühstück in tre... Das Viertel hat es mi angetan, wenn auch nicht ganz so wie Montmartre 
+Auf dem Weg zum circo massimo beutel kaputt, decathlon um die Ecke 
+Circo massimo eher nicht so beeindruckend.
+Und dafür dass man alles von außen sehen kann 5 Euro Eintritt? Äh, ne
+Mittagessen in Seiten Gasse. Bruchetta, 0.5L Hauswein, Lasagne für 12€. Mega!
+Gepäck holen,
+45 Minuten laufen um in den Park setzen. Bei 35 Grad im. Schatten und laufen durch die Sonne Schlauch der Rucksack 
+Bloggen, dösen, ein bißchen Schatten. 
+In richtung bahnhof
 
 {% include foldergallery.html folder="2022-07-01/2" %}
