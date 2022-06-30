@@ -18,7 +18,7 @@ Man kann den Menschen gut aus dem Weg gehen, man kann auch nach eigenem Ermessen
 Denn viele Menschen, die sich Dinge anschauen wollen, überraschen ja nun nicht.
 
 Auf dem Weg passierte ich den Piazza Venezia mit ihrem Altare della Patria.
-Ganz schön beeindruckendes Gebäude, und vorallem eins der wenigen (mir bekannten) in Rom ohne Bezug zur Kirche.
+Ganz schön beeindruckendes Gebäude, und vorallem eins der wenigen (mir bekannten) in Rom ohne Bezug zur Kircheund zur Antike.
 
 Weiter auf dem Weg zum Petersplatz ging es natürlich über den Tiber, wobei man von der Brücke aus Castel Sant'Angelo (Engelsburg) sehen konnte. 
 Die Festung steht auf der Liste von Dingen, in die ich unbedingt in Rom rein muss.
@@ -42,12 +42,12 @@ Die Franzosen machen zwar die besseren Croissants, aber die Italiener den besser
 Eine der sehr netten Aspekte in Italien ist, dass es einen Espresso egal wo für grob einen Euro gibt.
 Unrühmliche Ausnahme ist der Freizeitpark Venedig. Aber da will ich auch nicht wieder hin.
 
-Ich ließ mich also mal wieder ohne Ziel durch die Gegend treiben, ganz grob die Spanische Treppe anvisiert.
+Ich ließ mich also mal wieder ohne Ziel durch die Gegend treiben, ganz grob die Spanische Treppe anvisierend.
 Auf dem Weg dahin bin ich in die Basilica di Santa Maria Maggiore, die mir gänzlich unbekannt, aber trotzdem relativ beeindruckend war.
 An der Spanischen Treppe war die Hölle los, für das eine Foto mit "wenig" Menschen drauf hab ich eine Viertelstunde gebraucht. 
 Krass viele Menschen.
 
-Dafür war der Park um die Ecke super nett. Schöne Ecke, die offensichtlich nicht so viele Menschen kennen.
+Dafür war der Park um die Ecke super nett. Schöne Ecke, die offensichtlich nicht jeder kennt.
 
 Ich bin dann dannach zum berühmten Fontana di Trevi. Ja, sollte man mal gesehen haben.
 Aber eigentlich sieht man Menschen die ihre Kameras und Mobiltelefone mal schlechter, mal erträglich bedienen.
@@ -73,20 +73,28 @@ Man konnte sie im Museeum aus kleineren Hölzern selbst nachbauen.
 War garnicht so einfach, hat mich bestimmt 5 Minuten und unzähliche Blicke zum Exponat der Brücke gekostet, mir aber die zustimmenden Blicke der anwesenden Kinder gesichert :)
 
 Dannach bin ich aus zwei Gründen zurück ins Hotel.
-Es waren einersatz knapp 40°C und andererseits mein Telefon war fast alle. Hatte wohl das Laden übernacht irgendwie versaut.
+Es waren einerseits knapp 40°C und andererseits war mein Telefon fast alle. Hatte wohl das Laden übernacht irgendwie versaut.
 Angekommen im Hotel bei Schatten und Klimaanlage hab ich mich dann tatsächlich dazu enschieden, den Film Angels & Demons zu schauen.
 Ich hab das Buch (deutsche Fassung: Illuminati) vor Ewigkeiten mal gelesen, es spielt einfach mal in Rom bei den ganzen Gebäuden, an denen ich vorbei laufe.
+Und einmal im kühlen war die Motivation zurück in die Hitze auch einfach weg.
 
-Außerdem hab ich im Hotel nebenbei noch meinen Valheim Server repariert, weil ich einerseits auf dem Telefon meinen SSH Key nicht dabei hatte, andererseits Fehler in Crontab doch eher mit ner richtigen Konsole löse.
+Außerdem hab ich im Hotel nebenbei noch meinen Valheim Server repariert, weil ich auf dem Telefon meinen SSH Key nicht dabei hatte.
+Und Fehler in Crontab löst man doch lieber mit ner richtigen Konsole.
 Grüße gehen raus an Sören, ich hoffe Yagluth liegt.
 
 Nach dieser Pause im Kühlen ging es zum Abendessen in den Stadtteil Trastevere.
 Für römische Verhältnisse ein sehr progressiver Stadtteil.
+Also viele junge Menschen, die mit nem Bier/Wein in der Hand durch die Gegend laufen, Straßenmusiker, Streetart.
 Vorallem gibt es dort super viel leckeres Essen, ab der traditionellen Italienischen Küche.
 
-* Mega essen, Aus Versehen hipster Streetfood entdeckt
-* Dannach aber noch eine Pizza. Gutes timing, kurz nach meiner Bestellung 30 Leute Schlange
-* Leichte Eskalation, gute und schlechte Musiker auf der Straße
-* Brunnen bei Nacht kannnix
+Ich hab anscheinend ungeplant mit einem Trapizzino das gehypte Streetfood von Rom schlechthin erwischt.
+Zumindest wollte man mich das mit dem Hype so glauben lassen.
+Aber eine Pizza Tasche mit krossem Fladenbrot und verschiedenen leckeren Zutaten ist einfach lecker.
+
+Ich bin dann möglicherweise bei den verschiedenen Straßenmusikern (in wechselnder Qualität) und kleinen Läden mit gekühlten Getränken etwas eskaliert und war relativ lange einfach draußen.
+Musik, Welt, Getränke und zwischendurch noch eine Pizza genießen.
+
+Auf dem Weg zurück hatte ich noch die super Idee, dass der Trevi Brunnen bei Nacht vielleicht leer und nett angestrahlt sei.
+Weder noch.  
 
 {% include foldergallery.html folder="2022-06-27/3" %}
