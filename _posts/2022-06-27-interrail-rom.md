@@ -18,9 +18,9 @@ Man kann den Menschen gut aus dem Weg gehen, man kann auch nach eigenem Ermessen
 Denn viele Menschen, die sich Dinge anschauen wollen, überraschen ja nun nicht.
 
 Auf dem Weg passierte ich den Piazza Venezia mit ihrem Altare della Patria.
-Ganz schön beeindruckendes Gebäude, und vorallem eins der wenigen (mir bekannten) in Rom ohne Bezug zur Kircheund zur Antike.
+Ganz schön beeindruckendes Gebäude, und vorallem eins der wenigen (mir bekannten) in Rom ohne Bezug zur Kirche und zur Antike.
 
-Weiter auf dem Weg zum Petersplatz ging es natürlich über den Tiber, wobei man von der Brücke aus Castel Sant'Angelo (Engelsburg) sehen konnte. 
+Weiter auf dem Weg zum Petersplatz ging es natürlich über den Tiber, wobei man von der Brücke aus Castel Sant'Angelo (die Engelsburg) sehen konnte. 
 Die Festung steht auf der Liste von Dingen, in die ich unbedingt in Rom rein muss.
 
 Angekommen am Petersplatz stellte sich herraus, dass die Schweizergarde den Petersplatz abgeriegelt hatte, es war gerade Heilige Messe.
@@ -34,7 +34,7 @@ Auf dem Rückweg bin ich am Pantheon vorbei, einer verrückten Kombination aus a
 ## Tag 2 - Durch die Stadt treiben lassen und Dinge anschauen
 Ich hatte mir einen Wecker auf 6 Uhr gestellt, um um 7 oder halb 8 am Petersplatz zu sein.
 Angeblich ist das der Zeitpunkt, wo man ohne lange anzustehen in den Petersdom und vorallem auf die Kuppel kommt.
-Hab gnadenlos verschlafen und hab mich dann um halb 9 nach dem Aufstehen für ein Frühstück in Ruhe enschieden.
+Habe gnadenlos verschlafen und mich dann um halb 9 nach dem Aufstehen für ein Frühstück in Ruhe enschieden.
 Der Dom läuft ja nicht weg.
 
 Also um die Ecke in das kleine Café hinein, was ich am Abend vorher schon gesehen hatte.
@@ -75,7 +75,7 @@ War garnicht so einfach, hat mich bestimmt 5 Minuten und unzähliche Blicke zum 
 Dannach bin ich aus zwei Gründen zurück ins Hotel.
 Es waren einerseits knapp 40°C und andererseits war mein Telefon fast alle. Hatte wohl das Laden übernacht irgendwie versaut.
 Angekommen im Hotel bei Schatten und Klimaanlage hab ich mich dann tatsächlich dazu enschieden, den Film Angels & Demons zu schauen.
-Ich hab das Buch (deutsche Fassung: Illuminati) vor Ewigkeiten mal gelesen, es spielt einfach mal in Rom bei den ganzen Gebäuden, an denen ich vorbei laufe.
+Ich hab das Buch (deutsche Fassung: Illuminati) vor Ewigkeiten mal gelesen, es spielt einfach mal in Rom bei den ganzen Gebäuden, an denen ich vorbei gelaufen war.
 Und einmal im kühlen war die Motivation zurück in die Hitze auch einfach weg.
 
 Außerdem hab ich im Hotel nebenbei noch meinen Valheim Server repariert, weil ich auf dem Telefon meinen SSH Key nicht dabei hatte.
