@@ -9,7 +9,7 @@ Hier gibt es nichts spannendes zu berichten. Ich fuhr wieder in einem Frecciaros
 {% include foldergallery.html folder="2022-06-27/1" %}
 
 ## Der erste Nachmittag und Abend
-Nach dem Checkin ins nett eingerichte Hotel war meine Idee, quer durch die Stadt in Richtung Piazza San Pietro, also dem Petersplatz, zu laufen.
+Nach dem Checkin ins nett eingerichte Hotel war meine Idee, quer durch die Stadt in Richtung Piazza San Pietro, also dem Petersplatz zu laufen.
 Einfach mal umsehen, schauen wie schlimm die Touri Situation auf einem Samstag ist.
 Da hat Venedig wohl für ein kleines Trauma gesorgt.
 
@@ -27,7 +27,7 @@ Angekommen am Petersplatz stellte sich herraus, dass die Schweizergarde den Pete
 Und da wollte ich nun wirklich nicht teilnehmen.
 Also keine Change herauszufinden, wie lange die Schlange zum Petersdom nun wirklich ist.
 
-Auf dem Rückweg bin ich am Pantheon vorbei, einer verrückten Kombination aus antikem römischem Tempel und christlicher Kirche. Auf auf der Liste für einen Besuch.
+Auf dem Rückweg bin ich am Pantheon vorbei, einer verrückten Kombination aus antikem römischem Tempel und christlicher Kirche. Auch auf der Liste für einen Besuch.
 
 {% include foldergallery.html folder="2022-06-27/2" %}
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interrail Tour Teil 5: Kolloseum und Vatikanische Museen"
+title:  "Interrail Tour Teil 5: Historisches Rom und Vatikanische Museen"
 ---
 
 ## Tag 3: Kolloseum, historisches Rom, Pantheon
