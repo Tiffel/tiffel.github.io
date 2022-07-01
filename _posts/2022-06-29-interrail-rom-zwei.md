@@ -80,28 +80,59 @@ In der Eingangshalle sah es aus wie auf einem Flughafen.
 Die verschiedenen einzelnen Gallerien unterscheiden sich, ähnlich wie im Louvre, grundlegend von einander.
 Inhaltlich geht es natürlich immer im christliche Symbolik, also nicht so mein Thema.
 Ich wusste nicht, dass Maria in der immer gleichen Pose so oft gemalt von so vielen verschiedenen Künstlern gemalt wurde.
+Es gab allerdings auch ein paar moderene Kusntgallerien. Thematisch immernoch nicht meins, sah aber schon besser und abwechselungsreicher aus.
 
 Was ich eher spannend fand waren die Skulpturen und die Architektur.
-Gebäude bauen kann die Kirche anscheinend, aber was die alten Meister da alles aus Steinen gehauen haben ist beeindruckend.
-   
+Gebäude bauen kann die Kirche anscheinend, und was die alten Meister da alles aus Steinen gehauen haben ist beeindruckend.
 
-* Museeum hat eingangshalle wie flughafen
-* Präsentation Kunstwerke perfekt, teilweise besser als im Louvre. Inhalt meh
-* Da Vinci, Madonna of the balance
-* Ganz viele Madonnas, gefühlt immer das gleiche Bild
-* Innenhof guides erklären an 3 immer gleichen Bildern die sixtinische Kapelle
-* Immer mal wieder belanglose Ausstellungen von Vasen auf dem Weg. Architektur ist aber cool
-* Wenig optional, meist ein konkreter, gewundener weg
-* Moderne Kunst Galerie hat   modernen Stil, aber immernoch den gleichen Inhalt
-* Sixt kapelle: keine Fotos. Laute Ansagen, dass man leise sein soll aus dem off. Gefühl wie 1984. nicht so spannend
-* Kurze Hosen regel interessiert anscheinend niemand?
-* Am Ende in einen kleinen Teil der Gärten
-* 2 Stunden
+Der gesamte Weg ist aber nur darauf ausgelegt, dass man ein bischen Zeit verbringt, bevor es zum Highligt, der Sixinischen Kapelle geht.
+Dabei gibt es auf dem festgelegten Weg noch einige optionale Ausstellungen, die man sich unbedingt sparen sollte.
+Ich habe mir 2 angetan und bin immernoch traurig um die verlorenen 5 Minuten Lebenszeit.
+Eine von beiden hatte wirklich 400 Vasen aus der Privatsammlung von Papst Kermit 
 
+Es gab ein paar absurde Situationen mit Bezug auf die Sixtinsche Kapelle.
 
-Markt Mercato Trionfale
-* Fleischer, Käse, Schuhmacher, Friseur, Obst, geile backwaren
-* Keine Touries. Keine Kartenzahlung 
+Es gibt im Innenhof 3 Aufsteller nebeneinander mit Bildern der Kapelle. Und von diesem Trio gibt es locker 30 Kopien.
+Vor jedem dieser steht ein Guide und erzählt seiner Gruppe Dinge zu dieser Kapelle. Ohne, dass man auch nur anhändernd in der Nähe wäre.
+Bei der Mensche an Menschen muss man schon ganz schön schubsen, um es in unter 30 Minuten dahin zu schaffen.
+
+Innerhalb der Kapelle ist Fotografieren verboten und es wird um Stille gebeten.Das man aber bitte leise sein und nicht fotografieren soll wird einmal pro Minute mit einer echt lauten Ansage aus Lautsprechern sicher gestellt.
+Die Ironie ist einigen klar geworden, wenn man so in die Gesichter geschaut hat.
+
+Da zu kamm, dass die Ansage live gesprochen wurde.
+Hört man einfach. 
+Man sieht aber den Sprecher nicht.
+Und die Lautsprecher sind so viele und die Kapelle leicht hallig, dass man keine Ortung hinbekommt.
+Für mich hat sich das wie die Gedankenpolizuei in Orwells 1984 angefühlt.
+
+Die Sixtinische Kappele an sich fand ich nichtmal besonders spannend.
+Ein Quader von Raum, architektonisch wenig beeindruckend.
+Und Wandmalerreien hat man einfach vorher schon echt viele gesehen.
+Klar, die Malereien da drin sind größtenteils von einem der 4 Ninja Turtles gemalt und zeigen die Bibel Geschicte vom alten und neuen Testament.
+Aber mich hat die Kapelle enttäuscht. 
+
+Nach grob 2 Stunden und einem Spießrutenlauf durch Restaurants und Souveniershops am Ende landete ich in einem kleinen, abgetrennten Bereich der Vatikanischen Gärten.
+Angedacht als Bereich zum draußen Essen, aber wirklich schön. 
+Ich würde gerne mal in die richtigen Gärten hinter der Mauer, aber dafür muss man wohl von [How to become Pope](https://www.youtube.com/watch?v=kF8I_r9XT7A]) zumindest ein paar Schritte gehen.
+
+Nach der Entspannung draußen gab es unerwarteterweise noch eine Ausstellung mit Kunst aus Südamerika zu sehen, die mir gut gefallen hat.
+Und dann ging es über die riesige runde Treppe wieder aus dem Vatikan heraus.
+
+Alles in allem hat es schon Spaß gemacht, durch die Vatikanischen Museen durchzulaufen.
+Nicht der Knaller, aber wenn man entweder christlich ist oder sich für Kunst oder Architektur etwas begeistern kann, lohnt es sich.
+Wenn man vorher ein Ticket gekauft hat, denn 2-3 Stunden dafür anstehen würd ich nicht wollen.
+
+Ich bin dann auf dem Mercato Trionfale, den wohl größten Markt für Frischwaren in Rom.
+Also einen richtigen Markt, nicht ein "Foodmarket" mit Streetfood von Menschen mit Männerdut und Undercut.
+Hier gehen die Locals einkaufen und hier gibt es alles, was irgendwie frisch ist. 
+Riesiege Mengen und Auswahl an Fleisch, Fisch Obst, Gemüse, Backwaren, Käse etc.
+
+Bei einem der Bäcker hab ich mir ein Focaccia mit Tomaten gekauft, richtig lecker.
+Allerdings war dieser Markt einer der wenigen Orte, wo man Bargeld benutzen musste.
+Dafür gab es praktisch keine Touries.
+Witzig war die Theke für ausschließlich frische Nudeln aller Art.
+Sowas hab ich noch nicht gesehen, aber wenn nicht in Rom, wo soll es soetwas sonst geben.
+
 
 Um 12 nochmal am vatikan museeum vorbei.
 * 300 Meter Schlange. Die Richtung erklärt die Markierung der falschen U-Bahn Station 
@@ -114,5 +145,7 @@ Stylish, 8 Euro für großartige carbonara
 * mittagessen war geil, aber nciht gut für die motivation.
 * Nachmittag im Hotel bei Klimaanlage vergammelt. 40 Grad geht halt auf die Substanz.
 
+
+\* Das ist vielleicht nicht der ganz richtige Vorname, aber ich hab mir nur den gemerkt
 
 {% include foldergallery.html folder="2022-06-29/2" %}
