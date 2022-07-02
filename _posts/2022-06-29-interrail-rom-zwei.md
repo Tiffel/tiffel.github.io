@@ -75,7 +75,7 @@ Am Drehkreuz einfach seine kontaktlose Kreditkarte oder sein Smartphone an den L
 Abgerechnet wird dann, im Gegensatz zu London, nicht mit erneutem Scannen beim Verlassen, sondern "irgendwie" nach Tagesform.
 Von wem auch immer.
 Es sollte sich über die nächsten Tage in Rom heraussstellen, dass ich nur eine von 4 Fahrten bezahlen musste. Zumindest waren bis zur Abfahrt aus der Stadt keine weiteren Buchungen in Google Pay bzw. auf der Kreditkarte zu sehen.
-Muss man wohl nicht verstehen. 
+Muss man wohl nicht verstehen. UPDATE: Wurde doch noch 3 Tage später abgebucht. 
 
 Angekommen um kurz vor 9 an den Vatikanischen Museen war die reguläre Schlange schon einige hundert Meter lang.
 Ich konnte einfach mit meinem Voucher vorbei gehen und ihn drinnen gegen das entgültige Ticket tauschen.
