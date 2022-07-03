@@ -36,6 +36,8 @@ Zurück ins Hotel, Badesachen holen um direkt nach der Engelsburg und einem Mitt
 Ich bin auf dem Weg ins Hotel schnell über die Piazza Navona und am Trevi Brunnen vorbei, weil ich auf wenige Menschen gehofft hatte.
 Sicherlich weniger als nachmittags, aber selbst um 08:30 war da schon recht viel los.
 
+{% include foldergallery.html folder="2022-07-01/1/a" %}
+
 ### Die Engelsburg
 Ich war nach einigen Kilometern hin und zurück zum Hotel um kurz vor 11 wieder am Castel Sant'Angelo, tauschte meinen Ticketvoucher gegen das finale Ticket und konnte mal wieder ohne Warten rein.
 
@@ -66,7 +68,12 @@ Die Engelsburg ist wirklich ein cool, ich kann einen Besuch wirklich empfehlen.
 Nicht für tolle Fotos, das geht woanders besser.
 Sondern für ein spannendes Erlebniss, während man dort durch geht.
 
-Nach knapp 2 Stunden war ich dann aber auch durch und bin wieder raus. Auf ging es nach Trastevere auf eine leckere Pizza zum Mittag.
+Nach knapp 2 Stunden war ich dann aber auch durch und bin wieder raus.
+
+{% include foldergallery.html folder="2022-07-01/1/b" %}
+
+### Der Nachmittag am Strand
+Auf ging es nach Trastevere auf eine leckere Pizza zum Mittag.
 Wenn man schon so lange wach ist, kann man zum Mittag auch mal nen halben Liter Hauswein bestellen. 
 
 Der Wein war die zweitbeste Idee, im stickigen Zug nach Ostia bin ich fast im Stehen eingeschlafen.
@@ -89,7 +96,7 @@ Aber das war es wert.
 
 Zurück in Rom habe ich meine Sachen schnell ins Hotel gebracht und bin dann doch noch bis zum Sonnenuntergang durch die Gegend gelaufen.
 
-{% include foldergallery.html folder="2022-07-01/1" %}
+{% include foldergallery.html folder="2022-07-01/1/c" %}
 
 ## Tag 4: Petersdom Versuch 3 
 * 8 Uhr vor Ort 
