@@ -98,14 +98,19 @@ Zurück in Rom habe ich meine Sachen schnell ins Hotel gebracht und bin dann doc
 
 {% include foldergallery.html folder="2022-07-01/1/c" %}
 
-## Tag 4: Petersdom Versuch 3 
+## Tag 4: Petersdom mit Kuppel und der letze Tag in Rom
+### Der dritte Versuch, in den Petersdom zu kommen 
 * 8 Uhr vor Ort 
 * Schlange nichtmal bis zum Ende des Holz Labyrinths
 * 20 nach durch die security
 * Null Schlange für Kuppel mit Stufen 551
 * Menschen die auf dem Weg nach oben fast sterben 
 * Basilica beeindruckend, aber wenn man mit dem religiösen nix am Hut hat, ist man schnell durch. 9:45 fertig 
-* Schlange ca. 50 Meter länger also bei mir 
+* Schlange ca. 50 Meter länger also bei mir
+
+{% include foldergallery.html folder="2022-07-01/2/a" %}
+
+### Der letzte Nachmittag
 * Frühstück in tre... Das Viertel hat es mi angetan, wenn auch nicht ganz so wie Montmartre 
 * Auf dem Weg zum circo massimo beutel kaputt, decathlon um die Ecke 
 * Circo massimo eher nicht so beeindruckend.
@@ -116,4 +121,4 @@ Zurück in Rom habe ich meine Sachen schnell ins Hotel gebracht und bin dann doc
 * Bloggen, dösen, ein bißchen Schatten. 
 * In richtung bahnhof
 
-{% include foldergallery.html folder="2022-07-01/2" %}
+{% include foldergallery.html folder="2022-07-01/2/b" %}
