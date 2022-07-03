@@ -98,11 +98,24 @@ Zurück in Rom habe ich meine Sachen schnell ins Hotel gebracht und bin dann doc
 
 {% include foldergallery.html folder="2022-07-01/1/c" %}
 
-## Tag 4: Petersdom mit Kuppel und der letze Tag in Rom
-### Der dritte Versuch, in den Petersdom zu kommen 
-* 8 Uhr vor Ort 
-* Schlange nichtmal bis zum Ende des Holz Labyrinths
-* 20 nach durch die security
+## Tag 6: Petersdom mit Kuppel und der letze Tag in Rom
+### Petersdom, der dritte Versuch 
+Nach der Quälerei am Vortag hatte ich mir den Wecker erst auf 7 Uhr gestellt und war um 8 Uhr vor Ort.
+Im Zweifelsfall müsste ich eben eine Stunde anstehen, aber für den letzen Tag hatte ich eh nicht mehr viel vor.
+
+Pustekuchen, das war alles wesentlich entspannter als erwartet.
+Es gab keine Security für das Betreten des Petersplatzes, sondern ich konnte mich direkt in die Schlange für den Dom stellen.
+Die ging nichtmals bis zum Ende es aus Holz aufgebauten Labyrinths.
+Und zügig vorran ging es auch, die Security war nun direkt vorm Dom, aber fix.
+Nach 20 Minuten war ich durch alles durch.
+Hätte ich das gewusst, hätte ich noch länger geschlafen.
+
+So richtig konnte ich das nicht glauben, dass so wenig los war und bin direkt in Richtung Kuppel Aufgang gestürmt.
+Dort standen ca. 15 Leute vor dem Aufzug an, genau niemand vor den Treppen.
+Also auf ging es, 551 Stufen nach oben erklimmen..
+
+Ich war 
+
 * Null Schlange für Kuppel mit Stufen 551
 * Menschen die auf dem Weg nach oben fast sterben 
 * Basilica beeindruckend, aber wenn man mit dem religiösen nix am Hut hat, ist man schnell durch. 9:45 fertig 
@@ -111,7 +124,8 @@ Zurück in Rom habe ich meine Sachen schnell ins Hotel gebracht und bin dann doc
 {% include foldergallery.html folder="2022-07-01/2/a" %}
 
 ### Der letzte Nachmittag
-* Frühstück in tre... Das Viertel hat es mi angetan, wenn auch nicht ganz so wie Montmartre 
+* Frühstück in Trastevere. Das Viertel hat es mi angetan, wenn auch nicht ganz so wie Montmartre 
+
 * Auf dem Weg zum circo massimo beutel kaputt, decathlon um die Ecke 
 * Circo massimo eher nicht so beeindruckend.
   * Und dafür dass man alles von außen sehen kann 5 Euro Eintritt? Äh, ne
