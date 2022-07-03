@@ -112,27 +112,58 @@ Hätte ich das gewusst, hätte ich noch länger geschlafen.
 
 So richtig konnte ich das nicht glauben, dass so wenig los war und bin direkt in Richtung Kuppel Aufgang gestürmt.
 Dort standen ca. 15 Leute vor dem Aufzug an, genau niemand vor den Treppen.
-Also auf ging es, 551 Stufen nach oben erklimmen..
+Also auf ging es, 551 Stufen nach oben erklimmen.
 
-Ich war 
+Der Weg zur Kuppel hoch ist es wirklich wert. Am Anfang geht man noch breite Gänge mit großen Stufen und hat vom ersten Balkon eine tollen Blick in das innere der Kuppelk und in den Dom hinunter.
 
-* Null Schlange für Kuppel mit Stufen 551
-* Menschen die auf dem Weg nach oben fast sterben 
-* Basilica beeindruckend, aber wenn man mit dem religiösen nix am Hut hat, ist man schnell durch. 9:45 fertig 
-* Schlange ca. 50 Meter länger also bei mir
+Der zweite Teil es Aufstiegs hat es dann aber in sich.
+Man hätte ja irgendwie drauf kommen können, dass bei einer Kuppel, die elliptisch zuläuft der Weg nach oben irgendwie "krumm" sein muss.
+Aber dass sich die Außenwand so sehr krümmt und man komplett schräg laufen muss, hat mich überrascht.
+Der Typ Stufe wechselt gefühlt alle 20, es wird auf jeden Fall nicht langweilig, während man sich zum Teil wirklich durchquetschen muss.
+Das ist auch der Teil, wo logischerweise kein Fahrstuhl mehr fährt.
+Dort sind entsprechend viele keuchende Menschen vor einem, die gerade keinen Spaß im Urlaub haben und kurz vorm kollabieren sind.
+ständig Pause machen.
+
+Oben angekommen kann man einen wunderschönen Ausblick auf den Petersplatz, die Vatikanischen Gärten und auch die Engelsburg genießen.
+Einfach mal 10 Minuten in die Ferne starren und wirken lassen kann ich dort empfehlen.
+Nebenbei kommt man bei Bedarf auch wieder zu Atem.
+
+Ich hab mich bestimmt eine halbe Stunde oben aufgehalten und bin mehrfach rund herum, weil es immer noch irgendwas am Horizont zu entdecken gibt.
+Mein Highlight von Rom, was sogar die Engelsburgg noch geschlagne hat.
+Ich verstehe, warum so viele Leute dort hochwollen und die langen Schlangen in Kauf nehmen.
+
+Nach dem Abstieg ging es in den Petersdom selber.
+Eine beeindruckende Kathedrale, der Ablasshandel hat sich für die Katholische Kirche offensichtlich gelohnt.
+Tolle Architektur, aber die kathlischen Gemälde, Skulpturen, Grabmäler und was es sonst noch so gibt waren für mich eher weniger spannend.
+
+Auch hier war ich nach 2 Stunden wieder draußen auf dem Petersplatz.
+Die Schlange zum Eintritt war mittlerweile ca. 50 Meter länger als um 8 Uhr, also immernoch vertretbar.
+Man hätte vielleicht 30 Minuten gebraucht um rein zu kommen.
 
 {% include foldergallery.html folder="2022-07-01/2/a" %}
 
 ### Der letzte Nachmittag
-* Frühstück in Trastevere. Das Viertel hat es mi angetan, wenn auch nicht ganz so wie Montmartre 
+Ich bin dann zum späten Frühstück nochmals nach Trastevere. Das Viertel hatt es mir, ähnlich wie Montmatre in Paris, einfach angetan.
 
-* Auf dem Weg zum circo massimo beutel kaputt, decathlon um die Ecke 
-* Circo massimo eher nicht so beeindruckend.
-  * Und dafür dass man alles von außen sehen kann 5 Euro Eintritt? Äh, ne
-* Mittagessen in Seiten Gasse. Bruchetta, 0.5L Hauswein, Lasagne für 12€. Mega!
-* Gepäck holen,
-* 45 Minuten laufen um in den Park setzen. Bei 35 Grad im. Schatten und laufen durch die Sonne Schlauch der Rucksack 
-* Bloggen, dösen, ein bißchen Schatten. 
-* In richtung bahnhof
+Auf dem Plan stand noch ein Besuch im der Circus Maximus.
+Auf dem Weg dahin ging mein Turnbeutel leider kaputt. Hatte ich in Brüssel im Decathlon gekauft, weil ich den robuster Stoffbeutel in Dresden vergessen hatte.
+Also ein kleiner Umweg zum Decathlon in Rom, irgendwo musste die Wasserflasche und die Sonnencreme ja wieder rein.
+
+Der Curcus Maximus war dann wenig beeindruckend, sondern ein riesiges Feld auf dem noch einige ganz wenige Ruinen lustlos herum standen.
+Und obwohl man alles von der Straße überblicken konnte, sollte man noch 5 Euro Eintritt bezahlen.
+Ich bin dann lieber Mittagessen suchen gegangen.
+
+In einer kleinen Seitengasse hab es diesesmal Bruchetta und Lasagne.
+Unfassbar gut für einen super Preis.
+In Rom kann man so gut so günstig essen gehen, dass Großstadtnormade mit Supermarkteinkäufen im Park spielen fast schon eine dumme Idee ist.
+Zumindest wenn man sich von den Touristenfallen wegbewegt.
+
+Ich hatten dann aber irgendwie auch genug von Rom. 
+Auf ins Hotel, den großen (und schweren) Rucksack holen und nochmal 45 Minuten durch die Stadt in den Park "Villa Borghese".
+Etwas ab vom Schuss, aber echt schön und ruhig.
+Nach dieser Wanderung durch die pralle Sonne war ich dann aber auch bedient für den Tag und hab den Park nur kurz erkundet.
+Die meiste Zeit habe ich im Schatten gedöst, gelesen, gebloggt.  
+
+Gegen 18:00 machte ich mich dann auch den Weg in Richtung Bahnhof, um kurz nach 8 sollte der Nachtzug nach Wien fahren und ich musste noch Verpflegung einkaufen.
 
 {% include foldergallery.html folder="2022-07-01/2/b" %}
