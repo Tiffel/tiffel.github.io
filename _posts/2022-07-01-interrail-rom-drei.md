@@ -80,15 +80,15 @@ Der Wein war die zweitbeste Idee, im stickigen Zug nach Ostia bin ich fast im St
 Es war ordentlich voll, aber auf einem Sitzplatz wäre ich in der halben Stunde Fahrt garantiert weggenickt.
 Vielleicht hatte ich etwas zu wenig in der Nacht vorher geschlafen.
 
-Angekommen im Vorort Ostia musste ich noch eine halbe Stunde laufen, um von den ganzen Betonklözen und Drehkreuzen weg zu einem Spiaggia Libera, einem freien Strand, zu kommen.
+Angekommen im Vorort Ostia musste ich noch eine halbe Stunde laufen, um von den ganzen Betonklötzen und Drehkreuzen weg zu einem Spiaggia Libera, einem freien Strand, zu kommen.
 Die meisten Strände sind kostenpflichtige Privatstrände, die mit Sonnenliegen und Schirmen komplett zugepflastert sind.
 Da will man nicht hin.
 An den freien Stränden kann man sich auch Liegen und Schirme mieten, das macht aber ein großteil der Menschen nicht.
 Deswegen sieht man auch tatsächlich etwas vom Sand.
 Voll ist es dort aber trotzdem.
 
-Ich war ungefährt zwei Stunden dort und hab richtig Spass gehabt, mal wieder im Meer zu schwimmen.
-Richtig salziges Wasser, fürs Mittelmeer sogar viel Wellengang.
+Ich war ungefährt zwei Stunden dort und es hat richtig Spass gehabt, mal wieder im Meer zu schwimmen.
+Sonne, salziges Wasser, fürs Mittelmeer sogar viel Wellengang.
 Und ein ziemlich steiniger Boden.
 
 Nachdem ich aber nun wieder einige Zeit in der prallen Sonne war, bin ich auf dem Rückweg im Zug schonwieder fast eingeschlafen.
@@ -110,31 +110,31 @@ Und zügig vorran ging es auch, die Security war nun direkt vorm Dom, aber fix.
 Nach 20 Minuten war ich durch alles durch.
 Hätte ich das gewusst, hätte ich noch länger geschlafen.
 
-So richtig konnte ich das nicht glauben, dass so wenig los war und bin direkt in Richtung Kuppel Aufgang gestürmt.
+So richtig konnte ich das nicht glauben, dass so wenig los war und bin direkt in Richtung Kuppel Aufstieg gestürmt.
 Dort standen ca. 15 Leute vor dem Aufzug an, genau niemand vor den Treppen.
 Also auf ging es, 551 Stufen nach oben erklimmen.
 
-Der Weg zur Kuppel hoch ist es wirklich wert. Am Anfang geht man noch breite Gänge mit großen Stufen und hat vom ersten Balkon eine tollen Blick in das innere der Kuppelk und in den Dom hinunter.
+Der Weg zur Kuppel hoch ist es wirklich wert.
+Am Anfang geht man noch breite Gänge mit großen Stufen und hat vom ersten Balkon eine tollen Blick in das innere der Kuppel und in den Dom hinunter.
 
 Der zweite Teil es Aufstiegs hat es dann aber in sich.
 Man hätte ja irgendwie drauf kommen können, dass bei einer Kuppel, die elliptisch zuläuft der Weg nach oben irgendwie "krumm" sein muss.
 Aber dass sich die Außenwand so sehr krümmt und man komplett schräg laufen muss, hat mich überrascht.
-Der Typ Stufe wechselt gefühlt alle 20, es wird auf jeden Fall nicht langweilig, während man sich zum Teil wirklich durchquetschen muss.
+Die Art der Stufen wechselt gefühlt alle 20 Schritte, es wird auf jeden Fall nicht langweilig, während man sich zum Teil wirklich durchquetschen muss.
 Das ist auch der Teil, wo logischerweise kein Fahrstuhl mehr fährt.
 Dort sind entsprechend viele keuchende Menschen vor einem, die gerade keinen Spaß im Urlaub haben und kurz vorm kollabieren sind.
-ständig Pause machen.
 
 Oben angekommen kann man einen wunderschönen Ausblick auf den Petersplatz, die Vatikanischen Gärten und auch die Engelsburg genießen.
 Einfach mal 10 Minuten in die Ferne starren und wirken lassen kann ich dort empfehlen.
 Nebenbei kommt man bei Bedarf auch wieder zu Atem.
 
-Ich hab mich bestimmt eine halbe Stunde oben aufgehalten und bin mehrfach rund herum, weil es immer noch irgendwas am Horizont zu entdecken gibt.
-Mein Highlight von Rom, was sogar die Engelsburgg noch geschlagne hat.
+Ich hab mich bestimmt eine halbe Stunde oben aufgehalten und bin mehrfach rund herum, weil es immer noch irgendetwas am Horizont zu entdecken gibt.
+Mein Highlight von Rom, was sogar die Engelsburg noch geschlagen hat.
 Ich verstehe, warum so viele Leute dort hochwollen und die langen Schlangen in Kauf nehmen.
 
 Nach dem Abstieg ging es in den Petersdom selber.
 Eine beeindruckende Kathedrale, der Ablasshandel hat sich für die Katholische Kirche offensichtlich gelohnt.
-Tolle Architektur, aber die kathlischen Gemälde, Skulpturen, Grabmäler und was es sonst noch so gibt waren für mich eher weniger spannend.
+Tolle Architektur, aber die kirchlichen Gemälde, Skulpturen, Grabmäler und was es sonst noch so gibt waren für mich eher weniger spannend.
 
 Auch hier war ich nach 2 Stunden wieder draußen auf dem Petersplatz.
 Die Schlange zum Eintritt war mittlerweile ca. 50 Meter länger als um 8 Uhr, also immernoch vertretbar.
@@ -146,7 +146,8 @@ Man hätte vielleicht 30 Minuten gebraucht um rein zu kommen.
 Ich bin dann zum späten Frühstück nochmals nach Trastevere. Das Viertel hatt es mir, ähnlich wie Montmatre in Paris, einfach angetan.
 
 Auf dem Plan stand noch ein Besuch im der Circus Maximus.
-Auf dem Weg dahin ging mein Turnbeutel leider kaputt. Hatte ich in Brüssel im Decathlon gekauft, weil ich den robuster Stoffbeutel in Dresden vergessen hatte.
+Auf dem Weg dahin ging mein Turnbeutel leider kaputt. 
+Den hatte ich in Brüssel im Decathlon gekauft, weil ich den robusten Stoffbeutel in Dresden vergessen hatte.
 Also ein kleiner Umweg zum Decathlon in Rom, irgendwo musste die Wasserflasche und die Sonnencreme ja wieder rein.
 
 Der Curcus Maximus war dann wenig beeindruckend, sondern ein riesiges Feld auf dem noch einige ganz wenige Ruinen lustlos herum standen.
@@ -155,7 +156,7 @@ Ich bin dann lieber Mittagessen suchen gegangen.
 
 In einer kleinen Seitengasse hab es diesesmal Bruchetta und Lasagne.
 Unfassbar gut für einen super Preis.
-In Rom kann man so gut so günstig essen gehen, dass Großstadtnormade mit Supermarkteinkäufen im Park spielen fast schon eine dumme Idee ist.
+In Rom kann man so gut so günstig essen gehen, dass sich mit einem Einkauf aus dem Supermarkt in den Park setzen fast schon eine dumme Idee ist.
 Zumindest wenn man sich von den Touristenfallen wegbewegt.
 
 Ich hatten dann aber irgendwie auch genug von Rom. 
