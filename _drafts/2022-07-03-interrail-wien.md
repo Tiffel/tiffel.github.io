@@ -3,7 +3,7 @@ layout: post
 title:  "Interrail Tour Teil 6: Wien"
 ---
 
-E## Mit dem Nachtzug von Roma Termini nach Wien Hauptbahnhof
+## Mit dem Nachtzug von Roma Termini nach Wien Hauptbahnhof
 inkaufen im Bahnhof
 Rucksack schwer, zeit über, also pommes bei Mcdonald 
 wasser im zug nicht aufgefüllt, keine dusche :(
