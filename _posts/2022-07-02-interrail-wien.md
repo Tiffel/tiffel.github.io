@@ -13,6 +13,7 @@ Um die letzte Stunde zu überbrücken habe ich mich in den McDonalds gesetzt, ei
 
 Um kurz nach 8 gibt es los, der Nightjet der ÖBB macht auf den ersten Blick einen richtig guten Eindruck.
 Nicht super modern, aber schon ein Stück schicker als der Intercités de Nuit der SNCF.
+
 Ich war hier All-In und hatte mir die Premium Einzelkabine mit eigener Toilette und Dusche für 145 € Reservierungspreis gegönnt.
 Also mehr als doppelt soviel wie eine durchschnittliche Hotelnacht auf dieser Tour.
 Denn dort hab ich nirgends wirklich Geld ausgegeben, sondern auf Schnäppchen geachtet.
@@ -44,7 +45,7 @@ Zumindest ein kaltes Frustbier gab es noch, was ich netterweise der Umstände we
 
 Runde drei der Probleme im Nightjet:
 * Die Matraze war weich. Kann ich ja garnicht gut haben, sowas.
-* Es gab kein Wifi. Solange die Mobilfunkabdeckung gut ist, ist mir das ja eigentlich egal. Und angeblich ist das Mobilfunknetz in Deutschland ja so schlecht und in Österreich so gut. Ist es nicht. Mit ein paar großen Antennen oben auf dem Zug wäre da vielleicht was gegangen. So wahr es ähnlich gut wie zwischen Dresden und Berlin.
+* Es gab kein Wifi. Solange die Mobilfunkabdeckung gut ist, ist mir das ja eigentlich egal. Und angeblich ist das Mobilfunknetz in Deutschland ja so schlecht und in Österreich so gut. Ist es nicht. Mit ein paar großen Antennen oben auf dem Zug wäre da vielleicht was gegangen. So wahr es ähnlich schlecht wie zwischen Dresden und Berlin.
 * Der Innenausbau der Abteile ist sehr modular, man kann je nach Buchung die Abteile umkonfigurieren. Echt intelligent, aber wenn die Türen so klappern wie dort, kann man leider nicht wirklich schlafen. Ich habe alle Schrauben nachgezogen und meinen Rucksack gegen eine Trenntür gelehnt, damit diese nicht die ganze Zeit richtig laut vibrierte. Das war wirklich richtig schlecht, der ganze Schlafwagen braucht meiner Meinung nach eine große Wartung.
 
 Ich hab dank Ohropax einigermaßen ok geschlafen, zumindest das Aufwachen mit Blick auf die Alpen und den Wörthersee war wirklich schön.
