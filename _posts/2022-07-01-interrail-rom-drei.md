@@ -5,7 +5,7 @@ title:  "Interrail Tour Teil 5: Castel Sant'Angelo, Strand und Basilica Sancti P
 
 ## Tag 5: Petersdom Fail, Engelsburg, Strand
 ### Der Vormittag am Petersplatz
-Ich hatte ja die Schlangen vorm Petersdom nun zwei mal gesehen. Und um genau das zu vermeiden stellte ich mir am Abend vorher einen Wecker auf absurde 05:30.
+Ich hatte ja die Schlangen vor dem Petersdom nun zwei mal gesehen. Um genau die zu vermeiden stellte ich mir am Abend zuvor einen Wecker auf absurde 05:30 Uhr.
 Ein bischen Quälerei, aber wer hätte es gedacht: Um kurz nach 6 morgens in der U-Bahn sieht man auch in Rom verpennte Gesichter.
 An einem Wochenende wären wohl noch zerfeierte Menschen dazu gekommen, aber die fehlten auf einem Donnerstag morgen.
 
@@ -22,14 +22,14 @@ Es gab noch eine geringe Chance, dass die Audienz ausschließlich draußen vor d
 Und ich war nunmal eh wach und in der Warteschlange.
 
 Das ist natürlich nicht passiert :(
-Als es um 07:45 dann endlich rein ging, stand ich also als einer der ersten 20 Menschen morgens vorm Petersdom.
+Als es um 07:45 dann endlich rein ging, stand ich also als einer der Ersten 20 Menschen morgens vorm Petersdom.
 Ohne ein Ticket zu einem "Konzert" auf das ich auf garkeinen Fall gehen wollte.
 Der religiöse Teil interessierte mich am Petersdom am allerwenigsten.
 
 Also war ich um 8 wieder draußen. Frustriert, müde und auf der Suche nach Kaffee.
 
 Nach 5 Gehminuten von den schlimmsten Tourifallen weg, einem Foto der Engelsburg und etwas umherschauen hatte ich ein akzeptables Café gefunden.
-Ich hatte dann 3 Stunden Zeit bis zu meinem gebuchten Eintritt in die Engelsburg.
+Ich hatte dann aebr 3 Stunden Zeit bis zu meinem gebuchten Eintritt in die Engelsburg.
 
 Insofern hab ich den Plan für den Nachmittag geändert:
 Zurück ins Hotel, Badesachen holen um direkt nach der Engelsburg und einem Mittagessen Richtung Strand starten zu können.
@@ -48,7 +48,7 @@ Dannach geht es einen riesigen Gang hinein, der 3 Meter breit, 10 Meter hoch ist
 
 Ziemlich spannend, denn der Gang endet nicht wirklich. Sondern in einem 80° Winklel, so dass man es eben vom Eingang nicht sehen kann, geht es rechts hoch.
 Eine Rampe, die im innern einmal um das Gebäude drum herum geht, um 12 Meter Höhenunterschied zu überbrücken. 
-Auf diesem Weg gibt es Gucklöcher von oben, um die Falltüren unter einem Auszulösen.
+Auf diesem Weg gibt es Gucklöcher von oben, um die Falltüren unter einem Auslösen zu können.
 Es gibt Brücken über Gräben, die hochgezogen werden können und Schächte um aus dem Inneren in den Gang schießen zu können.
 Auch hier bekommt man das Gefühl nicht besonders gut auf Fotos eingefangen, da muss man da gewesen sein.
 
@@ -81,13 +81,13 @@ Es war ordentlich voll, aber auf einem Sitzplatz wäre ich in der halben Stunde 
 Vielleicht hatte ich etwas zu wenig in der Nacht vorher geschlafen.
 
 Angekommen im Vorort Ostia musste ich noch eine halbe Stunde laufen, um von den ganzen Betonklötzen und Drehkreuzen weg zu einem Spiaggia Libera, einem freien Strand, zu kommen.
-Die meisten Strände sind kostenpflichtige Privatstrände, die mit Sonnenliegen und Schirmen komplett zugepflastert sind.
+Die meisten Strände dort sind kostenpflichtige Privatstrände, die mit Sonnenliegen und Schirmen komplett zugepflastert sind.
 Da will man nicht hin.
-An den freien Stränden kann man sich auch Liegen und Schirme mieten, das macht aber ein großteil der Menschen nicht.
+An den freien Stränden kann man sich auch Liegen und Schirme mieten, das macht aber der Großteil der Menschen nicht.
 Deswegen sieht man auch tatsächlich etwas vom Sand.
 Voll ist es dort aber trotzdem.
 
-Ich war ungefährt zwei Stunden dort und es hat richtig Spass gehabt, mal wieder im Meer zu schwimmen.
+Ich war ungefährt zwei Stunden dort und es hat richtig Spaß gehabt, mal wieder im Meer zu schwimmen.
 Sonne, salziges Wasser, fürs Mittelmeer sogar viel Wellengang.
 Und ein ziemlich steiniger Boden.
 
@@ -106,7 +106,7 @@ Im Zweifelsfall müsste ich eben eine Stunde anstehen, aber für den letzen Tag 
 Pustekuchen, das war alles wesentlich entspannter als erwartet.
 Es gab keine Security für das Betreten des Petersplatzes, sondern ich konnte mich direkt in die Schlange für den Dom stellen.
 Die ging nichtmals bis zum Ende es aus Holz aufgebauten Labyrinths.
-Und zügig vorran ging es auch, die Security war nun direkt vorm Dom, aber fix.
+Und zügig vorran ging es auch, die Security war nun direkt vor dem Dom, aber fix.
 Nach 20 Minuten war ich durch alles durch.
 Hätte ich das gewusst, hätte ich noch länger geschlafen.
 
@@ -145,7 +145,7 @@ Man hätte vielleicht 30 Minuten gebraucht um rein zu kommen.
 ### Der letzte Nachmittag
 Ich bin dann zum späten Frühstück nochmals nach Trastevere. Das Viertel hatt es mir, ähnlich wie Montmatre in Paris, einfach angetan.
 
-Auf dem Plan stand noch ein Besuch im der Circus Maximus.
+Geplant hatte ich noch ein Besuch im der Circus Maximus.
 Auf dem Weg dahin ging mein Turnbeutel leider kaputt. 
 Den hatte ich in Brüssel im Decathlon gekauft, weil ich den robusten Stoffbeutel in Dresden vergessen hatte.
 Also ein kleiner Umweg zum Decathlon in Rom, irgendwo musste die Wasserflasche und die Sonnencreme ja wieder rein.

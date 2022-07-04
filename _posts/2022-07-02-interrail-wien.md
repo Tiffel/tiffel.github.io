@@ -24,8 +24,8 @@ Ohne den Interrail Pass hätte das Ticket ca. 230 Euro gekostet.
 Die Aussstattung der Abteils war wie erwartet, es gab ein kleines Willkommenspaket mit einer Karte, um das inkludierte Frühstück zusammenzustellen.
 
 Auf den zweiten Blick war es dann aber irgendwie doch nicht so toll.
-Die Italiener hatten am Bahnhof das Frischwasser im Zug nicht aufgefüllt, so dass meine (und auch alle geteilten) Duschen nicht funktionierten. 
-Der Nachtzugbegleiter, übrigens eine Person exklusiv für den einen Schlafwagen mit 8 Abteilen, vertröstete mich auf Florenz um ca. 22:00.
+Die Italiener hatten am Bahnhof das Frischwasser im Zug nicht aufgefüllt, so dass meine (und auch alle geteilten) Dusche nicht funktioniert. 
+Der Nachtzugbegleiter, übrigens eine Person exklusiv für den einen Schlafwagen mit ca. 8 Abteilen, vertröstete mich auf Florenz um ca. 22:00.
 Dort würde Wasser aufgefüllt werden.
 
 Also gut, auch wenn ich mich wirklich auf die Dusche gefreut hatte, war wohl erstmal Abendessen angesagt.
@@ -45,7 +45,7 @@ Zumindest ein kaltes Frustbier gab es noch, was ich netterweise der Umstände we
 
 Runde drei der Probleme im Nightjet:
 * Die Matraze war weich. Kann ich ja garnicht gut haben, sowas.
-* Es gab kein Wifi. Solange die Mobilfunkabdeckung gut ist, ist mir das ja eigentlich egal. Und angeblich ist das Mobilfunknetz in Deutschland ja so schlecht und in Österreich so gut. Ist es nicht. Mit ein paar großen Antennen oben auf dem Zug wäre da vielleicht was gegangen. So wahr es ähnlich schlecht wie zwischen Dresden und Berlin.
+* Es gab kein Wifi. Solange die Mobilfunkabdeckung gut ist, ist mir das ja eigentlich egal. Und angeblich ist das Mobilfunknetz in Deutschland ja so schlecht und in Österreich so gut. Ist es nicht. Mit ein paar großen Antennen oben auf dem Zug wäre da vielleicht was gegangen. So war es ähnlich schlecht wie zwischen Dresden und Berlin.
 * Der Innenausbau der Abteile ist sehr modular, man kann je nach Buchung die Abteile umkonfigurieren. Echt intelligent, aber wenn die Türen so klappern wie dort, kann man leider nicht wirklich schlafen. Ich habe alle Schrauben nachgezogen und meinen Rucksack gegen eine Trenntür gelehnt, damit diese nicht die ganze Zeit richtig laut vibrierte. Das war wirklich richtig schlecht, der ganze Schlafwagen braucht meiner Meinung nach eine große Wartung.
 
 Ich hab dank Ohropax einigermaßen ok geschlafen, zumindest das Aufwachen mit Blick auf die Alpen und den Wörthersee war wirklich schön.
