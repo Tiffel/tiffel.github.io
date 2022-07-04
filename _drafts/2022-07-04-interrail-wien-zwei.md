@@ -32,7 +32,7 @@ Ich hab eine gute Stunde bis zum Prater gebraucht, weil ich mich duch das Karmel
 Auch wenn der Markt eher leer und langweilig war, auch das Viertel ist schön.
 Nach den Verhältnissen in Rom war ich aber immernoch erstaunt, wie entspannt und ruhig es überall zuging.
 
-Im Praterstern, der großen Haltestelle am Anfang des Geländes besorgte ich im Supermark noch ein paar Getränke und Snacks fürs Picknick, war pünkltich zum Einlass in der Schlange und saß um kurz nach 6 auf der Wiese vor der Bühne.
+Im Praterstern, der großen Haltestelle am Anfang des Geländes, besorgte ich im Supermark noch ein paar Getränke und Snacks fürs Picknick, war pünkltich zum Einlass in der Schlange und saß um kurz nach 6 auf der Wiese vor der Bühne.
 Super cool, ganz viele Menschen packten ihr mitgebrachtes Zeuchs aus und genossen die Zeit.
 Ich kam mit einer ungarischen Frau, die schon viele Jahre in Wien lebt ins Gespräch.
 Ich erzählte von meiner Tour, die legte mir Budapest ans Herz.
@@ -114,25 +114,59 @@ Da müssten wohl ein paar Belgier zur Schulung vorbei kommen.
 
 {% include foldergallery.html folder="2022-07-04/2" %}
 
-## Tag 3: Baden im Donaukanali
-Was an meinem Wienbesuch noch fehlte, war ein klassisches Wiener Caféhaus.
+## Tag 3: Baden im Donaukanal
+Was an meinem Wienbesuch noch fehlte, war der Besuch in einem klassischen Wiener Caféhaus.
 Eigentlich am Nachmittag mit Sacher-Torte, bei mir ists es aber das Frühstück geworden.
 
-Extrem ungewöhnlich, mir aber schon an vielen Stellen in Wien aufgefallen: Es gibt immer Essen mit Fleisch oder Vegans. Vegetarisch als Zwischending ist irgendwie raus.
+Extrem ungewöhnlich, mir aber schon an vielen Stellen in Wien aufgefallen: Es gibt immer Essen mit Fleisch oder Veganes Essen.
+Vegetarisch, aktuell mein bevorzugter Weg, als Zwischending ist irgendwie nicht präsent.
+Zumindest mal ungewöhnlich, wenn man es aus Deutschland anders kennt.
+Da muss man Vegan noch aktiv suchen, wenn man nich gerade in Berlin-Friedrichshain wohnt.
 Insofern musste ich mir mein Ei extra zum veganen Frühstück dazu bestellen.
 
-Ich hab dann irgendwie 3 Stunden in dem Café verbracht, hatte noch einiges im Blog aufzuholen. 
+Ich hab dann irgendwie 3 Stunden in dem Café verbracht, es war noch einiges im Blog von Rom aufzuholen. 
+Und der Kaffee war gut, wenn auch im Vergleich zu Italien sündhaft teuer.
+Also eigentlich ganz normal teuer :)
 
-* Halb eins im hotel, Badesachen und go zum prater 
-* Billa im prater Stern am Sonntag ist die Hölle los. Also doch kein kaltes Radler aus der Dose 
-  * Kartbahn
-  * Autoscooter
-  * Riesenrad
-  * Geisterbahn 
-* Laufpause im Park an der Messe, ein bischen weiter bloggen
-* Donauinsel mit Sandstrand ist mega. Viele Junge Leute, man kann super baden
-* Ich bin kein guter schwimmer. Grob gepeilt mit google maps sind in und zürck durch den teil des kanals 350 Meter. Das war ganz schön anstrengend. Aber vielleicht muss ich einfach hin und wieder mal schwimmen gehen. Prinzipiell ist was für den Öberkörper bei dem vielen Radfahren und laufen ne gute Idee.
-* ZUfällig war neben dem Hotel die Mathe Fakultät der Uni Wien
+Gegen halb eins war ich im Hotel, packte meine Badesachen ein und bin auch direkt wieder los.
+Der kurze Abstecker in den Billa im Praterstern war nicht so erfolgreich.
+In dem Supermarkt, der als einer der wenigen am Sonntag auf hatte, war die Hölle los.
+Also kein gekühltes Getränk.
 
+Egal, auf gings auf den Wurstelprater. In dem Vergnügungspark gibt es alles, was man von einem Rummel so kennt.
+Autoscooter, Geisterbahn, das berühmte Wiener Riesenrad und sogar eine Kartbahn.
+Ich hatte keine Ambitionen auf Fahrgeschäfte, aber die Stimmung war gut.
+
+Hinter dem Prater liegt die Messe Wien, die mir zwar eigentlich egal war, aber die Gelegenheit für eine Pause auf einer Bank im Schatten bot.
+Ich hab dann noch einfach noch eine halbe Stunde gebloggt.
+
+Dann ging es aber mit voller Motivation und einem eiskalten Radler von der Tanke in Richtung Pirat Bucht auf der Donauinsel.
+Ich war schon wieder schwer beeindruckt von den Fahrradrampen, die die Radewege an Donau und Donaukanal mit den Radwegen an den Autobrücken verbinden.
+Ohne Fussgänger oder Autos zu kreuzen, was beide Seiten nervt. Ohne sein Rad Treppen tragen zu müssen.
+Können wir die Betonbauerpolitiker aus Dresden bitte mal nach Wien zum Lernen hinschicken? 
+
+Angekommen auf der Donauinsel hab ich einige Stundem am Sandstrand der [Pirat Bucht](https://www.wien.gv.at/freizeit/baden/natur/piratbucht-sandstrand-neue-donau.html) verbracht.
+Super schön, viele entspannte Menschen mit guter Laune.
+Beste Bedinungen zum schwimmen und in der Sonne chillen.
+
+Ich merkte aber mal wieder, dass ich einfach kein guter Schwimmer bin.
+Grob gepeilt mit Google Maps sind es hin und zürück durch diesen Teil der Neuen Donau 350 Meter. 
+Das war ganz schön anstrengend, auch wenn ich den Weg insgesamt 3 mal gemacht habe.
+Vielleicht muss ich einfach hin und wieder mal schwimmen gehen.
+Prinzipiell ist was für den Öberkörper bei dem vielen Radfahren und Laufen eh eine gute Idee.
+
+Gut, dass ich mittlerweile ganz gut gebräunt war und trotzdem weiterhin Sonnencreme dabei hatte.
+Das war ganz schön viel Sonne den Tag.
+
+Auf dem Rückweg ins Hotel entdeckte ich zufällig, dass die Mathe Fakultät der Uni Wien direkt nebenan war.
+Nett für ein Foto, auch wenn mir sicherlich gerade nicht nach Mathematik war.
+Abends ging es dann noch in ein Restaurant um die Ecke. Das essen war mittelmäßig, aber der Gespritze super.
+
+Wien ist echt super freundlich und vermutlich auch sehr lebenswert.
+Ich muss unbedingt nochmal wieder kommen.
+Ich habe ein bischen das Gefühl, dass ich in dem touristischen Teil noch einiges offen gelassen habe.
+Dafür hab ich für die 3 Tage Urlaub ganz schön viel vom Leben mitbekommen.
+Denk ich zumindest. 
+Und das war richtig gut und und sollte ausgebaut werden. 
 
 {% include foldergallery.html folder="2022-07-04/3" %}
