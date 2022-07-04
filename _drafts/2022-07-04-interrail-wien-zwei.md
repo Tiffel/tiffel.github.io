@@ -3,7 +3,7 @@ layout: post
 title:  "Interrail Tour Teil 6: Drei Tage in Wien"
 ---
 
-## Tag 1: S Belvedere und ein ausgefallenes Konzert
+## Tag 1: Schloss Belvedere und ein ausgefallenes Konzert
 Der eigentliche Plan war, den Rucksack ins Hotel zu bringen und dann von 10 Uhr bis zum Checkin um 14 Uhr die Stadt zu erkunden. 
 Das ergab durch die Zugverspätung um 12 Uhr keinen Sinn mehr, insofern bin ich mit dem Rucksack durch den Park Belvederei.
 Schöne Parkanlage mit den beiden barocken Schlössern Unteres und Oberes Belvedere.
@@ -114,8 +114,15 @@ Da müssten wohl ein paar Belgier zur Schulung vorbei kommen.
 
 {% include foldergallery.html folder="2022-07-04/2" %}
 
-## Tag 3: Baden im Donaukanal
-* Frühstück in leckerem Café, Laptop und bloggen
+## Tag 3: Baden im Donaukanali
+Was an meinem Wienbesuch noch fehlte, war ein klassisches Wiener Caféhaus.
+Eigentlich am Nachmittag mit Sacher-Torte, bei mir ists es aber das Frühstück geworden.
+
+Extrem ungewöhnlich, mir aber schon an vielen Stellen in Wien aufgefallen: Es gibt immer Essen mit Fleisch oder Vegans. Vegetarisch als Zwischending ist irgendwie raus.
+Insofern musste ich mir mein Ei extra zum veganen Frühstück dazu bestellen.
+
+Ich hab dann irgendwie 3 Stunden in dem Café verbracht, hatte noch einiges im Blog aufzuholen. 
+
 * Halb eins im hotel, Badesachen und go zum prater 
 * Billa im prater Stern am Sonntag ist die Hölle los. Also doch kein kaltes Radler aus der Dose 
   * Kartbahn
