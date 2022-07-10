@@ -49,7 +49,7 @@ Aber so ist das nunmal ohne Analytics, es lässt sich nicht herausfinden.
 * Der Rucksack (Osprey Kestrel 48) ist einfach mega gut.
 * Das 200 € Chromebook war ein guter Kauf. Ich hatte ursprünglich vor, den Blog nur am Telefon zu schreiben. Da wäre nie was draus geworden. Und es ist wirklich beeindruckend, was man für so wenig Geld mittlerweile an Hardware bekommt. Ob einen Blog mit VI in einem Terminal zu schreiben jetzt eine gute Idee ist, muss man wohl für sich selber entscheiden :) 
 * Nur Laufschuhe und Flipflops mitnehmen war die richtige Entscheidung. Ein weiteres Paar Schuhe hätte nur genervt.
-* Selbstversorger aus dem Supermarkt sein. Ich fand es sehr angenehm, sich zu den Malzeiten einen Platz an einer netten Stelle draußen zu suchen. Nur in Rom war ich in echt vielen Restaurants, weil es einfach so gut war.
+* Selbstversorger aus dem Supermarkt sein. Ich fand es sehr angenehm, sich zu den Mahlzeiten einen Platz an einer netten Stelle draußen zu suchen. Nur in Rom war ich in echt vielen Restaurants, weil es einfach so gut war.
 * Im Schnitte jeden Tag knapp 30000 Schritte laufen. Fühlt sich gut an.
 * Der relativ geringe Aufpreis für den Interrail Pass in der ersten Klasse.
 
