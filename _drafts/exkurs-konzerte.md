@@ -1,4 +1,7 @@
-
+---
+layout: post
+title:  "Exkurs Konzerte"
+---
 
 ## Exkurs: Sound Ranking für Konzerte
 ### Outdoor Locations
