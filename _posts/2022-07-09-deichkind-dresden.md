@@ -12,7 +12,7 @@ Ich wollte unbedingt zu den Broilers, er zu Deichkind.
 Und anders herum waren wir jeweils nur so halb überzeugt.
 Er ging am nächsten Tag los, kaufte 2 Deichkind Tickets und wollte nochmal über die Broilers nachdenken.
 Natürlich war das Broilers Konzert am nächsten Tag ausverkauft, ich war leicht angefressen und hatte nun ein Deichkind Ticket.
-Ungefährt so ist die Story in meiner Erinnerung, vermutlich stimmt nicht mehr alles genau. Ist ja fast 3 Jahren her.
+Ungefährt so ist die Story in meiner Erinnerung, vermutlich stimmt nicht mehr alles genau. Ist ja fast 3 Jahre her.
 
 * Corona betritt die Bühne: Verschiebung Deichkind auf 2021
 * Ein dunkler Winter
@@ -22,14 +22,15 @@ Ungefährt so ist die Story in meiner Erinnerung, vermutlich stimmt nicht mehr a
 Mit zwei Jahren Verspätung ging es also nun an die Elbe. Und das auch noch ohne Alex, der leider spontan krank geworden war.
 
 Wir waren eine große Gruppe von über 10 Leuten, in der niemand alle kannte, über eine Ecke aber doch irgendwie alle verbunden waren.
-Mit Jenny, Sascha und Fabian waren auch Teile der Rock im Park Truppe nach Dresden angereist.
+Mit Jenny, Sascha und Fabian waren auch Teile der Rock im Park Truppe nach Dresden angereist. Sehr cool.
 
-Wir waren gegen 6 mit einem Wegbier in der Hand auf dem Elberadweg, angekündigt war auch ein Einlass um 18:00.
+Gegen 6 standen wir zu viert mit einem Wegbier in der Hand auf dem Elberadweg, angekündigt war auch ein Einlass um 18:00.
 Sehr sehr deutsch stellen sich die Menschen so nach und nach in Reih und Glied an.
 Wir haben das ignoriert, die Schlange wurde aber immer länger und wir wurden einfach irgendwann ein Teil dieser.
  
 Bis das Konzert losging sollte noch etwas Zeit vergehen.
-Wir hatten uns auf der ersten Stufe plaziert, direkt vor uns stand eine mobile Zapfanlage.
+Wir hatten uns nach dem Einlass auf der ersten Stufe plaziert, so nach und nach trudelte der Rest der Gruppe an.
+Ganz nett an dem Platz war, dass direkt vor uns eine mobile Zapfanlage stand.
 Und nach der zweiten Runde konnten wir direkt vom Platz bestellen und mussten nichtmal mehr die 3 Meter laufen.
 Insofern war die Wartezeit zu verkraften, auch wenn es nur unnötig teures Radeberger gab.
 
