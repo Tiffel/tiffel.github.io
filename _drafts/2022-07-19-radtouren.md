@@ -27,14 +27,27 @@ Gerade wenn man alleine fährt ist Gegenwind der ultimative Motivationskiller.
 Niemand für Windschatten, nach all der Anstrengung gibts nichtmal eine schöne Abfahrt wie bei nem Berg.
 Uncool.
 
+![](/assets/LK_Muenster-strava.png)
+
+
 ## Radtouren um Wolfsburg herum
 Donnerstag morgen morgen ging es dann mit dem Zug von Münster nach Wolfsburg.
 Das 9 Euro Ticket ist erstaunlich praktisch. Fahrradtageskarte dazu und schon kan man im Nahverkehr machen was man will.
 Und Lübbecke - Wolfsburg gegenüber Münster - Wolfsburg nimmt sich nur wenige Minuten.
 
-Die erste Tour haben wir tatsächlich zu fünft gemacht, Anna hatte die beiden Turtles im Radanhänger dabei.
+Die erste Tour kurze Tour haben wir tatsächlich zu fünft gemacht, Anna hatte die beiden Turtles im Radanhänger dabei.
 
 Philipp und ich haben dann 2 Tage die Umgebung erkundet und richtig gute Touren gemacht.
+
+Die erste Runde ging zum ehemaligen innerdeutschen Grenzübergang in Marienborn.
+Ich bin dort schon echt oft mit dem Zug, aber auch hin undwieder mit dem Auto auf der A2 vorbei gefahren, hab aber nie einen Stop gemacht
+![](/assets/marienborn-strava.png)
+
+Am Samstag wurde es dann etwas bergiger. Der erste Anstieg war zwar lang, aber flach.
+Der zweite war genau das Gegenteil: 2 Kilometer lang Quälerei bei X% Steigung 
+![](/assets/koenigslutter_tetzelstein-strava.png)
+
+
 Die (für mich) ultimative Challenge, den Brocken hoch zu fahren haben wir immer weiter verschoben, weil das Wetter einfach nicht mitgespielt hat.
 Man quält sich ja nicht da hoch, um dann in eine Wolkenwand in 5 Meter Entfernung zu schauen.
 Am Sonntag war das Wetter dann endlich gut und auch die Vorhersage für den Broken war positiv.
@@ -60,7 +73,12 @@ Wenn man Urlaub und keine Termine hat, kommt es ja auf 3 Stunden nicht an.
 Und die Beine fühlen sich noch ganz ok an, um nochmal knappe 90 km auf die Woche draufzulegen.
 
 Auf dem Weg passierte ich das Kaiser Wilhelm Denkmal aus der Ferne.
-Da die Beine doch nicht mehr so richtig fit wahren hab ich mir einen Umweg dahin gespart.
+
+![](/assets/hannover_minden-strava.png)
+
+
+Da die Beine doch nicht mehr so richtig fit wahren hab ich mir einen Umweg dahin gespart. Es sollten am Ende der Tour immerhin 570km in der Woche sein.
+
 Allerdings endete die Tour in Ahlsen bei Andre, Nicky und co. bei einer Grillparty.
 In Lübbecke war ich dann nach zwei, drei (oder vielleicht auch einfach vielen) Bieren erst mitten in der Nacht. 
 
