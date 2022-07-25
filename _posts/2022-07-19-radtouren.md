@@ -11,7 +11,7 @@ Montag besuchte ich nach einer ersten Radtour in der Heimat Arne, Mel und Lara a
 Ein kleines Bier später wurde ich für den Dienstag gleich eingespannt um Putzgrund und Putz aufzutragen.
 Gut, dass bei meinen Eltern noch Arbeitsklamotten herumlagen.
 
-Dienstag ging es dann die zweite Runde mit dem Rad durch die Heimat. Hat echt Spaß gemacht, die Gegend auf eine neue Art und Weise zu erkunden.
+Dienstagnachmittag ging es dann die zweite Runde mit dem Rad durch die Heimat. Hat echt Spaß gemacht, die Gegend auf eine neue Art und Weise zu erkunden.
 Geendet bin ich den Abend bei Tim wo ich mich für ein paar Stunden festgequatscht habe.
 
 {% include foldergallery.html folder="2022-07-19/1" %}
@@ -34,19 +34,18 @@ Das 9 Euro Ticket ist erstaunlich praktisch. Fahrradtageskarte dazu und schon ka
 Und Lübbecke - Wolfsburg gegenüber Münster - Wolfsburg nimmt sich nur wenige Minuten.
 
 ### Tour Eins: Marinas
-Die erste Tour kurze Tour haben wir tatsächlich zu fünft gemacht, Anna hatte die beiden Turtles im Radanhänger dabei.
-Wir schauten uns die Marine TODO NAME am Mittelland Kanal an, die unerwartet und ganz schön dekadent war.
+Nachmittags sind wir los zu einer halben Tour. Den ersten Teil haben wir  zu fünft gemacht, Anna hatte die beiden Turtles im Radanhänger dabei.
+Im zweiten Teil schauten wir uns die Marine TODO NAME am Mittelland Kanal an, die unerwartet und ganz schön dekadent war.
 Häuser mit eigener Sternwarte oder einem Rolce Royce vor der Tür ist wohl diese Mittelklasse, von der Friedrich Merz immer sprach.
 
 TODO Strava
 
-Philipp und ich haben dann die zwei folgenden Tage zu zweit richtig gute Touren gemacht, während er mir die Unmgebung gezeigt hat.
-
 {% include foldergallery.html folder="2022-07-19/2" %}
 
+
 ### Tour 2: Marienborn
-Die erste Runde ging zum ehemaligen innerdeutschen Grenzübergang in Marienborn.
-Ich bin dort schon echt oft mit dem Zug, aber auch hin und wieder mit dem Auto auf der A2 vorbei gefahren, hab aber nie einen Stop gemacht.
+Die erste längere Runde ging zum ehemaligen innerdeutschen Grenzübergang in Marienborn.
+Ich bin dort schon einige Male mit dem Auto auf der A2 vorbei gefahren, hab aber nie einen Stop gemacht.
 Auf der einen Seite sieht das Gelände so aus, als könnte man es innerhalb von 2 Wochen wieder auf machen.
 Auf der anderen Seite sind einige Räume zu Ausstellungen hergerichtet, die manchmal etwas absurd anmueten.
 
@@ -55,8 +54,9 @@ Später haben wir noch ein paar Storchenjunge in Nestern gesehen.
 {% include foldergallery.html folder="2022-07-19/3" %}
 
 ### Tour 3: Königslutter und Tetzelstein
-Am Samstag wurde es dann etwas bergiger. Der erste Anstieg war zwar lang, aber flach.
-Der zweite war genau das Gegenteil: 2 Kilometer lang Quälerei bei bis zu 9% Steigung 
+Am Samstag wurde die Tour dann etwas kürzer, aber bergiger. Der erste Anstieg war zwar lang, aber flach.
+Der zweite war genau das Gegenteil: 2 Kilometer lang Quälerei bei bis zu 9% Steigung.
+Super cool, mal wieder nen Berg zu fahren, hatte ich ne Weile nicht. 
 
 Bis auf die Fahrt am Dom von Künigslutter war hier aber leider nicht viel zu sehen. 
 Der Tetzelstein ist rein optisch eher weniger beeindruckend als er sportlich fordernd ist. 
