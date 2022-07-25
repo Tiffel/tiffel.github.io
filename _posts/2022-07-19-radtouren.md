@@ -50,7 +50,7 @@ Ich bin dort schon echt oft mit dem Zug, aber auch hin und wieder mit dem Auto a
 Auf der einen Seite sieht das Gelände so aus, als könnte man es innerhalb von 2 Wochen wieder auf machen.
 Auf der anderen Seite sind einige Räume zu Ausstellungen hergerichtet, die manchmal etwas absurd anmueten.
 
-![](/assets/marienborn-strava.png)
+Störche 
 
 {% include foldergallery.html folder="2022-07-19/3" %}
 
@@ -58,10 +58,7 @@ Auf der anderen Seite sind einige Räume zu Ausstellungen hergerichtet, die manc
 Am Samstag wurde es dann etwas bergiger. Der erste Anstieg war zwar lang, aber flach.
 Der zweite war genau das Gegenteil: 2 Kilometer lang Quälerei bei bis zu 9% Steigung 
 
-* Störche
 * Hochzeit Königslutter
-
-![](/assets/koenigslutter_tetzelstein-strava.png)
 
 {% include foldergallery.html folder="2022-07-19/4" %}
  
@@ -80,8 +77,6 @@ Wenn man Urlaub und keine Termine hat, kommt es ja auf 3 Stunden nicht an.
 Und die Beine fühlen sich noch ganz ok an, um nochmal knappe 90 km auf die Woche draufzulegen.
 
 Auf dem Weg passierte ich das Kaiser Wilhelm Denkmal aus der Ferne.
-
-![](/assets/hannover_minden-strava.png)
 
 Da die Beine doch nicht mehr so richtig fit wahren hab ich mir einen Umweg dahin gespart. Es sollten am Ende der Tour immerhin 570km in der Woche sein.
 
