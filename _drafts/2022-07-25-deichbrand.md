@@ -18,22 +18,25 @@ Ganzen abend im Zelt,
 BEauty and the beats mal nicht mitgenommen
 
 ### Clowns
+ich weip nix mehr
 
 ### Deine Cousine
 Woche vorher mit Arne drüber geredet.
 Die erste Anfänger Moshpit
 
-### H-Blockx
 
+### H-Blockx
+Crossover
 
 ### Mono Inc
 Unerwartet geil
 Charisma bei Drummerin
-DAs Boot Cover
+Das Boot Cover
 
 ### Callejon
 Extrem harte Mosh
 Musikalisch nur ok, zumindest die ersten Songs. Aussage von Lena aber für den Rest ähnlich.
+
 
 
 ### Imminence

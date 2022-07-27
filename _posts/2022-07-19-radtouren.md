@@ -35,13 +35,10 @@ Und Lübbecke - Wolfsburg gegenüber Münster - Wolfsburg nimmt sich nur wenige 
 
 ### Tour Eins: Marinas
 Nachmittags sind wir los zu einer halben Tour. Den ersten Teil haben wir  zu fünft gemacht, Anna hatte die beiden Turtles im Radanhänger dabei.
-Im zweiten Teil schauten wir uns die Marine TODO NAME am Mittelland Kanal an, die unerwartet und ganz schön dekadent war.
+Im zweiten Teil schauten wir uns die Marina Bortfeld am Mittelland Kanal an, die unerwartet und ganz schön dekadent war.
 Häuser mit eigener Sternwarte oder einem Rolce Royce vor der Tür ist wohl diese Mittelklasse, von der Friedrich Merz immer sprach.
 
-TODO Strava
-
 {% include foldergallery.html folder="2022-07-19/2" %}
-
 
 ### Tour 2: Marienborn
 Die erste längere Runde ging zum ehemaligen innerdeutschen Grenzübergang in Marienborn.
