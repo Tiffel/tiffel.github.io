@@ -49,35 +49,78 @@ Aber trotzdem haben wir es nicht wirklich lange ausgehalten und sind für einen 
 {% include foldergallery.html folder="2022-07-25/1" %}
 
 ## Tag Eins: Donnerstag
-* Nebelhorn
-* Ganzen abend im Zelt,
-* BEauty and the beats mal nicht mitgenommen
+Donnerstag ist ja der reguläre Anreisetag, vor 18:00 gibts also nirgends Musik.
+
+In der Nacht haben wir es noch einigermaßen ignorieren könnenm, aber am Tag konnten wir unseren Erzfeind des Festivals ausgiebig kennenlernen:
+Unsere Nachbarn hatten einen ganzen Bauwagen mitgebracht der natürlich von einem Strommopped betrieben wurde.
+Dieser Enthielt einen Kompressor, welcher ein extrem lautes Nebelhorn antrieb.
+Die Jungs dort waren richtig stark am Hahn, sodass es öfter vorkam, dass jemand (vermutlich mit dem Kopf) auf den Auslöser einschlief.
+
+Super super nervig.
+Andere Nachbaren hatten aber, wie wir über den Tag erfuhren, schon morgens um acht eine Ansage gemacht:
+> "Wenn ihr das Horn noch einmal Nachts benutzt, zerstören wir euer Camp. Ohne Verluste".
+
+Das hat gewirkt, zumindest Nachts war das Teil nun ruhig.
+Diesen und die weiteren Tage mussten wir es aber doch irgendwie ertragen.
+Den immer wieder aufkommenden Plan, nachts die Druckluftleitung zu zerschneiden, haben wir nie durchgezogen.
+
+Wir brachten den Tag ansonsten mit Essen, Glitzertatoos und ziemlich viel Flunkyball rum.
+
+Um 6 starteten Flo, Lena und ich dann ins Palastzelt, welches wir bis halb 3 nicht mehr verlassen sollten.
+Für uns war es das erste Mal den üblichen Donnerstags-DJ "Beauty and the Beats" nicht mitzunehmen.
+Der Musikgeschmack ist über die letzen Jahre einfach härter geworden, sodass es im Palastzelt echt viele neue Möglichkeiten für gute Musik gibt.
+Und Live ist fast immer besser, als Popklassiker auf einen einen dauerhaften 4-on-the-floor Beat im Diskofox Tempo zu feiern.
 
 ### Clowns
-* ich weiß nix mehr
+äh, keine Erinnerung. Irgendwie Punk
 
 ### Deine Cousine
-* Woche vorher mit Arne drüber geredet.
-* Die erste Anfänger Moshpit
-* Taffe Frau
+Ich hatte in der Woche vorher mit Arne noch über diese coole Background Sängerin, die er Udo Lindenberg live gesehen hatte geredet.
+Er hatte ihren Namen herausgefunden, reingehört und festgestellt, dass die Frau echt Power hat und auch Solo spannend ist.
+Netter Zufall, dass die nun den zweiten Slot beim Deichbrand eingenommen hat.
+
+Die Frau hatte eine super Bühnenpräsenz, einen Look wie eine junge P!nk und ne starke Stimme.
+Musikalisch ganz cool, wenn auch nicht genau mein Geschmack.
+Aber wenn ich Lust habe und die Musik nur grob passt, kann ich fast alles feiern. 
+Bei den etwas härteren Songs begab ich mich zum aufwärmen in die erste, süße, liebe Anfänger-Moshopit dieses Wochenendes.
 
 ### H-Blockx
-* Crossover
-* Nicht meine Band, aber gut gemacht
+Der deutsche Crossover Klassiker aus Münster.
+Ich kannte deutlich mehr Songs, als ich erwartet hätte.
+Und die Jungs machen musikalisch einen richtig guten Job.
+Ich hatte aber Blut geleckt und war praktisch ab Song 3 den ganzen Gig alleine in der Moshpit unterwegs.
 
 ### Mono Inc
-* Unerwartet geil
-* Charisma bei Drummerin
-* Das Boot Cover
+Mir war vor dem Auftritt nicht so ganz klar, was Darkrock eigentlich genau meint.
+Aber wenn es so klingt, bin ich jetzt Darkrock Fan.
+Mono Inc. hatte nicht nur ein stylisches Auftreten und eine extrem charismatische Drummerin, sondern hat richtig abgeliefert.
+
+Das Moschen hab ich mir mal gespart, weil ich schon etwas müde war. 
+Stattdessen konnten Lena und ich in der ersten Reihe neben den eigenen Songs einige Covers erleben.
+
+TODO: Kann man das zum reinhören empfehlen oder kann das nur live was?
+
+"The Passenger" von Iggy Pop war ein Soloding vom Sänger, was natürlich alle zum misingen animiert hat.
+
+Krass gut war aber das Drumcover von "Das Boot".
+Der Sound war richtig gut, die Lightshow am ausgestatteten Drumset auch.
+TODO: Video
+ 
 
 ### Callejon
+Ich hatte in den eltzen Wochen vorm Festival relativ viel Callejon gehört.
+Allerdings den Mainstream Einstieg über deren beiden Coveralben "Man spricht Deutsch" und "TODO NAME", wovon ich das erstere initial nur aus Maesches Auto kannte.
+
+Aber auch die eigenen Songs können was, das ist richtig guter Metalcore.
+
+* dankbarer sänger. lieb sagen "endlich wider live" und dann grunten
 * Extrem harte Mosh
 * Musikalisch nur ok, zumindest die ersten Songs. Aussage von Lena aber für den Rest ähnlich.
 
 ### Imminence
 äh, was war das nochmal? gut war es
 
-## Der Freitag
+## Tag Zwei: Freitag
 * Auto Angefahren
 * Flunken
 * Volleyball
