@@ -4,48 +4,83 @@ title:  "Deichbrand"
 ---
 
 ## Prolog: Anreise am Mittwoch
-Treffen um 1 mit Flo und Lena
-Beim Aufbau Pavillion an den Wind verloren
-Wanderung ums ganze Infield herum, ein Pavillion war absurd teuer.
-Also zwei Rollen Gaffa gekauft und das ganze mit übrigen Stangen gefixt.
-Party auf dem Zeltplatz, echt miese Mucke.
-Aber mal wieder Freunde mit dem Irie Pullover gefunden
+Morgens um kurz nach 10 sollte es entspannt in Lübbecke losgegen, ich war um 1 mit Flo und Lena am letzen Autohof vorm Festival verabredet.
+Für das Festival hatte ich mir den großen Kombi von Arne und Mel geliehen, um alles mitzubekommen.
+
+Alles war gepackt, ich hatte als letze Tat gerade durch die Beifahrertür meine Wasserflasche auf den Sitz und den Schlüssel auf die Mittelkonsole gelegt. Beifahrertür geschlossen, ums Auto herum gegangen und festgestellt, dass das Auto abgeschlossen ist.
+Mit dem Schlüssel drinnen.
+Mir ist bis heute unklar, wie das passieren konnte.
+
+Glücklicherweise war Mel zuhause, sodass wir dann gemeinsam in deren Wohnung den Ersatzschlüssel suchen konnten.
+Der war nämlich seit einigen Wochen weg.
+Nach einer halben Stunde erfolgloser Suche kam so langsam Panik auf, wir waren kurz davor den Händler zum "legalen Knacken" anzurufen.
+In einem letzen Geistesblitz fanden wir dann aber doch den Schlüssel in einer Jacke. 
+Also ging es um kurz nach 11 dann endlich los.
+
+Der Weg auf das Womo Camp Central war entspannt, wir hatten praktisch freie Platzwahl.
+Die 10 Euro Aufpreis für die Frühanreise machen ja zwei Dinge: Einerseits wird die Anreise für alle entzerrt, andererseits kann bzw. muss 
+man einen Tag länger Festivalcamp Feeling genießen.
+
+Soweit so gut, mit den zwei Autos mussten wir ja nichts schleppen, sondern einfach nur aufbauen.
+Die Entscheidung, Wohnanhänger und Wohnmobil zuhause zu lassen und mit 2 PKW und Zelt zu fahren, war zwar neu, aber ganz gut.
+Spart echt Arbeit und mit einer Gasflasche und Absorberkühlbox wird auch das Bier nicht warm.
+
+Nachdem die Zelte standen und wir das Pavillion in der Mitte grob stehen hatten, kamen wir bei bester Laune ins quatschen.
+Der Wind muss diesen Moment erahnt haben und griff mit einer Böe an.
+Einen Moment später war das 20 Euro Billigpavillion einmal um sich selbst und den nebenstehenden Bauzaun gewickelt, denn die Abspannung war natürlich noch nicht am Start.
+Also machten wir drei uns auf zu einer langen Wanderung zum Festival Aldi.
+Da das Infield am Mittwoch natürlich noch nicht offen hatte, mussten wir das Wegbier ganz außen herum tragen.
+
+Angekommen am Supermarkt stellte sich heraus, dass ein neues Pavillion in genauso mieser Qualität absurd teuer war, sodass wir uns für 2 Rollen Gaffa und etwas Redneck-Engineering entschieden.
+Zurück am Zeltplatz angekommen waren Alex und Vivi auch mittlerweile angekommen, nachdem sie mit dem Zug nach Cuxhaven und dann mit dem Shuttle gefahren waren.
+
+Mit ein paar übrigen Stangen aus Alex Ersatzzelt und dem Gaffa war der Pavillion tatsächlich gerettet und hat auch bis zum Ende durchgehalten.
+
+Es wurde in der Abendsonne gelegen, Essen auf dem Gaskocher zubereitet und das eine oder andere Bier getrunken.
+Irgendwann sind wir dann auch los um, die Zeltplatzparties zu erkunden.
+Das war aber alles musikalisch erstaunlich schlecht.
+Bösartiges Elektro Geballer, was selbst angetrunken nicht tanzbar war.
+
+Schön war allerdings, dass ich mal wieder auf meinen Irie Revoltes Pullover angesprochen wurde.
+Diesesmal war mit Lena sogar noch ein weiterer Pullover am Start.
+Beim richtigen Publikum bin ich immer wieder begeistert, was der Pulli auslöst.
+Aber trotzdem haben wir es nicht wirklich lange ausgehalten und sind für einen Frühanreiseabend sogar pünktlich ins Bett.
 
 {% include foldergallery.html folder="2022-07-25/1" %}
 
-## Die ersten Konzerte am Donnerstag
-Ganzen abend im Zelt,
-BEauty and the beats mal nicht mitgenommen
+## Tag Eins: Donnerstag
+* Nebelhorn
+* Ganzen abend im Zelt,
+* BEauty and the beats mal nicht mitgenommen
 
 ### Clowns
-ich weip nix mehr
+* ich weiß nix mehr
 
 ### Deine Cousine
-Woche vorher mit Arne drüber geredet.
-Die erste Anfänger Moshpit
-
+* Woche vorher mit Arne drüber geredet.
+* Die erste Anfänger Moshpit
+* Taffe Frau
 
 ### H-Blockx
-Crossover
+* Crossover
+* Nicht meine Band, aber gut gemacht
 
 ### Mono Inc
-Unerwartet geil
-Charisma bei Drummerin
-Das Boot Cover
+* Unerwartet geil
+* Charisma bei Drummerin
+* Das Boot Cover
 
 ### Callejon
-Extrem harte Mosh
-Musikalisch nur ok, zumindest die ersten Songs. Aussage von Lena aber für den Rest ähnlich.
-
-
+* Extrem harte Mosh
+* Musikalisch nur ok, zumindest die ersten Songs. Aussage von Lena aber für den Rest ähnlich.
 
 ### Imminence
 äh, was war das nochmal? gut war es
 
 ## Der Freitag
-Auto Angefahren
-Flunken
-Volleyball
+* Auto Angefahren
+* Flunken
+* Volleyball
 
 ### Bilbao
 
