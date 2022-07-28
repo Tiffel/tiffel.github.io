@@ -74,7 +74,8 @@ Und Live ist fast immer besser, als Popklassiker auf einen einen dauerhaften 4-o
 {% include foldergallery.html folder="2022-07-25/2" %}
 
 ### Clowns
-äh, keine Erinnerung. Irgendwie Punk
+Die Clowns eröffneten das Deichbrand. Und irgendwie war das Punk.
+Aber an mehr von dem Konzert erinnere ich micht nicht mehr. War wohl alles nur so mittel. 
 
 ### Deine Cousine
 Ich hatte in der Woche vorher mit Arne noch über diese coole Background Sängerin, die er Udo Lindenberg live gesehen hatte geredet.
@@ -86,41 +87,67 @@ Musikalisch ganz cool, wenn auch nicht genau mein Geschmack.
 Aber wenn ich Lust habe und die Musik nur grob passt, kann ich fast alles feiern. 
 Bei den etwas härteren Songs begab ich mich zum aufwärmen in die erste, süße, liebe Anfänger-Moshopit dieses Wochenendes.
 
+{% include foldergallery.html folder="2022-07-25/3" %}
+
 ### H-Blockx
 Der deutsche Crossover Klassiker aus Münster.
 Ich kannte deutlich mehr Songs, als ich erwartet hätte.
 Und die Jungs machen musikalisch einen richtig guten Job.
 Ich hatte aber Blut geleckt und war praktisch ab Song 3 den ganzen Gig alleine in der Moshpit unterwegs.
 
+{% include foldergallery.html folder="2022-07-25/4" %}
+<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/hblockx.mp4' type='video/mp4'/> </video>
+
+
 ### Mono Inc
 Mir war vor dem Auftritt nicht so ganz klar, was Darkrock eigentlich genau meint.
 Aber wenn es so klingt, bin ich jetzt Darkrock Fan.
-Mono Inc. hatte nicht nur ein stylisches Auftreten und eine extrem charismatische Drummerin, sondern hat richtig abgeliefert.
+Mono Inc hatte nicht nur ein stylisches Auftreten und eine extrem charismatische Drummerin, sondern hat richtig abgeliefert.
 
 Das Moschen hab ich mir mal gespart, weil ich schon etwas müde war. 
 Stattdessen konnten Lena und ich in der ersten Reihe neben den eigenen Songs einige Covers erleben.
+Von den eigenen Songs kannte ich vorher praktisch nichts, aber vieles war echt eingängig.
 
-TODO: Kann man das zum reinhören empfehlen oder kann das nur live was?
-
-"The Passenger" von Iggy Pop war ein Soloding vom Sänger, was natürlich alle zum misingen animiert hat.
+Das Akustikcover von Iggy Pops "The Passenger" war ein Soloding vom Sänger, was natürlich alle zum misingen animiert hat.
 
 Krass gut war aber das Drumcover von "Das Boot".
 Der Sound war richtig gut, die Lightshow am ausgestatteten Drumset auch.
+
 TODO: Video
- 
+
+
+Ich hab Mono Inc nach dem Festival nochmal im Stream gehört.
+Die Studioaufnahmen sind gut, aber machen bei weitem nicht so Spass wie die Truppe live.
+{% include foldergallery.html folder="2022-07-25/5" %}
 
 ### Callejon
-Ich hatte in den eltzen Wochen vorm Festival relativ viel Callejon gehört.
-Allerdings den Mainstream Einstieg über deren beiden Coveralben "Man spricht Deutsch" und "TODO NAME", wovon ich das erstere initial nur aus Maesches Auto kannte.
+Ich hatte in den letzen Wochen vorm Festival relativ viel Callejon gehört.
+Allerdings den Mainstream Einstieg über deren beiden Coveralben "Man spricht Deutsch" und "Hartgeld im Club", wovon ich das erstere initial aus Maesches Auto kannte.
 
 Aber auch die eigenen Songs können was, das ist richtig guter Metalcore.
+Dachte ich. Mann muss sagen, dass die Truppe live zwar richtig Spass gemacht hat, musikalisch aber nicht so richtig richtig gut war.
+Das war zumindest mein Eindruck bei den ersten paar Songs.
 
-* dankbarer sänger. lieb sagen "endlich wider live" und dann grunten
-* Extrem harte Mosh
-* Musikalisch nur ok, zumindest die ersten Songs. Aussage von Lena aber für den Rest ähnlich.
+Ab dort war ich in einer echt harten Moshpit unterwegs, die aber mega Spass gemacht hat.
+Da mobilisiert man nochmal alle Kräfte.
+
+Ansonsten muss man noch sagen, dass der Sänger unglaublich dankbar war, wieder live spielen zu können.
+Es war schon fast süß, wie er sich, geschminkt wie ein Waschbär, ständig beim Publikum bedankt hat.
+Um dann einen Moment später zu growlen wie ein Irrer. 
+
+TODO Video
+
+{% include foldergallery.html folder="2022-07-25/6" %}
 
 ### Imminence
-äh, was war das nochmal? gut war es
+Klang beim reinhören zuhause schon richtig gut, war live noch viel besser.
+Metalcore mit Geige in einer musikalisch grandiosen Umsetzung.
+Was der Gitarist da veranstaltet hat war einfach aller erste Liga.
+
+Viel mehr gibts garnicht dazu zu erzählen, um 02:30 sind wir erschöft von über 6 Stunden hartem Feiern zu großartiger Musik zurück ins Camp.
+Was ein erster Tag im Palastzelt.
+
+{% include foldergallery.html folder="2022-07-25/7" %}
 
 ## Tag Zwei: Freitag
 * Auto Angefahren
