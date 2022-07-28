@@ -113,8 +113,7 @@ Das Akustikcover von Iggy Pops "The Passenger" war ein Soloding vom Sänger, was
 Krass gut war aber das Drumcover von "Das Boot".
 Der Sound war richtig gut, die Lightshow am ausgestatteten Drumset auch.
 
-TODO: Video
-
+<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/monoinc-passenger.mp4' type='video/mp4'/> </video>
 
 Ich hab Mono Inc nach dem Festival nochmal im Stream gehört.
 Die Studioaufnahmen sind gut, aber machen bei weitem nicht so Spass wie die Truppe live.
@@ -135,7 +134,7 @@ Ansonsten muss man noch sagen, dass der Sänger unglaublich dankbar war, wieder 
 Es war schon fast süß, wie er sich, geschminkt wie ein Waschbär, ständig beim Publikum bedankt hat.
 Um dann einen Moment später zu growlen wie ein Irrer. 
 
-TODO Video
+<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/callejon-mosch.mp4' type='video/mp4'/> </video>
 
 {% include foldergallery.html folder="2022-07-25/6" %}
 
