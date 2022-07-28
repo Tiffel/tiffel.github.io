@@ -71,6 +71,8 @@ Für uns war es das erste Mal den üblichen Donnerstags-DJ "Beauty and the Beats
 Der Musikgeschmack ist über die letzen Jahre einfach härter geworden, sodass es im Palastzelt echt viele neue Möglichkeiten für gute Musik gibt.
 Und Live ist fast immer besser, als Popklassiker auf einen einen dauerhaften 4-on-the-floor Beat im Diskofox Tempo zu feiern.
 
+{% include foldergallery.html folder="2022-07-25/2" %}
+
 ### Clowns
 äh, keine Erinnerung. Irgendwie Punk
 
