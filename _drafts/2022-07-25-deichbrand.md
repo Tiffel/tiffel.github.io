@@ -149,6 +149,12 @@ Was ein erster Tag im Palastzelt.
 {% include foldergallery.html folder="2022-07-25/7" %}
 
 ## Tag Zwei: Freitag
+Der Freitag begann nach dem typisch kurzem Festivalschlaf damit, dass unser Nachbar noch etwas mit seinem geliehenen Sprinter holen fahren wollte.
+Normalerweise fährt dieser Mensch wohl einen Kleinwagen, auf jeden Fall hatte ich nach seinem Ausparken einen demolierten Heckscheinwerfer und Stoßstange.
+Hat alles ganz schön genervt und auch unnötige Arbeit und Klärungen über das Wochenende mitsich gezogen, aber ist im Endeffekt gut ausgegangen.
+Abharken, weiter machen.
+
+
 * Auto Angefahren
 * Flunken
 * Volleyball
@@ -158,8 +164,14 @@ Was ein erster Tag im Palastzelt.
 ### Le Fly
 Mega eskalation
 
+
+<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/lefly-stpaulitanzmusik.mp4' type='video/mp4'/> </video>
+
 ### Rogers
 harte mosch obwohl ich eigentlich koplmlett platt war
+abschluss zu gigi dagostino
+
+<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/rogers-flywithyou.mp4' type='video/mp4'/> </video>
 
 ### Le Fly nochaml am Merch
 statt zu chillen flubnky ball, 
@@ -172,6 +184,12 @@ Schmutzki leider ausgelassen
 
 ### Guano Apes
 mega präsenz der sängerin 
+loose yourself cover
+
+
+<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/guanoapes-looseyourself.mp4' type='video/mp4'/> </video>
+<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/guanoapes-openyoureyes.mp4' type='video/mp4'/> </video>
+
 
 ### The Struts
 Glam Rock
@@ -183,6 +201,8 @@ Konzerte von dort ist wie fernsehen schauen. und ständig will irgendwer irgendw
 Das geht nicht mehr. entweder vorne drin
 
 Früher gegangen, reiche mir auch für den Tag. Apache 207 und auch Afrob weggelassen
+
+<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/kraftklub-nichtnachberlin.mp4' type='video/mp4'/> </video>
 
 
 ## Der Samstag
@@ -204,6 +224,8 @@ ramones blitzkrieg bop
 
 Pause am Camp (Gespräch mit flo)
 
+<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/antiflag.mp4' type='video/mp4'/> </video>
+
 ### Flogging Molly
 Finch in der mosh
 
@@ -220,10 +242,17 @@ kevin getrroffen
 
 Abscchluss Bier am Camp um halb 3, es war scheiss kalt
 
+
+<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/nightwish.mp4' type='video/mp4'/> </video>
+
+
 ## Der Sonntag
 ### 257ers
 mega witzig
 schaum party
+
+<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/die257-meinholz.mp4' type='video/mp4'/> </video>
+
 
 ### Großstadt Geflüster
 top, die frau hat mega power.
@@ -247,10 +276,17 @@ Warum es dort in der letzen halben Stunde für vorne rein noch Platz gab ist wei
 
 Unerfahrene Leute, die nicht sehen, wann aus einem Circle eine Mosh wird.
 
+
+<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/madsen.mp4' type='video/mp4'/> </video>
+
+
 ### Dropkick Murphies
 letzes bishcen sido gehört, uff.
 
 erstaunlich lange leer, aber die leute hatten dann auch bock
+<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/dropkick-boysareback.mp4' type='video/mp4'/> </video>
+
+
 
 ### Abfahrt
 um 23:00 vorne raus, um 23:20 vom Gelände, um 01:30 in Lübbecke, trotz detour in bremen
