@@ -156,14 +156,14 @@ Abharken, weiter machen.
 
 Bei leicht besserem Wetter als am verregneten morgen verbrachten wir den Tag bei Volleyball und Flunkyball mit den Nachbarn.
 
-{% include foldergallery.html folder="2022-07-25/8" %}
+{% include foldergallery.html folder="2022-07-25/fr/1" %}
 
 ### Le Fly
 Nach dem wir ganz kurz um 14:00 bei Bilbao reingeschaut hatten ging es um kur vor 3 rüber zur Waterstage.
 Dort begann der Tag mit dem Konzert, auf das ich mich vermutlich am meisten im vorhinein gefreut habe:
 Die Deichbrand Veteranen "Le Fly", die ich wohl mittlerweile ca. 15 mal Live gesehen habe und eine meiner Lieblingsbands sind.
 
-Entsprechend eskalativ bin ich die Sache angegangen.#
+Entsprechend eskalativ bin ich die Sache angegangen.
 DIe gesamte Zeit durch gesprungen, gesunden und in jeder Moshpit und jedem Circle vorne mit dabei.
 Im Ergebniss gibt es wenig Fotos, ich hatte mega Spass, vermutlich eine kleine Gehirnerschütterung und war nach dem Konzert völlig fertig.
 Und das war es trotzdem jede Sekunde wert, voll drin durchzuziehen.
@@ -172,7 +172,7 @@ Die Jungs machen Live einfach so einen guten Job, da muss man einfach Spass habe
 Nur man muss vielleicht nicht gaaaanzt der allererste in der Moshpit sein.
 Denn dort rennt man einfach Vollgas in eine Wand.
 Dann spart man sich auch die blauen Flecken und Ibu's nach dem Konzert.
-{% include foldergallery.html folder="2022-07-25/9" %}
+{% include foldergallery.html folder="2022-07-25/fr/2" %}
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/lefly-stpaulitanzmusik.mp4' type='video/mp4'/> </video>
 
@@ -190,7 +190,7 @@ Ein witziger Abschluss war Gigi D'Agostinos "I'll fly with you", was nach dem Ko
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/rogers-flywithyou.mp4' type='video/mp4'/> </video>
 
 
-{% include foldergallery.html folder="2022-07-25/10" %}
+{% include foldergallery.html folder="2022-07-25/fr/3" %}
 
 ### Le Fly am Merch
 Wenn man bei den Konzerten am Vormittag zuhört, oder das Deichbrand kennt, weiß man, dass gewisse Bands noch eine Merch-Session machen.
@@ -211,7 +211,7 @@ Selbst wenn ich leicht vertrahlt schaue.
 
 Super Sache, dafür mussten wir leider Schmutzki auslassen. Die waren parallel zur Merch Session im Palastzelt, aber alles geht eben nicht.
 
-{% include foldergallery.html folder="2022-07-25/11" %}
+{% include foldergallery.html folder="2022-07-25/fr/4" %}
 
 ### Guano Apes
 Auf ging es zu den Apes, wo Flo und Alex auch wieder am Start waren.
@@ -223,7 +223,7 @@ Musikalisch im Lead ist bei der Truppe übrigens der Bassist, der auch die meist
 Gitarre und Drums wirken eher wie Beiwerk.
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/guanoapes-openyoureyes.mp4' type='video/mp4'/> </video>
-{% include foldergallery.html folder="2022-07-25/12" %}
+{% include foldergallery.html folder="2022-07-25/fr/5" %}
 
 
 Ein weiteres Highlight war ein rockiges Cover von Eminems "Lose Yourself":
@@ -237,7 +237,7 @@ Ich hatte mich mit einer der Fans unterhalten und wir waren uns uneinig, ob der 
 Wie auch immer sie auf Michael Jackson kam, als die Struts dann "Jumping Jack Flash" coverten musste sie mir recht geben.
 
 Echt witziges Konzert und eine schöne Abwechslung
-{% include foldergallery.html folder="2022-07-25/13" %}
+{% include foldergallery.html folder="2022-07-25/fr/6" %}
 
 ### Kraftklub
 Wir sparten und Bausa (mein Gott war das bischen was wir beim gegen hören durften schlecht) und sind fix zum Camp.
@@ -260,7 +260,7 @@ Aber an unserer Stehposition hatte ich nicht wirklich Spaß und bin nach ner Stu
 Ich selbst war dann auch zu müde und für den Tag auch gut bedient, um mich nochmal zu Apacke 207 und dannach Afrob aufzuraffen.
 Es gab aber noch ein paar Bier mit den Nachbarn am Camp, während Lena und Flo noch unterwegs und Alex und Vivi schon schlafen waren.
 
-{% include foldergallery.html folder="2022-07-25/14" %}
+{% include foldergallery.html folder="2022-07-25/fr/7" %}
 
 ## Der Samstag
 Man als Scooter Fan hätte wohl zu Finch gehen sollen
