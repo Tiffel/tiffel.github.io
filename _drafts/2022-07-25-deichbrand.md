@@ -71,7 +71,7 @@ Für uns war es das erste Mal den üblichen Donnerstags-DJ "Beauty and the Beats
 Der Musikgeschmack ist über die letzen Jahre einfach härter geworden, sodass es im Palastzelt echt viele neue Möglichkeiten für gute Musik gibt.
 Und Live ist fast immer besser, als Popklassiker auf einen einen dauerhaften 4-on-the-floor Beat im Diskofox Tempo zu feiern.
 
-{% include foldergallery.html folder="2022-07-25/2" %}
+{% include foldergallery.html folder="2022-07-25/do/1" %}
 
 ### Clowns
 Die Clowns eröffneten das Deichbrand. Und irgendwie war das Punk.
@@ -87,7 +87,7 @@ Musikalisch ganz cool, wenn auch nicht genau mein Geschmack.
 Aber wenn ich Lust habe und die Musik nur grob passt, kann ich fast alles feiern. 
 Bei den etwas härteren Songs begab ich mich zum aufwärmen in die erste, süße, liebe Anfänger-Moshopit dieses Wochenendes.
 
-{% include foldergallery.html folder="2022-07-25/3" %}
+{% include foldergallery.html folder="2022-07-25/do/2" %}
 
 ### H-Blockx
 Der deutsche Crossover Klassiker aus Münster.
@@ -95,8 +95,8 @@ Ich kannte deutlich mehr Songs, als ich erwartet hätte.
 Und die Jungs machen musikalisch einen richtig guten Job.
 Ich hatte aber Blut geleckt und war praktisch ab Song 3 den ganzen Gig alleine in der Moshpit unterwegs.
 
-{% include foldergallery.html folder="2022-07-25/4" %}
-<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/hblockx.mp4' type='video/mp4'/> </video>
+{% include foldergallery.html folder="2022-07-25/do/3" %}
+<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/do/hblockx.mp4' type='video/mp4'/> </video>
 
 
 ### Mono Inc
@@ -113,11 +113,11 @@ Das Akustikcover von Iggy Pops "The Passenger" war ein Soloding vom Sänger, was
 Krass gut war aber das Drumcover von "Das Boot".
 Der Sound war richtig gut, die Lightshow am ausgestatteten Drumset auch.
 
-<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/monoinc-passenger.mp4' type='video/mp4'/> </video>
+<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/do/monoinc-passenger.mp4' type='video/mp4'/> </video>
 
 Ich hab Mono Inc nach dem Festival nochmal im Stream gehört.
 Die Studioaufnahmen sind gut, aber machen bei weitem nicht so Spass wie die Truppe live.
-{% include foldergallery.html folder="2022-07-25/5" %}
+{% include foldergallery.html folder="2022-07-25/do/4" %}
 
 ### Callejon
 Ich hatte in den letzen Wochen vorm Festival relativ viel Callejon gehört.
@@ -134,9 +134,9 @@ Ansonsten muss man noch sagen, dass der Sänger unglaublich dankbar war, wieder 
 Es war schon fast süß, wie er sich, geschminkt wie ein Waschbär, ständig beim Publikum bedankt hat.
 Um dann einen Moment später zu growlen wie ein Irrer. 
 
-<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/callejon-mosch.mp4' type='video/mp4'/> </video>
+<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/do/callejon-mosch.mp4' type='video/mp4'/> </video>
 
-{% include foldergallery.html folder="2022-07-25/6" %}
+{% include foldergallery.html folder="2022-07-25/do/5" %}
 
 ### Imminence
 Klang beim reinhören zuhause schon richtig gut, war live noch viel besser.
@@ -146,7 +146,7 @@ Was der Gitarist da veranstaltet hat war einfach aller erste Liga.
 Viel mehr gibts garnicht dazu zu erzählen, um 02:30 sind wir erschöft von über 6 Stunden hartem Feiern zu großartiger Musik zurück ins Camp.
 Was ein erster Tag im Palastzelt.
 
-{% include foldergallery.html folder="2022-07-25/7" %}
+{% include foldergallery.html folder="2022-07-25/do/6" %}
 
 ## Tag Zwei: Freitag
 Der Freitag begann nach dem typisch kurzem Festivalschlaf damit, dass unser Nachbar noch etwas mit seinem geliehenen Sprinter holen fahren wollte.
@@ -264,7 +264,7 @@ Es gab aber noch ein paar Bier mit den Nachbarn am Camp, während Lena und Flo n
 
 ## Der Samstag
 Man als Scooter Fan hätte wohl zu Finch gehen sollen
-{% include foldergallery.html folder="2022-07-25/sa" %}
+{% include foldergallery.html folder="2022-07-25/sa_all" %}
 
 
 ### Monsters of Liedermaching
@@ -316,7 +316,7 @@ Abscchluss Bier am Camp um halb 3, es war scheiss kalt
 
 
 ## Der Sonntag
-{% include foldergallery.html folder="2022-07-25/so" %}
+{% include foldergallery.html folder="2022-07-25/so_all" %}
 
 
 
