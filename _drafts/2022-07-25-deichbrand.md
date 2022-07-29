@@ -151,71 +151,116 @@ Was ein erster Tag im Palastzelt.
 ## Tag Zwei: Freitag
 Der Freitag begann nach dem typisch kurzem Festivalschlaf damit, dass unser Nachbar noch etwas mit seinem geliehenen Sprinter holen fahren wollte.
 Normalerweise fährt dieser Mensch wohl einen Kleinwagen, auf jeden Fall hatte ich nach seinem Ausparken einen demolierten Heckscheinwerfer und Stoßstange.
-Hat alles ganz schön genervt und auch unnötige Arbeit und Klärungen über das Wochenende mitsich gezogen, aber ist im Endeffekt gut ausgegangen.
+Hat alles ganz schön genervt und auch unnötige Arbeit und Klärungen über das Wochenende mit sich gezogen, aber ist im Endeffekt gut ausgegangen.
 Abharken, weiter machen.
 
-
-* Auto Angefahren
-* Flunken
-* Volleyball
+Bei leicht besserem Wetter als am verregneten morgen verbrachten wir den Tag bei Volleyball und Flunkyball mit den Nachbarn.
 
 {% include foldergallery.html folder="2022-07-25/8" %}
 
 ### Le Fly
-Nach dem wir ganz kurz bei Bilbao reingeschaut hatten, begann der Tag mit dem Konzert, auf das ich mich vermutlich am meisten vim vorhinein gefreut habe:
+Nach dem wir ganz kurz um 14:00 bei Bilbao reingeschaut hatten ging es um kur vor 3 rüber zur Waterstage.
+Dort begann der Tag mit dem Konzert, auf das ich mich vermutlich am meisten im vorhinein gefreut habe:
+Die Deichbrand Veteranen "Le Fly", die ich wohl mittlerweile ca. 15 mal Live gesehen habe und eine meiner Lieblingsbands sind.
 
-Mega eskalation
+Entsprechend eskalativ bin ich die Sache angegangen.#
+DIe gesamte Zeit durch gesprungen, gesunden und in jeder Moshpit und jedem Circle vorne mit dabei.
+Im Ergebniss gibt es wenig Fotos, ich hatte mega Spass, vermutlich eine kleine Gehirnerschütterung und war nach dem Konzert völlig fertig.
+Und das war es trotzdem jede Sekunde wert, voll drin durchzuziehen.
+Die Jungs machen Live einfach so einen guten Job, da muss man einfach Spass haben.
+
+Nur man muss vielleicht nicht gaaaanzt der allererste in der Moshpit sein.
+Denn dort rennt man einfach Vollgas in eine Wand.
+Dann spart man sich auch die blauen Flecken und Ibu's nach dem Konzert.
 {% include foldergallery.html folder="2022-07-25/9" %}
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/lefly-stpaulitanzmusik.mp4' type='video/mp4'/> </video>
 
 ### Rogers
-harte mosch obwohl ich eigentlich koplmlett platt war
-abschluss zu gigi dagostino
+Ich wusste ja, dass die Jungs Spaß machen.
+Aber das sie soviel Spaß machen, hab ich nicht erwartet.
+Erlicher, guter, witziger, deutscher Punk.
+Der Sänger war selber ständig am Crownsurfen.
 
-{% include foldergallery.html folder="2022-07-25/10" %}
+Und obwohl ich nach der Le Fly Nummer eigentlich noch völlig platt war, konnte ich es nicht lassen, in der doch härterem Moshpit mitzumischen.
+Wenn auch etwas zurückhaltener, wie man es eben eigentlich machen sollte.
+
+Ein witziger Abschluss war Gigi D'Agostinos "I'll fly with you", was nach dem Konzert schrecklich-schön von der erschöpften Menge mitgesunden wurde.
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/rogers-flywithyou.mp4' type='video/mp4'/> </video>
 
-### Le Fly nochaml am Merch
-statt zu chillen flubnky ball, 
-dann noch schnell essen
-auf zur zweite runde le fly am merch 
-altes Foto nachgestellt
 
-Schmutzki leider ausgelassen
+{% include foldergallery.html folder="2022-07-25/10" %}
+
+### Le Fly am Merch
+Wenn man bei den Konzerten am Vormittag zuhört, oder das Deichbrand kennt, weiß man, dass gewisse Bands noch eine Merch-Session machen.
+Dafür gibt es sogar einen Timetable, der zwar dort hängt, aber nirgends online ist. Also immer ein kleiner Insider Tipp für Fans der Vormittagsbands.
+
+Nach dem Rogers Konzert waren wir kurz im Camp, um zu chillen. 
+Das hat garnicht funktionert, weil noch eine Flunkyball Rechnung offen war.
+Dannach allerdings ging es nach schnellem Essen zum Merch Stand.
+
+Die beiden Sänger waren alleine und sichtlich betrunken, hatten also nach ihrem Konzert wohl etwas Spass.
+Entsprechend war es schräg und musikalisch garnicht so gut, aber enorm witzig.
+Wer schonmal beim Le Fly Heimspiel Konzert auf St. Pauli war, weiß was gemeint ist.
+Es wurden ein oder zwei Hits gespielt, aber ansonsten gab es schonmal Materiel vom nächsten Album zu hören.
+Ich freu mich drauf.
+
+Lena und mein erklärtes Ziel war, unser Foto von 2017 mit Sänger Schmiddelfinger nochmal nachzustellen, was wir auch geschafft haben.
+Selbst wenn ich leicht vertrahlt schaue.
+
+Super Sache, dafür mussten wir leider Schmutzki auslassen. Die waren parallel zur Merch Session im Palastzelt, aber alles geht eben nicht.
+
 {% include foldergallery.html folder="2022-07-25/11" %}
 
-
-
 ### Guano Apes
-mega präsenz der sängerin 
-loose yourself cover
+Auf ging es zu den Apes, wo Flo und Alex auch wieder am Start waren.
+Ich hab ja irgendwie nichts erwartet, sondern gedacht, dass der Skaterpunk von vor 20 Jahren ganz schön anmgestaubt wird.
 
+Was hab ich mich getäuscht.
+Die Sängerin Sandra Nasić hat eine unfassbare Bühnenpräsenz und die alten Hits funktionieren auch heute noch.
+Musikalisch im Lead ist bei der Truppe übrigens der Bassist, der auch die meiste Bühneninteraktion neben der Sängerin macht.
+Gitarre und Drums wirken eher wie Beiwerk.
+
+<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/guanoapes-openyoureyes.mp4' type='video/mp4'/> </video>
 {% include foldergallery.html folder="2022-07-25/12" %}
 
 
-<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/guanoapes-looseyourself.mp4' type='video/mp4'/> </video>
-<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/guanoapes-openyoureyes.mp4' type='video/mp4'/> </video>
-
+Ein weiteres Highlight war ein rockiges Cover von Eminems "Lose Yourself":
+<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/guanoapes-loseyourself.mp4' type='video/mp4'/> </video>
 
 ### The Struts
-Glam Rock
+Nichts gegen Clueso, aber wir haben uns die Mainstage gespart und sind ins Palastzelt zu The Struts.
+
+Dort gabs Glam Rock, der auch 40 Jahr alt hätte sein können.
+Ich hatte mich mit einer der Fans unterhalten und wir waren uns uneinig, ob der Sänger eher Mick Jagger von den Stones oder Michael Jackson verkörpert.
+Wie auch immer sie auf Michael Jackson kam, als die Struts dann "Jumping Jack Flash" coverten musste sie mir recht geben.
+
+Echt witziges Konzert und eine schöne Abwechslung
 {% include foldergallery.html folder="2022-07-25/13" %}
 
-
-
 ### Kraftklub
-zu spät los, nicht mehr ins infield.  mies gestanden in der zweiten Welle gestanden.
-Konzerte von dort ist wie fernsehen schauen. und ständig will irgendwer irgendwo vorbei laufen.
-Das geht nicht mehr. entweder vorne drin
+Wir sparten und Bausa (mein Gott war das bischen was wir beim gegen hören durften schlecht) und sind fix zum Camp.
 
-Früher gegangen, reiche mir auch für den Tag. Apache 207 und auch Afrob weggelassen
+Leider setze nach dem Tag eine gewisse Lethargie ein, sodass wir zu spät los sind und es nicht mehr in die erste Welle geschafft haben.
+Wer etwas Festival erfahren hat weiß, dass man ganz vorne mehr Platz als in der zweiten Welle hat. Und vorallem hat man dort keinen Durchgangsverkehr.
+
+Nun standen wir also relativ weit weg. Es war eng, ständig wollte jemand vorbei und von der Bühne gesehen hat man auch nichts.
+Klar gibts Leinwände, aber das macht einfach nicht wirklich Spaß.
+
+Nachdem Kraftklub irgendwann vor 2015 dem Deichbrand einen Antrag gemacht, 2017 das Festival geheiratet hat, feierten wir diesesmal die Silberhochzeit.
+Schön, wenn sich so ein Joke über mehrere Jahre und Festivalauftritte hält.
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/kraftklub-nichtnachberlin.mp4' type='video/mp4'/> </video>
+
+Was man mitbekommen hat eine solide Show, die Jungs sind schon gut.
+Aber an unserer Stehposition hatte ich nicht wirklich Spaß und bin nach ner Stunde los.
+Ärgerlich, aber ein bischen selbst schuld. Es geht einfach nur noch vorne drin oder am Camp bleiben bei einem Headliner, alles andere ist inakzeptabel.
+
+Ich selbst war dann auch zu müde und für den Tag auch gut bedient, um mich nochmal zu Apacke 207 und dannach Afrob aufzuraffen.
+Es gab aber noch ein paar Bier mit den Nachbarn am Camp, während Lena und Flo noch unterwegs und Alex und Vivi schon schlafen waren.
+
 {% include foldergallery.html folder="2022-07-25/14" %}
-
-
 
 ## Der Samstag
 Man hätte wohl zu Finch gehen sollen
