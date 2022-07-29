@@ -263,19 +263,26 @@ Es gab aber noch ein paar Bier mit den Nachbarn am Camp, während Lena und Flo n
 {% include foldergallery.html folder="2022-07-25/14" %}
 
 ## Der Samstag
-Man hätte wohl zu Finch gehen sollen
+Man als Scooter Fan hätte wohl zu Finch gehen sollen
 {% include foldergallery.html folder="2022-07-25/sa" %}
 
 
 ### Monsters of Liedermaching
-Super witzig wie immer. gut im improvisieren
+6 Liedermacher, die dieses mal nur zu viert waren. 
+Wir waren in voller Besetzung zu fünft vor Ort, also sogar mehr also auf der Bühne waren.
 
+Immer direkt, immer albert, immer irgendwie doch bei der Wahrheit.
+Es war wir immer super witzig mit den Jungs, es gab viel zum Mitsingen und am Ende grölten alle seeling "Kola Korn".
+Emfpehlenswert. Also die Monsters und, wenn man im Norden aufm Land unterwegs ist, auch Kola Korn.
 
-Querbeat verpasst, lieber Flunk
-Schade, die letzen 2 Sonds klangen gut
+Dannach bin ich nochmal zurück zum Camp, weil ich nicht so richtig Lust auf Querbeat hatte.
+Hab mal wieder eine nette Runde Flunkyball gespielt.
+Beim laufen zu Antiflag habe ich die letzen zwei Songs von denen gehört und mich drüber geärgert nicht hingegangen zu sein. 
+Naja, schade.
 
 ### Anti-Flag
-Wenn sich eine amerikanische Band so nennt und man weiß wie die Amis ihre Flagge lieben kann es sich hier nur um Punk handlen.
+Wenn sich eine amerikanische Band so nennt wie diese und man weiß, wie sehr die Amerikaner ihre Flagge lieben kann es sich hier nur um Punk handlen.
+Es wurde eindeutig politisch Stellung bezogen, die aufhebung von Roe vs. Walde (TODO) des SCOTUS war ja nicht besonders lange her.
 
 Am Ende Klassiker covern:
 Clash should i stay or should i go
@@ -284,6 +291,9 @@ ramones blitzkrieg bop
 Pause am Camp (Gespräch mit flo)
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/antiflag.mp4' type='video/mp4'/> </video>
+
+Nach der Eskalation der letzen Tage ging es hiernach für ein paar Stunden zum Camp zurück, wo ich einfach eine Weile unterhalten und in Ruhe etwas gegessen hab. 
+Mal kein Flunkyball, kein Stechschritt zur nächsten Band, sondern einfach Pause.
 
 ### Flogging Molly
 Finch in der mosh
