@@ -159,17 +159,21 @@ Abharken, weiter machen.
 * Flunken
 * Volleyball
 
-### Bilbao
+{% include foldergallery.html folder="2022-07-25/8" %}
 
 ### Le Fly
-Mega eskalation
+Nach dem wir ganz kurz bei Bilbao reingeschaut hatten, begann der Tag mit dem Konzert, auf das ich mich vermutlich am meisten vim vorhinein gefreut habe:
 
+Mega eskalation
+{% include foldergallery.html folder="2022-07-25/9" %}
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/lefly-stpaulitanzmusik.mp4' type='video/mp4'/> </video>
 
 ### Rogers
 harte mosch obwohl ich eigentlich koplmlett platt war
 abschluss zu gigi dagostino
+
+{% include foldergallery.html folder="2022-07-25/10" %}
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/rogers-flywithyou.mp4' type='video/mp4'/> </video>
 
@@ -180,11 +184,15 @@ auf zur zweite runde le fly am merch
 altes Foto nachgestellt
 
 Schmutzki leider ausgelassen
+{% include foldergallery.html folder="2022-07-25/11" %}
+
 
 
 ### Guano Apes
 mega präsenz der sängerin 
 loose yourself cover
+
+{% include foldergallery.html folder="2022-07-25/12" %}
 
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/guanoapes-looseyourself.mp4' type='video/mp4'/> </video>
@@ -193,6 +201,8 @@ loose yourself cover
 
 ### The Struts
 Glam Rock
+{% include foldergallery.html folder="2022-07-25/13" %}
+
 
 
 ### Kraftklub
@@ -203,10 +213,14 @@ Das geht nicht mehr. entweder vorne drin
 Früher gegangen, reiche mir auch für den Tag. Apache 207 und auch Afrob weggelassen
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/kraftklub-nichtnachberlin.mp4' type='video/mp4'/> </video>
+{% include foldergallery.html folder="2022-07-25/14" %}
+
 
 
 ## Der Samstag
 Man hätte wohl zu Finch gehen sollen
+{% include foldergallery.html folder="2022-07-25/sa" %}
+
 
 ### Monsters of Liedermaching
 Super witzig wie immer. gut im improvisieren
@@ -247,6 +261,10 @@ Abscchluss Bier am Camp um halb 3, es war scheiss kalt
 
 
 ## Der Sonntag
+{% include foldergallery.html folder="2022-07-25/so" %}
+
+
+
 ### 257ers
 mega witzig
 schaum party
