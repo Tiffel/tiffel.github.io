@@ -74,5 +74,11 @@ until now use `<video>` manually
     ffmpeg -i aerzte_westerland.mp4 -vcodec libx264 -vf scale=1280:720 -acodec copy -preset slow -crf 23 aerzte_westerland-out.mp4
 
 
+originaldatei aerzte_westerland-og.mp4
+
+    vid=aerzte_westerland
+    ffmpeg -i $vid-og.mp4 -vcodec libx264 -vf scale=1280:720 -acodec copy -preset slow -crf 23 $vid.mp4 && rm $vid-og.mp4
+
+
 
 https://stackoverflow.com/a/69316283
