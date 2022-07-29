@@ -46,7 +46,7 @@ Diesesmal war mit Lena sogar noch ein weiterer Pullover am Start.
 Beim richtigen Publikum bin ich immer wieder begeistert, was der Pulli auslöst.
 Aber trotzdem haben wir es nicht wirklich lange ausgehalten und sind für einen Frühanreiseabend sogar pünktlich ins Bett.
 
-{% include foldergallery.html folder="2022-07-25/1" %}
+{% include foldergallery.html folder="2022-07-25/mi" %}
 
 ## Tag Eins: Donnerstag
 Donnerstag ist ja der reguläre Anreisetag, vor 18:00 gibts also nirgends Musik.
