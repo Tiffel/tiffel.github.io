@@ -257,15 +257,15 @@ Was man mitbekommen hat eine solide Show, die Jungs sind schon gut.
 Aber an unserer Stehposition hatte ich nicht wirklich Spaß und bin nach ner Stunde los.
 Ärgerlich, aber ein bischen selbst schuld. Es geht einfach nur noch vorne drin oder am Camp bleiben bei einem Headliner, alles andere ist inakzeptabel.
 
-Ich selbst war dann auch zu müde und für den Tag auch gut bedient, um mich nochmal zu Apacke 207 und dannach Afrob aufzuraffen.
+Ich selbst war dann auch zu müde und für den Tag auch gut bedient, um mich nochmal zu Apache 207 und dannach Afrob aufzuraffen.
 Es gab aber noch ein paar Bier mit den Nachbarn am Camp, während Lena und Flo noch unterwegs und Alex und Vivi schon schlafen waren.
 
 {% include foldergallery.html folder="2022-07-25/fr/7" %}
 
 ## Der Samstag
 Man als Scooter Fan hätte wohl zu Finch gehen sollen
-{% include foldergallery.html folder="2022-07-25/sa_all" %}
 
+{% include foldergallery.html folder="2022-07-25/sa/1" %}
 
 ### Monsters of Liedermaching
 6 Liedermacher, die dieses mal nur zu viert waren. 
@@ -280,6 +280,8 @@ Hab mal wieder eine nette Runde Flunkyball gespielt.
 Beim laufen zu Antiflag habe ich die letzen zwei Songs von denen gehört und mich drüber geärgert nicht hingegangen zu sein. 
 Naja, schade.
 
+{% include foldergallery.html folder="2022-07-25/sa/2" %}
+
 ### Anti-Flag
 Wenn sich eine amerikanische Band so nennt wie diese und man weiß, wie sehr die Amerikaner ihre Flagge lieben kann es sich hier nur um Punk handlen.
 Es wurde eindeutig politisch Stellung bezogen, die aufhebung von Roe vs. Walde (TODO) des SCOTUS war ja nicht besonders lange her.
@@ -288,6 +290,7 @@ Am Ende Klassiker covern:
 Clash should i stay or should i go
 ramones blitzkrieg bop
 
+{% include foldergallery.html folder="2022-07-25/sa/3" %}
 Pause am Camp (Gespräch mit flo)
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/antiflag.mp4' type='video/mp4'/> </video>
@@ -295,8 +298,11 @@ Pause am Camp (Gespräch mit flo)
 Nach der Eskalation der letzen Tage ging es hiernach für ein paar Stunden zum Camp zurück, wo ich einfach eine Weile unterhalten und in Ruhe etwas gegessen hab. 
 Mal kein Flunkyball, kein Stechschritt zur nächsten Band, sondern einfach Pause.
 
+
 ### Flogging Molly
 Finch in der mosh
+
+{% include foldergallery.html folder="2022-07-25/sa/4" %}
 
 
 ### Nightwish
@@ -310,6 +316,8 @@ stimmung war trotzdem ganz ok.
 kevin getrroffen
 
 Abscchluss Bier am Camp um halb 3, es war scheiss kalt
+{% include foldergallery.html folder="2022-07-25/sa/5" %}
+
 
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/nightwish.mp4' type='video/mp4'/> </video>
