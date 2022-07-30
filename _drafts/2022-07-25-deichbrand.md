@@ -174,7 +174,7 @@ Denn dort rennt man einfach Vollgas in eine Wand.
 Dann spart man sich auch die blauen Flecken und Ibu's nach dem Konzert.
 {% include foldergallery.html folder="2022-07-25/fr/2" %}
 
-<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/lefly-stpaulitanzmusik.mp4' type='video/mp4'/> </video>
+<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/fr/lefly-stpaulitanzmusik.mp4' type='video/mp4'/> </video>
 
 ### Rogers
 Ich wusste ja, dass die Jungs Spaß machen.
@@ -187,7 +187,7 @@ Wenn auch etwas zurückhaltener, wie man es eben eigentlich machen sollte.
 
 Ein witziger Abschluss war Gigi D'Agostinos "I'll fly with you", was nach dem Konzert schrecklich-schön von der erschöpften Menge mitgesunden wurde.
 
-<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/rogers-flywithyou.mp4' type='video/mp4'/> </video>
+<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/fr/rogers-flywithyou.mp4' type='video/mp4'/> </video>
 
 
 {% include foldergallery.html folder="2022-07-25/fr/3" %}
@@ -222,12 +222,12 @@ Die Sängerin Sandra Nasić hat eine unfassbare Bühnenpräsenz und die alten Hi
 Musikalisch im Lead ist bei der Truppe übrigens der Bassist, der auch die meiste Bühneninteraktion neben der Sängerin macht.
 Gitarre und Drums wirken eher wie Beiwerk.
 
-<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/guanoapes-openyoureyes.mp4' type='video/mp4'/> </video>
+<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/fr/guanoapes-openyoureyes.mp4' type='video/mp4'/> </video>
 {% include foldergallery.html folder="2022-07-25/fr/5" %}
 
 
 Ein weiteres Highlight war ein rockiges Cover von Eminems "Lose Yourself":
-<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/guanoapes-loseyourself.mp4' type='video/mp4'/> </video>
+<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/fr/guanoapes-loseyourself.mp4' type='video/mp4'/> </video>
 
 ### The Struts
 Nichts gegen Clueso, aber wir haben uns die Mainstage gespart und sind ins Palastzelt zu The Struts.
@@ -251,7 +251,7 @@ Klar gibts Leinwände, aber das macht einfach nicht wirklich Spaß.
 Nachdem Kraftklub irgendwann vor 2015 dem Deichbrand einen Antrag gemacht, 2017 das Festival geheiratet hat, feierten wir diesesmal die Silberhochzeit.
 Schön, wenn sich so ein Joke über mehrere Jahre und Festivalauftritte hält.
 
-<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/kraftklub-nichtnachberlin.mp4' type='video/mp4'/> </video>
+<video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/fr/kraftklub-nichtnachberlin.mp4' type='video/mp4'/> </video>
 
 Was man mitbekommen hat eine solide Show, die Jungs sind schon gut.
 Aber an unserer Stehposition hatte ich nicht wirklich Spaß und bin nach ner Stunde los.
