@@ -318,8 +318,6 @@ kevin getrroffen
 Abscchluss Bier am Camp um halb 3, es war scheiss kalt
 {% include foldergallery.html folder="2022-07-25/sa/5" %}
 
-
-
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/nightwish.mp4' type='video/mp4'/> </video>
 
 
@@ -327,10 +325,16 @@ Abscchluss Bier am Camp um halb 3, es war scheiss kalt
 {% include foldergallery.html folder="2022-07-25/so_all" %}
 
 
+Top Wetter!
+
+{% include foldergallery.html folder="2022-07-25/so/1" %}
+
 
 ### 257ers
 mega witzig
 schaum party
+{% include foldergallery.html folder="2022-07-25/so/2" %}
+
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/die257-meinholz.mp4' type='video/mp4'/> </video>
 
@@ -338,18 +342,25 @@ schaum party
 ### Großstadt Geflüster
 top, die frau hat mega power.
 aber die leute moschen zu den falschen songs
+{% include foldergallery.html folder="2022-07-25/so/3" %}
+
 
 ### Danko Jones
 Sonne, richtig heiß.
 Arroganter, morderner und auf den Punkt gebrachter Rock
+{% include foldergallery.html folder="2022-07-25/so/4" %}
+
 
 ### Fehlentscheidungen und Camp abbauen
 Massendefekt 7und Enter Shikari verpasst. mist 
 Das war die Falsche entscheidu, weil maximo park überflüssig war.
 Hat alles etwas gedauert, aber es gab auch noch etwas zum auto zu klären und ne runde flunken mit jever fun musste auch sein
+{% include foldergallery.html folder="2022-07-25/so/5" %}
+
 
 ### Maximo Park
 fucking art schol stuff. charismatischer sänger, aber das wurde immer zerfiedelter. am anfang fand ichs noch gut.
+{% include foldergallery.html folder="2022-07-25/so/6" %}
 
 ### Madsen
 Rein ins Programm für Milky Chance
@@ -357,12 +368,16 @@ Warum es dort in der letzen halben Stunde für vorne rein noch Platz gab ist wei
 
 Unerfahrene Leute, die nicht sehen, wann aus einem Circle eine Mosh wird.
 
+{% include foldergallery.html folder="2022-07-25/so/7" %}
+
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/madsen.mp4' type='video/mp4'/> </video>
 
 
 ### Dropkick Murphies
 letzes bishcen sido gehört, uff.
+
+{% include foldergallery.html folder="2022-07-25/so/8" %}
 
 erstaunlich lange leer, aber die leute hatten dann auch bock
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/dropkick-boysareback.mp4' type='video/mp4'/> </video>
