@@ -322,8 +322,6 @@ Abscchluss Bier am Camp um halb 3, es war scheiss kalt
 
 
 ## Der Sonntag
-{% include foldergallery.html folder="2022-07-25/so_all" %}
-
 
 Top Wetter!
 
