@@ -4,13 +4,52 @@ title:  "Karibik 1: Anreise und Jamaica"
 ---
 
 ## Anreise
-* 4:45 am Airport
-* 05:52 durch die security. 4:00h zu früh :/
-* In Zürich am swiss Schalter Marlen der Reise Gruppe hinzugefügt. Damit war sie auf Prio 1 der Menschen, die noch keinen festen Sitzplatz haben.
-* 9 Stunden bis Dom rep. Leckeres Essen
-* Aussteigen weil neue Crew. Seltsamer check im Transit Bereich
-* Sicherheitskontrolle: Taschen auf den Boden, Hund vorbei
-* Kurze Strecke nach Jamaika unspannemd
+Da Alex, Vivi und ich nun am Montag 01:30 vom Deichbrand in Lübbecke angekommen waren, hatten wir knappe 2 Stunden Zeit, bis unser Flughafentransfer uns abholen sollte.
+Der Flug sollte um 10:00 ab Hannover gehen.
+
+Wir duschten alle ausgiebig und packten die nötigen Sachen vom Festival- ins Hand- oder Reisegepäck. 
+Also zum Beispiel Waschtasche, Regenjacke und Kreditkarte.
+Das hat zumindest bei mir ziemlich gut funktioniert. 
+Die im Vorhinein geschriebene exakte Liste, welche Gegenstände noch in den Aufgabe- und welche in den Handgepäckrucksack reingehören war eine gute Idee.
+
+Es war tatsächlich noch Zeit, die Kühlbox auszuräumen und auszuwischen und ein Bier auf dem Hof zu trinken, bis wir um 03:20 abgehohlt wurden.
+Der Fahrer war pünktlich und nett, aber bzgl. seiner Corona Prävention etwas absurd.
+Wir hatten vorgeschlagen, auf der Fahrt FFP2 Masken zu tragen und ganz normal im Auto zu sitzen.
+Er hatte aber darauf bestanden, dass wir zu dritt hinten sitzen, weil dort eine Scheibe zwischen und und ihm da war.
+Dann bräuchten wir auch keine Maske tragen.
+So wie die Scheibe angebracht war hätte man es auch einfach lassen können, dafür haben wir die Stunde einfach schlecht gesessen.
+Aber gut, das hat uns nicht davon abgehalten, nach 15 Stunden Festivaltag, Autofahrt und Packen einfach sofort auf dem Weg nach Hannover einzuschlafen.
+
+Wir waren um 4:45 am Airport und eine Stunde später durch die Security.
+Ich hab die ganze Zeit schon nicht viel von 5 Stunden vorher Dasein gehalten, mich aber dem Sicherheitsbedürfniss der anderen gebeugt.
+Insbesondere ärgerlich, wenn der erste Satz am Flughafen zu mir ist, dass ich nicht so rennen soll.
+Ich bin doch nicht 5 Stunden vorher vor Ort, um dann im Schneckentempo zum Gate zu gehen, weil ich mein Handgepäck nicht ordentlich packen kann.
+
+Nun hatten wir also 4 Stunden im Gate zu verbringen.
+Ich habs so gut es ging vermieden, mich auf den unbequemen Bänken zum schlafen hinzulegen und mich mit Fotos sortieren beschäftigt.
+Eine halbe Stunde hat es mir aber doch die Augen zugezogen.
+
+Angekommen in Zürich haben wir dann am Schalter von Swiss Airline dafür gesorgt, dass Marlen auch einen Platz nach Montego Bay bekommen sollte.
+Sie flog aus Berlin nach Zurich um uns zu treffen.
+Damit hatte sie aber eine eigene Buchungsnummer und und war damit auf der Abschussliste für überbuchte Flüge, ihre Boardkarte hatte noch keinen Sitzplatz.
+Die Dame am Schalter hat relativ schnell verstanden was wir wollten und sie unserer Reisegruppe hinzugefügt.
+Damit war sie auf der Prioliste, der Menschen die noch keinen festen Sitzplatz haben, ganz oben und trotz Nervenkitzel durften wir letztlich alle losfliegen.
+War alles ganz schön Nervenaufreibend.
+
+Das Essen war gut, ich hatte genug zu bloggen und im Inflight Entertainment System gab es "Ready Player 1" zu schauen.
+Ein bischen witzig war es schon zu sehen, wie die Flugbegleiter und Begleiterinnern von Edelweis Air zwischen Englisch und Schwizerdütsch hin und her wechselten.
+Akzentfreies Englisch, aber Deutsch in Mundart :)
+
+Unser 13 Stunden Flug wurde relativ kurzfrist in einen neun Stunden langen und einen eine Stunde langen Abschnitt getrennt.
+Wer rechnen kann merkt, dass wir beim Transit in Puerto Plata (Dominikanischen Republik) ganz schön lange im Flughafen herumstehen mussten.
+Und auch der Sicherheitscheck vom Flugzeug in den Transitbereich war irgendwie seltsam inkonsequent.
+
+Beim erneuten Betreten des Flugzeuchs wurde unser Handgepäck dann nochmals kontrolliert.
+Und war so, dass wir uns alle in einer langen Reihe hintereinander aufstellen mussten, das Gepäckstück jeweils am linken Fuß stehend. Und dann wurde ein Spürhund an allen Reisenden vorbeigeschickt. 
+Alles in alleim sehr seltsame 2 Stunden, aber ich zumindest waren ja mittlerweile bis auf die beiden kurzen Nickerchen nach und in Hannover seit X Stunden wach.
+
+Auf der kurzen Strecke nach Jamaica ist dann nichts spannendes mehr passiert.
+
 * Laufen zum Hotel weirdo taxi Leute
 
 {% include foldergallery.html folder="2022-08-03/1" %}
