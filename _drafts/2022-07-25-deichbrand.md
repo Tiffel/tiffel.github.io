@@ -354,30 +354,43 @@ Um 2 gab es dann am Camp das letze Bier, weil es mittlerweile richtig kalt gewor
 
 
 ## Der Sonntag
-
-Top Wetter!
+Nach der eiskalten Nacht hatten wir am Sonntag morgen Top Wetter.
+Die Sonne schien, die Möwen flogen herum und die Wolken verzogen sich nach und nach
 
 {% include foldergallery.html folder="2022-07-25/so/1" %}
 
-
 ### 257ers
-mega witzig
-schaum party
-{% include foldergallery.html folder="2022-07-25/so/2" %}
+Eins der witzigsten Konzerte des Festivals.
+Die Show begann ähnlich zu DEichkind einige Wochen vorher in Dresden.
+Und eskalierte dann in alle Richtungen.
+Es gab eine Schaumparty, professionelle Wrestler in der Moshpit, einen tanzenden Deadpool, Mario Brothers die Bier durch den "Abfluss" in die Menge kippten.
+Und natürlich zwei völlig bescheuerte Typen, die sich auf der Bühne betrunken haben, eine mega Show gemacht haben und überhaupt nichts ernst genommen haben.
 
+Das war musikalisch nicht gut, aber eben einfach spassig. Alex, Lena und ich haben auf jeden Fall durchgefeiert.
+Und dannach noch den ersten Versuch für das das tradionelle "Festivalbänder im Sand" Foto gemacht.
+{% include foldergallery.html folder="2022-07-25/so/2" %}
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/die257-meinholz.mp4' type='video/mp4'/> </video>
 
-
 ### Großstadt Geflüster
-top, die frau hat mega power.
-aber die leute moschen zu den falschen songs
+Vivi und Flo kamen dazu, und da die Sonne mittlerweile am Start war, haben wir sowohl endlich ein Gruppenfoto also auch die Bänder im Sand auf Kamera bekommen.
+
+Großstadtgeflüster ist live wirklcih sehenwert, selbst wenn man kein großer Hiphop Fan ist. 
+Die beiden haben politisch das Herz an der rechten Stelle, die Sängerin ist einfach eine dreiste Berliner Schnautze.
+
+Und beide wissen, wie man eine Menge zum feiern bringt.
+Einzig etwas doof war, dass die Menge zu den falschen Songs versucht hat zu moshen. Falsche Musik, da funktioniert das nicht :)
+
 {% include foldergallery.html folder="2022-07-25/so/3" %}
 
-
 ### Danko Jones
-Sonne, richtig heiß.
-Arroganter, morderner und auf den Punkt gebrachter Rock
+So langsam wurde es richtig heiß. Es war keine Wolke mehr am Himmel, sodass Flo, Lena und ich bei Danko Jones richtig geschwitzt haben.
+
+Und die Truppe hat ihrem Ruf mal wieder alle Ehre gemacht.
+Arroganter, morderner und auf den Punkt gebrachter Rock.
+
+Also inbesondere den arroganten Teil bringt der Sänger einfach authentisch rüber.
+
 {% include foldergallery.html folder="2022-07-25/so/4" %}
 
 
