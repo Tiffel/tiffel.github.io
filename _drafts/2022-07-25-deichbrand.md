@@ -296,7 +296,6 @@ Die Circlepits waren schon echt beeindruckend, das Highlight waren wohl am Ende 
 "Blitzkrieg Bop" (Ramones).
 
 {% include foldergallery.html folder="2022-07-25/sa/3" %}
-Pause am Camp (Gespräch mit flo)
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/antiflag.mp4' type='video/mp4'/> </video>
 
@@ -352,16 +351,17 @@ Um 2 gab es dann am Camp das letze Bier, weil es mittlerweile richtig kalt gewor
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/nightwish.mp4' type='video/mp4'/> </video>
 
-
 ## Der Sonntag
 Nach der eiskalten Nacht hatten wir am Sonntag morgen Top Wetter.
-Die Sonne schien, die Möwen flogen herum und die Wolken verzogen sich nach und nach
+Die Sonne schien, die Möwen flogen herum und die Wolken verzogen sich nach und nach.
+Ich stieg auf Jever Fun und Orangensaft um, abends war Autofahren angesagt. Wir hatten im Anschluss ans Festival noch etwas leicht verrücktes vor.
 
 {% include foldergallery.html folder="2022-07-25/so/1" %}
+ 
 
 ### 257ers
 Eins der witzigsten Konzerte des Festivals.
-Die Show begann ähnlich zu DEichkind einige Wochen vorher in Dresden.
+Die Show begann ähnlich zu Deichkind einige Wochen vorher in Dresden.
 Und eskalierte dann in alle Richtungen.
 Es gab eine Schaumparty, professionelle Wrestler in der Moshpit, einen tanzenden Deadpool, Mario Brothers die Bier durch den "Abfluss" in die Menge kippten.
 Und natürlich zwei völlig bescheuerte Typen, die sich auf der Bühne betrunken haben, eine mega Show gemacht haben und überhaupt nichts ernst genommen haben.
@@ -375,7 +375,7 @@ Und dannach noch den ersten Versuch für das das tradionelle "Festivalbänder im
 ### Großstadt Geflüster
 Vivi und Flo kamen dazu, und da die Sonne mittlerweile am Start war, haben wir sowohl endlich ein Gruppenfoto also auch die Bänder im Sand auf Kamera bekommen.
 
-Großstadtgeflüster ist live wirklcih sehenwert, selbst wenn man kein großer Hiphop Fan ist. 
+Großstadtgeflüster ist live wirklich sehenwert, selbst wenn man kein großer Hiphop Fan ist. 
 Die beiden haben politisch das Herz an der rechten Stelle, die Sängerin ist einfach eine dreiste Berliner Schnautze.
 
 Und beide wissen, wie man eine Menge zum feiern bringt.
@@ -388,46 +388,76 @@ So langsam wurde es richtig heiß. Es war keine Wolke mehr am Himmel, sodass Flo
 
 Und die Truppe hat ihrem Ruf mal wieder alle Ehre gemacht.
 Arroganter, morderner und auf den Punkt gebrachter Rock.
-
 Also inbesondere den arroganten Teil bringt der Sänger einfach authentisch rüber.
 
+Und ich hab mir auf der Nase einen Sonnenbrand gehohlt. Aber das war einfach selber Schuld.
 {% include foldergallery.html folder="2022-07-25/so/4" %}
 
-
 ### Fehlentscheidungen und Camp abbauen
-Massendefekt 7und Enter Shikari verpasst. mist 
-Das war die Falsche entscheidu, weil maximo park überflüssig war.
-Hat alles etwas gedauert, aber es gab auch noch etwas zum auto zu klären und ne runde flunken mit jever fun musste auch sein
+Ich hatte mich entschieden, Massendefekt und Enter Shikari auszulassen.
+Es gab ja noch ein Camp abzubauen, was morgens natürlich wegen der beiden Konzerte nicht geklappt hatte.
+Und wegen des Schadens am Auto hatte ich auch noch ein paar Sachen zu klären.
+
+Das war, dem Bericht von Flo und Lena nach, wohl eine dumme Idee.
+Inbesondere Enter Shikari war wohl ein ganz schöner Abriss. Und Maximo Park, was ich stattdessen gewählt hatte solte ich als mies herausstellen.
+
+Naja, das am Camp dauerte alles etwas, aber nachdem alles erledigt war hab ich zumindest mit den Nachbarn und einem Jever Fun noch eine Runde Flunkyball spielen können. 
+
+Uns war über den Tag schon aufgefallen, dass der Campingplatz u schon extrem leer war.
+Das schon vereinzelt Menschen am Sonntag abreisen, weil sie z.B. Montags arbeiten müssen kommt vor.
+Aber so extrem hab ich das zumindest noch nicht erlebt.
+  
 {% include foldergallery.html folder="2022-07-25/so/5" %}
 
-
 ### Maximo Park
-fucking art schol stuff. charismatischer sänger, aber das wurde immer zerfiedelter. am anfang fand ichs noch gut.
+Einen charismatischen Sänger haben sie ja.
+Aber ansonsten war das alles andere als straigt. Die Musik wurde von Song zu Song zerfiedelter, wir hätten einfach gehen sollen.
+Doof gelaufen.
+
 {% include foldergallery.html folder="2022-07-25/so/6" %}
 
 ### Madsen
-Rein ins Programm für Milky Chance
-Warum es dort in der letzen halben Stunde für vorne rein noch Platz gab ist weird.
+AUs dem Palatzelt kommend sind fir fix zur Fire Stage, weil man Madsen schon hören konnte.
+Madsen war sehr kurzfristig für Milky Chance eingesprungen, was natürlich ein super Tausch ist.
+Warum wir es für die letze halbe Stunde noch ins vordere Infield geschafft haben, kann ich mir nur damit erklären, dass tatsächlich schon so viele Menschen abgereist waren.
+Glück für Lena und mich, die letze halbe Stunde hat richtig Spass gemacht.
 
-Unerfahrene Leute, die nicht sehen, wann aus einem Circle eine Mosh wird.
+Man konnte die paar Lieder, die sogar ich ganz gut kenne mitsingen, es wurde aber auch relativ hart gefeiert.
+Das haben einige Leute zu spüren bekommen, denen nicht klar war, dass je nach Verlauf eines Songs aus einem lieben Circle auch mal schnell eine Moshpit wird.
+Da gehört wohl doch etwas Konzert Erfahrung dazu, das Verhalten der Menge einschätzen zu können.
 
 {% include foldergallery.html folder="2022-07-25/so/7" %}
 
-
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/madsen.mp4' type='video/mp4'/> </video>
 
-
 ### Dropkick Murphies
-letzes bishcen sido gehört, uff.
+Wir hatten uns Sido gesparrt, aber auch von ihm die letzen paar Songs beim warten auf die Murphies gehört.
+Muss man nicht unbedingt haben, wenn auch nicht so unfassbar mies wie RIN.
+
+Auch bei den Murphies war es echt leer, das Infield war praktisch erst mit dem ersten Akkord voll.
+Musikalisch möglicherweise etwas schlechter als Flogging Molly am Vortag, aber es hat einfach richtig Spass gemacht, mit den Jungs zu Irish Folk abzugehen.
+Weiß eigentlich jemand, warum praktisch alle Irish Folk Bands aus den USA kommen und niemand aus Irland?
+
+Man hat den Jungs angemerkt, dass sie wirklich Spaß auf der Bühne haben.
+Energetisch, motiviert, immer nah am Publikum.
+Live einfach Spitzen Band.
+Und wenn man dann noch soviel Platz hat wie wir, kann man auch ausladent tanzen.
+Normalerweise dürfte es deutlich enger zugehen. Ich bin gespannt, im Januar bin ich in Dublin zum Konzert bei den Murphies.
+
+Wir mobilisierten die letzen Kräfte und sprangen bis um 11 Uhr durch. Dann haben Alex und ich uns von Lena und Flo verabschiedet und sind leider schon los zum Camp.
 
 {% include foldergallery.html folder="2022-07-25/so/8" %}
 
-erstaunlich lange leer, aber die leute hatten dann auch bock
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/dropkick-boysareback.mp4' type='video/mp4'/> </video>
 
-
-
 ### Abfahrt
-um 23:00 vorne raus, um 23:20 vom Gelände, um 01:30 in Lübbecke, trotz detour in bremen
+Um kurz nach 11 kamen Alex und ich am Camp an, um 23:20 saßen wir zusammen mit Vivi im Auto.
+Es war erstuaunlich stressfrei vom Gelände bis zur Autobahn zu kommen, da hatten wir vorher Sorgen.
+Im Nachhinein hätte man noch die letze halbe Stunde bei den Murphies bleiben können, aber das war einfach nicht sicher.
 
+So fuhr ich entspannt die 2 Stunden nach Lübbecke in die Heimat durch.
+Ich hatte igendwie damit gerechnet, dass die Fahrt richtig anstrengend und scheisse wird, so nach 4 Tagen Vollgas Festival mit viel Alkohohl und nem Vollgas Sonntag ohne Alkohol.
+Das ging erstaunlich gut, wobei die 2 in der Mittelkonsole deponierten Redbull wohl eine gute Idee waren.
+Damit sollte die Deichbrand Expedition am Montag um 01:30 in der Nacht enden.
 
+Nächster Stop: Ohne Pause weiter in die Karibik.
