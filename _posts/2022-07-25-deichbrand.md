@@ -49,12 +49,12 @@ Aber trotzdem haben wir es nicht wirklich lange ausgehalten und sind für einen 
 {% include foldergallery.html folder="2022-07-25/mi" %}
 
 ## Tag Eins: Donnerstag
-Donnerstag ist ja der reguläre Anreisetag, vor 18:00 gibts also nirgends Musik.
+Donnerstag ist ja der reguläre Anreisetag, vor 18:00 gibt es also nirgends Musik.
 
-In der Nacht haben wir es noch einigermaßen ignorieren könnenm, aber am Tag konnten wir unseren Erzfeind des Festivals ausgiebig kennenlernen:
-Unsere Nachbarn hatten einen ganzen Bauwagen mitgebracht der natürlich von einem Strommopped betrieben wurde.
-Dieser Enthielt einen Kompressor, welcher ein extrem lautes Nebelhorn antrieb.
-Die Jungs dort waren richtig stark am Hahn, sodass es öfter vorkam, dass jemand (vermutlich mit dem Kopf) auf den Auslöser einschlief.
+In der Nacht haben wir es noch einigermaßen ignorieren können, aber am Tag konnten wir unseren Erzfeind des Festivals ausgiebig kennenlernen:
+Unsere Nachbarn hatten einen ganzen Bauwagen mitgebracht, der natürlich von einem Strommopped betrieben wurde.
+Dieser enthielt einen Kompressor, welcher ein extrem lautes Nebelhorn antrieb.
+Die Jungs dort waren richtig stark am Hahn, sodass es öfter vorkam, dass jemand (vermutlich mit dem Kopf) auf dem Auslöser einschlief.
 
 Super super nervig.
 Andere Nachbaren hatten aber, wie wir über den Tag erfuhren, schon morgens um acht eine Ansage gemacht:
@@ -78,11 +78,12 @@ Die Clowns eröffneten das Deichbrand. Und irgendwie war das Punk.
 Aber an mehr von dem Konzert erinnere ich micht nicht mehr. War wohl alles nur so mittel. 
 
 ### Deine Cousine
-Ich hatte in der Woche vorher mit Arne noch über diese coole Background Sängerin, die er Udo Lindenberg live gesehen hatte geredet.
-Er hatte ihren Namen herausgefunden, reingehört und festgestellt, dass die Frau echt Power hat und auch Solo spannend ist.
+Ich hatte in der Woche vorher mit Arne noch über diese coole Background Sängerin geredet.
+Er hatte sie bei Udo Lindenberg live gesehen, war begeistert und hat dann ihren Namen herausgefunden. 
+Beim reingehören stellte sich heraus, dass die Frau echt Power hat und auch Solo spannend ist.
 Netter Zufall, dass die nun den zweiten Slot beim Deichbrand eingenommen hat.
 
-Die Frau hatte eine super Bühnenpräsenz, einen Look wie eine junge P!nk und ne starke Stimme.
+Die Frau hatte eine super Bühnenpräsenz, einen Look wie eine junge P!nk und dazu eine starke Stimme.
 Musikalisch ganz cool, wenn auch nicht genau mein Geschmack.
 Aber wenn ich Lust habe und die Musik nur grob passt, kann ich fast alles feiern. 
 Bei den etwas härteren Songs begab ich mich zum aufwärmen in die erste, süße, liebe Anfänger-Moshopit dieses Wochenendes.
@@ -124,7 +125,8 @@ Ich hatte in den letzen Wochen vorm Festival relativ viel Callejon gehört.
 Allerdings den Mainstream Einstieg über deren beiden Coveralben "Man spricht Deutsch" und "Hartgeld im Club", wovon ich das erstere initial aus Maesches Auto kannte.
 
 Aber auch die eigenen Songs können was, das ist richtig guter Metalcore.
-Dachte ich. Mann muss sagen, dass die Truppe live zwar richtig Spass gemacht hat, musikalisch aber nicht so richtig richtig gut war.
+Dachte ich.
+Man muss sagen, dass die Truppe live zwar richtig Spass gemacht hat, musikalisch aber nicht so richtig richtig gut war.
 Das war zumindest mein Eindruck bei den ersten paar Songs.
 
 Ab dort war ich in einer echt harten Moshpit unterwegs, die aber mega Spass gemacht hat.
@@ -166,12 +168,13 @@ Die Deichbrand Veteranen "Le Fly", die ich wohl mittlerweile ca. 15 mal Live ges
 Entsprechend eskalativ bin ich die Sache angegangen.
 DIe gesamte Zeit durch gesprungen, gesunden und in jeder Moshpit und jedem Circle vorne mit dabei.
 Im Ergebniss gibt es wenig Fotos, ich hatte mega Spass, vermutlich eine kleine Gehirnerschütterung und war nach dem Konzert völlig fertig.
-Und das war es trotzdem jede Sekunde wert, voll drin durchzuziehen.
+Und das war es trotzdem jede Sekunde wert, voll durchzuziehen.
 Die Jungs machen Live einfach so einen guten Job, da muss man einfach Spass haben.
 
 Nur man muss vielleicht nicht gaaaanzt der allererste in der Moshpit sein.
 Denn dort rennt man einfach Vollgas in eine Wand.
 Dann spart man sich auch die blauen Flecken und Ibu's nach dem Konzert.
+
 {% include foldergallery.html folder="2022-07-25/fr/2" %}
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/fr/lefly-stpaulitanzmusik.mp4' type='video/mp4'/> </video>
@@ -179,10 +182,10 @@ Dann spart man sich auch die blauen Flecken und Ibu's nach dem Konzert.
 ### Rogers
 Ich wusste ja, dass die Jungs Spaß machen.
 Aber das sie soviel Spaß machen, hab ich nicht erwartet.
-Erlicher, guter, witziger, deutscher Punk.
+Ehrlicher, guter, witziger, deutscher Punk.
 Der Sänger war selber ständig am Crownsurfen.
 
-Und obwohl ich nach der Le Fly Nummer eigentlich noch völlig platt war, konnte ich es nicht lassen, in der doch härterem Moshpit mitzumischen.
+Und obwohl ich nach der Le Fly Nummer eigentlich noch völlig platt war, konnte ich es nicht lassen, in der doch etwas härteren Moshpit mitzumischen.
 Wenn auch etwas zurückhaltener, wie man es eben eigentlich machen sollte.
 
 Ein witziger Abschluss war Gigi D'Agostinos "I'll fly with you", was nach dem Konzert schrecklich-schön von der erschöpften Menge mitgesunden wurde.
@@ -200,7 +203,7 @@ Nach dem Rogers Konzert waren wir kurz im Camp, um zu chillen.
 Das hat garnicht funktionert, weil noch eine Flunkyball Rechnung offen war.
 Dannach allerdings ging es nach schnellem Essen zum Merch Stand.
 
-Die beiden Sänger waren alleine und sichtlich betrunken, hatten also nach ihrem Konzert wohl etwas Spass.
+Die beiden Le Fly Sänger waren alleine und sichtlich betrunken, hatten also nach ihrem Konzert wohl etwas Spass.
 Entsprechend war es schräg und musikalisch garnicht so gut, aber enorm witzig.
 Wer schonmal beim Le Fly Heimspiel Konzert auf St. Pauli war, weiß was gemeint ist.
 Es wurden ein oder zwei Hits gespielt, aber ansonsten gab es schonmal Materiel vom nächsten Album zu hören.
@@ -215,7 +218,7 @@ Super Sache, dafür mussten wir leider Schmutzki auslassen. Die waren parallel z
 
 ### Guano Apes
 Auf ging es zu den Apes, wo Flo und Alex auch wieder am Start waren.
-Ich hab ja irgendwie nichts erwartet, sondern gedacht, dass der Skaterpunk von vor 20 Jahren ganz schön anmgestaubt wird.
+Ich hab ja irgendwie nichts erwartet, sondern gedacht, dass der Skaterpunk von vor 20 Jahren ganz schön angestaubt sein wird.
 
 Was hab ich mich getäuscht.
 Die Sängerin Sandra Nasić hat eine unfassbare Bühnenpräsenz und die alten Hits funktionieren auch heute noch.
@@ -232,38 +235,38 @@ Ein weiteres Highlight war ein rockiges Cover von Eminems "Lose Yourself":
 ### The Struts
 Nichts gegen Clueso, aber wir haben uns die Mainstage gespart und sind ins Palastzelt zu The Struts.
 
-Dort gabs Glam Rock, der auch 40 Jahr alt hätte sein können.
+Dort gabs Glam Rock, der auch 40 Jahre alt sein könnte.
 Ich hatte mich mit einer der Fans unterhalten und wir waren uns uneinig, ob der Sänger eher Mick Jagger von den Stones oder Michael Jackson verkörpert.
 Wie auch immer sie auf Michael Jackson kam, als die Struts dann "Jumping Jack Flash" coverten musste sie mir recht geben.
 
-Echt witziges Konzert und eine schöne Abwechslung
+Echt witziges Konzert und eine schöne Abwechslung.
 {% include foldergallery.html folder="2022-07-25/fr/6" %}
 
 ### Kraftklub
-Wir sparten und Bausa (mein Gott war das bischen was wir beim gegen hören durften schlecht) und sind fix zum Camp.
+Wir sparten und Bausa (mein Gott war das bischen was wir beim gehen hören durften schlecht) und sind fix zum Camp.
 
-Leider setze nach dem Tag eine gewisse Lethargie ein, sodass wir zu spät los sind und es nicht mehr in die erste Welle geschafft haben.
-Wer etwas Festival erfahren hat weiß, dass man ganz vorne mehr Platz als in der zweiten Welle hat. Und vorallem hat man dort keinen Durchgangsverkehr.
+Leider setze nach dem Tag eine gewisse Lethargie ein, sodass wir zu spät los sind und es nicht mehr zu Kraftklub in die erste Welle geschafft haben.
+Wer etwas Festival Erfahrung hat weiß, dass man ganz vorne mehr Platz als in der zweiten Welle hat. Und vorallem hat man dort keinen Durchgangsverkehr.
 
 Nun standen wir also relativ weit weg. Es war eng, ständig wollte jemand vorbei und von der Bühne gesehen hat man auch nichts.
 Klar gibts Leinwände, aber das macht einfach nicht wirklich Spaß.
 
-Nachdem Kraftklub irgendwann vor 2015 dem Deichbrand einen Antrag gemacht, 2017 das Festival geheiratet hat, feierten wir diesesmal die Silberhochzeit.
+Nachdem Kraftklub irgendwann vor 2015 dem Deichbrand einen Antrag gemacht hatte und 2017 das Festival geheiratet hatte, feierten wir diesesmal die Silberhochzeit.
 Schön, wenn sich so ein Joke über mehrere Jahre und Festivalauftritte hält.
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/fr/kraftklub-nichtnachberlin.mp4' type='video/mp4'/> </video>
 
-Was man mitbekommen hat eine solide Show, die Jungs sind schon gut.
+Was man mitbekommen hat war eine solide Show, die Jungs sind schon gut.
 Aber an unserer Stehposition hatte ich nicht wirklich Spaß und bin nach ner Stunde los.
-Ärgerlich, aber ein bischen selbst schuld. Es geht einfach nur noch vorne drin oder am Camp bleiben bei einem Headliner, alles andere ist inakzeptabel.
+Ärgerlich, aber ein bischen selbst schuld. Bei einem Headliner geht einfach nur noch vorne drin oder gleich am Camp bleiben. Alles andere ist inakzeptabel.
 
 Ich selbst war dann auch zu müde und für den Tag auch gut bedient, um mich nochmal zu Apache 207 und dannach Afrob aufzuraffen.
-Es gab aber noch ein paar Bier mit den Nachbarn am Camp, während Lena und Flo noch unterwegs und Alex und Vivi schon schlafen waren.
+Es gab für mich noch ein paar Bier mit den Nachbarn am Camp, während Lena und Flo noch unterwegs und Alex und Vivi schon schlafen waren.
 
 {% include foldergallery.html folder="2022-07-25/fr/7" %}
 
 ## Der Samstag
-Den Samstag morgen haben wir etwas am Camp vergammelt, aber zuminst ein paar nette Dinge auf dem Zeltplatz gesehen.
+Den Samstag morgen haben wir etwas am Camp vergammelt, aber zuminst ein paar nette Dinge wie Herrn Hasselhof und und einen schicksn Landy auf dem Zeltplatz gesehen.
 
 Auf dem Weg zur ersten Band haben wir Finch auf der anderen Bühne gehört. Da hätte man als Scooter Fan wohl hingehen sollen.
 Soweit wir ich das sehen konnte war es dort randvoll und die Leute haben eine gute Party gefeiert.
@@ -274,7 +277,7 @@ Soweit wir ich das sehen konnte war es dort randvoll und die Leute haben eine gu
 Die 6 Liedermacher, die dieses mal nur zu viert waren. 
 Wir waren in voller Besetzung zu fünft vor Ort, also sogar mehr also auf der Bühne waren.
 
-Immer direkt, immer albern, immer irgendwie doch bei der Wahrheit.
+Immer direkt, immer albern, immer mit inteligenten Wortwitzen bei der Wahrheit.
 Es war wie immer super witzig mit den Jungs, es gab viel zum Mitsingen und am Ende grölten alle seeling "Kola Korn".
 Emfpehlenswert. Also die Monsters und, wenn man im Norden aufm Land unterwegs ist, auch Kola Korn.
 
@@ -290,7 +293,7 @@ Wenn sich eine amerikanische Band so nennt wie diese und man weiß, wie sehr die
 Es wurde eindeutig politisch Stellung bezogen, die Aufhebung von Roe v. Walde des SCOTUS war ja nicht besonders lange her.
 
 Mal wieder eine Band, die man sich zwar zuhause anhören kann, die aber Live erst ihr wirkliches Potential entfaltet.
-Ich hab auch wieder Freunde im Publukum gefunden, den Menschen auf dem Foto kenne ich tatsächlich nicht.
+Ich hab auch wieder Freunde im Publikum gefunden, den Menschen auf dem Foto kenne ich tatsächlich nicht.
 
 Die Circlepits waren schon echt beeindruckend, das Highlight waren wohl am Ende die gecoverten Punkklassiker "Should I Stay or Should I Go" (The Clash) und 
 "Blitzkrieg Bop" (Ramones).
@@ -313,7 +316,7 @@ Ganz witzig war, dass Finch offensichlicht auch Fan ist und begleitet von 2-3 Se
 
 Und einfach schön waren die beiden Rolli-Fahrer, die super mutig im Circle voll mitgemacht hatten.
 Die Meute hat sich einfach herzlich um die beiden gekümmert.
-Also nicht nur Rücksicht genommen, sondern den beiden eine gute Zeit bescherrt.
+Also nicht nur Rücksicht genommen, sondern den beiden eine gute Zeit beschert.
 Inklusive einer Art Crowdsurfen, in dem die beiden für einige Minuten von jeweils 4 Leuten inklusive Rollstuhl durch die Menge getragen wurden.
 
 {% include foldergallery.html folder="2022-07-25/sa/4" %}
@@ -342,7 +345,7 @@ Man könnte jetzt böse behaupten, dass die Band ganz schön Art-School Stuff st
 
 Die Stimmung ist natürlich bei sowas eine ganz andere als bei Flogging Molly, Kraftklub etc., wo man einfach eine Party feiert. 
 Gut war sie trotzdem.
- 
+
 Ich bin weiterhin unschlüssig, ob Nightwish eine gute Headliner Besetzung für ein Mainstream Festival ist. 
 Das musikalische Format haben sie locker.
 In der breiten Masse Leute begeistern ist aber eher schwierig.
@@ -398,7 +401,7 @@ Und ich hab mir auf der Nase einen Sonnenbrand gehohlt. Aber das war einfach sel
 
 ### Fehlentscheidungen und Camp abbauen
 Ich hatte mich entschieden, Massendefekt und Enter Shikari auszulassen.
-Es gab ja noch ein Camp abzubauen, was morgens natürlich wegen der beiden Konzerte nicht geklappt hatte.
+Es gab ja noch ein Camp abzubauen, was morgens natürlich wegen der drei Konzerte nicht geklappt hatte.
 Und wegen des Schadens am Auto hatte ich auch noch ein paar Sachen zu klären.
 
 Das war, dem Bericht von Flo und Lena nach, wohl eine dumme Idee.
@@ -435,7 +438,8 @@ Da gehört wohl doch etwas Konzert Erfahrung dazu, das Verhalten der Menge einsc
 
 ### Dropkick Murphies
 Wir hatten uns Sido gespart, aber auch von ihm die letzen paar Songs beim warten auf die Murphies gehört.
-Muss ich man nicht unbedingt haben, wenn auch nicht so unfassbar mies wie Rin. Vermutlich macht das vorne drin schon irgendwie Spaß.
+Muss ich man nicht unbedingt haben, auch wenn es nicht so unfassbar mies wie Rin war.
+Vermutlich macht das vorne drin schon irgendwie Spaß.
 
 Auch bei den Murphies war es echt leer, das Infield war praktisch erst mit dem ersten Akkord voll.
 Musikalisch möglicherweise etwas schlechter als Flogging Molly am Vortag, aber es hat einfach richtig Spass gemacht, mit den Jungs zu Irish Folk abzugehen.
@@ -443,7 +447,7 @@ Weiß eigentlich jemand, warum praktisch alle Irish Folk Bands aus den USA komme
 
 Man hat den Jungs angemerkt, dass sie wirklich Spaß auf der Bühne haben.
 Wir haben das Wochenende oft die Ansage gehört, wie froh alle sind, nach der Pandemiepause wieder live spielen zu können.
-Bei den Murphies wirkte dass echt authentisch.
+Bei den Murphies wirkte dass, ähnlich wie bei Callejon, echt authentisch.
 
 Energetisch, motiviert, immer nah am Publikum.
 Live einfach Spitzen Band.
@@ -458,12 +462,15 @@ Wir mobilisierten die letzen Kräfte und sprangen bis um 11 Uhr durch. Dann habe
 
 ### Abfahrt
 Um kurz nach 11 kamen Alex und ich am Camp an, um 23:20 saßen wir zusammen mit Vivi im Auto.
-Es war erstuaunlich stressfrei vom Gelände bis zur Autobahn zu kommen, da hatten wir vorher Sorgen.
+Es war erstaunlich stressfrei, vom Gelände bis zur Autobahn zu kommen, da hatten wir vorher Sorgen.
 Im Nachhinein hätte man noch die letze halbe Stunde bei den Murphies bleiben können, aber das war einfach nicht sicher.
 
 So fuhr ich entspannt die 2 Stunden nach Lübbecke in die Heimat durch.
-Ich hatte igendwie damit gerechnet, dass die Fahrt richtig anstrengend und scheisse wird, so nach 4 Tagen Vollgas Festival mit viel Alkohohl und nem Vollgas Sonntag ohne Alkohol.
+Ich hatte igendwie damit gerechnet, dass die Fahrt richtig anstrengend und scheisse wird, so nach 4 Tagen Vollgas Festival mit viel Alkohol und nem Vollgas Sonntag ohne Alkohol.
+
 Das ging erstaunlich gut, wobei die 2 in der Mittelkonsole deponierten Redbull wohl eine gute Idee waren.
 Damit sollte die Deichbrand Expedition am Montag um 01:30 in der Nacht enden.
+Für mich das vierte Deichbrand, für Lena das dritte, Flo das zweite, Alex und Vivi das erste.
+Ich glaube zufrieden waren wir alle am Ende.
 
 Nächster Stop: Karibik. Pause: Gibts nicht.
