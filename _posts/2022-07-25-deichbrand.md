@@ -4,7 +4,7 @@ title:  "Deichbrand"
 ---
 
 ## Prolog: Anreise am Mittwoch
-Morgens um kurz nach 10 sollte es entspannt in Lübbecke losgegen, ich war um 1 mit Flo und Lena am letzen Autohof vorm Festival verabredet.
+Morgens um kurz nach zehn sollte es entspannt in Lübbecke losgegen, ich war um eins mit Flo und Lena am letzen Autohof vorm Festival verabredet.
 Für das Festival hatte ich mir den großen Kombi von Arne und Mel geliehen, um alles mitzubekommen.
 
 Alles war gepackt, ich hatte als letze Tat gerade durch die Beifahrertür meine Wasserflasche auf den Sitz und den Schlüssel auf die Mittelkonsole gelegt. Beifahrertür geschlossen, ums Auto herum gegangen und festgestellt, dass das Auto abgeschlossen ist.
@@ -15,36 +15,36 @@ Glücklicherweise war Mel zuhause, sodass wir dann gemeinsam in deren Wohnung de
 Der war nämlich seit einigen Wochen weg.
 Nach einer halben Stunde erfolgloser Suche kam so langsam Panik auf, wir waren kurz davor den Händler zum "legalen Knacken" anzurufen.
 In einem letzen Geistesblitz fanden wir dann aber doch den Schlüssel in einer Jacke. 
-Also ging es um kurz nach 11 dann endlich los.
+Also ging es um kurz nach elf dann endlich los.
 
 Der Weg auf das Womo Camp Central war entspannt, wir hatten praktisch freie Platzwahl.
-Die 10 Euro Aufpreis für die Frühanreise machen ja zwei Dinge: Einerseits wird die Anreise für alle entzerrt, andererseits kann bzw. muss 
+Die zehn Euro Aufpreis für die Frühanreise machen ja zwei Dinge: Einerseits wird die Anreise für alle entzerrt, andererseits kann bzw. muss 
 man einen Tag länger Festivalcamp Feeling genießen.
 
 Soweit so gut, mit den zwei Autos mussten wir ja nichts schleppen, sondern einfach nur aufbauen.
-Die Entscheidung, Wohnanhänger und Wohnmobil zuhause zu lassen und mit 2 PKW und Zelt zu fahren, war zwar neu, aber ganz gut.
+Die Entscheidung, Wohnanhänger und Wohnmobil zuhause zu lassen und mit zwei PKW und Zelt zu fahren, war zwar neu, aber ganz gut.
 Spart echt Arbeit und mit einer Gasflasche und Absorberkühlbox wird auch das Bier nicht warm.
 
 Nachdem die Zelte standen und wir das Pavillion in der Mitte grob stehen hatten, kamen wir bei bester Laune ins quatschen.
 Der Wind muss diesen Moment erahnt haben und griff mit einer Böe an.
-Einen Moment später war das 20 Euro Billigpavillion einmal um sich selbst und den nebenstehenden Bauzaun gewickelt, denn die Abspannung war natürlich noch nicht am Start.
-Also machten wir drei uns auf zu einer langen Wanderung zum Festival Aldi.
+Einen Moment später war das 20 Euro-Billigpavillion einmal um sich selbst und den nebenstehenden Bauzaun gewickelt, denn die Abspannung war natürlich noch nicht am Start.
+Also machten wir drei uns auf zu einer langen Wanderung zum Festival-Aldi.
 Da das Infield am Mittwoch natürlich noch nicht offen hatte, mussten wir das Wegbier ganz außen herum tragen.
 
-Angekommen am Supermarkt stellte sich heraus, dass ein neues Pavillion in genauso mieser Qualität absurd teuer war, sodass wir uns für 2 Rollen Gaffa und etwas Redneck-Engineering entschieden.
+Angekommen am Supermarkt stellte sich heraus, dass ein neues Pavillion in genauso mieser Qualität absurd teuer war, sodass wir uns für zwei Rollen Gaffa und etwas Redneck-Engineering entschieden.
 Zurück am Zeltplatz angekommen waren Alex und Vivi auch mittlerweile angekommen, nachdem sie mit dem Zug nach Cuxhaven und dann mit dem Shuttle gefahren waren.
 
 Mit ein paar übrigen Stangen aus Alex Ersatzzelt und dem Gaffa war der Pavillion tatsächlich gerettet und hat auch bis zum Ende durchgehalten.
 
 Es wurde in der Abendsonne gelegen, Essen auf dem Gaskocher zubereitet und das eine oder andere Bier getrunken.
-Irgendwann sind wir dann auch los um, die Zeltplatzparties zu erkunden.
+Irgendwann sind wir dann auch los um, die Zeltplatz-Partys zu erkunden.
 Das war aber alles musikalisch erstaunlich schlecht.
-Bösartiges Elektro Geballer, was selbst angetrunken nicht tanzbar war.
+Bösartiges Elektro-Geballer, was selbst angetrunken nicht tanzbar war.
 
-Schön war allerdings, dass ich mal wieder auf meinen Irie Revoltes Pullover angesprochen wurde.
-Diesesmal war mit Lena sogar noch ein weiterer Pullover am Start.
+Schön war allerdings, dass ich mal wieder auf meinen Irie Révoltés-Pullover angesprochen wurde.
+Dieses Mal war mit Lena sogar noch ein weiterer Pullover am Start.
 Beim richtigen Publikum bin ich immer wieder begeistert, was der Pulli auslöst.
-Aber trotzdem haben wir es nicht wirklich lange ausgehalten und sind für einen Frühanreiseabend sogar pünktlich ins Bett.
+Aber trotzdem haben wir es nicht wirklich lange ausgehalten und sind für einen Frühanreise-Abend sogar pünktlich ins Bett.
 
 {% include foldergallery.html folder="2022-07-25/mi" %}
 
@@ -52,24 +52,24 @@ Aber trotzdem haben wir es nicht wirklich lange ausgehalten und sind für einen 
 Donnerstag ist ja der reguläre Anreisetag, vor 18:00 gibt es also nirgends Musik.
 
 In der Nacht haben wir es noch einigermaßen ignorieren können, aber am Tag konnten wir unseren Erzfeind des Festivals ausgiebig kennenlernen:
-Unsere Nachbarn hatten einen ganzen Bauwagen mitgebracht, der natürlich von einem Strommopped betrieben wurde.
+Unsere Nachbarn hatten einen ganzen Bauwagen mitgebracht, der natürlich von einem Strom-Mopped betrieben wurde.
 Dieser enthielt einen Kompressor, welcher ein extrem lautes Nebelhorn antrieb.
 Die Jungs dort waren richtig stark am Hahn, sodass es öfter vorkam, dass jemand (vermutlich mit dem Kopf) auf dem Auslöser einschlief.
 
 Super super nervig.
-Andere Nachbaren hatten aber, wie wir über den Tag erfuhren, schon morgens um acht eine Ansage gemacht:
-> "Wenn ihr das Horn noch einmal Nachts benutzt, zerstören wir euer Camp. Ohne Verluste".
+Andere Nachbarn hatten aber, wie wir über den Tag erfuhren, schon morgens um acht eine Ansage gemacht:
+> "Wenn ihr das Horn noch einmal nachts benutzt, zerstören wir euer Camp. Ohne Verluste".
 
-Das hat gewirkt, zumindest Nachts war das Teil nun ruhig.
+Das hat gewirkt, zumindest nachts war das Teil nun ruhig.
 Diesen und die weiteren Tage mussten wir es aber doch irgendwie ertragen.
 Den immer wieder aufkommenden Plan, nachts die Druckluftleitung zu zerschneiden, haben wir nie durchgezogen.
 
-Wir brachten den Tag ansonsten mit Essen, Glitzertatoos und ziemlich viel Flunkyball rum.
+Wir brachten den Tag ansonsten mit Essen, Glitzer-Tatoos und ziemlich viel Flunky-Ball rum.
 
-Um 6 starteten Flo, Lena und ich dann ins Palastzelt, welches wir bis halb 3 nicht mehr verlassen sollten.
-Für uns war es das erste Mal den üblichen Donnerstags-DJ "Beauty and the Beats" nicht mitzunehmen.
+Um sechs starteten Flo, Lena und ich dann ins Palastzelt, welches wir bis halb drei nicht mehr verlassen sollten.
+Für uns war es das erste Mal, den üblichen Donnerstags-DJ "Beauty and the Beats" nicht mitzunehmen.
 Der Musikgeschmack ist über die letzen Jahre einfach härter geworden, sodass es im Palastzelt echt viele neue Möglichkeiten für gute Musik gibt.
-Und Live ist fast immer besser, als Popklassiker auf einen einen dauerhaften 4-on-the-floor Beat im Diskofox Tempo zu feiern.
+Und live ist fast immer besser, als Popklassiker auf einen einen dauerhaften 4-on-the-floor Beat im Diskofox-Tempo zu feiern.
 
 {% include foldergallery.html folder="2022-07-25/do/1" %}
 
@@ -78,20 +78,20 @@ Die Clowns eröffneten das Deichbrand. Und irgendwie war das Punk.
 Aber an mehr von dem Konzert erinnere ich micht nicht mehr. War wohl alles nur so mittel. 
 
 ### Deine Cousine
-Ich hatte in der Woche vorher mit Arne noch über diese coole Background Sängerin geredet.
+Ich hatte in der Woche vorher mit Arne noch über diese coole Background-Sängerin geredet.
 Er hatte sie bei Udo Lindenberg live gesehen, war begeistert und hat dann ihren Namen herausgefunden. 
-Beim reingehören stellte sich heraus, dass die Frau echt Power hat und auch Solo spannend ist.
-Netter Zufall, dass die nun den zweiten Slot beim Deichbrand eingenommen hat.
+Beim Reinhören stellte sich heraus, dass die Frau echt Power hat und auch solo spannend ist.
+Netter Zufall, dass sie nun den zweiten Slot beim Deichbrand eingenommen hat.
 
 Die Frau hatte eine super Bühnenpräsenz, einen Look wie eine junge P!nk und dazu eine starke Stimme.
 Musikalisch ganz cool, wenn auch nicht genau mein Geschmack.
 Aber wenn ich Lust habe und die Musik nur grob passt, kann ich fast alles feiern. 
-Bei den etwas härteren Songs begab ich mich zum aufwärmen in die erste, süße, liebe Anfänger-Moshopit dieses Wochenendes.
+Bei den etwas härteren Songs begab ich mich zum Aufwärmen in die erste, süße, liebe Anfänger-Moshpit dieses Wochenendes.
 
 {% include foldergallery.html folder="2022-07-25/do/2" %}
 
 ### H-Blockx
-Der deutsche Crossover Klassiker aus Münster.
+Der deutsche Crossover-Klassiker aus Münster.
 Ich kannte deutlich mehr Songs, als ich erwartet hätte.
 Und die Jungs machen musikalisch einen richtig guten Job.
 Ich hatte aber Blut geleckt und war praktisch ab Song 3 den ganzen Gig alleine in der Moshpit unterwegs.
@@ -101,35 +101,35 @@ Ich hatte aber Blut geleckt und war praktisch ab Song 3 den ganzen Gig alleine i
 
 
 ### Mono Inc
-Mir war vor dem Auftritt nicht so ganz klar, was Darkrock eigentlich genau meint.
-Aber wenn es so klingt, bin ich jetzt Darkrock Fan.
+Mir war vor dem Auftritt nicht so ganz klar, was Dark Rock eigentlich genau meint.
+Aber wenn es so klingt, bin ich jetzt Dark Rock Fan.
 Mono Inc hatte nicht nur ein stylisches Auftreten und eine extrem charismatische Drummerin, sondern hat richtig abgeliefert.
 
-Das Moschen hab ich mir mal gespart, weil ich schon etwas müde war. 
+Das Moshen hab ich mir mal gespart, weil ich schon etwas müde war. 
 Stattdessen konnten Lena und ich in der ersten Reihe neben den eigenen Songs einige Covers erleben.
 Von den eigenen Songs kannte ich vorher praktisch nichts, aber vieles war echt eingängig.
 
-Das Akustikcover von Iggy Pops "The Passenger" war ein Soloding vom Sänger, was natürlich alle zum misingen animiert hat.
+Das Akustik-Cover von Iggy Pops "The Passenger" war ein Solo-Ding vom Sänger, was natürlich alle zum Mitsingen animiert hat.
 
-Krass gut war aber das Drumcover von "Das Boot".
-Der Sound war richtig gut, die Lightshow am ausgestatteten Drumset auch.
+Krass gut war aber das Drum-Cover von "Das Boot".
+Der Sound war richtig gut, die Light-Show am ausgestatteten Drum-Set auch.
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/do/monoinc-passenger.mp4' type='video/mp4'/> </video>
 
 Ich hab Mono Inc nach dem Festival nochmal im Stream gehört.
-Die Studioaufnahmen sind gut, aber machen bei weitem nicht so Spass wie die Truppe live.
+Die Studioaufnahmen sind gut, aber machen bei weitem nicht so Spaß wie die Truppe live.
 {% include foldergallery.html folder="2022-07-25/do/4" %}
 
 ### Callejon
 Ich hatte in den letzen Wochen vorm Festival relativ viel Callejon gehört.
-Allerdings den Mainstream Einstieg über deren beiden Coveralben "Man spricht Deutsch" und "Hartgeld im Club", wovon ich das erstere initial aus Maesches Auto kannte.
+Allerdings den Mainstream-Einstieg über deren beiden Cover-Alben "Man spricht Deutsch" und "Hartgeld im Club", wovon ich das erstere initial aus Maesches Auto kannte.
 
 Aber auch die eigenen Songs können was, das ist richtig guter Metalcore.
 Dachte ich.
-Man muss sagen, dass die Truppe live zwar richtig Spass gemacht hat, musikalisch aber nicht so richtig richtig gut war.
+Man muss sagen, dass die Truppe live zwar richtig Spaß gemacht hat, musikalisch aber nicht so richtig richtig gut war.
 Das war zumindest mein Eindruck bei den ersten paar Songs.
 
-Ab dort war ich in einer echt harten Moshpit unterwegs, die aber mega Spass gemacht hat.
+Ab dort war ich in einer echt harten Moshpit unterwegs, die aber mega Spaß gemacht hat.
 Da mobilisiert man nochmal alle Kräfte.
 
 Ansonsten muss man noch sagen, dass der Sänger unglaublich dankbar war, wieder live spielen zu können.
@@ -141,12 +141,12 @@ Um dann einen Moment später zu growlen wie ein Irrer.
 {% include foldergallery.html folder="2022-07-25/do/5" %}
 
 ### Imminence
-Klang beim reinhören zuhause schon richtig gut, war live noch viel besser.
+Klang beim Reinhören zu Hause schon richtig gut, war live noch viel besser.
 Metalcore mit Geige in einer musikalisch grandiosen Umsetzung.
-Was der Gitarist da veranstaltet hat war einfach aller erste Liga.
+Was der Gitarrist da veranstaltet hat, war einfach aller erste Liga.
 
-Viel mehr gibts garnicht dazu zu erzählen, um 02:30 sind wir erschöft von über 6 Stunden hartem Feiern zu großartiger Musik zurück ins Camp.
-Was ein erster Tag im Palastzelt.
+Viel mehr gibts gar nicht dazu zu erzählen, um 2:30 sind wir erschöpft von über sechs Stunden hartem Feiern zu großartiger Musik zurück ins Camp.
+Was ein erster Tag im Palastzelt!
 
 {% include foldergallery.html folder="2022-07-25/do/6" %}
 
@@ -156,24 +156,24 @@ Normalerweise fährt dieser Mensch wohl einen Kleinwagen, auf jeden Fall hatte i
 Hat alles ganz schön genervt und auch unnötige Arbeit und Klärungen über das Wochenende mit sich gezogen, aber ist im Endeffekt gut ausgegangen.
 Abharken, weiter machen.
 
-Bei leicht besserem Wetter als am verregneten morgen verbrachten wir den Tag bei Volleyball und Flunkyball mit den Nachbarn.
+Bei leicht besserem Wetter als am verregneten Morgen verbrachten wir den Tag bei Volleyball und Flunky-Ball mit den Nachbarn.
 
 {% include foldergallery.html folder="2022-07-25/fr/1" %}
 
 ### Le Fly
-Nach dem wir ganz kurz um 14:00 bei Bilbao reingeschaut hatten ging es um kur vor 3 rüber zur Waterstage.
-Dort begann der Tag mit dem Konzert, auf das ich mich vermutlich am meisten im vorhinein gefreut habe:
+Nach dem wir ganz kurz um 14:00 bei Bilbao reingeschaut hatten ging es um kur vor drei rüber zur Waterstage.
+Dort begann der Tag mit dem Konzert, auf das ich mich vermutlich am meisten im Vorhinein gefreut habe:
 Die Deichbrand Veteranen "Le Fly", die ich wohl mittlerweile ca. 15 mal Live gesehen habe und eine meiner Lieblingsbands sind.
 
 Entsprechend eskalativ bin ich die Sache angegangen.
-DIe gesamte Zeit durch gesprungen, gesunden und in jeder Moshpit und jedem Circle vorne mit dabei.
-Im Ergebniss gibt es wenig Fotos, ich hatte mega Spass, vermutlich eine kleine Gehirnerschütterung und war nach dem Konzert völlig fertig.
+Die gesamte Zeit durch gesprungen, gesungen und in jeder Moshpit und jedem Circle vorne mit dabei.
+Im Ergebnis gibt es wenig Fotos, ich hatte mega Spaß, vermutlich eine kleine Gehirnerschütterung und war nach dem Konzert völlig fertig.
 Und das war es trotzdem jede Sekunde wert, voll durchzuziehen.
-Die Jungs machen Live einfach so einen guten Job, da muss man einfach Spass haben.
+Die Jungs machen live einfach so einen guten Job, da muss man einfach Spaß haben.
 
-Nur man muss vielleicht nicht gaaaanzt der allererste in der Moshpit sein.
+Nur man muss vielleicht nicht gaaaanz der allererste in der Moshpit sein.
 Denn dort rennt man einfach Vollgas in eine Wand.
-Dann spart man sich auch die blauen Flecken und Ibu's nach dem Konzert.
+Dann spart man sich auch die blauen Flecken und Ibus nach dem Konzert.
 
 {% include foldergallery.html folder="2022-07-25/fr/2" %}
 
@@ -181,14 +181,14 @@ Dann spart man sich auch die blauen Flecken und Ibu's nach dem Konzert.
 
 ### Rogers
 Ich wusste ja, dass die Jungs Spaß machen.
-Aber das sie soviel Spaß machen, hab ich nicht erwartet.
+Aber dass sie so viel Spaß machen, hab ich nicht erwartet.
 Ehrlicher, guter, witziger, deutscher Punk.
 Der Sänger war selber ständig am Crownsurfen.
 
-Und obwohl ich nach der Le Fly Nummer eigentlich noch völlig platt war, konnte ich es nicht lassen, in der doch etwas härteren Moshpit mitzumischen.
-Wenn auch etwas zurückhaltener, wie man es eben eigentlich machen sollte.
+Und obwohl ich nach der Le Fly-Nummer eigentlich noch völlig platt war, konnte ich es nicht lassen, in der doch etwas härteren Moshpit mitzumischen.
+Wenn auch etwas zurückhaltender, wie man es eben eigentlich machen sollte.
 
-Ein witziger Abschluss war Gigi D'Agostinos "I'll fly with you", was nach dem Konzert schrecklich-schön von der erschöpften Menge mitgesunden wurde.
+Ein witziger Abschluss war Gigi D'Agostinos "I'll fly with you", was nach dem Konzert schrecklich-schön von der erschöpften Menge mitgesungen wurde.
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/fr/rogers-flywithyou.mp4' type='video/mp4'/> </video>
 
@@ -197,22 +197,22 @@ Ein witziger Abschluss war Gigi D'Agostinos "I'll fly with you", was nach dem Ko
 
 ### Le Fly am Merch
 Wenn man bei den Konzerten am Vormittag zuhört, oder das Deichbrand kennt, weiß man, dass gewisse Bands noch eine Merch-Session machen.
-Dafür gibt es sogar einen Timetable, der zwar dort hängt, aber nirgends online ist. Also immer ein kleiner Insider Tipp für Fans der Vormittagsbands.
+Dafür gibt es sogar einen Timetable, der zwar dort hängt, aber nirgends online ist. Also immer ein kleiner Insider-Tipp für Fans der Vormittagsbands.
 
-Nach dem Rogers Konzert waren wir kurz im Camp, um zu chillen. 
-Das hat garnicht funktionert, weil noch eine Flunkyball Rechnung offen war.
-Dannach allerdings ging es nach schnellem Essen zum Merch Stand.
+Nach dem Rogers-Konzert waren wir kurz im Camp, um zu chillen. 
+Das hat gar nicht funktioniert, weil noch eine Flunky-Ball-Rechnung offen war.
+Danach allerdings ging es nach schnellem Essen zum Merch-Stand.
 
-Die beiden Le Fly Sänger waren alleine und sichtlich betrunken, hatten also nach ihrem Konzert wohl etwas Spass.
-Entsprechend war es schräg und musikalisch garnicht so gut, aber enorm witzig.
-Wer schonmal beim Le Fly Heimspiel Konzert auf St. Pauli war, weiß was gemeint ist.
-Es wurden ein oder zwei Hits gespielt, aber ansonsten gab es schonmal Materiel vom nächsten Album zu hören.
+Die beiden Le Fly-Sänger waren alleine und sichtlich betrunken, hatten also nach ihrem Konzert wohl etwas Spaß.
+Entsprechend war es schräg und musikalisch gar nicht so gut, aber enorm witzig.
+Wer schonmal beim Le Fly-Heimspiel-Konzert auf St. Pauli war, weiß, was gemeint ist.
+Es wurden ein oder zwei Hits gespielt, aber ansonsten gab es schonmal Material vom nächsten Album zu hören.
 Ich freu mich drauf.
 
-Lena und mein erklärtes Ziel war, unser Foto von 2017 mit Sänger Schmiddelfinger nochmal nachzustellen, was wir auch geschafft haben.
-Selbst wenn ich leicht vertrahlt schaue.
+Lenas und mein erklärtes Ziel war, unser Foto von 2017 mit Sänger Schmiddelfinger nochmal nachzustellen, was wir auch geschafft haben.
+Selbst wenn ich leicht verstrahlt schaue.
 
-Super Sache, dafür mussten wir leider Schmutzki auslassen. Die waren parallel zur Merch Session im Palastzelt, aber alles geht eben nicht.
+Super Sache, dafür mussten wir leider Schmutzki auslassen. Die waren parallel zur Merch-Session im Palastzelt, aber alles geht eben nicht.
 
 {% include foldergallery.html folder="2022-07-25/fr/4" %}
 
@@ -220,7 +220,7 @@ Super Sache, dafür mussten wir leider Schmutzki auslassen. Die waren parallel z
 Auf ging es zu den Apes, wo Flo und Alex auch wieder am Start waren.
 Ich hab ja irgendwie nichts erwartet, sondern gedacht, dass der Skaterpunk von vor 20 Jahren ganz schön angestaubt sein wird.
 
-Was hab ich mich getäuscht.
+Was hab ich mich getäuscht!
 Die Sängerin Sandra Nasić hat eine unfassbare Bühnenpräsenz und die alten Hits funktionieren auch heute noch.
 Musikalisch im Lead ist bei der Truppe übrigens der Bassist, der auch die meiste Bühneninteraktion neben der Sängerin macht.
 Gitarre und Drums wirken eher wie Beiwerk.
@@ -237,16 +237,16 @@ Nichts gegen Clueso, aber wir haben uns die Mainstage gespart und sind ins Palas
 
 Dort gabs Glam Rock, der auch 40 Jahre alt sein könnte.
 Ich hatte mich mit einer der Fans unterhalten und wir waren uns uneinig, ob der Sänger eher Mick Jagger von den Stones oder Michael Jackson verkörpert.
-Wie auch immer sie auf Michael Jackson kam, als die Struts dann "Jumping Jack Flash" coverten musste sie mir recht geben.
+Wie auch immer sie auf Michael Jackson kam, als die Struts dann "Jumping Jack Flash" coverten, musste sie mir recht geben.
 
 Echt witziges Konzert und eine schöne Abwechslung.
 {% include foldergallery.html folder="2022-07-25/fr/6" %}
 
 ### Kraftklub
-Wir sparten und Bausa (mein Gott war das bischen was wir beim gehen hören durften schlecht) und sind fix zum Camp.
+Wir sparten uns Bausa (mein Gott war das bisschen, was wir beim Gehen hören durften, schlecht) und sind fix zum Camp.
 
 Leider setze nach dem Tag eine gewisse Lethargie ein, sodass wir zu spät los sind und es nicht mehr zu Kraftklub in die erste Welle geschafft haben.
-Wer etwas Festival Erfahrung hat weiß, dass man ganz vorne mehr Platz als in der zweiten Welle hat. Und vorallem hat man dort keinen Durchgangsverkehr.
+Wer etwas Festival-Erfahrung hat,: weiß, dass man ganz vorne mehr Platz als in der zweiten Welle hat. Und vorallem hat man dort keinen Durchgangsverkehr.
 
 Nun standen wir also relativ weit weg. Es war eng, ständig wollte jemand vorbei und von der Bühne gesehen hat man auch nichts.
 Klar gibts Leinwände, aber das macht einfach nicht wirklich Spaß.
