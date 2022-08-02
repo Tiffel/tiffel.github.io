@@ -263,16 +263,19 @@ Es gab aber noch ein paar Bier mit den Nachbarn am Camp, während Lena und Flo n
 {% include foldergallery.html folder="2022-07-25/fr/7" %}
 
 ## Der Samstag
-Man als Scooter Fan hätte wohl zu Finch gehen sollen
+Den Samstag morgen haben wir etwas am Camp vergammelt, aber zuminst ein paar nette Dinge auf dem Zeltplatz gesehen.
+
+Auf dem Weg zur ersten Band haben wir Finch auf der anderen Bühne gehört. Da hätte man als Scooter Fan wohl hingehen sollen.
+Soweit wir ich das sehen konnte war es dort randvoll und die Leute haben eine gute Party gefeiert.
 
 {% include foldergallery.html folder="2022-07-25/sa/1" %}
 
 ### Monsters of Liedermaching
-6 Liedermacher, die dieses mal nur zu viert waren. 
+Die 6 Liedermacher, die dieses mal nur zu viert waren. 
 Wir waren in voller Besetzung zu fünft vor Ort, also sogar mehr also auf der Bühne waren.
 
-Immer direkt, immer albert, immer irgendwie doch bei der Wahrheit.
-Es war wir immer super witzig mit den Jungs, es gab viel zum Mitsingen und am Ende grölten alle seeling "Kola Korn".
+Immer direkt, immer albern, immer irgendwie doch bei der Wahrheit.
+Es war wie immer super witzig mit den Jungs, es gab viel zum Mitsingen und am Ende grölten alle seeling "Kola Korn".
 Emfpehlenswert. Also die Monsters und, wenn man im Norden aufm Land unterwegs ist, auch Kola Korn.
 
 Dannach bin ich nochmal zurück zum Camp, weil ich nicht so richtig Lust auf Querbeat hatte.
@@ -284,38 +287,67 @@ Naja, schade.
 
 ### Anti-Flag
 Wenn sich eine amerikanische Band so nennt wie diese und man weiß, wie sehr die Amerikaner ihre Flagge lieben kann es sich hier nur um Punk handlen.
-Es wurde eindeutig politisch Stellung bezogen, die aufhebung von Roe vs. Walde (TODO) des SCOTUS war ja nicht besonders lange her.
+Es wurde eindeutig politisch Stellung bezogen, die Aufhebung von Roe v. Walde des SCOTUS war ja nicht besonders lange her.
 
-Am Ende Klassiker covern:
-Clash should i stay or should i go
-ramones blitzkrieg bop
+Mal wieder eine Band, die man sich zwar zuhause anhören kann, die aber Live erst ihr wirkliches Potential entfaltet.
+Ich hab mal wieder Freunde im Publukum gefunden, den Menschen auf dem Foto kenne ich tatsächlich nicht.
+
+Die Circlepits waren schon echt beeindruckend, das Highlight waren wohl am Ende die gecoverten Punkklassiker "Should I Stay or Should I Go" (The Clash) und 
+"Blitzkrieg Bop" (Ramones).
 
 {% include foldergallery.html folder="2022-07-25/sa/3" %}
 Pause am Camp (Gespräch mit flo)
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/antiflag.mp4' type='video/mp4'/> </video>
 
-Nach der Eskalation der letzen Tage ging es hiernach für ein paar Stunden zum Camp zurück, wo ich einfach eine Weile unterhalten und in Ruhe etwas gegessen hab. 
+Nach der Eskalation der letzen Tage und der Anti-Flag Party ging es dannach für mich für ein paar Stunden zum Camp zurück.
+Einfach eine Weile unterhalten und in Ruhe etwas essen. 
 Mal kein Flunkyball, kein Stechschritt zur nächsten Band, sondern einfach Pause.
 
-
 ### Flogging Molly
-Finch in der mosh
+Runde Eins der Folk-Punk Bands dieses Wochenende.
+Ich hatte nicht so richtig eine Erwartung, wie gut die Jungs sein.
+Aber ich wurde echt positiv überrascht, sodass das Konzert auf 50 Minuten durchspringen hinauslief.
+Hat von Lied eins Spaß gemacht, die Menge war sofort am Start.
+
+Ganz witzig war, dass Finch offensichlicht auch Fan ist und begleitet von 2-3 Securities in der Menge mitgemischt hat.
+
+Und einfach schön waren die beiden Rolli-Fahrer, die super mutig im Circle voll mitgemacht hatten.
+Die Meute hat sich einfach herzlich um die beiden gekümmert.
+Also nicht nur Rücksicht genommen, sondern den beiden eine gute Zeit bescherrt.#
+Inklusive einer Art Crowssurfen, in dem die beiden für einige Minuten von jeweils 4 Leuten inklusive Rollstuhl durch die Menge getragen wurden.
 
 {% include foldergallery.html folder="2022-07-25/sa/4" %}
 
-
 ### Nightwish
-warten auf Rin, boa war das mies
+Nightwish war für mich von Anfang ein so ein "muss ich eigenlicht nicht haben" Act.
+Bzw. habe ich mich gefragt, was die auf dem Headliner Slot am Samstag machen, einfach weil es überhaupt nicht zur restlichen musikalischen Ausrichtung des Festivals passte.
 
-NIgvhtwish ist musikalisch richtig gut.
-passte überhaupt nicht zum rest des festibals.
-schwierig, weil kompliziert, dazu abgzugehen.
-stimmung war trotzdem ganz ok.
+Während wir auf den Beginn warteten lief auf der Bühne neben an noch Rin, welcher spontan Capital Bra ersetzen musste. 
+Ich bin weder Freund noch Experte in Deutschem Gansta Rap.
+Aber die Teile der Performance, die wir hören mussten waren wirklich schmerzhaft schlecht.
+Vermutlich hatten die Veranstalter keine große Auswahl, aber den Slot hätten sie wohl lieber leer gelassen, statt Rin auf den 21:00 Slot am Samstag zu setzen.
 
-kevin getrroffen
+Ein krasser Zufall war aber, dass ich kurz vor dem Konzert meine Kollegen Kevin vorne im Infield getroffen habe.
+Ich wusste, dass er auch aus Dresden angereißt war, aber sich auf einem 60000 Menschen Festival einfach so zu treffen ist schon unwahrscheinlich.
 
-Abscchluss Bier am Camp um halb 3, es war scheiss kalt
+Nightwish selber war musikalisch echt gut.
+Verhältnissmäßig schwierige, anspruchsvolle Musik.
+Es war also nicht so einfach, dazu zu tanzen.
+Aber jeder, der sich für Musik begeistert und vielleicht sogar etwas davon versteht hatte wohl Spaß.
+
+Die Sängerin ist natürlich der Kern der Performance.
+Was eine Stimme, was eine Bühnenpräsenz. Richtig gut.
+Aber eben auch die anderen Musiker, meiner Meinung nach getrieben vom Keyboard, haben ordentlich abgeliefert.
+Man könnte jetzt böse behaupten, dass die Band "fucking Art-School Stuff" statt gradlienigem Rock macht, aber das hat es einfach sehr spannend gemacht.
+
+Die Stimmung ist natürlich bei sowas eine ganz andere als bei Flogging Molly, Kraftklub etc, wo man einfach eine Party feiert. 
+Die Stimmung war aber trotzdem ganz gut. 
+Ich bin  weiterhin unschlüssig, ob Nightwish eine gute Headliner Besetzung für ein Mainstream Festival ist. 
+Das musikalische Format haben sie locker.
+In der breiten Masse Leute begeistern ist aber eher schwierig.
+
+Um 2 gab es dann am Camp das letze Bier, weil es mittlerweile richtig kalt geworden war und alle nur noch in die Schlafsäcke wollten. 
 {% include foldergallery.html folder="2022-07-25/sa/5" %}
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/nightwish.mp4' type='video/mp4'/> </video>
