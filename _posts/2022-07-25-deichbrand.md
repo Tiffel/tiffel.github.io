@@ -286,11 +286,11 @@ Naja, schade.
 {% include foldergallery.html folder="2022-07-25/sa/2" %}
 
 ### Anti-Flag
-Wenn sich eine amerikanische Band so nennt wie diese und man weiß, wie sehr die Amerikaner ihre Flagge lieben kann es sich hier nur um Punk handlen.
+Wenn sich eine amerikanische Band so nennt wie diese und man weiß, wie sehr die Amerikaner ihre Flagge lieben, kann es sich hier nur um Punk handlen.
 Es wurde eindeutig politisch Stellung bezogen, die Aufhebung von Roe v. Walde des SCOTUS war ja nicht besonders lange her.
 
 Mal wieder eine Band, die man sich zwar zuhause anhören kann, die aber Live erst ihr wirkliches Potential entfaltet.
-Ich hab mal wieder Freunde im Publukum gefunden, den Menschen auf dem Foto kenne ich tatsächlich nicht.
+Ich hab auch wieder Freunde im Publukum gefunden, den Menschen auf dem Foto kenne ich tatsächlich nicht.
 
 Die Circlepits waren schon echt beeindruckend, das Highlight waren wohl am Ende die gecoverten Punkklassiker "Should I Stay or Should I Go" (The Clash) und 
 "Blitzkrieg Bop" (Ramones).
@@ -313,8 +313,8 @@ Ganz witzig war, dass Finch offensichlicht auch Fan ist und begleitet von 2-3 Se
 
 Und einfach schön waren die beiden Rolli-Fahrer, die super mutig im Circle voll mitgemacht hatten.
 Die Meute hat sich einfach herzlich um die beiden gekümmert.
-Also nicht nur Rücksicht genommen, sondern den beiden eine gute Zeit bescherrt.#
-Inklusive einer Art Crowssurfen, in dem die beiden für einige Minuten von jeweils 4 Leuten inklusive Rollstuhl durch die Menge getragen wurden.
+Also nicht nur Rücksicht genommen, sondern den beiden eine gute Zeit bescherrt.
+Inklusive einer Art Crowdsurfen, in dem die beiden für einige Minuten von jeweils 4 Leuten inklusive Rollstuhl durch die Menge getragen wurden.
 
 {% include foldergallery.html folder="2022-07-25/sa/4" %}
 
@@ -323,11 +323,11 @@ Nightwish war für mich von Anfang ein so ein "muss ich eigenlicht nicht haben" 
 Bzw. habe ich mich gefragt, was die auf dem Headliner Slot am Samstag machen, einfach weil es überhaupt nicht zur restlichen musikalischen Ausrichtung des Festivals passte.
 
 Während wir auf den Beginn warteten lief auf der Bühne neben an noch Rin, welcher spontan Capital Bra ersetzen musste. 
-Ich bin weder Freund noch Experte in Deutschem Gansta Rap.
+Ich bin weder Freund noch Experte in deutschem Rap.
 Aber die Teile der Performance, die wir hören mussten waren wirklich schmerzhaft schlecht.
 Vermutlich hatten die Veranstalter keine große Auswahl, aber den Slot hätten sie wohl lieber leer gelassen, statt Rin auf den 21:00 Slot am Samstag zu setzen.
 
-Ein krasser Zufall war aber, dass ich kurz vor dem Konzert meine Kollegen Kevin vorne im Infield getroffen habe.
+Ein krasser Zufall war aber, dass ich kurz vor dem Konzert meinen Kollegen Kevin vorne im Infield getroffen habe.
 Ich wusste, dass er auch aus Dresden angereißt war, aber sich auf einem 60000 Menschen Festival einfach so zu treffen ist schon unwahrscheinlich.
 
 Nightwish selber war musikalisch echt gut.
@@ -338,11 +338,12 @@ Aber jeder, der sich für Musik begeistert und vielleicht sogar etwas davon vers
 Die Sängerin ist natürlich der Kern der Performance.
 Was eine Stimme, was eine Bühnenpräsenz. Richtig gut.
 Aber eben auch die anderen Musiker, meiner Meinung nach getrieben vom Keyboard, haben ordentlich abgeliefert.
-Man könnte jetzt böse behaupten, dass die Band "fucking Art-School Stuff" statt gradlienigem Rock macht, aber das hat es einfach sehr spannend gemacht.
+Man könnte jetzt böse behaupten, dass die Band ganz schön Art-School Stuff statt gradlienigem Rock macht, aber das hat es einfach sehr spannend gemacht.
 
-Die Stimmung ist natürlich bei sowas eine ganz andere als bei Flogging Molly, Kraftklub etc, wo man einfach eine Party feiert. 
-Die Stimmung war aber trotzdem ganz gut. 
-Ich bin  weiterhin unschlüssig, ob Nightwish eine gute Headliner Besetzung für ein Mainstream Festival ist. 
+Die Stimmung ist natürlich bei sowas eine ganz andere als bei Flogging Molly, Kraftklub etc., wo man einfach eine Party feiert. 
+Gut war sie trotzdem.
+ 
+Ich bin weiterhin unschlüssig, ob Nightwish eine gute Headliner Besetzung für ein Mainstream Festival ist. 
 Das musikalische Format haben sie locker.
 In der breiten Masse Leute begeistern ist aber eher schwierig.
 
@@ -372,14 +373,16 @@ Und dannach noch den ersten Versuch für das das tradionelle "Festivalbänder im
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/die257-meinholz.mp4' type='video/mp4'/> </video>
 
-### Großstadt Geflüster
+### Großstadtgeflüster
 Vivi und Flo kamen dazu, und da die Sonne mittlerweile am Start war, haben wir sowohl endlich ein Gruppenfoto also auch die Bänder im Sand auf Kamera bekommen.
 
 Großstadtgeflüster ist live wirklich sehenwert, selbst wenn man kein großer Hiphop Fan ist. 
-Die beiden haben politisch das Herz an der rechten Stelle, die Sängerin ist einfach eine dreiste Berliner Schnautze.
+Die beiden haben politisch das Herz an der rechten Stelle, die Sängerin ist einfach eine dreiste Berliner Schnauze.
 
-Und beide wissen, wie man eine Menge zum feiern bringt.
-Einzig etwas doof war, dass die Menge zu den falschen Songs versucht hat zu moshen. Falsche Musik, da funktioniert das nicht :)
+Und beide wissen, wie man eine Menge zum feiern bringt. Bei den Hits wie "Fickt-Euch-Allee" oder "Feierabend" hab ich das erwartet, bei anderen Songs nicht.
+Aber da war einfach keine Pause zu holen, weil es so Spaß gemacht hat.
+
+Einzig etwas doof war, dass die Menge zu den falschen Songs versucht hat zu moshen. Nicht die richtige Musik, da funktioniert das nicht :)
 
 {% include foldergallery.html folder="2022-07-25/so/3" %}
 
@@ -401,9 +404,9 @@ Und wegen des Schadens am Auto hatte ich auch noch ein paar Sachen zu klären.
 Das war, dem Bericht von Flo und Lena nach, wohl eine dumme Idee.
 Inbesondere Enter Shikari war wohl ein ganz schöner Abriss. Und Maximo Park, was ich stattdessen gewählt hatte solte ich als mies herausstellen.
 
-Naja, das am Camp dauerte alles etwas, aber nachdem alles erledigt war hab ich zumindest mit den Nachbarn und einem Jever Fun noch eine Runde Flunkyball spielen können. 
+Naja, das am Camp dauerte alles etwas längert als erwartet. Aber nachdem endlich alles erledigt war, hab ich zumindest mit den Nachbarn und einem Jever Fun noch eine Runde Flunkyball spielen können. 
 
-Uns war über den Tag schon aufgefallen, dass der Campingplatz u schon extrem leer war.
+Uns war über den Tag schon aufgefallen, dass der Campingplatz schon extrem leer war.
 Das schon vereinzelt Menschen am Sonntag abreisen, weil sie z.B. Montags arbeiten müssen kommt vor.
 Aber so extrem hab ich das zumindest noch nicht erlebt.
   
@@ -411,16 +414,16 @@ Aber so extrem hab ich das zumindest noch nicht erlebt.
 
 ### Maximo Park
 Einen charismatischen Sänger haben sie ja.
-Aber ansonsten war das alles andere als straigt. Die Musik wurde von Song zu Song zerfiedelter, wir hätten einfach gehen sollen.
+Aber ansonsten war das alles andere als gerade und auf den Punkt. Die Musik wurde von Song zu Song zerfiedelter, wir hätten einfach gehen sollen.
 Doof gelaufen.
 
 {% include foldergallery.html folder="2022-07-25/so/6" %}
 
 ### Madsen
-AUs dem Palatzelt kommend sind fir fix zur Fire Stage, weil man Madsen schon hören konnte.
+Aus dem Palatzelt kommend sind wir fix zur Fire Stage, weil man Madsen schon hören konnte.
 Madsen war sehr kurzfristig für Milky Chance eingesprungen, was natürlich ein super Tausch ist.
 Warum wir es für die letze halbe Stunde noch ins vordere Infield geschafft haben, kann ich mir nur damit erklären, dass tatsächlich schon so viele Menschen abgereist waren.
-Glück für Lena und mich, die letze halbe Stunde hat richtig Spass gemacht.
+Glück für Lena und mich, der Rest vom Konzert hat richtig Spass gemacht.
 
 Man konnte die paar Lieder, die sogar ich ganz gut kenne mitsingen, es wurde aber auch relativ hart gefeiert.
 Das haben einige Leute zu spüren bekommen, denen nicht klar war, dass je nach Verlauf eines Songs aus einem lieben Circle auch mal schnell eine Moshpit wird.
@@ -431,20 +434,23 @@ Da gehört wohl doch etwas Konzert Erfahrung dazu, das Verhalten der Menge einsc
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/madsen.mp4' type='video/mp4'/> </video>
 
 ### Dropkick Murphies
-Wir hatten uns Sido gesparrt, aber auch von ihm die letzen paar Songs beim warten auf die Murphies gehört.
-Muss man nicht unbedingt haben, wenn auch nicht so unfassbar mies wie RIN.
+Wir hatten uns Sido gespart, aber auch von ihm die letzen paar Songs beim warten auf die Murphies gehört.
+Muss ich man nicht unbedingt haben, wenn auch nicht so unfassbar mies wie Rin. Vermutlich macht das vorne drin schon irgendwie Spaß.
 
 Auch bei den Murphies war es echt leer, das Infield war praktisch erst mit dem ersten Akkord voll.
 Musikalisch möglicherweise etwas schlechter als Flogging Molly am Vortag, aber es hat einfach richtig Spass gemacht, mit den Jungs zu Irish Folk abzugehen.
 Weiß eigentlich jemand, warum praktisch alle Irish Folk Bands aus den USA kommen und niemand aus Irland?
 
 Man hat den Jungs angemerkt, dass sie wirklich Spaß auf der Bühne haben.
+Wir haben das Wochenende oft die Ansage gehört, wie froh alle sind, nach der Pandemiepause wieder live spielen zu können.
+Bei den Murphies wirkte dass echt authentisch.
+
 Energetisch, motiviert, immer nah am Publikum.
 Live einfach Spitzen Band.
-Und wenn man dann noch soviel Platz hat wie wir, kann man auch ausladent tanzen.
+Und wenn man dann noch soviel Platz hat wie wir, kann man auch ausladend tanzen.
 Normalerweise dürfte es deutlich enger zugehen. Ich bin gespannt, im Januar bin ich in Dublin zum Konzert bei den Murphies.
 
-Wir mobilisierten die letzen Kräfte und sprangen bis um 11 Uhr durch. Dann haben Alex und ich uns von Lena und Flo verabschiedet und sind leider schon los zum Camp.
+Wir mobilisierten die letzen Kräfte und sprangen bis um 11 Uhr durch. Dann haben Alex und ich uns von Lena und Flo verabschiedet und mussten leider schon los zum Camp.
 
 {% include foldergallery.html folder="2022-07-25/so/8" %}
 
@@ -460,4 +466,4 @@ Ich hatte igendwie damit gerechnet, dass die Fahrt richtig anstrengend und schei
 Das ging erstaunlich gut, wobei die 2 in der Mittelkonsole deponierten Redbull wohl eine gute Idee waren.
 Damit sollte die Deichbrand Expedition am Montag um 01:30 in der Nacht enden.
 
-Nächster Stop: Ohne Pause weiter in die Karibik.
+Nächster Stop: Karibik. Pause: Gibts nicht.
