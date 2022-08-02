@@ -13,7 +13,7 @@ title:  "Karibik 1: Anreise und Jamaica"
 * Kurze Strecke nach Jamaika unspannemd
 * Laufen zum Hotel weirdo taxi Leute
 
-{% include foldergallery.html folder="2022-07-25/mi" %}
+{% include foldergallery.html folder="2022-08-03/1" %}
 
 ## Montego Bay
 Duschen pennen um 0
@@ -42,7 +42,7 @@ Um zwei am Hotel m/v und Gepäck abgeholt und z Knutsford Express.
 Luxus Busreise, der gemeine Jamaikaner nutzt das anscheinend nicht
 
 
-{% include foldergallery.html folder="2022-07-25/do/1" %}
+{% include foldergallery.html folder="2022-08-03/2" %}
 
 
 ## Ocho Rios
@@ -65,12 +65,13 @@ Verkehrsdesaster. Versuchter Zwischenstop zum atm, 15 Minuten warwn Plätze verg
 Fazit Alles nur mit Fahrer, unnötig teuer für das erlebte, ocho Rios kann nix. Die Unterkunft an sich war gut und macht bei gutem Wetter richtig spar , nur eben ab vom Schuss
 
 
-{% include foldergallery.html folder="2022-07-25/do/1" %}
+{% include foldergallery.html folder="2022-08-03/3" %}
 
 ### Dunn's River Falls
 
 ## Kingston
-{% include foldergallery.html folder="2022-07-25/do/1" %}
+
+{% include foldergallery.html folder="2022-08-03/4" %}
 2 km laufen zur Unterkunft in Kingston, würde erstaunlich schnell dunkel. Weil Vivi platt war essen bestellen. Was ein Desaster, wir haben es bei dem lokalen lieferando Dings nicht geschafft, eine Kreditkarte zu verifizieren. Dominos Bestellung, fette amerikanische Pizza. Mit Marlen in den Supermarkt um die Ecke für Getränke , mit Lokals gequatscht. Status Pizza Auf delivered, brauchte aber noch ewig. Abendessen um halb 11
 
 
@@ -102,4 +103,22 @@ WiFi ähnlich wie in de, da ist nix mehr mit überall anders besser
 
 ### Lime Cay
 
+Chris: We are "in dependent" of the Queen. Zum independence day in einer Woche 
 
+## Emancipation Day
+* You look like that guy from Coldplay 
+* Emancipation Park, warten auf parade. Nettes Mädchen, was mit ihren Vater unterwegs was. Und ein anderes kleines, was mit Luftballon gespielt hat
+* Parade in praller Sonne 
+* Durch den Park zurück zum Starbucks. Aus der Sonne raus, 3 Stunden rumbringen ohne zurück zu laufen 
+* Im park nen sound check gesehen und festgestellt, dass das redemption fest noch 1,5h später beginnt
+* Zum Stadion, independence Village.
+  * Wir die einzigen weisen
+  * Tanz Show, food market Aber nix vegetarisches.
+  * Ins Stadion, irgendwie in die miss Jamaica Wahl reingeraten. Die Leute machen krass Stimmung, aber das war schon weird.
+  * Seltsame einzel reden auf patwa, nix verstanden 
+* Statuen vorm stadium
+* Letzte dollars verprasst, Reste Essen in der Unterkunft
+* Barbados travel form kompliziert 
+
+## Reise nach Bardbado
+TODOs
