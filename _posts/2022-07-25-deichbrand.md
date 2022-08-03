@@ -64,7 +64,7 @@ Das hat gewirkt, zumindest nachts war das Teil nun ruhig.
 Diesen und die weiteren Tage mussten wir es aber doch irgendwie ertragen.
 Den immer wieder aufkommenden Plan, nachts die Druckluftleitung zu zerschneiden, haben wir nie durchgezogen.
 
-Wir brachten den Tag ansonsten mit Essen, Glitzer-Tatoos und ziemlich viel Flunky-Ball rum.
+Wir brachten den Tag ansonsten mit Essen, Glitzer-Tatoos und ziemlich viel Flunkyball rum.
 
 Um sechs starteten Flo, Lena und ich dann ins Palastzelt, welches wir bis halb drei nicht mehr verlassen sollten.
 Für uns war es das erste Mal, den üblichen Donnerstags-DJ "Beauty and the Beats" nicht mitzunehmen.
@@ -156,7 +156,7 @@ Normalerweise fährt dieser Mensch wohl einen Kleinwagen, auf jeden Fall hatte i
 Hat alles ganz schön genervt und auch unnötige Arbeit und Klärungen über das Wochenende mit sich gezogen, aber ist im Endeffekt gut ausgegangen.
 Abharken, weiter machen.
 
-Bei leicht besserem Wetter als am verregneten Morgen verbrachten wir den Tag bei Volleyball und Flunky-Ball mit den Nachbarn.
+Bei leicht besserem Wetter als am verregneten Morgen verbrachten wir den Tag bei Volleyball und Flunkyball mit den Nachbarn.
 
 {% include foldergallery.html folder="2022-07-25/fr/1" %}
 
@@ -200,7 +200,7 @@ Wenn man bei den Konzerten am Vormittag zuhört, oder das Deichbrand kennt, wei�
 Dafür gibt es sogar einen Timetable, der zwar dort hängt, aber nirgends online ist. Also immer ein kleiner Insider-Tipp für Fans der Vormittagsbands.
 
 Nach dem Rogers-Konzert waren wir kurz im Camp, um zu chillen. 
-Das hat gar nicht funktioniert, weil noch eine Flunky-Ball-Rechnung offen war.
+Das hat gar nicht funktioniert, weil noch eine Flunkyball-Rechnung offen war.
 Danach allerdings ging es nach schnellem Essen zum Merch-Stand.
 
 Die beiden Le Fly-Sänger waren alleine und sichtlich betrunken, hatten also nach ihrem Konzert wohl etwas Spaß.
@@ -245,147 +245,146 @@ Echt witziges Konzert und eine schöne Abwechslung.
 ### Kraftklub
 Wir sparten uns Bausa (mein Gott war das bisschen, was wir beim Gehen hören durften, schlecht) und sind fix zum Camp.
 
-Leider setze nach dem Tag eine gewisse Lethargie ein, sodass wir zu spät los sind und es nicht mehr zu Kraftklub in die erste Welle geschafft haben.
-Wer etwas Festival-Erfahrung hat,: weiß, dass man ganz vorne mehr Platz als in der zweiten Welle hat. Und vorallem hat man dort keinen Durchgangsverkehr.
+Leider setzte nach dem Tag eine gewisse Lethargie ein, sodass wir zu spät los sind und es nicht mehr zu Kraftklub in die erste Welle geschafft haben.
+Wer etwas Festival-Erfahrung hat, weiß, dass man ganz vorne mehr Platz als in der zweiten Welle hat. Und vor allem hat man dort keinen Durchgangsverkehr.
 
 Nun standen wir also relativ weit weg. Es war eng, ständig wollte jemand vorbei und von der Bühne gesehen hat man auch nichts.
 Klar gibts Leinwände, aber das macht einfach nicht wirklich Spaß.
 
-Nachdem Kraftklub irgendwann vor 2015 dem Deichbrand einen Antrag gemacht hatte und 2017 das Festival geheiratet hatte, feierten wir diesesmal die Silberhochzeit.
-Schön, wenn sich so ein Joke über mehrere Jahre und Festivalauftritte hält.
+Nachdem Kraftklub irgendwann vor 2015 dem Deichbrand einen Antrag gemacht und 2017 das Festival geheiratet hatte, feierten wir dieses Mal die Silberhochzeit.
+Schön, wenn sich so ein Joke über mehrere Jahre und Festival-Auftritte hält.
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/fr/kraftklub-nichtnachberlin.mp4' type='video/mp4'/> </video>
 
 Was man mitbekommen hat war eine solide Show, die Jungs sind schon gut.
-Aber an unserer Stehposition hatte ich nicht wirklich Spaß und bin nach ner Stunde los.
-Ärgerlich, aber ein bischen selbst schuld. Bei einem Headliner geht einfach nur noch vorne drin oder gleich am Camp bleiben. Alles andere ist inakzeptabel.
+Aber an unserer Steh-Position hatte ich nicht wirklich Spaß und bin nach einer Stunde los.
+Ärgerlich, aber ein bisschen selbst schuld. Bei einem Headliner geht einfach nur noch vorne drin oder gleich am Camp bleiben. Alles andere ist inakzeptabel.
 
-Ich selbst war dann auch zu müde und für den Tag auch gut bedient, um mich nochmal zu Apache 207 und dannach Afrob aufzuraffen.
+Ich selbst war dann auch zu müde und für den Tag auch gut bedient, um mich nochmal zu Apache 207 und danach Afrob aufzuraffen.
 Es gab für mich noch ein paar Bier mit den Nachbarn am Camp, während Lena und Flo noch unterwegs und Alex und Vivi schon schlafen waren.
 
 {% include foldergallery.html folder="2022-07-25/fr/7" %}
 
 ## Der Samstag
-Den Samstag morgen haben wir etwas am Camp vergammelt, aber zuminst ein paar nette Dinge wie Herrn Hasselhof und und einen schicksn Landy auf dem Zeltplatz gesehen.
+Den Samstagmorgen haben wir etwas am Camp vergammelt, aber zumindest ein paar nette Dinge wie Herrn Hasselhoff und einen schicken Landy auf dem Zeltplatz gesehen.
 
 Auf dem Weg zur ersten Band haben wir Finch auf der anderen Bühne gehört. Da hätte man als Scooter Fan wohl hingehen sollen.
-Soweit wir ich das sehen konnte war es dort randvoll und die Leute haben eine gute Party gefeiert.
+Soweit wie ich das sehen konnte war es dort randvoll und die Leute haben eine gute Party gefeiert.
 
 {% include foldergallery.html folder="2022-07-25/sa/1" %}
 
 ### Monsters of Liedermaching
-Die 6 Liedermacher, die dieses mal nur zu viert waren. 
-Wir waren in voller Besetzung zu fünft vor Ort, also sogar mehr also auf der Bühne waren.
+Die sechs Liedermacher, die dieses Mal nur zu viert waren. 
+Wir waren in voller Besetzung zu fünft vor Ort, also sogar mehr als auf der Bühne waren.
 
-Immer direkt, immer albern, immer mit inteligenten Wortwitzen bei der Wahrheit.
-Es war wie immer super witzig mit den Jungs, es gab viel zum Mitsingen und am Ende grölten alle seeling "Kola Korn".
-Emfpehlenswert. Also die Monsters und, wenn man im Norden aufm Land unterwegs ist, auch Kola Korn.
+Immer direkt, immer albern, immer mit intelligenten Wortwitzen bei der Wahrheit.
+Es war wie immer super witzig mit den Jungs, es gab viel zum Mitsingen und am Ende gröhlten alle seelig "Kola Korn".
+Emfpehlenswert! Also die Monsters und, wenn man im Norden aufm Land unterwegs ist, auch Kola Korn.
 
-Dannach bin ich nochmal zurück zum Camp, weil ich nicht so richtig Lust auf Querbeat hatte.
+Danach bin ich nochmal zurück zum Camp, weil ich nicht so richtig Lust auf Querbeat hatte.
 Hab mal wieder eine nette Runde Flunkyball gespielt.
-Beim laufen zu Antiflag habe ich die letzen zwei Songs von denen gehört und mich drüber geärgert nicht hingegangen zu sein. 
+Beim laufen zu Antiflag habe ich die letzen zwei Songs von denen gehört und mich drüber geärgert, nicht hingegangen zu sein. 
 Naja, schade.
 
 {% include foldergallery.html folder="2022-07-25/sa/2" %}
 
 ### Anti-Flag
-Wenn sich eine amerikanische Band so nennt wie diese und man weiß, wie sehr die Amerikaner ihre Flagge lieben, kann es sich hier nur um Punk handlen.
+Wenn sich eine amerikanische Band so nennt wie diese und man weiß, wie sehr die Amerikaner ihre Flagge lieben, kann es sich hier nur um Punk handeln.
 Es wurde eindeutig politisch Stellung bezogen, die Aufhebung von Roe v. Walde des SCOTUS war ja nicht besonders lange her.
 
-Mal wieder eine Band, die man sich zwar zuhause anhören kann, die aber Live erst ihr wirkliches Potential entfaltet.
-Ich hab auch wieder Freunde im Publikum gefunden, den Menschen auf dem Foto kenne ich tatsächlich nicht.
+Mal wieder eine Band, die man sich zwar zuhause anhören kann, die aber live erst ihr wirkliches Potential entfaltet.
+Ich hab auch wieder Freunde im Publikum gefunden. Den Menschen auf dem Foto kenne ich tatsächlich nicht.
 
-Die Circlepits waren schon echt beeindruckend, das Highlight waren wohl am Ende die gecoverten Punkklassiker "Should I Stay or Should I Go" (The Clash) und 
+Die Circlepits waren schon echt beeindruckend. Das Highlight waren wohl am Ende die gecoverten Punkklassiker "Should I Stay Or Should I Go" (The Clash) und 
 "Blitzkrieg Bop" (Ramones).
 
 {% include foldergallery.html folder="2022-07-25/sa/3" %}
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/antiflag.mp4' type='video/mp4'/> </video>
 
-Nach der Eskalation der letzen Tage und der Anti-Flag Party ging es dannach für mich für ein paar Stunden zum Camp zurück.
+Nach der Eskalation der letzen Tage und der Anti-Flag Party ging es danach für mich für ein paar Stunden zum Camp zurück.
 Einfach eine Weile unterhalten und in Ruhe etwas essen. 
 Mal kein Flunkyball, kein Stechschritt zur nächsten Band, sondern einfach Pause.
 
 ### Flogging Molly
 Runde Eins der Folk-Punk Bands dieses Wochenende.
 Ich hatte nicht so richtig eine Erwartung, wie gut die Jungs sein.
-Aber ich wurde echt positiv überrascht, sodass das Konzert auf 50 Minuten durchspringen hinauslief.
-Hat von Lied eins Spaß gemacht, die Menge war sofort am Start.
+Aber ich wurde echt positiv überrascht, sodass das Konzert auf 50 Minuten Durchspringen hinauslief.
+Hat von Lied Eins Spaß gemacht. Die Menge war sofort am Start.
 
-Ganz witzig war, dass Finch offensichlicht auch Fan ist und begleitet von 2-3 Securities in der Menge mitgemischt hat.
+Ganz witzig war, dass Finch offensichlich auch Fan ist und begleitet von 2-3 Security Guards in der Menge mitgemischt hat.
 
 Und einfach schön waren die beiden Rolli-Fahrer, die super mutig im Circle voll mitgemacht hatten.
 Die Meute hat sich einfach herzlich um die beiden gekümmert.
 Also nicht nur Rücksicht genommen, sondern den beiden eine gute Zeit beschert.
-Inklusive einer Art Crowdsurfen, in dem die beiden für einige Minuten von jeweils 4 Leuten inklusive Rollstuhl durch die Menge getragen wurden.
+Inklusive einer Art Crowdsurfen, in dem die beiden für einige Minuten von jeweils vier Leuten inklusive Rollstuhl durch die Menge getragen wurden.
 
 {% include foldergallery.html folder="2022-07-25/sa/4" %}
 
 ### Nightwish
-Nightwish war für mich von Anfang ein so ein "muss ich eigenlicht nicht haben" Act.
-Bzw. habe ich mich gefragt, was die auf dem Headliner Slot am Samstag machen, einfach weil es überhaupt nicht zur restlichen musikalischen Ausrichtung des Festivals passte.
+Nightwish war für mich von Anfang an so ein "Muss ich eigenlich nicht haben"-Act.
+Bzw. habe ich mich gefragt, was die auf dem Headliner-Slot am Samstag machen, einfach weil es überhaupt nicht zur restlichen musikalischen Ausrichtung des Festivals passte.
 
-Während wir auf den Beginn warteten lief auf der Bühne neben an noch Rin, welcher spontan Capital Bra ersetzen musste. 
-Ich bin weder Freund noch Experte in deutschem Rap.
-Aber die Teile der Performance, die wir hören mussten waren wirklich schmerzhaft schlecht.
+Während wir auf den Beginn warteten, lief auf der Bühne nebenan noch Rin, welcher spontan Capital Bra ersetzen musste. 
+Ich bin weder Freund von, noch Experte in deutschem Rap.
+Aber die Teile der Performance, die wir hören mussten, waren wirklich schmerzhaft schlecht.
 Vermutlich hatten die Veranstalter keine große Auswahl, aber den Slot hätten sie wohl lieber leer gelassen, statt Rin auf den 21:00 Slot am Samstag zu setzen.
 
 Ein krasser Zufall war aber, dass ich kurz vor dem Konzert meinen Kollegen Kevin vorne im Infield getroffen habe.
-Ich wusste, dass er auch aus Dresden angereißt war, aber sich auf einem 60000 Menschen Festival einfach so zu treffen ist schon unwahrscheinlich.
+Ich wusste, dass er auch aus Dresden angereist war, aber sich auf einem 60000 Menschen-Festival einfach so zu treffen, ist schon unwahrscheinlich.
 
 Nightwish selber war musikalisch echt gut.
-Verhältnissmäßig schwierige, anspruchsvolle Musik.
+Verhältnismäßig schwierige, anspruchsvolle Musik.
 Es war also nicht so einfach, dazu zu tanzen.
-Aber jeder, der sich für Musik begeistert und vielleicht sogar etwas davon versteht hatte wohl Spaß.
+Aber jeder, der sich für Musik begeistert und vielleicht sogar etwas davon versteht, hatte wohl Spaß.
 
 Die Sängerin ist natürlich der Kern der Performance.
-Was eine Stimme, was eine Bühnenpräsenz. Richtig gut.
+Was für eine Stimme, was für eine Bühnenpräsenz! Richtig gut!
 Aber eben auch die anderen Musiker, meiner Meinung nach getrieben vom Keyboard, haben ordentlich abgeliefert.
-Man könnte jetzt böse behaupten, dass die Band ganz schön Art-School Stuff statt gradlienigem Rock macht, aber das hat es einfach sehr spannend gemacht.
+Man könnte jetzt böse behaupten, dass die Band ganz schön Art-School-Stuff statt geradlinigem Rock macht. Aber das hat es einfach sehr spannend gemacht.
 
 Die Stimmung ist natürlich bei sowas eine ganz andere als bei Flogging Molly, Kraftklub etc., wo man einfach eine Party feiert. 
 Gut war sie trotzdem.
 
-Ich bin weiterhin unschlüssig, ob Nightwish eine gute Headliner Besetzung für ein Mainstream Festival ist. 
+Ich bin weiterhin unschlüssig, ob Nightwish eine gute Headliner-Besetzung für ein Mainstream-Festival ist. 
 Das musikalische Format haben sie locker.
-In der breiten Masse Leute begeistern ist aber eher schwierig.
+In der breiten Masse Leute begeistern, ist aber eher schwierig.
 
-Um 2 gab es dann am Camp das letze Bier, weil es mittlerweile richtig kalt geworden war und alle nur noch in die Schlafsäcke wollten. 
+Um zwei gab es dann am Camp das letze Bier, weil es mittlerweile richtig kalt geworden war und alle nur noch in die Schlafsäcke wollten. 
 {% include foldergallery.html folder="2022-07-25/sa/5" %}
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/nightwish.mp4' type='video/mp4'/> </video>
 
 ## Der Sonntag
-Nach der eiskalten Nacht hatten wir am Sonntag morgen Top Wetter.
+Nach der eiskalten Nacht hatten wir am Sonntag morgen Topp-Wetter.
 Die Sonne schien, die Möwen flogen herum und die Wolken verzogen sich nach und nach.
-Ich stieg auf Jever Fun und Orangensaft um, abends war Autofahren angesagt. Wir hatten im Anschluss ans Festival noch etwas leicht verrücktes vor.
+Ich stieg auf Jever Fun und Orangensaft um, abends war Autofahren angesagt. Wir hatten im Anschluss ans Festival noch etwas leicht Verrücktes vor.
 
 {% include foldergallery.html folder="2022-07-25/so/1" %}
  
 
 ### 257ers
-Eins der witzigsten Konzerte des Festivals.
-Die Show begann ähnlich zu Deichkind einige Wochen vorher in Dresden.
-Und eskalierte dann in alle Richtungen.
-Es gab eine Schaumparty, professionelle Wrestler in der Moshpit, einen tanzenden Deadpool, Mario Brothers die Bier durch den "Abfluss" in die Menge kippten.
-Und natürlich zwei völlig bescheuerte Typen, die sich auf der Bühne betrunken haben, eine mega Show gemacht haben und überhaupt nichts ernst genommen haben.
+...Eins der witzigsten Konzerte des Festivals.
+Die Show begann ähnlich zu Deichkind einige Wochen vorher in Dresden und eskalierte dann in alle Richtungen.
+Es gab eine Schaumparty, professionelle Wrestler in der Moshpit, einen tanzenden Deadpool, Mario Brothers, die Bier durch den "Abfluss" in die Menge kippten.
+Und natürlich zwei völlig bescheuerte Typen, die sich auf der Bühne betrunken, eine mega Show gemacht und überhaupt nichts ernst genommen haben.
 
-Das war musikalisch nicht gut, aber eben einfach spassig. Alex, Lena und ich haben auf jeden Fall durchgefeiert.
+Das war musikalisch nicht gut, aber eben einfach spaßig. Alex, Lena und ich haben auf jeden Fall durchgefeiert.
 Und dannach noch den ersten Versuch für das das tradionelle "Festivalbänder im Sand" Foto gemacht.
 {% include foldergallery.html folder="2022-07-25/so/2" %}
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/die257-meinholz.mp4' type='video/mp4'/> </video>
 
 ### Großstadtgeflüster
-Vivi und Flo kamen dazu, und da die Sonne mittlerweile am Start war, haben wir sowohl endlich ein Gruppenfoto also auch die Bänder im Sand auf Kamera bekommen.
+Vivi und Flo kamen dazu und da die Sonne mittlerweile am Start war, haben wir sowohl endlich ein Gruppenfoto also auch die Bänder im Sand auf Kamera bekommen.
 
-Großstadtgeflüster ist live wirklich sehenwert, selbst wenn man kein großer Hiphop Fan ist. 
-Die beiden haben politisch das Herz an der rechten Stelle, die Sängerin ist einfach eine dreiste Berliner Schnauze.
+Großstadtgeflüster ist live wirklich sehenwert, selbst wenn man kein großer Hiphop-Fan ist. 
+Die beiden haben politisch das Herz an der rechten Stelle. Die Sängerin ist einfach eine dreiste Berliner Schnauze.
 
-Und beide wissen, wie man eine Menge zum feiern bringt. Bei den Hits wie "Fickt-Euch-Allee" oder "Feierabend" hab ich das erwartet, bei anderen Songs nicht.
+Und beide wissen, wie man eine Menge zum Feiern bringt. Bei den Hits wie "Fickt-Euch-Allee" oder "Feierabend" hab ich das erwartet, bei anderen Songs nicht.
 Aber da war einfach keine Pause zu holen, weil es so Spaß gemacht hat.
 
-Einzig etwas doof war, dass die Menge zu den falschen Songs versucht hat zu moshen. Nicht die richtige Musik, da funktioniert das nicht :)
+Einzig etwas doof war, dass die Menge zu den falschen Songs versucht hat, zu moshen. Nicht die richtige Musik, da funktioniert das nicht. :)
 
 {% include foldergallery.html folder="2022-07-25/so/3" %}
 
@@ -394,23 +393,23 @@ So langsam wurde es richtig heiß. Es war keine Wolke mehr am Himmel, sodass Flo
 
 Und die Truppe hat ihrem Ruf mal wieder alle Ehre gemacht.
 Arroganter, morderner und auf den Punkt gebrachter Rock.
-Also inbesondere den arroganten Teil bringt der Sänger einfach authentisch rüber.
+Also insbesondere den arroganten Teil bringt der Sänger einfach authentisch rüber.
 
-Und ich hab mir auf der Nase einen Sonnenbrand gehohlt. Aber das war einfach selber Schuld.
+Und ich hab mir auf der Nase einen Sonnenbrand gehohlt. Aber das war einfach selber schuld.
 {% include foldergallery.html folder="2022-07-25/so/4" %}
 
 ### Fehlentscheidungen und Camp abbauen
 Ich hatte mich entschieden, Massendefekt und Enter Shikari auszulassen.
-Es gab ja noch ein Camp abzubauen, was morgens natürlich wegen der drei Konzerte nicht geklappt hatte.
+Es gab ja noch ein Camp abzubauen, was am Morgen natürlich wegen der drei Konzerte nicht geklappt hatte.
 Und wegen des Schadens am Auto hatte ich auch noch ein paar Sachen zu klären.
 
 Das war, dem Bericht von Flo und Lena nach, wohl eine dumme Idee.
-Inbesondere Enter Shikari war wohl ein ganz schöner Abriss. Und Maximo Park, was ich stattdessen gewählt hatte solte ich als mies herausstellen.
+Inbesondere Enter Shikari war wohl ein ganz schöner Abriss. Und Maximo Park, was ich stattdessen gewählt hatte, sollte sich als mies herausstellen.
 
-Naja, das am Camp dauerte alles etwas längert als erwartet. Aber nachdem endlich alles erledigt war, hab ich zumindest mit den Nachbarn und einem Jever Fun noch eine Runde Flunkyball spielen können. 
+Naja, das am Camp dauerte alles etwas länger als erwartet. Aber nachdem endlich alles erledigt war, hab ich zumindest mit den Nachbarn und einem Jever Fun noch eine Runde Flunkyball spielen können. 
 
 Uns war über den Tag schon aufgefallen, dass der Campingplatz schon extrem leer war.
-Das schon vereinzelt Menschen am Sonntag abreisen, weil sie z.B. Montags arbeiten müssen kommt vor.
+Dass schon vereinzelt Menschen am Sonntag abreisen, weil sie z.B. montags arbeiten müssen, kommt vor.
 Aber so extrem hab ich das zumindest noch nicht erlebt.
   
 {% include foldergallery.html folder="2022-07-25/so/5" %}
@@ -423,12 +422,12 @@ Doof gelaufen.
 {% include foldergallery.html folder="2022-07-25/so/6" %}
 
 ### Madsen
-Aus dem Palatzelt kommend sind wir fix zur Fire Stage, weil man Madsen schon hören konnte.
+Aus dem Palastzelt kommend sind wir fix zur Fire Stage, weil man Madsen schon hören konnte.
 Madsen war sehr kurzfristig für Milky Chance eingesprungen, was natürlich ein super Tausch ist.
 Warum wir es für die letze halbe Stunde noch ins vordere Infield geschafft haben, kann ich mir nur damit erklären, dass tatsächlich schon so viele Menschen abgereist waren.
 Glück für Lena und mich, der Rest vom Konzert hat richtig Spass gemacht.
 
-Man konnte die paar Lieder, die sogar ich ganz gut kenne mitsingen, es wurde aber auch relativ hart gefeiert.
+Man konnte die paar Lieder, die sogar ich ganz gut kenne, mitsingen. Es wurde aber auch relativ hart gefeiert.
 Das haben einige Leute zu spüren bekommen, denen nicht klar war, dass je nach Verlauf eines Songs aus einem lieben Circle auch mal schnell eine Moshpit wird.
 Da gehört wohl doch etwas Konzert Erfahrung dazu, das Verhalten der Menge einschätzen zu können.
 
@@ -437,8 +436,8 @@ Da gehört wohl doch etwas Konzert Erfahrung dazu, das Verhalten der Menge einsc
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/madsen.mp4' type='video/mp4'/> </video>
 
 ### Dropkick Murphies
-Wir hatten uns Sido gespart, aber auch von ihm die letzen paar Songs beim warten auf die Murphies gehört.
-Muss ich man nicht unbedingt haben, auch wenn es nicht so unfassbar mies wie Rin war.
+Wir hatten uns Sido gespart, aber auch von ihm die letzen paar Songs beim Warten auf die Murphies gehört.
+Muss ich nicht unbedingt haben, auch wenn es nicht so unfassbar mies wie Rin war.
 Vermutlich macht das vorne drin schon irgendwie Spaß.
 
 Auch bei den Murphies war es echt leer, das Infield war praktisch erst mit dem ersten Akkord voll.
@@ -446,15 +445,15 @@ Musikalisch möglicherweise etwas schlechter als Flogging Molly am Vortag, aber 
 Weiß eigentlich jemand, warum praktisch alle Irish Folk Bands aus den USA kommen und niemand aus Irland?
 
 Man hat den Jungs angemerkt, dass sie wirklich Spaß auf der Bühne haben.
-Wir haben das Wochenende oft die Ansage gehört, wie froh alle sind, nach der Pandemiepause wieder live spielen zu können.
+Wir haben das Wochenende oft die Ansage gehört, wie froh alle sind, nach der Pandemie-Pause wieder live spielen zu können.
 Bei den Murphies wirkte dass, ähnlich wie bei Callejon, echt authentisch.
 
 Energetisch, motiviert, immer nah am Publikum.
-Live einfach Spitzen Band.
+Live einfach Spitzen-Band.
 Und wenn man dann noch soviel Platz hat wie wir, kann man auch ausladend tanzen.
 Normalerweise dürfte es deutlich enger zugehen. Ich bin gespannt, im Januar bin ich in Dublin zum Konzert bei den Murphies.
 
-Wir mobilisierten die letzen Kräfte und sprangen bis um 11 Uhr durch. Dann haben Alex und ich uns von Lena und Flo verabschiedet und mussten leider schon los zum Camp.
+Wir mobilisierten die letzen Kräfte und sprangen bis um elf Uhr durch. Dann haben Alex und ich uns von Lena und Flo verabschiedet und mussten leider schon los zum Camp.
 
 {% include foldergallery.html folder="2022-07-25/so/8" %}
 
