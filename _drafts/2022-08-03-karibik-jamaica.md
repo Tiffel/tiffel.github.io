@@ -50,7 +50,11 @@ Alles in alleim sehr seltsame 2 Stunden, aber ich zumindest waren ja mittlerweil
 
 Auf der kurzen Strecke nach Jamaica ist dann nichts spannendes mehr passiert.
 
-* Laufen zum Hotel weirdo taxi Leute
+Am Flughafen haben wir uns dann gegen ein Taxi und fürs Laufen des einen Kilometers entschieden.
+Das tut vermutlich niemand auf Jamaica, sodass uns alle 2 Minuten ein Taxifahrer angehupt und angesprochen hat.
+Wir sollten noch ein paar Tage brauchen um zu lernen, dass ein hupendes Taxi signalisieren will, dass es frei ist und uns gerne gegen den Einwurf von Scheinen transportieren würde.
+
+* Ankommen in Blue Orchid: SHady Security Typ, die erste Interaktion mit Patwa.
 
 {% include foldergallery.html folder="2022-08-03/1" %}
 

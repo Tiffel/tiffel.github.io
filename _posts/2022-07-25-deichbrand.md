@@ -460,15 +460,15 @@ Wir mobilisierten die letzen Kräfte und sprangen bis um elf Uhr durch. Dann hab
 <video width='100%' preload='metadata' controls> <source src='/img/2022-07-25/dropkick-boysareback.mp4' type='video/mp4'/> </video>
 
 ### Abfahrt
-Um kurz nach 11 kamen Alex und ich am Camp an, um 23:20 saßen wir zusammen mit Vivi im Auto.
-Es war erstaunlich stressfrei, vom Gelände bis zur Autobahn zu kommen, da hatten wir vorher Sorgen.
+Um kurz nach elf kamen Alex und ich am Camp an, um 23:20 Uhr saßen wir zusammen mit Vivi im Auto.
+Es war erstaunlich stressfrei, vom Gelände bis zur Autobahn zu kommen. Da hatten wir vorher Sorgen.
 Im Nachhinein hätte man noch die letze halbe Stunde bei den Murphies bleiben können, aber das war einfach nicht sicher.
 
-So fuhr ich entspannt die 2 Stunden nach Lübbecke in die Heimat durch.
-Ich hatte igendwie damit gerechnet, dass die Fahrt richtig anstrengend und scheisse wird, so nach 4 Tagen Vollgas Festival mit viel Alkohol und nem Vollgas Sonntag ohne Alkohol.
+So fuhr ich entspannt die zwei Stunden nach Lübbecke in die Heimat durch.
+Ich hatte igendwie damit gerechnet, dass die Fahrt richtig anstrengend und scheiße wird, so nach vier Tagen Vollgas Festival mit viel Alkohol und nem Vollgas-Sonntag ohne Alkohol.
 
-Das ging erstaunlich gut, wobei die 2 in der Mittelkonsole deponierten Redbull wohl eine gute Idee waren.
-Damit sollte die Deichbrand Expedition am Montag um 01:30 in der Nacht enden.
+Das ging erstaunlich gut, wobei die zwei in der Mittelkonsole deponierten Redbull wohl eine gute Idee waren.
+Damit sollte die Deichbrand Expedition-am Montag um 01:30 Uhr in der Nacht enden.
 Für mich das vierte Deichbrand, für Lena das dritte, Flo das zweite, Alex und Vivi das erste.
 Ich glaube zufrieden waren wir alle am Ende.
 
