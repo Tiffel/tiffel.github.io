@@ -12,18 +12,18 @@ Also zum Beispiel Waschtasche, Regenjacke und Kreditkarte.
 Das hat zumindest bei mir ziemlich gut funktioniert. 
 Die im Vorhinein geschriebene exakte Liste, welche Gegenstände noch in den Aufgabe- und welche in den Handgepäckrucksack reingehören war eine gute Idee.
 
-Es war tatsächlich noch Zeit, die Kühlbox auszuräumen und auszuwischen und ein Bier auf dem Hof zu trinken, bis wir um 03:20 abgehohlt wurden.
+Es war tatsächlich noch Zeit, die Kühlbox auszuräumen, auszuwischen und ein Bier auf dem Hof zu trinken, bis wir um 03:20 abgehohlt wurden.
 Der Fahrer war pünktlich und nett, aber bzgl. seiner Corona Prävention etwas absurd.
 Wir hatten vorgeschlagen, auf der Fahrt FFP2 Masken zu tragen und ganz normal im Auto zu sitzen.
 Er hatte aber darauf bestanden, dass wir zu dritt hinten sitzen, weil dort eine Scheibe zwischen und und ihm da war.
 Dann bräuchten wir auch keine Maske tragen.
 So wie die Scheibe angebracht war hätte man es auch einfach lassen können, dafür haben wir die Stunde einfach schlecht gesessen.
-Aber gut, das hat uns nicht davon abgehalten, nach 15 Stunden Festivaltag, Autofahrt und Packen einfach sofort auf dem Weg nach Hannover einzuschlafen.
+Aber gut, das hat uns nicht davon abgehalten, nach einem 15 Stunden langen Festivaltag, zwei Stundfen Autofahrt und dem Packen einfach sofort auf dem Weg nach Hannover einzuschlafen.
 
 Wir waren um 4:45 am Airport und eine Stunde später durch die Security.
 Ich hab die ganze Zeit schon nicht viel von 5 Stunden vorher Dasein gehalten, mich aber dem Sicherheitsbedürfniss der anderen gebeugt.
 Insbesondere ärgerlich, wenn der erste Satz am Flughafen zu mir ist, dass ich nicht so rennen soll.
-Ich bin doch nicht 5 Stunden vorher vor Ort, um dann im Schneckentempo zum Gate zu gehen, weil ich mein Handgepäck nicht ordentlich packen kann.
+Ich bin doch nicht 5 Stunden vorher vor Ort, um dann im Schneckentempo zum Gate zu gehen, weil ich mein Handgepäck nicht ordentlich packen kann und es aus 7 Turnbeuteln besteht.
 
 Nun hatten wir also 4 Stunden im Gate zu verbringen.
 Ich habs so gut es ging vermieden, mich auf den unbequemen Bänken zum schlafen hinzulegen und mich mit Fotos sortieren beschäftigt.
@@ -33,20 +33,22 @@ Angekommen in Zürich haben wir dann am Schalter von Swiss Airline dafür gesorg
 Sie flog aus Berlin nach Zurich um uns zu treffen.
 Damit hatte sie aber eine eigene Buchungsnummer und und war damit auf der Abschussliste für überbuchte Flüge, ihre Boardkarte hatte noch keinen Sitzplatz.
 Die Dame am Schalter hat relativ schnell verstanden was wir wollten und sie unserer Reisegruppe hinzugefügt.
-Damit war sie auf der Prioliste, der Menschen die noch keinen festen Sitzplatz haben, ganz oben und trotz Nervenkitzel durften wir letztlich alle losfliegen.
-War alles ganz schön Nervenaufreibend.
+Damit war sie ganz oben auf der Prioliste  der Menschen, die noch keinen festen Sitzplatz haben.
+Letztlich durfen wir alle losfliegen, allerdings nicht zusammen sitzen.
+War alles ganz schön Nervenaufreibend, ist aber gut gegangen.
 
 Das Essen war gut, ich hatte genug zu bloggen und im Inflight Entertainment System gab es "Ready Player 1" zu schauen.
 Ein bischen witzig war es schon zu sehen, wie die Flugbegleiter und Begleiterinnern von Edelweis Air zwischen Englisch und Schwizerdütsch hin und her wechselten.
 Akzentfreies Englisch, aber Deutsch in Mundart :)
 
-Unser 13 Stunden Flug wurde relativ kurzfrist in einen neun Stunden langen und einen eine Stunde langen Abschnitt getrennt.
+Unser 13 Stunden Flug wurde relativ kurzfristig in einen neun Stunden langen und einen eine Stunde langen Abschnitt getrennt.
 Wer rechnen kann merkt, dass wir beim Transit in Puerto Plata (Dominikanischen Republik) ganz schön lange im Flughafen herumstehen mussten.
 Und auch der Sicherheitscheck vom Flugzeug in den Transitbereich war irgendwie seltsam inkonsequent.
 
 Beim erneuten Betreten des Flugzeuchs wurde unser Handgepäck dann nochmals kontrolliert.
-Und war so, dass wir uns alle in einer langen Reihe hintereinander aufstellen mussten, das Gepäckstück jeweils am linken Fuß stehend. Und dann wurde ein Spürhund an allen Reisenden vorbeigeschickt. 
-Alles in alleim sehr seltsame 2 Stunden, aber ich zumindest waren ja mittlerweile bis auf die beiden kurzen Nickerchen nach und in Hannover seit X Stunden wach.
+Und war so, dass wir uns alle in einer langen Reihe hintereinander aufstellen mussten, das Gepäckstück jeweils am linken Fuß stehend.
+Und dann wurde ein Spürhund an allen Reisenden vorbeigeschickt. 
+Alles in alleim sehr seltsame 2 Stunden, aber ich zumindest waren ja mittlerweile bis auf die beiden kurzen Nickerchen nach und in Hannover seit 45 Stunden wach.
 
 Auf der kurzen Strecke nach Jamaica ist dann nichts spannendes mehr passiert.
 
@@ -54,16 +56,37 @@ Am Flughafen haben wir uns dann gegen ein Taxi und fürs Laufen des einen Kilome
 Das tut vermutlich niemand auf Jamaica, sodass uns alle 2 Minuten ein Taxifahrer angehupt und angesprochen hat.
 Wir sollten noch ein paar Tage brauchen um zu lernen, dass ein hupendes Taxi signalisieren will, dass es frei ist und uns gerne gegen den Einwurf von Scheinen transportieren würde.
 
-* Ankommen in Blue Orchid: SHady Security Typ, die erste Interaktion mit Patwa.
+Wir kamen gegen 11 im Blue Orchid an und dort saß vor der Tür ein Security Guard, der wirklich shady aussah.
+Meine erste Interaktion mit Jamaikanischem Patwa statt Englisch hat sie Sache auch nicht einfacher gemacht.
+Wir ignorierten ihn und riefen die Unterkunft vor der wir standen an, denn für einen regulären Checkin war schon deutlich zu spät.
+Der Besitzer Clive machte uns nach einem kurzen Telefonanruf die Tür auf uns begrüßte uns herzlich.
+
+Keine 30 Minuten später gab es nach einer schnellen Dusche endlich eine Mütze Schlaf in einem Bett.
 
 {% include foldergallery.html folder="2022-08-03/1" %}
 
 ## Montego Bay
-Duschen pennen um 0
-Aufstehen, nach 8 Stunden Schlaf gut drauf. Vor Frühstück in den Pool
-Lecker Frühstück, alles sehr entspannt, Taxi holen lassen
-Safe Chaos. Einmal kaputt, einmal weg geschlossen
-Sehr relaxer taxi Fahrer. Unterhalten auf jamaikabischem Englisch ist witzig. Ja maaan
+Ich hab nicht genau verstanden warum, aber ich war nach 8 Stunden schlaf wach und topfit.
+Kein Jetlag, kein Schlafmangel, alles gut.
+
+### Tag 1: Doctors Cave
+Da es den anderen nicht ganz so gut ging, bin ich vor dem Frühstück in den Pool und war eine halbe Stunde schwimmen.
+Großartig, sowas wäre manchmal zuhause auch toll :)
+
+Das Frühstück dannach war super entspannt.
+Also so entspannt, dass man sich erstmal daran gewöhnen musste.
+Alle Angestellten hatten die Ruhe weg, alles wurde frisch zubereitet, eine zweite Tasse Kaffe zog sich auch mal 20 Minuten. 
+Wir haben fast zwei Stunden auf der Terasse gesessen.
+
+Clive rief uns ein Taxi von seinem lokalen Fahrer "King Dave".
+Während wir Sachen packten uns aufs Taxi warteten hatten wir noch ein bischen Chaos mit den Safes in den Zimmern.
+So ein eingeschlossener Reisepass ohne den Code zur Öffnung zu kennen ist nur halb cool. 
+Gelöst haben wir es auch mit den Hotelleuten nicht wirklich bekommen, uns wurde aber versichert, dass es einen Generalcode gibt.
+
+King Dave war super. Jedes zweite Wort war typisch Jamaikainsch "Ya mon", wir wussten bescheid wieviel wir wo für Weed bezahlen und wo wir besser keins kaufen 
+sollten. Ansonsten gab es noch ein paar andere Tips und seine Visitenkarte für eventuelle Fahrten gab.
+
+
 Private beach doctors cave
 Ordentlich geschwommen
 Kokosnuss ausgetrunken
@@ -73,7 +96,9 @@ Kurz herum gelaufen, entschlossen doch ein Taxi zurück zu nehmen. In dem Moment
 Marlen hat sich mit dem host und den Kumpels verquatscht, bis um 1
 Alex und ich eine margarita und um 10 ins bett
 
+{% include foldergallery.html folder="2022-08-03/2" %}
 
+### Tag 2
 Morgens wieder ne viertel Stunde im. Pool geschwommen
 Giles Jamaika Frühstück. Aikee war leider alle, aber mega dumplings und codfish with baked beans.
 Mit Alex losgezogen und 3 Stunden am Tag die Gegend erkunden
@@ -85,7 +110,7 @@ Um zwei am Hotel m/v und Gepäck abgeholt und z Knutsford Express.
 Luxus Busreise, der gemeine Jamaikaner nutzt das anscheinend nicht
 
 
-{% include foldergallery.html folder="2022-08-03/2" %}
+{% include foldergallery.html folder="2022-08-03/3" %}
 
 
 ## Ocho Rios
@@ -108,13 +133,13 @@ Verkehrsdesaster. Versuchter Zwischenstop zum atm, 15 Minuten warwn Plätze verg
 Fazit Alles nur mit Fahrer, unnötig teuer für das erlebte, ocho Rios kann nix. Die Unterkunft an sich war gut und macht bei gutem Wetter richtig spar , nur eben ab vom Schuss
 
 
-{% include foldergallery.html folder="2022-08-03/3" %}
+{% include foldergallery.html folder="2022-08-03/4" %}
 
 ### Dunn's River Falls
 
 ## Kingston
 
-{% include foldergallery.html folder="2022-08-03/4" %}
+{% include foldergallery.html folder="2022-08-03/5" %}
 2 km laufen zur Unterkunft in Kingston, würde erstaunlich schnell dunkel. Weil Vivi platt war essen bestellen. Was ein Desaster, wir haben es bei dem lokalen lieferando Dings nicht geschafft, eine Kreditkarte zu verifizieren. Dominos Bestellung, fette amerikanische Pizza. Mit Marlen in den Supermarkt um die Ecke für Getränke , mit Lokals gequatscht. Status Pizza Auf delivered, brauchte aber noch ewig. Abendessen um halb 11
 
 
