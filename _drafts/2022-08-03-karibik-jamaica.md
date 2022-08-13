@@ -144,20 +144,34 @@ Fazit Alles nur mit Fahrer, unnötig teuer für das erlebte, ocho Rios kann nix.
 
 ## Kingston
 
-{% include foldergallery.html folder="2022-08-03/5" %}
-2 km laufen zur Unterkunft in Kingston, würde erstaunlich schnell dunkel. Weil Vivi platt war essen bestellen. Was ein Desaster, wir haben es bei dem lokalen lieferando Dings nicht geschafft, eine Kreditkarte zu verifizieren. Dominos Bestellung, fette amerikanische Pizza. Mit Marlen in den Supermarkt um die Ecke für Getränke , mit Lokals gequatscht. Status Pizza Auf delivered, brauchte aber noch ewig. Abendessen um halb 11
+### erster abend
+* 2 km laufen zur Unterkunft in Kingston, würde erstaunlich schnell dunkel. 
+* Weil Vivi platt war essen bestellen. 
+* Was ein Desaster, wir haben es bei dem lokalen lieferando Dings nicht geschafft, eine Kreditkarte zu verifizieren. 
+* Dominos Bestellung, fette amerikanische Pizza. 
+* Mit Marlen in den Supermarkt um die Ecke für Getränke , mit Lokals gequatscht. 
+* Status Pizza Auf delivered, brauchte aber noch ewig. Abendessen um halb 11
 
 
-Einkauf für 3 Tage
+### tag 2 bob marley museum und downtown kingston
+morgens Einkauf für 3 Tage
+
 Bob Marley museum
 Cooler rasta Führer, leider Fotos verboten
 Im gift shop war mir eine s zu groß, für Marlen gab es garnix
 Essen in Devon house. Leider viel im Bau, aber eine nette Idee Ecke mit vielen locals. Blätterteig mit fish oder calloolo gegessen. Mega.
-Marlen und ich zu Fuß durch die Stadt zur water lane. Verrückte Märkte gesehen. Flohmarkt und Rummel uaf einmal, mitten im Verkehr
+
+
+Marlen und ich zu Fuß durch die Stadt zur water lane. i
+emancipation park
+Verrückte Märkte gesehen. Flohmarkt und Rummel uaf einmal, mitten im Verkehr
 Water Lane cool, aber kurz. Vivi weinerrei mit gefahlich, alle anderem 3 zurück. ich alleine weiter.
 Waterfront angeschaut, entspannt zurück mit national heroes Park
 Kurz vor dem. Ziel den rasta man vom Abend vorher wieder getroffen der wissen wollte, ob alles gut sei. Mega lieb
 
+{% include foldergallery.html folder="2022-08-03/7" %}
+
+### tag 3 lime cay
 
 Recht spät los gekommen. Dann ne Stunde auf de Bus gewartet und mit Taxi Fahrern verhandelt. Wir wussten nicht, was billig ist und haben das gute Angebot nicht angekommen, weil jocut genuc jmd. Geld im Shop gewechselt, dann kam endlich der Bus nach downtown
 Umstieg: Haltestellen sind eher Richtlinien, stop drucken heißt anhalten. Dafür kann man dem. Umstieg auch winken und er hält, um einen einzusammeln
@@ -166,19 +180,16 @@ Ein halbes heiter Typ hat uns eingesammelt und zum captain gebracht
 Cooler Typ, auf dem Boot richtig Gas gegeben zur Insel.
 Lime cay Wunderschön, wind angewandte Seite gut schwimmen, andere Seite hohe Wellen und Steine. Primär mit Flossen und Maske unterwegs, auch ein versuch mit Action Cam
 Marlen hat oliviee (volleyballer) und Chris (mechanic, tausend sassa) kennengelernt, lange unterhalten. Highlight!
-Rückfahrt nach 2,5h langsamer auf dem Boot, aber dafür direkt ein Bus.
-
-
-Anekdoten
-Atm wird zu abm
-WiFi ähnlich wie in de, da ist nix mehr mit überall anders besser
-
-
-### Lime Cay
-
 Chris: We are "in dependent" of the Queen. Zum independence day in einer Woche 
 
-## Emancipation Day
+
+Rückfahrt nach 2,5h langsamer auf dem Boot, aber dafür direkt ein Bus.
+
+Abendessen gehen in fusion indian caribeen restaurant.
+{% include foldergallery.html folder="2022-08-03/8" %}
+
+
+### Tag 4 Emancipation Day
 * You look like that guy from Coldplay 
 * Emancipation Park, warten auf parade. Nettes Mädchen, was mit ihren Vater unterwegs was. Und ein anderes kleines, was mit Luftballon gespielt hat
 * Parade in praller Sonne 
@@ -193,5 +204,9 @@ Chris: We are "in dependent" of the Queen. Zum independence day in einer Woche
 * Letzte dollars verprasst, Reste Essen in der Unterkunft
 * Barbados travel form kompliziert 
 
-## Reise nach Bardbado
-TODOs
+<video width='100%' preload='metadata' controls> <source src='/img/2022-08-03/emancipation_day_parade.mp4' type='video/mp4'/> </video>
+
+
+
+{% include foldergallery.html folder="2022-08-03/9" %}
+

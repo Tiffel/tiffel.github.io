@@ -24,6 +24,12 @@ drafts for blogposts in _drafts, unpublished for this page, future for upcoming 
 
 ## image processing
 Prequisite: `sudo apt-get install imagemagick`
+
+### stupid iphone images
+    convert IMG_1526.HEIC -quality 100% IMG_1526.jpg && rm IMG_1526.HEIC
+
+
+#### create thumbs
 * mark pictures on google photos as favorites
 * selecting multiple folders from favorites, download as zip.
 * create folder `/img/$date` according to post date and changedir into it
