@@ -19,7 +19,7 @@ Das erste Mal Mittagessen seit langem, es gibt im Holland Teil endlixh wieder gu
 Einkaufen, schnell mal ins Wasser. Ganz schön steil vor der Tür, weil Hafen
 Um halb 8 los zum Essen, alles wie ausgestorben
 
-
+## Tag 2
 Laufen, trail running, klettern, viele Tiere
 Bestes gefuhlder Welt,: komplett durchgeschwitzt ins Meer
 Beim rauskommen in Badehose: hello James bond, are Ohr Read for your massage?
@@ -29,8 +29,53 @@ Radtour call, wieder schwimmen
 Grillen und rum
 
 
+## Tag 3
+Bootstour
+Chaienne aus Bayern
+Trinker Tour
+3 stops
+Rum punch doof. Cors light schmeckt wie Wasser, Budweiser (us) auch nicht gut. Carab lager ist erträglich
+
+Abendessen
+Entscheiden wir später
+Summe Idee, die Optionen werden halt nur schlechter
+
+
+Vivi:Warum. I have hört seit 2,5 Wochen niemand auf mich? Weil es meist nur unkonkreter bullshit ist.
+Vorschlag 08:30 start, weil ab da gemietetes auto verfügbar
+"Lass uns mal um halb 9 Uhr anpeilen und wenn es später wird..."
+Fucking hell, dann sagen wir halt gleich um 9 und ich schlafe länger. Dieses gelaber stinkt
+
+## Tag 4
+Auto und setzt auf bumper auf
+Natur Schutz Melonen Kaktus, Stunde unterwegs
+Coffee shop, leckeres Essen, Ziegenkäse Auflauf
+Margot market
+Coconuts getrunken
+Franz Bäckerei mit geilen Brot und Eis
+Baden, einkaufen, Baden
+Kolibri im Garten gesehen
+Abendessen in der Bar vom ersten Tag mit geilen Käse
+karaoke bar
+99 Luftballons zusammen mit Marlen, gegen ein gratisproben Bier, weil die Holländer gerne deutsch hören wollten
+Dancing in the dark ist mega schwer zu singen. ich wurde "german bruce springsteen" genannt
+Smash mouth I'm a believer war einfacher, jemand ist einfach mit eingestiegen. Voll gut
+Jacky kennengelernt. Ca 20, macht eine eigene Website auf. Selber bikini model, aber kein adult content. Aber sonst wie only fans
+
+## Tag 5
+
+Big three im park
+Ski lift fahren
+Schooner ride mit tubes eher mittel
+Zip line 4 mal mit Aussicht auf Flughafen
+Flying Dutchman ohne Vivi, wir haben uns erst angestellt, als sie 45 min später unten war. Dachten das man schnell dran ist, weil es optisch so suggeriert wurde. Nochmal ne Stunde warten, um 60 Sekunden da runter zu düsen
+ich einkaufen fürs grillen, die anderen jetski
+checkin nervig, weil bilder von reisepässen zu schlecht für die bilderkennung sind. manuell eintragen wird aber nicht aktzeptiert, obwohl man nach erfolgreichem upload immernoch zum schalter muss. dumm
+
 
 {% include foldergallery.html folder="2022-08-16/2" %}
+
+
 
 
 ## Zurück nach Dresden
