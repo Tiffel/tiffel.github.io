@@ -115,10 +115,14 @@ Luxus Busreise, der gemeine Jamaikaner nutzt das anscheinend nicht
 
 ## Ocho Rios
 
+### Knutsford Express und der erste Abend
+
 Vom host abholen lassen, einkaufen, geil kochen in schöner Ferienwohnung
 Gewitter über dem Meer im Dunkeln beobachten
 
+{% include foldergallery.html folder="2022-08-03/4" %}
 
+### Tag 2 mit Dunn's River Falls
 Nach dem Frühstück los zu dunn's river falls
 ganz schön viele menschen, aber wenn man raus hatte, dass es keine routen und regeln gab, konnte man im wasser richtig spass haben
 klettern/bouldern und so
@@ -127,15 +131,16 @@ joggen
 Walken mit Marlen
 Alex Vivi haben eingekauft und gekocht
 Late checkout beschlossen
+{% include foldergallery.html folder="2022-08-03/5" %}
+
+### Tag 3
 Schöner morgen bis gutem Wetter. Alle nochmal schwimmen und sonnenbaden
 14:30 los zum Knutsford Express
 Verkehrsdesaster. Versuchter Zwischenstop zum atm, 15 Minuten warwn Plätze vergeben worden. Jamaika ist alles entspannt, unnötige Panik
 Fazit Alles nur mit Fahrer, unnötig teuer für das erlebte, ocho Rios kann nix. Die Unterkunft an sich war gut und macht bei gutem Wetter richtig spar , nur eben ab vom Schuss
 
 
-{% include foldergallery.html folder="2022-08-03/4" %}
-
-### Dunn's River Falls
+{% include foldergallery.html folder="2022-08-03/6" %}
 
 ## Kingston
 
