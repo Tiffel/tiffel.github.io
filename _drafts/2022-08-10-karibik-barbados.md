@@ -3,7 +3,7 @@ layout: post
 title:  "Karibik 2: Barbados"
 ---
 
-## Anreise
+## Anreise und der erste Abend
 Marlen corona
 Taxifahrer, den wir kennengelernt hatten auf 10:30 bestellt
 Taxi kaputt, spontan bei taxi Unternehmer eins bestellt.
@@ -16,17 +16,12 @@ In Barbados zu corona check rausgezogen. Hier tragen auch noch alle Maske
 Taxi zur Unterkunft
 fahrer ricky nummer mitgenommen, wie so oft
 
+Restaurant um die Ecke ging nicht ans Telefon. Lieferdienste erlauben keine Registrierung mit de Telefonnummer, gehen nicht ans Telefon
+Lösung: Tankstelle hat 24/7 offen und macht pizza
 
 {% include foldergallery.html folder="2022-08-10/1" %}
 
 ## Tag 1
-TODO 
-
-{% include foldergallery.html folder="2022-08-10/2" %}
-
-Restaurant um die Ecke ging nicht ans Telefon. Lieferdienste erlauben keine Registrierung mit de Telefonnummer, gehen nicht ans Telefon
-Lösung: Tankstelle hat 24/7 offen und macht pizza
-
 
 Joggen mit Marlen
 Dave getroffen, ketten
@@ -35,14 +30,18 @@ Vivi um halb 3: oh ich bin voll, das ist geil.
 Strand. Regen, noch nie so viel Spass in den Wellen gehabt
 Abendessen in Golfplatz Restaurant
 
+{% include foldergallery.html folder="2022-08-10/2" %}
 
+## Tag 2
 Joggen, Schwimmen
 Frühstück, rum,
 Ganzer Tag Strand mit Hängematte
 Schnorcheln mit vielen bunten Fischen
 Abendessen pizzeria, gratis moskow mule
 
+{% include foldergallery.html folder="2022-08-10/3" %}
 
+## Tag 3
 Auf nach Bridgetown, weg am Strand
 Pinki getroffen, surf Lehrer
 Schnorcheln mit turtles und Schiffswracks
@@ -52,12 +51,20 @@ Lecker fish, more run punsh
 Zurück laufen, 1 Uhr endlich da, weil voll
 
 
+{% include foldergallery.html folder="2022-08-10/4" %}
+
+### Tag 4
 Leicht verkatert, erst um kurz nach 11 los zum surf Kurs. Aber pinky der Lehrer ist schuld, er hat uns den Markt ja empfohlen
 Surfen war mega, Marlen leider alkoholgeschädigt ausgefallen. Ich alleine war mega anstrengend, aber geil
 Alan Fotograf
 Intensives domino Spiel bei Standart drinkst
 Ordentlich nass geworden, innerhalb von Sekunden kommt Regen
 Essen im Mojo
+
+
+{% include foldergallery.html folder="2022-08-10/5" %}
+
+### Tag 5
 Farmer's Market nen Scherz, aber das Frühstück war gut
 Bridgetown
 Welt Kultur Erbe
@@ -70,7 +77,9 @@ Cocktail an der bar
    Der Barmann war einmal in seinem Leben in Spanien. Beaches ok, party ok, freeze to death I'm Wasser
 alex und vivi in der unterkunft abgeholt, essen wieder im mojo
 
+{% include foldergallery.html folder="2022-08-10/6" %}
 
+### Tag 6
 Inseltour durch Abholung Mount gay und andere Leute einsammeln.
    Küste, . Speightown,
    Luxus villas und clubs
@@ -87,4 +96,7 @@ An den Strand, auf dem Weg am food market ein mega fish wrap, wie ein dürüm
 Strand. Bei Regen ins Wasser ist weird. Unterwasser Felsen mit mega fischen
 Rice bowl am food court. Endlich akeee and salt fish
 Packen und noch nen Bier
+
+{% include foldergallery.html folder="2022-08-10/7" %}
+
 
