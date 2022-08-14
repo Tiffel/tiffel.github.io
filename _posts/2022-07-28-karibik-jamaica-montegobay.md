@@ -146,7 +146,7 @@ Wobei wir doch noch eine Aikee an einem Baum hängend sehen konnten.
 Gegen 2 Uhr nachmittags haben wir dann Marlen, Vivien und das Gepäck aus dem Hotel abgehohlt, uns verabschiedet und sind zu Fuß los zum Knutsford Express.
 Der Knutsfort Express ist ein Fernbus auf Jamaica, ganz grob vergleichbar mit einem Flixbus in Deutschland.
 
-Clive war verwundert, warum wir King Dave nicht brauchten, sondern einfach laufen wollten. Sich zu Fuß zu bewegen scheint auf Jamaica wirklich zu tun.
+Clive war verwundert, warum wir King Dave nicht brauchten, sondern einfach laufen wollten. Sich zu Fuß zu bewegen scheint auf Jamaica wirklich niemand zu tun.
 
 {% include foldergallery.html folder="2022-07-28/3" %}
 

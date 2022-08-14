@@ -6,9 +6,9 @@ title:  "Karibik Teil 2: Ocho Rios und Kingston auf Jamaika"
 ## Ocho Rios
 
 ### Knutsford Express und der erste Abend
-Der Knutsfort Express ist ein Fernbus auf Jamaica, ganz grob vergleichbar mit einem Flixbus in Deutschland.
-Die Jamaikaner selber nutzen diesen aber eigentlich nicht, um zwischen den Städten zu verkehren, weil er ziemlich luxuriös und damit teuer für eine Busreise ist.
-FÜr uns war es preislich total ok und eine sehr bequeme Art zu reisen, wenn man kein Auto (gemietet) hat.
+Es scheint so zu sein, dass die Jamaikaber selber den Knutsfort Express nicht oder nur sehr wenig benutzen, um zwischen den Städten zu verkehren.
+Einfach weil er ziemlich luxuriös und damit teuer für eine Busreise ist.
+Für uns war es preislich total ok und eine sehr bequeme Art zu reisen, wenn man kein Auto (gemietet) hat.
 
 Wir wurden von unserem Host vom der Haltestelle abgehohlt, die leider ein ganzes Stück außerhalb von Ocho Rios lag.
 Die eigentliche Haltestelle im Ort wird wohl nicht mehr angefahren, weil sie die Kapazität nicht bewerkstelligen kann und der Verkehr ziemlich dicht ist.
