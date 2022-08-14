@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Karibik 2: Barbados"
+title:  "Karibik Teil 3: Barbados"
 ---
 
 ## Anreise und der erste Abend
@@ -45,7 +45,11 @@ Abendessen pizzeria, gratis moskow mule
 Auf nach Bridgetown, weg am Strand
 Pinki getroffen, surf Lehrer
 Schnorcheln mit turtles und Schiffswracks
- Strand zurück pinki Sea food market empfohlen , 2 cocktails an stammbar.
+ 
+TODO Turtles Video
+
+
+Strand zurück pinki Sea food market empfohlen , 2 cocktails an stammbar.
 Marlen und ich nach Oistins Sea food market
 Lecker fish, more run punsh
 Zurück laufen, 1 Uhr endlich da, weil voll

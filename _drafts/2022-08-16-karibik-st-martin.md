@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Karibik 3: St. Martin"
+title:  "Karibik Teil 3: St. Martin"
 ---
 
 ## Anreise
