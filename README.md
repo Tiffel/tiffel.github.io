@@ -26,7 +26,8 @@ drafts for blogposts in _drafts, unpublished for this page, future for upcoming 
 Prequisite: `sudo apt-get install imagemagick`
 
 ### stupid iphone images
-    convert IMG_1526.HEIC -quality 100% IMG_1526.jpg && rm IMG_1526.HEIC
+    for img in $(ls *.HEIC | sed -e 's/\.HEIC$//'); do convert "$img.HEIC" -quality 100% "$img.jpg"; done;
+    rm *.HEIC
 
 
 #### create thumbs
