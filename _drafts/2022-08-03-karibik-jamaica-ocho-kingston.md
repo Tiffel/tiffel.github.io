@@ -32,8 +32,8 @@ Das war ziemlich cool, aber mit einer Kamera im Telefon nicht sinnvoll einzufang
 ### Tag 2 mit Dunn's River Falls
 Ich hatte als ein Pflichtziel die Dunn's River Falls ausgegeben, wir wurden für eine zu große Menge Dollar dort hin gefahren.
 Der Dunn's River fließt über mehrere Hunder Mete in Stufen ins Meer und man kann diesen Wasserfall hochklettern.
-TODO FILM NAME James Bond wurde hier gedreht.
 Problem an der Sache war, dass es einfach unsfassbar viele Menschen gab, die das gleiche machen wollten.
+Einige Szenen von Dr.No (James Bond) wurden hier gedreht, aber den Luxus einer exklusiven Sperrung haten wir leider nicht.
 
 Die meisten dieser Menschen waren dem Weg alleine nicht gewachen und waren in Gruppen mit einem Guide unterwegs.
 Extrem nervig, wenn Leute ohne einen sichern Schritt soetwas versuchen.
@@ -48,8 +48,7 @@ Nur Angst vorm nasswerden durfe man nicht haben.
 Damit war das ganze für mich ein echt großer Spaß, weil ich mir Herausforderungen für den Weg gesucht habe.
 
 Vorgestellt hatte ich mir das doch ganz anders, aber sich den Spaß verderben zu lassen ist nicht meine Art.
-Alex, Marlen, Vivien ging das leider nicht ganz so, die Laune war schlecht.
-Zusätzlich hat es nach dem Aufstieg kurz und heftig geregnet und es waren weiterhin Schauer angekündigt.
+Nach dem Aufstieg hatte kurz und heftig geregnet und es waren weiterhin Schauer angekündigt.
 Die Motivation der Gruppe war also so sehr im Keller, dass entschieden wurde den Rest des Tages abzubrechen und sich für erneut viel zu viel Geld
 vom Host zurück in die Unterkunft fahren zu lassen.
 
@@ -94,7 +93,7 @@ Der Bus stand genauso im Stau, und auch das war anscheinend allgemein bekannt.
 Und die Abfahrtszeiten sind generell eher so etwas wie Richtlinien.
 
 Das war eine nicht so tolle, aber um so lehrreichere Lektion, dass wir unsere deutsche Kultur mit Fahrplänen und Uhrzeiten auf Jamaica einfach mal komplett vergessen können.
-Hier ist jetzt wohl die Zeit für einen Witz zur Aussagekraft von Fahrplänen der Deutschen Bahn. Vielleicht sollte die DB einfach von Rot auf Weiß als Farben zu Grün,Gelb,Schwarz wechseln.
+Hier ist jetzt wohl die Zeit für einen Witz zur Aussagekraft von Fahrplänen der Deutschen Bahn. Vielleicht sollte die DB einfach von Rot auf Weiß als Farben zu Schwarz, Gelb, Grün wechseln.
 
 
 {% include foldergallery.html folder="2022-08-03/3" %}
@@ -105,10 +104,10 @@ Hier ist jetzt wohl die Zeit für einen Witz zur Aussagekraft von Fahrplänen de
 Angekommen gegen halb 6 in Downton Kingston hatten wir grob 2 Kilometer zu unserer Ferienwohung in New Kinston zu laufen.
 Ich wurde ein weiteres mal überrascht, wie schnell in der Karibik die Sonne auf- und untergeht. 
 Insofern kamen wir im Dunklen an.
-Man ließt immer, dass man in Kingston nicht im dunkeln herumlaufen soll, weil die Stadt nicht besonders sicher sei.
+Man ließt immer, dass man in Kingston nicht im dunkeln herumlaufen soll, weil die Stadt nach Sonnenuntergang nicht besonders sicher sei.
 New Kinston ist allerdings das "Reichenviertel" der Stadt, sodass wir damit soweit ok waren. 
 
-Weil Vivi fußlahm und müde war, entschieden wir uns dazu, essen zu bestellen.
+Weil es schon spät und wir etwas faul und müde waren, entschieden wir uns dazu, essen zu bestellen.
 Die Hausverwalterin gab uns noch den Namen vom lokale Äquivalent zu Delivery Hero. 
 Wir sind allerdings über mehr als eine Stunde nicht soweit gekommen, eine Bestellung abzusenden. 
 Der Prozess um eine Kreditkarte auf der Plattform zu verifizieren war einfach grundlegend kaputt.
@@ -118,9 +117,7 @@ Richtig super, wenn man gegen 10 noch kein Abendessen hatte und der Magen knurrt
 Mangelsn anderer Optionen entschieden wir uns für eine Bestellung bei Dominos. 
 Wer Dominos aus Deutschland kennt, kennt definitiv nicht die amerikanische Variante. 
 Bzgl. Lebensmitteln ist Jamaika generell sehr nah an den USA, entsprechend auch die Pizzen.
-Riesig groß, richtig fettig, Zucker im weichen Teig, kaum vegetarische Optionen. Ein ganz kleiner, unwesentlicher Abstieg zu den Pizzen in Rom 4 Wochen vorher.
-
-TODO Pastagrammer "Italian eats dominos" Video verlinken
+Riesig groß, richtig fettig, Zucker im weichen Teig, kaum vegetarische Optionen. Ein ganz kleiner, unwesentlicher Abstieg zu meinebn [Pizzen in Rom](https://www.youtube.com/watch?v=Ms-_CwxrSKk) vier Wochen vorher.
 
 Während wir auf die Pizza warteten sind Marlen und ich zumindest nochmal in einen noch geöffneten Supermarkt um die Ecke und ein paar Getränke zu besorgen.
 Immerhin sind wir dort mit ein paar Locals ins Gespräch gekommen, was ganz nett war.
@@ -149,7 +146,7 @@ In Europa trage ich eine M oder L...
 Zum Mittagessen verschlog es uns ins Devon House um die Ecke.
 Ein netter Komplex aus mehreren Geschäften und Restaurants, der von den Einheimischen gut frequentiert wurde.
 Insofern ein Volltreffer nach dem touristischen Museeum.
-Wir aßen mit Calloolo (TODO Schreibweise) gefüllte Blätterteigtaschen. Calloolo ist eine Art Eintopf aus verschiedenen lokalen Gemüsen und schmeckt ein wenig wie Mangold.
+Wir aßen mit Callaloo  gefüllte Blätterteigtaschen. Callaloo ist eine Art karibischer Eintopf aus verschiedenen lokalen Gemüsen und schmeckte mir ein wenig wie Mangold.
 
 Nach dem essen teilen wir uns auf. Marlen und ich sind zu Fuß in Richtung Downton Kingston, Alex und Vivi namen den Bus.
 Verabredet hatten wir uns an der Water Lane, einer Straße die mit Graffitis von Künstlern aus Kingston voll sein sollte.
