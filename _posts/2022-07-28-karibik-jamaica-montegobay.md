@@ -22,9 +22,6 @@ Aber gut, das hat uns nicht davon abgehalten, nach einem 15 Stunden langen Festi
 
 Wir waren um 4:45 am Airport Hannover und eine Stunde später durch den Security-Check.
 Ich hab die ganze Zeit schon nicht viel von fünf Stunden vorher Dasein gehalten, mich aber dem Sicherheitsbedürfnis der anderen gebeugt.
-Insbesondere ärgerlich, wenn der erste Satz am Flughafen zu mir ist, dass ich nicht so rennen soll.
-Ich bin doch nicht fünf Stunden vorher vor Ort, um dann im Schneckentempo zum Gate zu gehen, weil ich mein Handgepäck nicht ordentlich packen kann und es aus sieben Turnbeuteln besteht.
-
 Nun hatten wir also vier Stunden im Gate zu verbringen.
 Ich habs, so gut es ging, vermieden, mich auf den unbequemen Bänken zum Schlafen hinzulegen und mich mit dem Sortieren von Fotos beschäftigt.
 Für eine halbe Stunde hat es mir aber doch die Augen zugezogen.
