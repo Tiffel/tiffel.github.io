@@ -85,7 +85,7 @@ Also hat uns Clive den Safe mit dem ultimativen Master-Key geöffnet, wir haben 
 
 King Dave war super.
 Jedes zweite Wort war typisch Jamaikainsch "Ya man", wir wussten nach der Fahrt Bescheid, wieviel wir wo für Weed bezahlen würden und wo wir besser keins kaufen sollten.
-Ansonsten gab es noch ein paar andere Tips und seine Visitenkarte mit Telefonnummer für eventuelle weitere Fahrten. Falls ihr mal ein Taxi in MoBay braucht: +1 (876) 343-6948 ist die Nummer eures Vertrauens in Sachen Transport. ;-)
+Ansonsten gab es noch ein paar andere Tips und seine Visitenkarte mit Telefonnummer für eventuelle weitere Fahrten. 
 
 Unser Ziel war der vermeintlich berühmte Private Beach "Doctor's Cave".
 Wir hatten nicht das beste Wetter, aber leicht bedeckt war wohl nicht der schlechteste Einstieg in die karibischen Strände.
@@ -115,7 +115,7 @@ Wir entschlossen uns, doch ein Taxi zurück in die Unterkunft zu nehmen.
 In dem Moment, in dem unsere Nachricht an King Dave rausging, stand er zufällig direkt vor uns.
 Er hatte uns erkannt und beschlossen, uns zu fragen, ob wir ein Taxi bräuchten. Witziger Zufall :)
 
-Alex und ich haben noch einen Magharita getrunken uns sind ins Bett.
+Alex und ich haben noch eine Magharita getrunken uns sind ins Bett.
 Poca hatte sich wiederum mit dem Host Clive und seinen Freunden Kamar und Randy bis nachts halb zwei bei "Rauchware" und Rum verquatscht.
 
 {% include foldergallery.html folder="2022-07-28/2" %}
