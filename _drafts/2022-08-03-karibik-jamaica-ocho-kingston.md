@@ -6,7 +6,7 @@ title:  "Karibik Teil 2: Ocho Rios und Kingston auf Jamaika"
 ## Ocho Rios
 
 ### Knutsford Express und der erste Abend
-Es scheint so zu sein, dass die Jamaikaber selber den Knutsfort Express nicht oder nur sehr wenig benutzen, um zwischen den Städten zu verkehren.
+Es scheint so zu sein, dass die Jamaikaber selber den Knutsford Express nicht oder nur sehr wenig benutzen, um zwischen den Städten zu verkehren.
 Einfach weil er ziemlich luxuriös und damit teuer für eine Busreise ist.
 Für uns war es preislich total ok und eine sehr bequeme Art zu reisen, wenn man kein Auto (gemietet) hat.
 
