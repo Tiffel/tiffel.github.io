@@ -140,10 +140,10 @@ Wir sind ein bisschen umher gezogen und konnten am Dead End Beach aus allernäch
 Ansonsten war der in der begrenzten Zeit erlaufbare Teil von Montego Bay nicht wirklich beeindruckend.
 Wobei wir doch noch eine Ackee an einem Baum hängend sehen konnten.
 
-Gegen 2 Uhr nachmittags haben wir dann Marlen, Vivien und das Gepäck aus dem Hotel abgehohlt, uns verabschiedet und sind zu Fuß los zum Knutsford Express.
-Der Knutsfort Express ist ein Fernbus auf Jamaica, ganz grob vergleichbar mit einem Flixbus in Deutschland.
+Gegen zwei Uhr nachmittags haben wir dann Poca, Vivien und das Gepäck aus dem Hotel abgehohlt, uns verabschiedet und sind zu Fuß los zum Knutsford Express.
+Der Knutsford Express ist ein Fernbus auf Jamaica, ganz grob vergleichbar mit einem Flixbus in Deutschland.
 
-Clive war verwundert, warum wir King Dave nicht brauchten, sondern einfach laufen wollten. Sich zu Fuß zu bewegen scheint auf Jamaica wirklich niemand zu tun.
+Clive war verwundert, warum wir King Dave nicht brauchten, sondern einfach laufen wollten. Sich zu Fuß zu bewegen, scheint auf Jamaica wirklich niemand zu tun.
 
 {% include foldergallery.html folder="2022-07-28/3" %}
 
