@@ -275,3 +275,17 @@ Nach einer Stunde sind wir wieder raus und haben uns zumindest noch die Usain Bo
 Zurück in der Unterkunft verkochten wir die restlichen Lebensmittel zu absurden Nudeln auf Toast, packten die Sachen, füllten die komplizierten Einreise-Fragebögen von Barbados bzgl. Corona aus und checkten nochmals die Taxibestellung für den nächsten Morgen.
 
 {% include foldergallery.html folder="2022-08-03/6" %}
+
+### Was nicht geklappt hat
+Wir hatten den großen Plan, aus Kingston eine Wanderung auf dem Blue Mountain Peak zu machen, den mit 2300 Metern höchsten Berg auf Jamaika.
+Eine der beliebten Touren ist gegen Mitternacht in einer der Unterkünfte am Berg zu starten, ca 9 km und 700 Höhenmeter zu machen und gegen 5 uhr den Sonnenaufgang zu genießen.
+
+Ich hatte aus Deutschland die Whitfield Hall als einzige Unterkunft mit sinnvoller Website recherchiert und per E-Mail vorab geklärt, dass wir mit einem Landrover abgeholt werden würden.
+Bei der Detailklärung stellte sich leider heraus, dass die Whitfield Hall einige Tage vorher abgebrannt war.
+Ich erfuhr davon in einer herzzerreißenden Sprachnachricht vom völlig aufgelösten Besitzer.
+Die einzig gute Nachricht war, dass niemand verletzt wurde, aber dort ist eine Existenz für einige Menschen zerstört wurden.
+
+Eine Alternative war mit akzeptablen Aufwand nicht mehr zu organisieren, obwohl ich es mit echt hohem Aufwand versucht habe. Wir hatten also alle vier umsonst für drei Wochen warme Klamotten und Wanderschuhe von Station zu Station getragen und leider keine Wanderung auf einen tropischen Berg machen können.
+
+Vielleicht kommt man ja noch mal im Leben nach Jamaika.
+Mittlerweile kennen wir ja ein paar Leute, haben Telefonnummern getauscht und überhaupt ein besseres Verständnis von der Insel.

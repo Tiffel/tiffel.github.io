@@ -79,4 +79,16 @@ checkin nervig, weil bilder von reisepässen zu schlecht für die bilderkennung 
 
 
 ## Zurück nach Dresden
+Netter taxi Fahrer, von wally bestellt
+Der Airport stresst Menschen durch baggage drop-off, security check und emigration
+Wartebereich nervig, weil alles sehr eng und dauerhaft durchwandern in Schrei Ton. Am Airport wird nebenbei gebaut, vermutlich immernoch Nachwirkungen von irma 2017?
+Wir sollten mal los, das ging schneller als erwartet mit der boarding Schlange, da steht niemand mehr. Oder wir lassen uns einfach mal ausrufen.
+ In dem Moment hören wir unsere Namen :)
 
+
+Transit USA: ging alles fix, border control agent war super nett
+Customs war albern
+
+
+DD Gepäck fehlt email
+gepäck am nächsten tag um 10 per kurier.
