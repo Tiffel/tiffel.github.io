@@ -4,6 +4,34 @@ title:  "Karibik Teil 3: Barbados"
 ---
 
 ## Anreise und der erste Abend
+Wir hatten den Taxifahrer, den wir in Kingston kennengelernt hatten auf 10:30 bestellt, um uns zum Flughafen zu bringen.
+Kurz nach 9 bekam ich einen Anruf, dass sein Auto liegen geblieben sei, sodass wir nochmal kurz eine Alternative organisieren mussten.
+Etwas stressig, aber ich hatte gleich beim ersten Taxiunternehmen Glück.
+Auch wenn die Dispatcherin gefühlt drei Gespräche auf einmal geführt hatte und wir bis zur Ankunft des Autos ein
+wenig zitterten.
+
+Auf dem Airport lernen Poca und ich am Gate einen Barbadian, also einen Bewohner von Barbados, kennen.
+Er lerne seit einer Weile Deutsch und freute sich wie ein kleines Kind, zum ersten mal mit Deutschen die Sprache zu sprechen.
+Wo wir in Deutschland wohnen haben wir ihm anhand der Fußball Bundesliga erklärt, das war das einfachste.
+Wir hatten unseren Wohnort der Einfachheit halber spontan nach Leipzig verlegt, weil es dort im Gegensatz zu Dresden einen Erstliga Verein gibt.
+
+Unser Flug hatte eine Zwischenlandung auf Sint Maarten, was unsere Dritte Insel sein sollte.
+Der Princess Juliana Airport ist für Start und Landung wirklich beeindrucktend und gilt wohl nicht umsonst als einer der schwierigsten der Welt.
+
+Angekommen auf Barabdos zogen Poca und ich den Jackpot: Wir wurden rausgezogen zum Corona Test. Alex und Vivi konnten ohne Test durch die Kontrolle.
+Nun hatten wir alle mehr oder weniger leichte Erkältungssymptome die Tage vorher.
+Vermutlich, weil wir die Wechsel zwischen Karibischem Klima und extrem eingestellen Klimaanlagen in Bussen und Unterkünften nicht besonders gut verkraftet haben.
+Entsprechend haben wir die zwanzig Minuten Wartezeit bis zum Testergebniss wirklich gezittern und uns die schlimmsten Szenarien ausgemalt.
+Sicher sein, dass wir keine Corona Infektion abbekommen hatten konnten wir ja nicht sein.
+Immerhin war ich eine Woche vorher noch in Moshpits auf dem Deichbrand. 
+Und eine Woche Quarantäne Hotel auf eigene Rechnung und den Flug nach Sint Maarten verpassen wollte ja nun wirklich niemand.
+
+Gefühlt ewig andauernde 20 Minuten später gab es aber das negative Ergebnis und wir durften einreisen.
+
+
+
+
+Der Taxifahrer war siler nett, wir haben uns auf dem Weg zum Airport über die Welt unterhalten u
 Marlen corona
 Taxifahrer, den wir kennengelernt hatten auf 10:30 bestellt
 Taxi kaputt, spontan bei taxi Unternehmer eins bestellt.
