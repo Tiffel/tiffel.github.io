@@ -33,7 +33,7 @@ Das war ziemlich cool, aber mit einer Kamera im Telefon nicht sinnvoll einzufang
 Ich hatte als ein Wunschziel die Dunn's River Falls ausgegeben, wir wurden für eine zu große Menge Dollar dort hingefahren.
 Der Dunn's River fließt über mehrere Hundert Meter in Stufen ins Meer und man kann diesen Wasserfall hochklettern.
 Problem an der Sache war, dass es einfach unfassbar viele Menschen gab, die das gleiche machen wollten.
-Einige Szenen von Dr. No (James Bond) wurden hier gedreht, aber den Luxus einer exklusiven Sperrung hatten wir leider nicht.
+Einige Szenen von Dr. No (James Bond) wurden hier gedreht, aber den Luxus einer exklusiven Sperrung wie für einen Film hatten wir leider nicht.
 
 Die meisten dieser Menschen waren dem Weg alleine nicht gewachsen und waren in Gruppen mit einem Guide unterwegs.
 Extrem nervig, wenn Leute ohne einen sichern Schritt so etwas versuchen.
@@ -43,10 +43,10 @@ Und ich oft den Kopf schütteln, wie ungeschickt man sich anstellen kann.
 Ich versuche doch nicht so etwas, wenn ich es nicht einmal einen schmalen Waldweg Hochschaffe.
 
 Irgendwann habe ich erkannt, dass es einfach keine Regeln und feste Routen gab und bin einfach quer durch das Wasser.
-Man konnte sich einfache und schwierige Wege suchen, steil an Felsen hoch oder flach mit festen Stufen.
+Man konnte sich einfache und schwierige Wege suchen, steil an Felsen hoch klettern oder flach mit festen Stufen gehen.
 Nur Angst vorm nasswerden durfte man nicht haben.
 Damit war das Ganze für mich ein echt großer Spaß, weil ich mir Herausforderungen für den Weg gesucht habe.
-War also komplett anders, als ich es mir vorgestellt hatte. Aber cool war es trotzdem.
+Komplett anders, als ich es mir vorgestellt hatte, aber trotzdem cool.
 
 Nach dem Aufstieg hatte kurz und heftig geregnet und es waren weiterhin Schauer angekündigt.
 Die Motivation der Gruppe war so sehr im Keller, dass entschieden wurdei, den Rest des Tages abzubrechen und sich für erneut viel zu viel Geld
@@ -54,7 +54,7 @@ vom Host zurück in die Unterkunft fahren zu lassen.
 
 Ich war unzufrieden, weil ich für den Tag noch nicht genug Bewegung hatte und nicht ans Ende der Welt fliege, um mich von einem bisschen Regen einsperren zu lassen.
 Insofern bin ich Joggen gegangen.
-Das Wohngebiet um die Ferienwohnung herum gab keine wirklich schöne Strecke her, und nachdem ein freilaufender Straßenhund mir ganz schön Angst gemacht hatte, bin ich an der Hauptstraße auf dem Seitenstreifen weiter, um wenigstens auf ein paar Kilometer zu kommen.
+Das Wohngebiet um die Ferienwohnung herum gab keine wirklich schöne Strecke her, und nachdem ein freilaufender Straßenhund mir ganz schön Angst gemacht hatte, bin ich an der Hauptstraße auf dem Seitenstreifen weiter gelaufen, um wenigstens auf ein paar Kilometer zu kommen.
 Nachdem ich zurück war, war Marlen von ihrem Nickerchen wieder am Start und wir sind direkt danach noch eine Stunde walken gegangen.
 Bewegung war also dann doch gesichert.
 
@@ -84,7 +84,7 @@ Um 14:30 ging es wieder los zum Knutsford Express.
 Da es der letzte Arbeitstag des Monats war, standen die Leute in Schlangen vor den Geldautomaten an.
 Wegen des zu spät geplanten Late Checkouts brauchen wir noch Bargeld, sodass unsere Gastgeberin und Fahrerin uns zu einem ATM bringen wollte.
 Die Straßen waren dazu extrem voll mit Autos von Menschen, die mit dem frischen Geld irgendwas anstellen wollten.
-Das Bargeld holen konnten wir angekommen am ATM abwenden, weil auf einmal doch eine Bezahlung über die Buchungsplattform möglich war.
+Das Bargeld holen konnten wir angekommen am ATM mit 50 Leuten in der Schlange noch abwenden, weil auf einmal doch eine Bezahlung über die Buchungsplattform möglich war.
 Nur standen wir auf dem Weg zurück zum Highway im Stau.
 
 Für uns war das alles extrem stressig und nervig.
@@ -97,46 +97,47 @@ Der Bus stand genauso im Stau, und auch das war anscheinend allgemein bekannt.
 Und die Abfahrtszeiten sind anscheinend generell eher so etwas wie Richtlinien.
 
 Das war eine nicht so tolle, aber um so lehrreichere Lektion, dass wir unsere deutsche Kultur mit Fahrplänen und Uhrzeiten auf Jamaika einfach mal komplett vergessen können.
-Hier ist jetzt wohl die Zeit für einen Witz zur Aussagekraft von Fahrplänen der Deutschen Bahn.
-Vielleicht sollte die DB einfach von Rot auf Weiß als Farben zu Schwarz, Gelb, Grün wechseln.
+
+Hier ist jetzt wohl die Zeit für einen Witz zur Aussagekraft von Fahrplänen der Deutschen Bahn:
+Vielleicht sollte die DB einfach von Rot auf Weiß als Farben zu Schwarz, Gelb, Grün wechseln. Dann ist sie immer pünktlich.
 
 {% include foldergallery.html folder="2022-08-03/3" %}
 
 ## Kingston
 
 ### Der Versuch, am ersten Abend etwas zu essen
-Angekommen gegen halb 6 in Downtown Kingston hatten wir grob 2 Kilometer zu unserer Ferienwohnung in New Kinston zu laufen.
+Mit den Knutsford Express waren wir gegen halb 6 in Downtown Kingston angekommen und hatten grob 2 Kilometer zu unserer Ferienwohnung in New Kinston zu laufen.
 Ich wurde ein weiteres Mal überrascht, wie schnell in der Karibik die Sonne auf- und untergeht. 
 Insofern kamen wir im Dunklen an.
 Man ließt immer, dass man in Kingston nicht im Dunkeln herumlaufen soll, weil die Stadt nach Sonnenuntergang nicht besonders sicher sei.
 New Kingston ist allerdings das "Reichenviertel" der Stadt, sodass wir damit so weit ok waren. 
 
 Wir liefen Google Maps nach, angekommen am vermeintlichen Ziel standen wir etwas verloren dort.
-Zwei herumhängende Männer, breit wie zwei Nattern, wiesen uns nett darauf hin, dass wir wohl Hausnummer 8A suchen würden und falsch vor der 8 stehen würden.
+Zwei herumhängende Männer, gekifft ohne Ende, wiesen uns nett darauf hin, dass wir wohl Hausnummer 8A suchen würden und falsch vor der 8 stehen würden.
 Einfach nett, wir mussten noch ca. 10 Mal fistbumpen und auf gemeinsames "One Love" einstimmen :)
- 
+
 Weil es schon spät und wir etwas faul und müde waren, entschieden wir uns dazu, essen zu bestellen.
-Die Hausverwalterin gab uns noch den Namen vom lokale Äquivalent zu Delivery Hero. 
+Die Hausverwalterin gab uns noch den Namen vom lokalen Äquivalent zu Delivery Hero. 
 Wir sind allerdings über mehr als eine Stunde nicht so weit gekommen, eine Bestellung abzusenden. 
 Der Prozess um eine Kreditkarte auf der Plattform zu verifizieren, war einfach grundlegend kaputt.
-Marlens Karte war danach gesperrt, bei mir war der redirect zum Verified by Visa Portal meiner Bank kaputt, die Karte von Alex wurde gleich von vornherein abgelehnt.  
+Pocas Karte war danach gesperrt, bei mir war die Weiterleitung zum Verified by Visa Portal meiner Bank kaputt, die Karte von Alex wurde gleich von vornherein abgelehnt.  
 Richtig super, wenn man gegen 10 noch kein Abendessen hatte und der Magen knurrt.
 
 Mangels anderer Optionen entschieden wir uns für eine Bestellung bei Dominos. 
-Wer Dominos aus Deutschland kennt, kennt definitiv nicht die amerikanische Variante. 
+Wer Dominos nur aus Deutschland kennt, kennt definitiv nicht die amerikanische Variante. 
 Bzgl. Lebensmitteln ist Jamaika generell sehr nah an den USA, entsprechend auch die Pizzen.
 Riesig groß, richtig fettig, Zucker im weichen Teig, kaum vegetarische Optionen. Ein ganz kleiner, unwesentlicher Abstieg zu meinen [Pizzen in Rom](https://www.youtube.com/watch?v=Ms-_CwxrSKk) vier Wochen vorher.
 
-Während wir auf die Pizza warteten, sind Poca und ich zumindest noch mal in einen noch geöffneten Supermarkt um die Ecke und ein paar Getränke zu besorgen.
+Während wir auf die Pizza warteten, sind Poca und ich zumindest noch mal in einen noch geöffneten Supermarkt um die Ecke um ein paar Getränke zu besorgen.
 Immerhin sind wir dort mit ein paar Locals ins Gespräch gekommen, was ganz nett war.
-Bis die subtilen Anspielungen zur deutschen Geschichte "Watch out, the germans are coming" da zu kamen.
-So was triggert mich ja extrem, sagt aber auch was über die Außenwirkung der deutschen außerhalb von Europa aus.
+Bis die subtilen Anspielungen zur deutschen Geschichte "Watch out, the germans are coming" dazu kamen.
+So was triggert mich ja extrem, sagt aber auch was über die Außenwirkung der Deutschlands außerhalb von Europa aus.
 
 Die Pizza kam irgendwann um 11, war mit dem großen Hunger dem Bier dazu knapp genießbar, und damit war der Abend auch durch.
 
 ### Tag 2: Bob Marley Museum und Downtown Kingston
 Nach der Pizza vom Vorabend war niemandem nach Frühstück zu Mute, sodass wir uns direkt zum Bob Marley Museum aufmachten.
-Das Museum bestand aus einer geführten Tour durch den ehemaligen Wohnsitz von Bob Marley in New Kingston, leider waren Fotos im den Inneräumen verboten.
+Das Museum bestand aus einer geführten Tour durch den ehemaligen Wohnsitz von Bob Marley in New Kingston, leider waren Fotos in den Inneräumen verboten.
 
 Wir hatten einen coolen Typ als Guide fürs Museum. 
 Rastafari durch und durch, selber Reggae Musiker mit starker Stimme.
@@ -158,7 +159,7 @@ Wir aßen mit Callaloo gefüllte Blätterteigtaschen.
 Callaloo ist eine Art karibischer Eintopf aus verschiedenen lokalen Gemüsen und schmeckte mir ein wenig wie Mangold.
 
 Nach dem Essen teilen wir uns auf.
-Marlen und ich sind zu Fuß in Richtung Downtown Kingston, Alex und Vivi namen den Bus.
+Poca und ich sind zu Fuß in Richtung Downtown Kingston, Alex und Vivi namen den Bus.
 Verabredet hatten wir uns an der Water Lane, einer Straße, die mit Graffiti von Künstlern aus Kingston voll sein sollte.
 
 Der Weg dahin war spannend.
@@ -172,10 +173,10 @@ Und das alles über mehrere Straßen inmitten des Verkehrs, der sich um alles he
 Wir waren vermutlich die einzigen Weißen Menschen dort, aber es hat sich nach meinem Eindruck niemand für uns interessiert.
 
 Angekommen an der Water Lane trafen wir Alex und Vivi wieder, die sich sichtlich unwohl in der Gegend fühlten.
-Das Anschauen der Graffiti war also ganz schön gedrängelt, und danach sind die beiden zusammen mit Marlen auch gleich wieder in richtig New Kingston losgelaufen.
+Das Anschauen der Graffiti war also ganz schön gedrängelt, und danach sind die beiden zusammen mit Poca auch gleich wieder in richtig New Kingston losgelaufen.
 
 Ich hab noch die Gegend erkundet, da ich mich direkt neben der Nationalgalerie und dem Messezentrum auch alleine sicher gefühlt hatte.
-Zurück bin ich dann noch durch den National Heroes Park und hab kurz vor der Ferienwohnung den Rastaman vom Abend vorher wieder getroffen.
+Zurück bin ich dann noch durch den National Heroes Park und hab kurz vor der Ferienwohnung einen der Rastamänner vom Abend vorher wieder getroffen.
 Wieder breit, diesmal auf dem Fahrrad, aber er hat sich ernsthaft dafür interessiert, ob mit unserer Wohnung alles geklappt hat.
 Außerdem hatte er mich, genau wie die Hausverwalterin auf die große Parade zum Emancipation Day hingewiesen.
 
@@ -203,7 +204,7 @@ Also sind wohl nicht nur die Fahrzeiten, sondern auch die Haltestellen optional.
 Es war ein unangenehmes Gefühl, dass sich fast alle anderen Passagiere von uns vier Weißen Menschen im Bus ferngehalten haben.
 Ich kann mir jetzt ein ganz kleines bisschen vorstellen, wie sich Schwarze Menschen in Deutschland (leider insbesondere in Sachsen) hin und wieder fühlen müssen. 
 
-Angekommen in Port Royal stellen wir fest, dass es erstaunlich wenig zu sehen gab.
+Angekommen gegen 14:00 in Port Royal stellen wir fest, dass es erstaunlich wenig zu sehen gab.
 Ich hatte irgendwie auf einen Piratenhafen und [Monkey Island](https://www.youtube.com/watch?v=sahskKAxSCY) Feeling gehofft, aber es gab praktisch nichts zu sehen.
 
 Also ging es direkt zu einem Captain mit Boot, mit dem wir die Überfahrt nach Lime Cay verhandelten.
@@ -211,14 +212,14 @@ Das es davon genug gibt, hatte ich in den Reiseblog gelesen.
 Der Captain war cool und hat auf dem Weg zur Insel mit dem kleinen Boot richtig Gas gegeben.
 Ein Heidenspaß, so über die Wellen zu pflügen.
 
-Angekommen auf Lime Cay verabredeten wir mit dem Captain, uns drei Stunden später abzuholen.
+Auf Lime Cay verabredeten wir mit dem Captain, uns drei Stunden später abzuholen.
 
 Die kleine Insel ist einfach wunderschön, ich hatte bis dahin noch nie so einen schönen Strand gesehen.
-Auf der windabgewandte Seite konnte man super schwimmen und schnorcheln, die andere war mit hohen Wellen und scharfem Untergrund eher anstrengend.
+Auf der windabgewandten Seite konnte man super schwimmen und schnorcheln, die andere Seite war mit hohen Wellen und scharfem Untergrund eher anstrengend.
 Trotzdem bin ich mit Schnorchelmaske und Flossen einmal um die Insel herum.
 
 Ich hatte die Action Cam dabei, allerdings war das Wasser nicht besonders klar und ich hab mich auch leicht doof angestellt bei der ersten Unterwassertour.
-Insofern ist da nix gutes herausgekommen
+Insofern ist da nix gutes herausgekommen.
 
 Zurück am Startpunkt, wo Alex, Vivi und unsere Klamotten lagen, hatte Poca mal wieder Menschen kennengelernt.
 Gibt nicht viele Menschen mit so einem Talent dafür.
@@ -232,13 +233,14 @@ Es hat mal wieder richtig Spaß gemacht, tolle Menschen kennenzulernen und etwas
 Wir unterhielten uns natürlich auch über den Independence Day am folgenden Wochende und die politische Abhängigkeit Jamaikas zur britischen Monarchie.
 Der Joke des Tages von Chris war, dass Jamaika "in dependent of the queen" sei. Wortspiele sind schlecht, wenn man sie erklären muss, aber "independent" zu "in dependence" zündet vermutlich aufgeschrieben sonst nicht direkt.
 
-Wir fuhren mit dem Boot zurück aufs Festland, diesmal mit zusätzlichen Locals und voll besetztem Boot, nahmen den Bus zurück zur Ferienwohnung und gingen in einem Indisch Caribean Fusion Restaurant zu Abend essen.
+Nach einer echt guten Zeit auf Lime Cay fuhren wir mit dem Boot zurück aufs Festland, diesmal mit zusätzlichen Locals und voll besetztem Boot.
+Der Bus zurück zur Ferienwohnung war diesesmal problemlos, der Abedn endete in einem Indisch Caribean Fusion Restaurant zum Abendessen.
 
 {% include foldergallery.html folder="2022-08-03/5" %}
 
 ### Tag 4: Emancipation Day
 Am ersten August wird in fast allen ehemaligen europäischen Kolonien in der Karibik der Emancipation Day gefeiert.
-Mit Emanzipation ist die Freiheit der afrikanischen Sklaven gemeint. Auf Jamaika ist dieser Feiertag der Start in die eine 7 Tage lange Feier, welche mit dem Independence Day endet.
+Mit Emanzipation ist die Freiheit der afrikanischen Sklaven gemeint. Auf Jamaika ist dieser Feiertag der Start in eine sieben Tage lange Feier, welche mit dem Independence Day endet.
 
 Da in sich diesem Jahr die (scheinbare) Unabhängigkeit Jamaikas zum sechzigsten Mal jährte, wurde entsprechend groß aufgefahren.
 Wir machten uns also auf den Weg zum Emancipation Parc, an dem die große Parade vorbei ziehen sollte.
