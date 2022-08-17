@@ -236,23 +236,40 @@ Wir fuhren mit dem Boot zurück aufs Festland, diesmal mit zusätzlichen Locals 
 
 {% include foldergallery.html folder="2022-08-03/5" %}
 
-### Tag 4 Emancipation Day
-* You look like that guy from Coldplay 
-* Emancipation Park, warten auf parade. Nettes Mädchen, was mit ihren Vater unterwegs was. Und ein anderes kleines, was mit Luftballon gespielt hat
-* Parade in praller Sonne 
-* Durch den Park zurück zum Starbucks. Aus der Sonne raus, 3 Stunden rumbringen ohne zurück zu laufen 
-* Im park nen sound check gesehen und festgestellt, dass das redemption fest noch 1,5h später beginnt
-* Zum Stadion, independence Village.
-  * Wir die einzigen weisen
-  * Tanz Show, food market Aber nix vegetarisches.
-  * Ins Stadion, irgendwie in die miss Jamaica Wahl reingeraten. Die Leute machen krass Stimmung, aber das war schon weird.
-  * Seltsame einzel reden auf patwa, nix verstanden 
-* Statuen vorm stadium
-* Letzte dollars verprasst, Reste Essen in der Unterkunft
-* Barbados travel form kompliziert 
+### Tag 4: Emancipation Day
+Am ersten August wird in fast allen ehemaligen europäischen Kolonien in der Karibik der Emancipation Day gefeiert.
+Mit Emanzipation ist die Freiheit der afrikanischen Sklaven gemeint. Auf Jamaika ist dieser Feiertag der Start in die eine 7 Tage lange Feier, welche mit dem Independence Day endet.
+
+Da in sich diesem Jahr die (scheinbare) Unabhängigkeit Jamaikas zum sechzigsten Mal jährte, wurde entsprechend groß aufgefahren.
+Wir machten uns also auf den Weg zum Emancipation Parc, an dem die große Parade vorbei ziehen sollte.
+
+Auf dem Fußweg durchs Bankenviertel wurde ich mit dem Satz "You look like that guy from Coldplay" angesprochen, was einfach nur selten war. 
+
+Bis zum Beginn der Parade verbrachten wir die Zeit im Schatten und kamen mit einigen Bewohnern ins Gespräch.
+Insbesondere die Kinder hatten beim Spielen Spaß mit uns. 
+
+Die Parade in der prallen Sonne war sehenswert.
+Es gab 7 geschmückte Wagen, die verschiedene Aspekte der jamaikanischen Geschichte dargestellt haben. Dazwischen waren Reiterstaffeln, Miss Jamaika, die Feuerwehr und überhaupt jeder mit einem schicken Kostüm oder Fahrzeug unterwegs.
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-03/emancipation_day_parade.mp4' type='video/mp4'/> </video>
 
 
-{% include foldergallery.html folder="2022-08-03/6" %}
+Nach grob drei Stunden in der Sonne bei deutlich über 30 Grad machten wir eine Pause im klimatisierten Starbucks.
+Den Rest des Tages haben wir leicht verwirrt verplempert, weil es nicht so richtig ein Programm gab, wann wo etwas nach der Parade passiert.
+Oder wir haben es nur nicht gefunden.
 
+Wir sind dann aber los zum Stadion, wo das Independence Village aufgebaut war.
+Dort gab seltsame Tanzshows und eine großes, aber leider sehr fleischlastigen Essensangebot.
+Da verschiedene Leute die Tage zu vor immer von dem großen Abschluss im Stadium sprachen, sind wir da einfach mal den Schildern gefolgt.
+
+Um uns kurze Zeit später bei einer Misswahl im Publikum zu befinden.
+Das war super seltsam.
+Einerseits war es genauso bescheuert, wie man sich eine Misswahl vorstellt: Laufchoreografien in Abendkleidern und einzelne Performances mit Reden.
+Von den "glamourösen" Reden hat man kein Wort verstanden, weil sie auf Patwa statt Englisch gehalten wurden. 
+Andererseits hat das Publikum richtig Stimmung gemacht, vermutlich weil die Menschen mit Absicht dort waren. Nicht so unabsichtlich und verwirrt wie wir. 
+
+Nach einer Stunde sind wir wieder raus und haben uns zumindest noch die Usain Bolt Statue auf der anderen Seite vom Stadion angeschaut.
+
+Zurück in der Unterkunft verkochten wir die restlichen Lebensmittel zu absurden Nudeln auf Toast, packten die Sachen, füllten die komplizierten Einreise-Fragebögen von Barbados bzgl. Corona aus und checkten nochmals die Taxibestellung für den nächsten Morgen.
+
+{% include foldergallery.html folder="2022-08-03/6" %}
