@@ -159,7 +159,7 @@ Wir aßen mit Callaloo gefüllte Blätterteigtaschen.
 Callaloo ist eine Art karibischer Eintopf aus verschiedenen lokalen Gemüsen und schmeckte mir ein wenig wie Mangold.
 
 Nach dem Essen teilten wir uns auf.
-Poca und ich sind zu Fuß in Richtung Downtown Kingston. Alex und Vivi namen den Bus.
+Poca und ich sind zu Fuß in Richtung Downtown Kingston. Alex und Vivi nahmen den Bus.
 Verabredet hatten wir uns an der Water Lane, einer Straße, die mit Graffiti von Künstlern aus Kingston voll sein sollte.
 
 Der Weg dahin war spannend.
