@@ -10,7 +10,7 @@ Der Flug sollte um 10:00 ab Hannover gehen.
 Wir duschten alle ausgiebig und packten die nötigen Sachen vom Festival- ins Hand- oder Reisegepäck. 
 Also zum Beispiel Waschtasche, Regenjacke und Kreditkarte.
 Das hat zumindest bei mir ziemlich gut funktioniert. 
-Die im Vorhinein geschriebene exakte Liste, welche Gegenstände noch in den Aufgabe- und welche in den Handgepäckrucksack reingehören war, eine gute Idee.
+Die im Vorhinein geschriebene exakte Liste, welche Gegenstände noch in den Aufgabe- und welche in den Handgepäckrucksack reingehören, war eine gute Idee.
 
 Es war tatsächlich noch Zeit, die Kühlbox auszuräumen, auszuwischen und ein Bier auf dem Hof zu trinken, bis wir um 03:20 abgehohlt wurden.
 Der Fahrer war pünktlich und nett, aber bzgl. seiner Corona-Prävention etwas absurd.
@@ -28,18 +28,18 @@ Für eine halbe Stunde hat es mir aber doch die Augen zugezogen.
 
 Angekommen in Zürich haben wir dann am Schalter von Swiss Airline dafür gesorgt, dass Poca auch einen Platz nach Montego Bay bekommen sollte.
 Sie flog aus Berlin nach Zürich, um dort zu uns zu zu stoßen.
-Damit hatte sie aber eine eigene Buchungsnummer und war damit auf der Abschussliste für überbuchte Flüge, ihre Boardkarte hatte noch keinen Sitzplatz.
+Damit hatte sie aber eine eigene Buchungsnummer und war damit auf der Abschussliste für überbuchte Flüge. Ihre Boardkarte hatte noch keinen Sitzplatz.
 Die Dame am Schalter hat relativ schnell verstanden, was wir wollten und Sie unserer Reisegruppe hinzugefügt.
 Damit war sie ganz oben auf der Prio-Liste der Menschen, die noch keinen festen Sitzplatz haben.
 Letztlich durften wir alle losfliegen, allerdings nicht zusammen sitzen.
 War alles ganz schön nervenaufreibend, ist aber gut gegangen.
 
 Das Essen im Flieger war gut, ich hatte genug zu bloggen und im Inflight Entertainment System gab es "Ready Player 1" zu schauen.
-Ein bischen witzig war es schon, zu sehen, wie die Flugbegleiter und -begleiterinnern von Edelweiss Air zwischen Englisch und Schwizerdütsch hin und her wechselten.
+Ein bisschen witzig war es schon, zu sehen, wie die Flugbegleiter und -begleiterinnern von Edelweiss Air zwischen Englisch und Schwizerdütsch hin und her wechselten.
 Akzentfreies Englisch, aber Deutsch in Mundart :)
 
 Unser 13 Stunden-Flug wurde relativ kurzfristig in einen neun Stunden langen und einen eine Stunde langen Abschnitt getrennt.
-Wer rechnen kann merkt, dass wir beim Transit in Puerto Plata (Dominikanische Republik) ganz schön lange im Flughafen herumstehen mussten.
+Wer rechnen kann, merkt, dass wir beim Transit in Puerto Plata (Dominikanische Republik) ganz schön lange im Flughafen herumstehen mussten.
 Und auch der Sicherheitscheck vom Flugzeug in den Transitbereich war irgendwie seltsam inkonsequent.
 Immerhin genug Zeit für Poca, um ihre Sucht nach Kühlschrankmagneten zu befriedigen.
 
@@ -72,11 +72,11 @@ Großartig, sowas wäre manchmal zu Hause auch toll :)
 
 Nachdem wir von Clive begrüßt wurden, war das Frühstück super entspannt.
 Also so entspannt, dass man sich erstmal daran gewöhnen musste.
-Alle Angestellten hatten die Ruhe weg, alles wurde frisch zubereitet, eine zweite Tasse Kaffe zog sich auch mal 20 Minuten. 
+Alle Angestellten hatten die Ruhe weg, alles wurde frisch zubereitet, eine zweite Tasse Kaffee zog sich auch mal 20 Minuten. 
 Wir haben fast zwei Stunden auf der Terasse gesessen und genossen.
 
 Clive rief uns ein Taxi von seinem lokalen Fahrer "King Dave".
-Während wir Sachen packten uns aufs Taxi warteten, hatten wir noch ein bisschen Chaos mit den Safes in den Zimmern.
+Während wir Sachen packten und aufs Taxi warteten, hatten wir noch ein bisschen Chaos mit den Safes in den Zimmern.
 So ein einzelner eingeschlossener Reisepass ohne den Code zur Öffnung zu kennen, ist nur halb cool. 
 Also hat uns Clive den Safe mit dem ultimativen Master-Key geöffnet, wir haben alle Reisepässe und anderen wichtigen Dokumente eingeworfen und danach war der Safe für zwei Tage verschlossen - noch immer, ohne einen Code zur Öffnung zu besitzen.
 
@@ -91,11 +91,11 @@ Optisch war es der Knaller, wenn man so einen Strand noch nie gesehen hat.
 Das Schwimmen war spannend, denn so warmes und salziges Wasser hatte ich noch nicht erlebt.
 Wir haben ein bisschen die Gegend und die Strandbar erkundet, die Vegetation genossen und unsere erste gekühlte Kokosnuss ausgetrunken. Lecker!
 
-Während wir noch auf einem der Wellenbrecher herumstanden haben, wir uns noch über den Signalton gewundert.
+Während wir noch auf einem der Wellenbrecher herumstanden, haben wir uns noch über den Signalton gewundert.
 Bis wir dann recht deutlich gebeten wurden, den Strand zu verlassen, weil wir das Schließsignal nicht verstanden hatten.
-Um 16:30 waren wir die letzen dort.
+Um 16:30 waren wir die Letzen dort.
 
-Hunrig sind wir direkt in das Restaurant nebenan, welches einen guten Eindruck machte.
+Hungrig sind wir direkt in das Restaurant "Sea Island Beach Club" nebenan, welches einen guten Eindruck machte.
 Wir mussten leider fast zwei Stunden auf unser Essen warten.
 Der Sonnenuntergang war es aber wert, zu warten.
 
@@ -118,16 +118,16 @@ Poca hatte sich wiederum mit dem Host Clive und seinen Freunden Kamar und Randy 
 {% include foldergallery.html folder="2022-07-28/2" %}
 
 ### Tag 2: Erkundungstour
-Ich war mal wieder als erster wach (kann ja nicht jeder bis nachts halb zwei durchballern) und vor dem Frühstück eine viertel Stunde im Pool. 
+Ich war mal wieder als Erster wach (kann ja nicht jeder bis nachts halb zwei durchballern) und vor dem Frühstück eine viertel Stunde im Pool. 
 Für richtige Bahnen war dieser leider zu klein, aber wenn man schon mal die Möglichkeit zum Schwimmen vorm Frühstück hat, sollte man sie nutzen.
 
 Alex und ich entschieden uns für ein traditionelles jamaikanisches Frühstück mit Ackee und Saltfish. 
 Die Nationalfrucht Ackee war leider aus, aber uns wurde ein alternatives Gericht aus Codfish mit Baked Beans und Dumpings gezaubert.
-Das Hootel war in allen Bewertungen vorher schon für die großartige Küche gelobt worden, was sich bestätigen sollte.
+Das Hotel war in allen Bewertungen vorher schon für die großartige Küche gelobt worden, was sich bestätigen sollte.
 
 Zu zweit sind Alex und ich dann nochmals Richtung Montego Bay gestartet und haben die Gegend zu Fuß erkundet.
-Weed zu kaufen, haben wir zum Unverständniss aller Locals weiterhin sein gelassen. 
-Ich hab aber in einem Tourishop zumindest zwei überteuerte Andenken gekauft.
+Weed zu kaufen, haben wir zum Unverständnis aller Locals weiterhin sein gelassen. 
+Ich hab aber in einem Touri-Shop zumindest zwei überteuerte Andenken gekauft.
 Man konnte ganz gut mit dem Verkäufer handeln, sodass es preislich erträglich war.
 Allerdings standen beim Verlassen des einen Ladens fünf weitere Verkäufer vor der Tür, die auf einen Besuch in ihrem eigenen Laden bestanden hatten.
 Mit Geschichten von der gestorbenen Oma, Mutter, was auch immer, während sie alle die gleiche Ware hatten.
