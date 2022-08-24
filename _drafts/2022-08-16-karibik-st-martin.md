@@ -11,13 +11,14 @@ Fahren auf der richtigen Seite
 Bezahlen in Euro
 
 
-
 {% include foldergallery.html folder="2022-08-16/1" %}
 
 ## Tag 1
 Das erste Mal Mittagessen seit langem, es gibt im Holland Teil endlixh wieder guten Käse
 Einkaufen, schnell mal ins Wasser. Ganz schön steil vor der Tür, weil Hafen
 Um halb 8 los zum Essen, alles wie ausgestorben
+
+{% include foldergallery.html folder="2022-08-16/2" %}
 
 ## Tag 2
 Laufen, trail running, klettern, viele Tiere
@@ -28,6 +29,7 @@ Shopping tour, nette hoodie. Super günstiger mount gay xo
 Radtour call, wieder schwimmen
 Grillen und rum
 
+{% include foldergallery.html folder="2022-08-16/3" %}
 
 ## Tag 3
 Bootstour
@@ -46,6 +48,8 @@ Vorschlag 08:30 start, weil ab da gemietetes auto verfügbar
 "Lass uns mal um halb 9 Uhr anpeilen und wenn es später wird..."
 Fucking hell, dann sagen wir halt gleich um 9 und ich schlafe länger. Dieses gelaber stinkt
 
+{% include foldergallery.html folder="2022-08-16/4" %}
+
 ## Tag 4
 Auto und setzt auf bumper auf
 Natur Schutz Melonen Kaktus, Stunde unterwegs
@@ -62,6 +66,8 @@ Dancing in the dark ist mega schwer zu singen. ich wurde "german bruce springste
 Smash mouth I'm a believer war einfacher, jemand ist einfach mit eingestiegen. Voll gut
 Jacky kennengelernt. Ca 20, macht eine eigene Website auf. Selber bikini model, aber kein adult content. Aber sonst wie only fans
 
+% include foldergallery.html folder="2022-08-16/5" %}
+
 ## Tag 5
 
 Big three im park
@@ -73,10 +79,7 @@ ich einkaufen fürs grillen, die anderen jetski
 checkin nervig, weil bilder von reisepässen zu schlecht für die bilderkennung sind. manuell eintragen wird aber nicht aktzeptiert, obwohl man nach erfolgreichem upload immernoch zum schalter muss. dumm
 
 
-{% include foldergallery.html folder="2022-08-16/2" %}
-
-
-
+{% include foldergallery.html folder="2022-08-16/6" %}
 
 ## Zurück nach Dresden
 Netter taxi Fahrer, von wally bestellt
@@ -92,3 +95,7 @@ Customs war albern
 
 DD Gepäck fehlt email
 gepäck am nächsten tag um 10 per kurier.
+
+{% include foldergallery.html folder="2022-08-16/7" %}
+
+
