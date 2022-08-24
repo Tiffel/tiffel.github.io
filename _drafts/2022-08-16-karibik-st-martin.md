@@ -38,12 +38,18 @@ Trinker Tour
 3 stops
 Rum punch doof. Cors light schmeckt wie Wasser, Budweiser (us) auch nicht gut. Carab lager ist erträglich
 
+<video width='100%' preload='metadata' controls> <source src='/img/2022-08-16/fish_heli.mp4' type='video/mp4'/> </video>
+<video width='100%' preload='metadata' controls> <source src='/img/2022-08-16/katamaran.mp4' type='video/mp4'/> </video>
+<video width='100%' preload='metadata' controls> <source src='/img/2022-08-16/rocks.mp4' type='video/mp4'/> </video>
+<video width='100%' preload='metadata' controls> <source src='/img/2022-08-16/submarine.mp4' type='video/mp4'/> </video>
+<video width='100%' preload='metadata' controls> <source src='/img/2022-08-16/turtleswimming.mp4' type='video/mp4'/> </video>
+
 Abendessen
 Entscheiden wir später
-Summe Idee, die Optionen werden halt nur schlechter
-
-
+Dumme Idee, die Optionen werden halt nur schlechter
 Vivi:Warum. I have hört seit 2,5 Wochen niemand auf mich? Weil es meist nur unkonkreter bullshit ist.
+
+
 Vorschlag 08:30 start, weil ab da gemietetes auto verfügbar
 "Lass uns mal um halb 9 Uhr anpeilen und wenn es später wird..."
 Fucking hell, dann sagen wir halt gleich um 9 und ich schlafe länger. Dieses gelaber stinkt
@@ -51,6 +57,7 @@ Fucking hell, dann sagen wir halt gleich um 9 und ich schlafe länger. Dieses ge
 {% include foldergallery.html folder="2022-08-16/4" %}
 
 ## Tag 4
+### MIt dem Auto über die Insel
 Auto und setzt auf bumper auf
 Natur Schutz Melonen Kaktus, Stunde unterwegs
 Coffee shop, leckeres Essen, Ziegenkäse Auflauf
@@ -60,13 +67,17 @@ Franz Bäckerei mit geilen Brot und Eis
 Baden, einkaufen, Baden
 Kolibri im Garten gesehen
 Abendessen in der Bar vom ersten Tag mit geilen Käse
+
+{% include foldergallery.html folder="2022-08-16/5" %}
+
+### Karaoke
 karaoke bar
 99 Luftballons zusammen mit Marlen, gegen ein gratisproben Bier, weil die Holländer gerne deutsch hören wollten
 Dancing in the dark ist mega schwer zu singen. ich wurde "german bruce springsteen" genannt
 Smash mouth I'm a believer war einfacher, jemand ist einfach mit eingestiegen. Voll gut
 Jacky kennengelernt. Ca 20, macht eine eigene Website auf. Selber bikini model, aber kein adult content. Aber sonst wie only fans
 
-% include foldergallery.html folder="2022-08-16/5" %}
+{% include foldergallery.html folder="2022-08-16/6" %}
 
 ## Tag 5
 
@@ -78,8 +89,10 @@ Flying Dutchman ohne Vivi, wir haben uns erst angestellt, als sie 45 min später
 ich einkaufen fürs grillen, die anderen jetski
 checkin nervig, weil bilder von reisepässen zu schlecht für die bilderkennung sind. manuell eintragen wird aber nicht aktzeptiert, obwohl man nach erfolgreichem upload immernoch zum schalter muss. dumm
 
+<video width='100%' preload='metadata' controls> <source src='/img/2022-08-16/flying_dutchman.mp4' type='video/mp4'/> </video>
 
-{% include foldergallery.html folder="2022-08-16/6" %}
+
+{% include foldergallery.html folder="2022-08-16/7" %}
 
 ## Zurück nach Dresden
 Netter taxi Fahrer, von wally bestellt
@@ -96,6 +109,6 @@ Customs war albern
 DD Gepäck fehlt email
 gepäck am nächsten tag um 10 per kurier.
 
-{% include foldergallery.html folder="2022-08-16/7" %}
+{% include foldergallery.html folder="2022-08-16/8" %}
 
 
