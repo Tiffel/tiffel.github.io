@@ -7,69 +7,105 @@ title:  "Karibik Teil 3: Barbados"
 Wir hatten den Taxifahrer, den wir in Kingston kennengelernt hatten auf 10:30 bestellt, um uns zum Flughafen zu bringen.
 Kurz nach 9 bekam ich einen Anruf, dass sein Auto liegen geblieben sei, sodass wir nochmal kurz eine Alternative organisieren mussten.
 Etwas stressig, aber ich hatte gleich beim ersten Taxiunternehmen Glück.
-Auch wenn die Dispatcherin gefühlt drei Gespräche auf einmal geführt hatte und wir bis zur Ankunft des Autos ein
-wenig zitterten.
+Auch wenn die Dispatcherin gefühlt drei Gespräche auf einmal geführt hatte und wir bis zur Ankunft des Autos ein wenig zitterten.
 
 Auf dem Airport lernen Poca und ich am Gate einen Barbadian, also einen Bewohner von Barbados, kennen.
 Er lerne seit einer Weile Deutsch und freute sich wie ein kleines Kind, zum ersten mal mit Deutschen die Sprache zu sprechen.
 Wo wir in Deutschland wohnen haben wir ihm anhand der Fußball Bundesliga erklärt, das war das einfachste.
-Wir hatten unseren Wohnort der Einfachheit halber spontan nach Leipzig verlegt, weil es dort im Gegensatz zu Dresden einen Erstliga Verein gibt.
+Wir hatten unseren Wohnort der Einfachheit halber spontan nach Leipzig verlegt, weil es dort im Gegensatz zu Dresden einen Erstliga Verein gibt. 
 
-Unser Flug hatte eine Zwischenlandung auf Sint Maarten, was unsere Dritte Insel sein sollte.
-Der Princess Juliana Airport ist für Start und Landung wirklich beeindrucktend und gilt wohl nicht umsonst als einer der schwierigsten der Welt.
+Unser Flug hatte eine Zwischenlandung auf Sint Maarten, was unsere Dritte Insel werden sollte.
+Der Princess Juliana Airport ist für Start und Landung wirklich beeindrucktend und gilt wohl nicht umsonst als einer der schwierigsten der Welt.i
 
 Angekommen auf Barabdos zogen Poca und ich den Jackpot: Wir wurden rausgezogen zum Corona Test. Alex und Vivi konnten ohne Test durch die Kontrolle.
 Nun hatten wir alle mehr oder weniger leichte Erkältungssymptome die Tage vorher.
 Vermutlich, weil wir die Wechsel zwischen Karibischem Klima und extrem eingestellen Klimaanlagen in Bussen und Unterkünften nicht besonders gut verkraftet haben.
 Entsprechend haben wir die zwanzig Minuten Wartezeit bis zum Testergebniss wirklich gezittern und uns die schlimmsten Szenarien ausgemalt.
-Sicher sein, dass wir keine Corona Infektion abbekommen hatten konnten wir ja nicht sein.
+Sicher sein, dass wir keine Corona Infektion abbekommen hatten, konnten wir ja nicht sein.
 Immerhin war ich eine Woche vorher noch in Moshpits auf dem Deichbrand. 
 Und eine Woche Quarantäne Hotel auf eigene Rechnung und den Flug nach Sint Maarten verpassen wollte ja nun wirklich niemand.
 
 Gefühlt ewig andauernde 20 Minuten später gab es aber das negative Ergebnis und wir durften einreisen.
+Wir haben dann fix ein paar Barbadian Dollars gehohlt, ein Taxi eingesammelt und uns natürlich mal wieder mit dem Taxifahrer Ricky angefreundet und seine Telefonnummer mitgenommen.
+Das scheint ein übliches Schema zu sein, von dem Gast und Fahrer profitieren.
+Wir bekommen ein Taxi per Whatsapp Message zum gewählten Zeitpunkt direkt vor die Haustür, der Taxifahrer spart den Mittelsmann und hat nen Dollar mehr in der Tasche. 
 
+Abendessen war mal wieder schwierig. Das vorher rausgesuchte Restaurant ging um 21:00 nicht mehr ans Telefon, obwohl es offen haben sollte. 
+Bei anderen Lieferdiensten exakt das gleiche Schema.
+Das ist wohl ein Nachteil der Nebensaison.
+Ricky hatte uns aber noch den Tip gegeben, dass die Tankstelle um die Ecke 24/7 geöffnet hat und essen verkauft.
 
-
-
-Der Taxifahrer war siler nett, wir haben uns auf dem Weg zum Airport über die Welt unterhalten u
-Marlen corona
-Taxifahrer, den wir kennengelernt hatten auf 10:30 bestellt
-Taxi kaputt, spontan bei taxi Unternehmer eins bestellt.
-Super lieber Taxi Fahrer, nettes Gespräch über die Welt und Jamaica.
-Entspannter Airport, guter Kaffee
-Jemanden aus Barbados gesprochen, der ein bißchen deutsch sprach und sich gefreut hat, das erste Mal im Leben deutsche zu treffen. Deutschland Karte anhand gom erst Liga Fußball erklärt. Leipzig bekannt, Dresden nicht
-Sint Maarten Landung bei princess Juliana ist schon krass. Direkt über den Strand, mehr Platz ist hier einfach nicht
-In Barbados zu corona check rausgezogen. Hier tragen auch noch alle Maske
-15 minuten der hölle
-Taxi zur Unterkunft
-fahrer ricky nummer mitgenommen, wie so oft
-
-Restaurant um die Ecke ging nicht ans Telefon. Lieferdienste erlauben keine Registrierung mit de Telefonnummer, gehen nicht ans Telefon
-Lösung: Tankstelle hat 24/7 offen und macht pizza
+Und wie sie dort Essen verkauft haben. 
+Nachts war das ein Fastfood Restaurant, ein Supermarkt und zugleich allgemeiner Treffpunkt, das nebenbei noch etwas Benzin hat.
+Es gab grob 10 Gerichte, die auf Bestellung "frisch" aus Fertigzutaten zusammengebaut bzw. belegt wurden. Also zum Beispiel Pizzen, Baguettes, Hot Dogs.
+Sicherlich keine kulinarische Meisterleistung, aber die Pizzen waren für eine 24/7 Tankstelle schon richtig gut.
+Das ziehe ich jederzeit einem McDonalds oder sonstigem miesen Junkfood Laden vor. 
 
 {% include foldergallery.html folder="2022-08-10/1" %}
 
-## Tag 1
+## Tag 1: Rum und Worthing Beach
+Wir waren auf Barabados in eine Ferienwohnung direkt an einem Golfplatz gelandet. Insofern nutzen Poca und ich die Ferne zum Verkehr, um eine Runde Laufen zu gehen.
+Dabei waren die Geschwindigkeit und die Entfernung total egal, wir endeten am Rockely Beach und sind dort spontan ins Wasser.
+Einfach weil wenig bessere Gefühle gibt, als nassgeschwitzt nach dem Sport ins Meer zu springen.
 
-Joggen mit Marlen
-Dave getroffen, ketten
-Einkaufen
-Vivi um halb 3: oh ich bin voll, das ist geil.
-Strand. Regen, noch nie so viel Spass in den Wellen gehabt
-Abendessen in Golfplatz Restaurant
+Und bei den Temperaturen kann man sowas auch einfach mal ohne Handtuch machen.
+Während wir trockneten und eigentlich nur den Sand von den Füßen loswerden wollten, wurden wir von Dave angesprochen.
+Dave war Besitzer einer der Buden an der Promenade und ein Veteran am Rockley Beach.
+
+TODO Dave Geschichte. Total lieber Mensch, Sanfte Stimme, Handgemachte Kunst, Marlens Halskette reparieren etc.
+
+Zurück in der Unterkunft gingen wir zu viert im Supermarkt um die Ecke einkaufen um dannach zu brunchen.
+Fürs Frühstück war es etwas spät geworden.
+.
+Aus uns vollständig unerklärlichen Gründen landete eine Flasche Rum und eine Flasche Cola in unserem Rucksack, welche wir nach dem Essen direkt auf das korrekte Mischverhältniss überprüfen mussten. 
+
+Gegen Halb drei fiel dann der Satz "Oh bin ich voll, dass ist geil" von einer anonym bleibenden Person unseer Reisegruppe und wir machten und auf den Weg zum Strand.
+Der Worthing Beach war nach normalen Verhältnissen schon echt gut, hatte aber gegenüber dem beim morgentlichen Joggen gesehenen Rockley Beach keine Chance.
+Wir haben trotzdem das Meer genossen.
+
+Das Wetter war durchmischt, es regnete immer wieder und vorallem hatten wir einen recht starken Wellengang.
+Wenn das Meer aber so warm ist, dass man bei Regen einfach das Regenover über den Rücksack zieht und schwimmen geht, ist das schon ein krasses Gefühl.
+Ich glaube ich hab noch nie vorher soviel Spaß in den Wellen gehabt.
+
+Die Kombination aus kaltem Regen von Oben, geschätzt 28 °C warmen türkisem Meer mit sehr flachem Einstieg und den Wellen war großartig.
+Und da die Tanke vom Vorabend um die Ecke nicht weit war gab es in den Regenpausen auch Biernachschub.
+
+Zum Abendessen nahmen wir uns von der Tanke neuen Rum und vom Golfplatz Restaurant ein paar Wraps mit.
 
 {% include foldergallery.html folder="2022-08-10/2" %}
 
-## Tag 2
-Joggen, Schwimmen
-Frühstück, rum,
-Ganzer Tag Strand mit Hängematte
-Schnorcheln mit vielen bunten Fischen
-Abendessen pizzeria, gratis moskow mule
+## Tag 2: Rockley Beach
+Am nächsten morgen ging ich vorm Frühstück mit etwas mehr Elan joggen, sodass zumindest mal 7km bei einer aktzeptablen Pace zusammenkamen. 
+Aber bei den Temperaturen und der Luftfeuchtigkeit ist das schon was anderes als in Deutschland.
+Aber ein schneller Abstecher zum Rockely Beach durfte auch hier nicht fehlen.
+
+Dort hatte ich noch eine seltsame Begegnung mit ein paar Locals. Jemand wollte wohl freundlich sein und sagte "Good morning" zu mir.
+Alles gut, man fällt als Weißer in der Nebensaison halt auf und es ist klar, dass man Tourist ist...
+Ich hatte beim Schuhe ausziehen aber noch meine Kopfhörer im Ohr und wurde dann eher direkt darauf hingewiesen, wie unhöfflich ich doch sei, die Begrüßung nicht zu erwiedern.
+Mein freundlicher Hinweis auf die Kopfhörer endete in einem Gespräch mit einem der Jugendlichen über Funkwellen, Bluetooth/Wifi/5G Wellen, die daraus folgende Impotenz und wie schlimm dass doch alles für die Menscheit sei. 
+Der Rest der Gruppe hat versucht, ihren Kumpel zu bremsen, ich hab mir derweil einen kleinen Spass daraus gemacht, die Dikussion zu führen.
+Aber da muss man zum die Uhrzeit, direkt nach dem Laufen und auf Englisch schon Bock drauf haben..
+
+Nach der Diskussion war der Ausflug ins Meer umso besser.
+
+Nach dem späten Frühstück in der Ferienwohnung machten wir uns zu viert zum Rockely Beach auf, wo wir den Tag am Strand verbrachten.
+
+Die mitgebrachten Hängematten kamen zum ersten Mal zwischen den Palmen im Einsatz.
+Auch meine Schirchelmaske hatte ich dabei und an den richtigen Stellen gab es unglaublich bunte Fische zu sehen.
+Rockley Beach ist bis heute wohl der schönste Strand, an dem ich jemals war.	
+
+Neben der Bude von Dave gab es auch Buden die für Verpflegung sorgen.
+Wir hatten schnell unsere Location gefunden:
+Die Bartenderin war nett, die Cocktails lecker und fair bepreist und wir wurden regelmäßige Kunden.
+Mein Favorit wurde relativ schnell der Rum Punch.
+
+Als wir uns zum Abendessen im Außenbereich der Pizzeria gegenüber eine weitere Runde Cocktails holten, hab es noch eine Runde gratis Moskow Mule dazu. 
+Angeblich, weil die Mules vom Nachmittag falsch gemixt gewesen wären.
+Ich hab das mal "Passiv-aggressive Kundenbindung" getauft.
 
 {% include foldergallery.html folder="2022-08-10/3" %}
 
-## Tag 3
+## Tag 3: Schnorcheltour in der Carlisle Bay und Oistins Sea Food Market
 Auf nach Bridgetown, weg am Strand
 
 Pinki getroffen, surf Lehrer
@@ -100,7 +136,7 @@ Zurück laufen, 1 Uhr endlich da, weil voll
 
 {% include foldergallery.html folder="2022-08-10/4" %}
 
-### Tag 4
+### Tag 4: Surfen lernen
 Leicht verkatert, erst um kurz nach 11 los zum surf Kurs. Aber pinky der Lehrer ist schuld, er hat uns den Markt ja empfohlen
 Surfen war mega, Marlen leider alkoholgeschädigt ausgefallen. Ich alleine war mega anstrengend, aber geil
 Alan Fotograf
@@ -111,7 +147,7 @@ Essen im Mojo
 
 {% include foldergallery.html folder="2022-08-10/5" %}
 
-### Tag 5
+### Tag 5: Bridgetown
 Farmer's Market nen Scherz, aber das Frühstück war gut
 Bridgetown
 Welt Kultur Erbe
@@ -126,7 +162,7 @@ alex und vivi in der unterkunft abgeholt, essen wieder im mojo
 
 {% include foldergallery.html folder="2022-08-10/6" %}
 
-### Tag 6
+### Tag 6: Mount Gay Rum Distillery
 Inseltour durch Abholung Mount gay und andere Leute einsammeln.
    Küste, . Speightown,
    Luxus villas und clubs
