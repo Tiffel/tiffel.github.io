@@ -109,7 +109,8 @@ Ich hab das mal "Passiv-aggressive Kundenbindung" getauft.
 Wir hatten uns einen Schnorchelausflug in der Bucht vor Bridgetown gebucht.
 In der Carlisle Bay sollte es Schildkröten und Schiffswracks geben.
 
-Wir hatten kurz überlegt einen Bus zu nehmen, aber eine Stunde an Stränden und Promenaden entlang laufen war definitiv die bessere Wahl.
+Wir hatten kurz überlegt einen Bus zu nehmen, aber eine Stunde an Stränden und Promenaden entlang der Südküste laufen war definitiv die bessere Wahl.
+Barabdos ist keine große Insel, in der Stunde haben wir grob die Hälfte der Südküste erwandert.
 Es gab ganz schön viel zu sehen, aber vorallem haben wir Pinki kennengelernt.
  
 Pinki ist Surflehrer iund chillte mit seinem Kumpels am Strand.
@@ -118,22 +119,45 @@ Super netter Kerl, der Poca und mich davon überzeugen konnte, über das Surfenl
 Wir verabredeten uns zumindest mal, auf dem Rückweg der Schnroeltour nochmal zu quatschen.
 Aber eigentlich war uns schon klar, dass wir surfen wollen würden :)
 
-Schnorcheln mit turtles und Schiffswracks
+Angekommen am Pebbles Beach war noch etwas Zeit, sodass Alex, Poca und ich noch ein bischen die Gegend erkundeten.
+Der Weg nach Bridgetown hat mir Lust auf mehr von der Stadt gemacht.
 
-Tutles: 
+Gegen 13:00 ging es dann zur Einweisung und Equipment Ausgabe. Die Einweisung erwieß sich als sehr pragmatisch.
+> Can you swim? Ok, good. That's the hard part. You'll figure out the rest.
+
+Pocas Stummelflossen wurden kurz belächelt, gegen Leihflossen in richtiger Länge getauscht und schon ging es aufs Boot. 
+
+Der erste Stop war ein Teil der Bucht, an dem viele Meeresschildkröten unterwegs waren. 
+Wir wurden gewarnt, dass die Tiere sehr an menschen gewöhnt seien und keine Angst haben.
+Und wenn man ihnen einen Finger reicht, dieser auch kurz versucht wird zu futtern, was wohl schmerzhaft sein soll.
+Insofern beschränken wir uns aufs Schauen, wobei ich schon ein paar der Tiere am Panzer berühren durfte.
+ 
+Eine wunderschöne Erfahrung, die auf dem Video wirklich nicht ansatzweise rüber kommt.
+Aber immerhin hat der erste Ausflug mit der geliehen Actioncam (Danke Philipp!) für eine Erinnerung gesorgt:
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-10/snorkeling-turtle.mp4' type='video/mp4'/> </video>
-wrack1
+
+Nach ca. 30 Minuten mit den Schildkröten ging es kurz zurück an Board, wir fuhren ein paar Meter zu den drei Schiffswracks in der Carisle Bay.
+Super cool, wobei ich mir an dieser Stelle gewünscht hätte, ein besserer Schwimmer bzw. Schnorchler zu sein.
+
+Die Vollgesicht-Maske macht das Schnorcheln auch für totale Anfänger super einfach, aber wenn man dann mal tauchen will, ist es echt schwierig runter zu kommen.
+Ich hatte es dann irgendwann einigermaßen raus, wie ich das tun muss, aber ich verstehe mittlerweile, warum die richtigen Schnorchler nur eine minimale Maske im Gesicht haben.
+Einerseits wesentlich weniger Auftrieb durch weniger Luft darin, andererseits kann man sich an die Nase zum Druckausgleich greifen. Ohne den mal eben 3-4 Meter schnell herunter zu tauchen ist echt schmerzhaft.
+Zumindest Alex, Poca, Vivi berichteten, dass sie es mit der Maske garnicht nach unten geschafft haben.
+
+Die Wracks zu erkunden war echt beeindruckend. Teilweise konnte man noch alte Technik erkennen, teilweise war das Schiff komplett mit Pflanzen zugewuchert.
+
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-10/snorkeling-wreck1.mp4' type='video/mp4'/> </video>
-wrack2
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-10/snorkeling-wreck2.mp4' type='video/mp4'/> </video>
-wrack mit stingray
+Beim dritten Wrack hatten wir sogar das Glück, einen Rochen sehen zu können. 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-10/snorkeling-wreck3.mp4' type='video/mp4'/> </video>
 
 
-am Strand zurück 
+Nach der Tour sind wir am Strand an der Südküste zurück in Richtung Rockley Beach und natürlich bei Pinki vorbei.
+
+ 
 pinki für den nöchsten tag termin klar gemacht, er hat uns Sea food market empfohlen 
 
-2 cocktails an stammbar.
+2 cocktails an der Bar.
 
 Marlen und ich nach Oistins Sea food market
 
