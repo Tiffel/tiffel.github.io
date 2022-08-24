@@ -43,15 +43,30 @@ Abendessen pizzeria, gratis moskow mule
 
 ## Tag 3
 Auf nach Bridgetown, weg am Strand
+
 Pinki getroffen, surf Lehrer
+
 Schnorcheln mit turtles und Schiffswracks
- 
-TODO Turtles Video
 
+Tutles: 
+<video width='100%' preload='metadata' controls> <source src='/img/2022-08-10/snorkeling-turtle.mp4' type='video/mp4'/> </video>
+wrack1
+<video width='100%' preload='metadata' controls> <source src='/img/2022-08-10/snorkeling-wreck1.mp4' type='video/mp4'/> </video>
+wrack2
+<video width='100%' preload='metadata' controls> <source src='/img/2022-08-10/snorkeling-wreck2.mp4' type='video/mp4'/> </video>
+wrack mit stingray
+<video width='100%' preload='metadata' controls> <source src='/img/2022-08-10/snorkeling-wreck3.mp4' type='video/mp4'/> </video>
 
-Strand zurück pinki Sea food market empfohlen , 2 cocktails an stammbar.
+am Strand zurück 
+
+pinki für den nöchsten tag termin klar gemacht, er hat uns Sea food market empfohlen 
+
+2 cocktails an stammbar.
+
 Marlen und ich nach Oistins Sea food market
+
 Lecker fish, more run punsh
+
 Zurück laufen, 1 Uhr endlich da, weil voll
 
 
