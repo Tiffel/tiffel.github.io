@@ -106,9 +106,17 @@ Ich hab das mal "Passiv-aggressive Kundenbindung" getauft.
 {% include foldergallery.html folder="2022-08-10/3" %}
 
 ## Tag 3: Schnorcheltour in der Carlisle Bay und Oistins Sea Food Market
-Auf nach Bridgetown, weg am Strand
+Wir hatten uns einen Schnorchelausflug in der Bucht vor Bridgetown gebucht.
+In der Carlisle Bay sollte es Schildkröten und Schiffswracks geben.
 
-Pinki getroffen, surf Lehrer
+Wir hatten kurz überlegt einen Bus zu nehmen, aber eine Stunde an Stränden und Promenaden entlang laufen war definitiv die bessere Wahl.
+Es gab ganz schön viel zu sehen, aber vorallem haben wir Pinki kennengelernt.
+ 
+Pinki ist Surflehrer iund chillte mit seinem Kumpels am Strand.
+Ich finde die Strategie, einfach vorbeilaufende Menschen anzusprechen und sonst den Tag zu vergammeln recht sympathisch.
+Super netter Kerl, der Poca und mich davon überzeugen konnte, über das Surfenlernen nachzudenken.
+Wir verabredeten uns zumindest mal, auf dem Rückweg der Schnroeltour nochmal zu quatschen.
+Aber eigentlich war uns schon klar, dass wir surfen wollen würden :)
 
 Schnorcheln mit turtles und Schiffswracks
 
@@ -121,8 +129,8 @@ wrack2
 wrack mit stingray
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-10/snorkeling-wreck3.mp4' type='video/mp4'/> </video>
 
-am Strand zurück 
 
+am Strand zurück 
 pinki für den nöchsten tag termin klar gemacht, er hat uns Sea food market empfohlen 
 
 2 cocktails an stammbar.
