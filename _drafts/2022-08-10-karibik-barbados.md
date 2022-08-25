@@ -221,21 +221,46 @@ Innerhalb von wenigen Sekunden wechselte das Wetter von leicht bedeckt auf strö
 Wir flüchteten unter das Vordach einer seltsamen Sportsbar und warteten den Regen ab.
 Poca war nasser als wir anderen drei, sodass wir zu dritt in das Restaurant der Wahl starteten und Sie nachkommen sollte.
 
-Das Essen war super, aber vorallem der "Electric Blue Iced Tea" hatte es mir angetan. Einen zweiten braucht man davon nicht :)
+Das Essen war super, aber vorallem der "Electric Blue Iced Tea" hatte es mir angetan. Einen zweiten braucht man davon allerdings nicht :)
 
 {% include foldergallery.html folder="2022-08-10/5" %}
 
 ### Tag 5: Bridgetown
+Alex hatte an den Tagen zuvor den Hastings Farmers Market in der Nähe aufgetan, welcher am Wochenende geöffnet sein sollte.
+Wir hatten uns vorgenommen, dort frühstücken zu gehen. 
+
+Der Markt war, gelinde gesagt, enttäuschend. Es gab einen Stand mit Obst und einen mit T-Shirts.
+Allerdings hatte das ansässige Cafe geöffnet, dort hab es wirklich gutes Frühstück.
+Der Smoothie "Monkey Business" war großartig, die Eggs Florentine unter den besten die ich jemals gegessen habe.
+Vorallem die Idee, Süßkartoffeln aus lokalem Anbau dazu zu servieren war gut.
+
+Gestärkt trennte ich mich von der Gruppe und machte mich auf den Weg nach Bridgetown.
+
+TODO Bridgetown
+
+Auf dem Rückweg von Bridgetown am Strand traf ich Poca, die sich nach der Surfstunde bei Allen festgequatscht hatte.
+Ich setze mich dazu, wir haben uns noch locker eine weitere Stunde unterhalten.
+Über Reisen, Fotografie, Stereotypen von Nationalitäten, was wer wo schon erlebt hat etc.
+Es wird der Moment kommen, wo die politische Situation wieder Reisen nach Venezuela zulässt.
+Nach Allens Erzählungen muss ich dort irgendwann hin, nur aktuell ists eher ungünstig wenn man heile zurück kommen mag.
+
+
+
+
 Farmer's Market nen Scherz, aber das Frühstück war gut
 Bridgetown
 Welt Kultur Erbe
 Rhianna drive
 Unterhaltung mit Allen
    Venezuela blitze
+
 Cocktail an der bar
    Für uns sind die Strände die schönsten der Welt , für die einfach normal
    Konter: komm nach europa, schau dir eine Altstadt oder die Alpen oder so an
-   Der Barmann war einmal in seinem Leben in Spanien. Beaches ok, party ok, freeze to death I'm Wasser
+   Der Barmann war einmal in seinem Leben in Spanien. Beaches ok, party ok, freeze to death im Wasser
+
+
+
 alex und vivi in der unterkunft abgeholt, essen wieder im mojo
 
 {% include foldergallery.html folder="2022-08-10/6" %}
