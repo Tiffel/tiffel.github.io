@@ -151,31 +151,77 @@ Die Wracks zu erkunden war echt beeindruckend. Teilweise konnte man noch alte Te
 Beim dritten Wrack hatten wir sogar das Glück, einen Rochen sehen zu können. 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-10/snorkeling-wreck3.mp4' type='video/mp4'/> </video>
 
-
 Nach der Tour sind wir am Strand an der Südküste zurück in Richtung Rockley Beach und natürlich bei Pinki vorbei.
+Wir haben uns für 11 Uhr am nächsten Tag zu einer Unterrichtsstunde Surfen verabredet und so noch ein bischen über die Welt geredet.
+Er empfahl uns für den Abend den Oistin's Fish Fry.
+Jeden Freitag ist dort eine Kombination aus Sea Food Market, Kunstmarkt und Musik.
 
- 
-pinki für den nöchsten tag termin klar gemacht, er hat uns Sea food market empfohlen 
+Wir ließen den Tag am Rockley Beach mit ein bischen Schwimmen und zwei Drinks von der Bar ausklingen.
+Ich hatte für mich schon vorher beschlossen, Oistins zum Abendessen zu besuchen.
+Poca entschied sich mitzukommen, Pinki hatte schließlich behauptet, es gäbe dort auch Vegetarisches Essen ohne Fisch.
 
-2 cocktails an der Bar.
+Wir nahmen also die 5km Fußweg auf uns, Bewegung kann man ja nie genug haben.
 
-Marlen und ich nach Oistins Sea food market
+Der Weg war tatsächlich ganz schön, wir kamen zu zweit leicht angetrunken ins Quatschen.
+Angekommen vor Ort stellte sich herraus, dass es wohl nichts streng vegetarisches zu essen gab.
+Insofern teilten wir uns zu zweit eine Portion Mahi-Mahi mit Beans and Rice, Mac and Cheese und etwas Salat.
+Mega lecker, sowohl der Fisch für mich als auch die Beilagen für uns.
+Und das zu einem echt fairen Preis.
 
-Lecker fish, more run punsh
+Dazu gab es eine weitere Runde Rum Punch, was ein kleines bischen den Ausgang des Abend einleuten sollte.
+Während wir uns das Handwerk anschauten, die Musik genossen, T-Shirts kauften und Menschen mit Affen auf dem Arm kennenlernten, probierten wir noch an dem einen oder anderen Stand, ob der Rum Punch auch dort gut gemischt ist. 
 
-Zurück laufen, 1 Uhr endlich da, weil voll
-
+Gut gemischt war er, wir machten uns gegen Mitternacht zu Fuß auf den Rückweg und waren erst nach 1:00 in der Unterkunft, weil wir doch etwas betrunken waren.
+Ein echt schöner Abend, der eben ein kleines bischen eskaliert ist.
 
 {% include foldergallery.html folder="2022-08-10/4" %}
 
 ### Tag 4: Surfen lernen
-Leicht verkatert, erst um kurz nach 11 los zum surf Kurs. Aber pinky der Lehrer ist schuld, er hat uns den Markt ja empfohlen
-Surfen war mega, Marlen leider alkoholgeschädigt ausgefallen. Ich alleine war mega anstrengend, aber geil
-Alan Fotograf
-Intensives domino Spiel bei Standart drinkst
-Ordentlich nass geworden, innerhalb von Sekunden kommt Regen
-Essen im Mojo
+Leicht verkatert schafften wir es erst um 11 aus der Wohnung raus, sodass wir erst um 12 bei Pinki zum Kurs waren. 
+Aber er war ja selber schuld, dass er uns am abend vorher zu so einem Markt schickt :)
 
+Nach ein paar Basics an Land zur Technik des Aufstehens ging es auch schon ins Wasser.
+Wir sollten immer wieder mit dem Board zu Pinki hinpaddeln, er gab uns abwechselnd im richtigen Moment Anschub, damit wir die Welle
+
+Nach zwei, drei Versuchen stelle sich der erste Erfolg ein.
+Zumindest bei mir, ich schaffte es einige Meter.
+Poca musste leider abbrechen.
+Ihr Magen spielte auf Grund des Vorabends nicht mehr mit, man lag ja tatsächlich die meiste Zeit auf dem Bauch.
+
+Ich machte also alleine weiter, was einfach mega anstrengend war.
+Ich bin eh nicht so der Oberkörper Mensch, sondern eher fit in den Beinen.
+In diesem Fall sollte ich aber die nächsten drei Tage Muskelkater vom Paddeln haben.
+
+Auf jeden Fall schaffte ich es einige Male, die grob 100 Meter bis fast an den Strand zu surfen.
+Wenn man einmal das Aufstehen geschafft hat, ist es "nur noch" die Balance zu halten und in die Knie zu gehen.
+Macht man sich zu gerade, verliert man sehr schnell Geschwindigkeit.
+
+Soweit so gut, der nächste Schritt zum eigenständigen surfen wäre dann mit den Wellen zu paddeln, im richtigen Moment auf Geschwindigkeit zu sein und aufzustehen.  
+Das dürfte deutlich schwieriger und vorallen noch anstrengender sein.
+Aber für den ersten Tag war ich super zufrieden.
+
+Poca war verständlicherweise super unzufrieden, sodass sie noch vor Ort beschloss am nächsten Tag wieder zu kommen.
+Bisher hatte sie es ja nur zu knapp 20 Minuten Unterricht gebracht.
+
+Nach dem Surfen sprach uns Alan an. Wir hatten auf dem Hinweg zu den Trockenübungen schon das Stativ und die Kamera mit dem riesiegen Teleobjektiv gesehen.
+Alan ist profesioneller Fotograf, der unter anderem mit dem Fotografieren von Pinkis Schülern Geld verdient.
+Ich bin vermutlich noch nie so freundlich und lieb von jemandem angesprochen worden, der mir ungefragt etwas verkaufen wollte.
+
+Zuerst die Frage, ob es überhaupt ok sei, dass er uns fotografiert hat und dem Angebot, sofort alles zu löschen wenn wir das wollen.
+Dannach das Angebot, uns die Bilder einfach per Email zu schicken.
+Wenn sie uns gefallen sollten wir einfach in den nächsten Tagen vorbei kommen und ihm 60 BBD, also knapp 30 € für alle Bilder geben.
+Die Bilder waren schon beim gemeinsamen Anschauen auf dem Kamera Display so gut, dass uns klar war, dass wir sie kaufen würden.
+
+Alan war einfach super nett, Poca hatte später am Abend per Mail schon ihren zweiten Surfkurs Tag mit dazu gedealt.
+
+Wir trafen auf Alex und Vivi am Rockley Beach, chillten am und im Wasser, hohlten noch eine runde Drinks an der üblichen Bar und diskutierten das Abendessen. 
+Leider diskutierten wir so intensiv, dass wir den sich androhenden Regen etwas unterschätzt hatten.
+Innerhalb von wenigen Sekunden wechselte das Wetter von leicht bedeckt auf strömenden Regen und Weltuntergangstimmung.
+
+Wir flüchteten unter das Vordach einer seltsamen Sportsbar und warteten den Regen ab.
+Poca war nasser als wir anderen drei, sodass wir zu dritt in das Restaurant der Wahl starteten und Sie nachkommen sollte.
+
+Das Essen war super, aber vorallem der "Electric Blue Iced Tea" hatte es mir angetan. Einen zweiten braucht man davon nicht :)
 
 {% include foldergallery.html folder="2022-08-10/5" %}
 
