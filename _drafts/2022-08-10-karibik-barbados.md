@@ -236,32 +236,33 @@ Vorallem die Idee, Süßkartoffeln aus lokalem Anbau dazu zu servieren war gut.
 
 Gestärkt trennte ich mich von der Gruppe und machte mich auf den Weg nach Bridgetown.
 
-TODO Bridgetown
+Die Hauptstadt zu erkunden war ganz nett, aber jetzt auch nicht unglaublich beeindruckend.
+Es gab relativ schmucklose Konolialbauten zu sehen, aber auch bunte Wohnviertel aus irgendwie zusammengebauten Häusern.
+Ein Cricketfeld durfte natürlich nicht fehlen und auch eine wenig beeindruckende Tafel auf dem Rihanna Drive mit Bild der Künstlerin gab es zu sehen.
+Da gibt es Gegenden, wo das Unesco Weltkulturerbe beeindruckender anzuschauen ist. 
 
-Auf dem Rückweg von Bridgetown am Strand traf ich Poca, die sich nach der Surfstunde bei Allen festgequatscht hatte.
+Auf dem Rückweg von Bridgetown am Strand entlang traf ich Poca, die sich nach der Surfstunde bei Allen festgequatscht hatte.
 Ich setze mich dazu, wir haben uns noch locker eine weitere Stunde unterhalten.
 Über Reisen, Fotografie, Stereotypen von Nationalitäten, was wer wo schon erlebt hat etc.
+
 Es wird der Moment kommen, wo die politische Situation wieder Reisen nach Venezuela zulässt.
 Nach Allens Erzählungen muss ich dort irgendwann hin, nur aktuell ists eher ungünstig wenn man heile zurück kommen mag.
+Er war dort lange als Touristenführer für Gewitter und deren Fotografie unterwegs.
+Die Gewitter sollen dort seinen Erzählungen nach sehr bliitzreich und vorallem regelmäßig sein, sodass das entsprechend beeindruckend seien dürfte.
 
+Poca und ich verabschiedeten uns von Allen, namen uns vor in Kontakt zu bleiben und machten uns auf zur Bar am Rockley Beach.
+Dort war diesesmal der Chef selber da, mit dem wir auch gleich ins Gespräch kamen.
+Die Erkenntnis war, dass für uns Europäer die Strände auf Barbados die schönsten der Welt sind.
+Für die Barbadians aber einfach ganz normal.
 
+Im Gegenzug wäre wohl jeder Barbadian von einer für uns langweiligen Altstadt oder dem Blick auf einen richtigen Berg schwer beeindruckt.
+Immerhin war der Barmann einmal in seinem Leben in Spanien.
+Die Aussage "the beaches where ok, the party was ok. But I froze to death beeing in the water" fand ich cool.
+Das Meer kann eben nicht überall 28°C warm sein.
 
-
-Farmer's Market nen Scherz, aber das Frühstück war gut
-Bridgetown
-Welt Kultur Erbe
-Rhianna drive
-Unterhaltung mit Allen
-   Venezuela blitze
-
-Cocktail an der bar
-   Für uns sind die Strände die schönsten der Welt , für die einfach normal
-   Konter: komm nach europa, schau dir eine Altstadt oder die Alpen oder so an
-   Der Barmann war einmal in seinem Leben in Spanien. Beaches ok, party ok, freeze to death im Wasser
-
-
-
-alex und vivi in der unterkunft abgeholt, essen wieder im mojo
+Wir holten Alex und Vivi in der Unterkunft ab und gingen in dem gleichen Restaurant wie am Vorabend essen.
+Dort gab es im Eingangsbereich einige Bilder und Fotos aus verschiedenen Epochen der Popmusik zu sehen.
+Unter anderem einen Textausschnitt einer meiner all-time favourite songs.  
 
 {% include foldergallery.html folder="2022-08-10/6" %}
 
