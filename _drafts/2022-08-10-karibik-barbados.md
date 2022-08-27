@@ -267,23 +267,82 @@ Unter anderem einen Textausschnitt einer meiner all-time favourite songs.
 {% include foldergallery.html folder="2022-08-10/6" %}
 
 ### Tag 6: Mount Gay Rum Distillery
-Inseltour durch Abholung Mount gay und andere Leute einsammeln.
-   Küste, . Speightown,
-   Luxus villas und clubs
-   Fisch ausnehmen am Straßenrand
-Mount = more than 50m height
-Local (banana taste) vs. Caribbean (just sweet) molasses
-Continuous Destillation, reinstalled in 2018, one of three in the world
-Tasting "if anybody asks, you had only two rums".
-   Spirit (sprit zum mischen mit wenig eigenem Geschmack
-   Eclipse (misch rum )
-   Black barrel, erster echter rum
-   Xo Premium rum, super leicht und intensiv
-An den Strand, auf dem Weg am food market ein mega fish wrap, wie ein dürüm
-Strand. Bei Regen ins Wasser ist weird. Unterwasser Felsen mit mega fischen
-Rice bowl am food court. Endlich akeee and salt fish
-Packen und noch nen Bier
+Für den letzen Tag auf Barbados hatten wir uns eine Führung durch die Mount Gay Distillery gebucht.
+Also eben nicht nur eine Runde durch das Visitor Center in Bridgetown, sondern durch die richtige Distille, wo der berühmte Rum hergestellt wird.
+Sehr praktisch für uns und ein bischen ein Vorbote auf das Tasting zum Abschluss war eine Abhohlung und Rückfahrt zur Unterkunft inkludiert.
+
+Wir wurden also morgens von einem Taxi abgehohlt und hatten beim einsammeln der anderen Gäste die Chance, den Nordwestlichen Teil der Insel sehen zu können.
+Die Fahrt ging entlang der Küste an sehr teurer aussehenden Clubs für Touristen entlang, aber auch durch Dörfer, wo am Straßenrand der frisch gefangene Fisch ausgenommen wurde.
+
+Angekommen an der Distille wurden wir bis zur Ankunft aller Teilnehmer in einem Warteraum geparkt.
+So wie der Raum ausgestattet war könnte ich mir den auch zuhause im feudalen Westfölügel meiner Wohung als Lesezimmer vorstellen.
+
+Als alle da waren wurden wir von Tina mit knallpinken Schutzhelmen ausgestattet, gebeten unseres Masken aufzusetzen und es ging los zum Brunnen.
+
+Der Brunnen war jetzt nicht besonders spannend, aber dort kommt das gesamte Wasser für die Rumproduktion wohl her.
+Der relevante Funfact auf dem Weg war allerdings die Herkunft des Namens "Mount Gay".
+> Mr. Gay war TODO (Erfinder des  Rum prozess?)
+
+Man merke auf der Hinfahrt, aber auch beim Blick in die Umliegenden Felder, dass Barbados eine sehr sehr flache Insel gibt 
+> Todo Ursprung insel
+
+Da vor dem erfinden der Prozesse für ordentlichen Alkohol die Leute einfach alles gesoffen hatten, waren sie wohl relativ benebelt und haben die kleine Erhöhung mit dem Brunnen drauf als "Mountain" bezeichnet, weil sie mehr als 50 Meter hoch ist. 
+
+Spannender wurde es, als wir dannach in ein Gebäude gingen, in dem Molasse gelagert wurde.
+> TODO erklären was das ist.
+
+Das Zeuchs sieht in etwa so aus wie Teer, welcher Blasen geschlagen hat. Und verhält sich wohl wie Treisand, was reinfällt bleibt halt drin.
+Soll wohl hygiensich ok sein, ich hab die Begründung dafür aber nicht verstanden.
+
+Mittlerweile kommt nur noch 30% der Molasse von Barbados und 70% aus dem Rest der Karibik.
+Die Menge an Zuckerrohr auf Barbados reicht einerseits schon eine ganze Weile nicht mehr für die Menge an nachgefragtem Rum. 
+Andererseits hat sich der Geschacmk der Barbadian Molassse durch den veränderten Prozess so verändert, dass er viel zu intensiv geworden ist.
+Insofern muss einfach caribbean molasse zugemischt werden.
+
+Im nächsten Bereich konnten wir die beiden Molasse Sorten pur probieren. Beides ein bischen ekelhaft, weil es einfach ein unglaublich intensives Vorprodukt ist.
+Aber geschmacklich deutlich zu unterscheiden: Barbadian Molasse schmeckt wie eine sehr sehr reife Banane, Caribbean Molasse ist einfach nur süß.
+
+Weiter ging es über die Gährung zur Distiller, dem Kernprozess der Rumherstellung.
+War jetzt alles nicht so unglaublich spannend, wenn ein grobes Verständniss davon hat, wie ein Brand beliebiger Sort ensteht.
+Aber die großen Kessel Live zu sehen war cool. 
+Und es existiert ein Rohr seit TODO, was in einem Wasserband liegt um das Destilat zu kühlen. Das Rohr ist so alt, dass man eigentlich nur noch Algen sehen kann.
+ 
+Im Normalfall wird also in mindestens zwei Iterationen aus dem Vorprodukt mit 30% Alkohol ein Brand mit über 80% Alkohol, welcher dann mit Wasser verdünnt zu dem wird, was in den Fässern eingelagert wird.
+Das nennt sich aber noch nicht "Rum." 
+
+Uns wurde noch eine weitere Distille gezeigt, in der statt mehreren Iterationen "Continuous Destillation" betrieben wird, bis der Alkoholgehalt erreicht ist.
+Der Witz zu "Continuous Delivery" und Alkohol für Software Entwickler schreibt sich praktisch von selbst, aber ich spare mir das mal.
+Auf jeden Fall gibts diese CD Distille seit 2018 und sie ist eine von dreien auf der Welt und das Ergebniss wird in noch keinem Rum von Mount Gay verwendet. 
+
+Nächster Stop: Das Fasslager.
+Uns wurden die verschiedenen Lagerarten des namenlosen Zeuchs erklärt, welches nach dem Blending Prozess endlich "Rum" genannt wird.
+Primär werden Bourbon Fässer verwendet, Mount Gay kauft alle, die man irgendwie am Markt bekommen kann. 
+Kein wunder, dass die knapp sind. 
+Die riesige Whisky Industrie braucht diese ja auch.
+
+Nun kommt der oder die Master Blender(in) ins Spiel. Trudi $NACHNAME ist die erste Frau mit dem wichtigsten Job der Distille und genießt wohl weltweite Anerkennung.
+Auf jeden Fall ist es der Job von Ihr und ihrem Team von Apprentices, eine bestimmte Sorte von Rum immer wieder exakt zu produzieren, in dem die verschiedenen Rohprodukte aus den Fässer im richtigen Verhältniss gemischt werden.
+
+Tina hatte also knapp 2 Stunden echt viel erzählt und es war sowohl spannend als auch lehrreich für mich. 
+Aber nun ging es zum Tasting.
+
+Während sie vier Flaschen auf den Tisch stellte, sagte sie "If anyone asks, you had only two rums!".
+Der sicherlich nicht spontan entstandene Witz sorge für Gelächter in der Gruppe, wurde aber auch kurz dannach erklärt.
+Die Sorten waren
+1. Spirit: Alkohol zum mischen für Cocktails, die einfach nur Alkohohl brauchen. Hat wenig eigenen Geschmack.
+1. Eclipse: Basis geschmack für guten Rum. In jedem Mount Gay Rum enthalten, aber auch der Benchmark für jeden Rum am Markt
+1. Black Barrel: Der erster echte Rum für Genießer zum Pur trinken
+1. XO: Premium Rum. Sehr sehr leicht, aber doch intensiv im Geschmack.
+
+Da, zumindest laut Tina, niemand die ersten beiden ernsthaft als Rum bezeichnen würde, hatten wir am Ende vier Drinks, aber doch nur zwei Rum.  
+Mit verschieden Techniken hat man wirklich spannende Sachen schmecken können. 
+Der Eclipse ist vermutlich ein besserer Havanna Club 3, und den trinkt ja nun wirklich niemand ohne Cola.
+
+Leicht angeheitert kauften wir noch drei Flaschen zu nem guten Kurs für den Zollfreien Export nach Deutschland und ließen und vom Taxi zurückfahren.
+
+Wir sind dann nochmal kurz an den Strand.
+Ich habe noch einen Unterwasserfelsen erschnorchelt, an dem es super viele bunte Fische zusehen gab.
+Auf dem RÜckweg gab es an dem Food Court, den wir nun 4 Tage immer erst nach Schließund passiert hatten eine Rice Bowl.
+Endlich kam ich zu Ackee mit Saltfish, was auf Jamaika ständig ausverkauft war.
 
 {% include foldergallery.html folder="2022-08-10/7" %}
-
-
