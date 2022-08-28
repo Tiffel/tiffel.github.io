@@ -71,33 +71,51 @@ Aber der Spruch war so unerwartet, dass ich mich noch eine ganze Weile darüber 
 
 ![](/img/2022-08-16/strava_st_martin_trailrun.png)
 
-### Der rest des Tages
-Zurück bei den anderen in der Unterkunft gab es Frühstück und nochmal eine ausgiebige Runde schwimmen im Meer.
+### Der Rest des Tages
+Zurück bei den anderen in der Unterkunft gab es Frühstück und für mich nochmal eine ausgiebige Runde schwimmen im Meer, nachdem ich mit von der Tour etwas erhohlt hatte.
 
 Ich hatte am Tag vorher auf dem Rückweg vom Einkaufen ein paar nette Hoodies und T-Shirts gesehen, sodass wir zu viert loszogen um das genauer zu begutachten.
+Bei den Hoodies waren Poca und ich erfolgreich.
+Bei den Shirts stellte sich herraus, dass alle coolen Motive nur auf dem Rücken gedruckt waren. 
+Ich wollte aber gerne eins auf der Brust, insofern gabs kein Shirt.
 
-Am Nachmittag sind Poca und ich dann noch in einen Videocall zu unserer Radtour im September.
+Ansonsten sind wir noch ein bischen durch die Straßen gelaufen und haben die Gegend erkundet.
+
+Am Nachmittag sind Poca und ich dann in einen Videocall zu unserer Radtour im September.
 Im Unterschied zum Homeoffice war diesesmal der Hintergrund mit türkisen Meer echt.
+Da kann man schonmal Menschen neidisch machen, wenn man aus dem Urlaub heraus gleich den nächsten plant.
 
-Frühstücken, schnell schwimmen
-Shopping tour, nette hoodie. Super günstiger mount gay xo
-Radtour call, wieder schwimmen
-Grillen und rum
+Den Abend verbrachten wir mit Kochen und Grillen sowie rumhängen am Strand bei Drinks aus dem nahgelegenen Kühlschrank.
 
 {% include foldergallery.html folder="2022-08-16/3" %}
 
 ## Tag 3: Bootstour um die Insel
+Leider war die Zehn Stunden lange Katamarantour rund um die Insel ausgebucht, sodass wir die sechs Stunden lange Tour mit 3 Stops an der Südseite buchen mussten.
+Um kurz nach 9 ging es los, die Crew begrüßte uns, wir gingen mit insgesamt 22 Passagieren an Board.
+
+
+
 Bootstour
 Chaienne aus Bayern
 Trinker Tour
 3 stops
 Rum punch doof. Cors light schmeckt wie Wasser, Budweiser (us) auch nicht gut. Carab lager ist erträglich
 
+Erster Stop
+
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-16/fish_heli.mp4' type='video/mp4'/> </video>
-<video width='100%' preload='metadata' controls> <source src='/img/2022-08-16/katamaran.mp4' type='video/mp4'/> </video>
-<video width='100%' preload='metadata' controls> <source src='/img/2022-08-16/rocks.mp4' type='video/mp4'/> </video>
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-16/submarine.mp4' type='video/mp4'/> </video>
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-16/turtleswimming.mp4' type='video/mp4'/> </video>
+
+
+Zweiter Stop
+
+<video width='100%' preload='metadata' controls> <source src='/img/2022-08-16/katamaran.mp4' type='video/mp4'/> </video>
+<video width='100%' preload='metadata' controls> <source src='/img/2022-08-16/rocks.mp4' type='video/mp4'/> </video>
+
+Dritter Stop Flugzeuge
+
+
 
 Abendessen
 Entscheiden wir später

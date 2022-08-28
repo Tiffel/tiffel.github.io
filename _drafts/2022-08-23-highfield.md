@@ -62,9 +62,54 @@ Keine Ordner aufm Parkplatz, dauerte ewig
 
 
 
-## Tag 1
+## Donnerstag: Anreise
 
 TODO
 
 {% include foldergallery.html folder="2022-08-23/1" %}
+
+## Freitag
+### Neonschwarz
+
+### Sondaschule
+
+### Electric Callboy
+
+### Verpasste Dinge
+Bring me
+Kraftklub
+
+
+### Aftershowparty
+
+
+## Samstag
+### Moop Mama
+
+### Provinz
+
+### Lagwagon
+uff
+
+### Antilopen Gang
+
+### Donots
+
+### Annenmaykantereit
+
+## Sonntag
+### Kaffkiez
+
+### Zebrahead
+
+### Montreal
+
+### Beachpause
+
+### Clueso
+
+### Madsen
+
+### Broilers
+
 
