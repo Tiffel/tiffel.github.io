@@ -282,34 +282,30 @@ So wie der Raum ausgestattet war könnte ich mir den auch zuhause im feudalen We
 Als alle da waren wurden wir von unserem Guide Tina mit knallpinken Schutzhelmen ausgestattet, gebeten unsere Masken aufzusetzen und es ging los zum Brunnen.
 
 Der Brunnen war jetzt nicht besonders spannend, aber dort kommt das gesamte Wasser für die Rumproduktion wohl her.
-Der relevante Funfact auf dem Weg war allerdings die Herkunft des Namens "Mount Gay".
-> Mr. Gay war TODO (Erfinder des  Rum prozess?)
+Der relevante Funfact auf dem Weg war allerdings die Herkunft des "Mount" im Namen "Mount Gay".
+Man merke auf der Hinfahrt, aber auch beim Blick in die umliegenden Felder, dass Barbados eine sehr sehr flache Insel ist und garkeine Berge hat. 
+Da vor dem erfinden der Prozesse für ordentlichen Alkohol die Leute einfach alles gesoffen hatten was irgendwie ballert, waren sie wohl relativ benebelt und haben die kleine Erhöhung mit dem Brunnen drauf als "Mountain" bezeichnet, weil sie mehr als 50 Meter hoch ist. 
 
-Man merke auf der Hinfahrt, aber auch beim Blick in die umliegenden Felder, dass Barbados eine sehr sehr flache Insel ist. 
-> Todo Ursprung insel
-
-Da vor dem erfinden der Prozesse für ordentlichen Alkohol die Leute einfach alles gesoffen hatten, waren sie wohl relativ benebelt und haben die kleine Erhöhung mit dem Brunnen drauf als "Mountain" bezeichnet, weil sie mehr als 50 Meter hoch ist. 
-
-Spannender wurde es, als wir dannach in ein Gebäude gingen, in dem Molasse gelagert wurde.
-> TODO erklären was das ist.
+Spannender wurde es, als wir dannach in ein Gebäude gingen, in dem Melasse gelagert wurde.
+Melasse ist ein Nebenerzeugniss bei der Zuckerproduktion aus Zuckerrohr.
 
 Das Zeuchs sieht in etwa so aus wie Teer, welcher Blasen geschlagen hat. Und verhält sich wohl wie Treibsand, was reinfällt bleibt halt drin.
 Soll wohl hygiensich ok sein, ich hab die Begründung dafür aber nicht verstanden.
 
-Mittlerweile kommt nur noch 30% der Molasse von Barbados und 70% aus dem Rest der Karibik.
+Mittlerweile kommt nur noch 30% der Melasse von Barbados und 70% aus dem Rest der Karibik.
 Die Menge an Zuckerrohr auf Barbados reicht einerseits schon eine ganze Weile nicht mehr für die Menge an nachgefragtem Rum. 
-Andererseits hat sich der Geschmack der Barbadian Molassse durch den veränderten Prozess so verändert, dass er viel zu intensiv geworden ist.
-Insofern muss Caribbean Molasse zugemischt werden, welche eher schwach im Eigengeschmack ist.
+Andererseits hat sich der Geschmack der Barbadian Melassse durch den veränderten Prozess so verändert, dass er viel zu intensiv geworden ist.
+Insofern muss Caribbean Melasse zugemischt werden, welche eher schwach im Eigengeschmack ist.
 
-Im nächsten Bereich konnten wir die beiden Molasse Sorten pur probieren. Beides ein bischen ekelhaft, weil es einfach ein unglaublich intensives Vorprodukt ist.
-Aber geschmacklich deutlich zu unterscheiden: Barbadian Molasse schmeckt wie eine sehr sehr reife Banane, Caribbean Molasse ist einfach nur süß.
+Im nächsten Bereich konnten wir die beiden Melassesorten pur probieren. Beides ein bischen ekelhaft, weil es einfach ein unglaublich intensives Vorprodukt ist.
+Aber geschmacklich deutlich zu unterscheiden: Barbadian Melasse schmeckt wie eine sehr sehr reife Banane, Caribbean Melasse ist einfach nur süß.
 
-Weiter ging es über die Gährung zur Distille, dem Kernprozess der Rumherstellung.
+Weiter ging es vorbei an der Gährung zur Distille, dem Kernprozess der Rumherstellung.
 War jetzt alles nicht so unglaublich spannend, wenn man vorher schon ein grobes Verständniss davon hatte, wie ein Brand beliebiger Sorte ensteht.
 Aber die großen Kessel Live zu sehen war cool. 
-Und es existiert ein Rohr seit TODO, was in einem Wasserband liegt um das Destilat zu kühlen. Das Rohr ist so alt, dass man eigentlich nur noch Algen sehen kann.
- 
-Im Normalfall wird also in mindestens zwei Iterationen aus dem Vorprodukt mit 30% Alkohol ein Brand mit über 80% Alkohol, welcher dann mit Wasser verdünnt zu dem wird, was in den Fässern eingelagert wird.
+Und es existiert ein Rohr seit Bau der Distille, welches in einem Wasserband liegt um das Destilat zu kühlen. Das Rohr ist so alt, dass man eigentlich nur noch Algen sehen kann. Leider waren Fotos eigentlich überall verboten.
+
+Im Normalfall wird in mindestens zwei Iterationen aus dem Vorprodukt mit wenigen Prozenten Alkohol ein Brand mit über 80% Alkohol, welcher dann mit Wasser verdünnt zu dem wird, was in den Fässern eingelagert wird.
 Das nennt sich aber noch nicht "Rum." 
 
 Uns wurde noch eine weitere Distille gezeigt, in der statt mehreren Iterationen "Continuous Destillation" betrieben wird, bis der Alkoholgehalt erreicht ist.
@@ -323,7 +319,7 @@ Kein Wunder, dass die knapp sind.
 Die riesige Whisky Industrie braucht diese ja auch.
 Und niemand trinkt freiwillig Bourbon.
 
-Nun kommt der oder die Master Blender(in) ins Spiel. Trudi $NACHNAME ist die erste Frau mit dem wichtigsten Job der Distille und genießt wohl weltweite Anerkennung.
+Nun kommt der oder die Master Blender(in) ins Spiel. Trudiann Branker ist die erste Frau mit dem wichtigsten Job der Distille und genießt wohl weltweite Anerkennung.
 Auf jeden Fall ist es der Job von Ihr und ihrem Team von Apprentices, eine bestimmte Sorte von Rum immer wieder exakt zu produzieren, in dem die verschiedenen Rohprodukte aus den Fässer im richtigen Verhältniss gemischt werden.
 
 Tina hatte also knapp 2 Stunden echt viel erzählt und es war sowohl spannend als auch lehrreich für mich. 
