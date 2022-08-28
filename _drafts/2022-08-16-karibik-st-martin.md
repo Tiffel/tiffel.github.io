@@ -4,26 +4,80 @@ title:  "Karibik Teil 3: St. Martin"
 ---
 
 ## Anreise
-07:15 los mit dem Taxi
-Flughafen Barbados ist eigentlich nur ein Zelt
-Auf einmal sind wir in "Europa"
-Fahren auf der richtigen Seite
-Bezahlen in Euro
+Um kurz nach sieben starteten wir mit dem Taxi zum Flughafen.
+Uns war das bei der Einreise am Abend garnicht aufgefallen, aber das Gebäude war eigentlich nur ein Zelt mit ein paar wenigen festen Ständern.
 
+Der Flug war unspektakulär.
+Spannend war aber, dass wir nach der Landung gefühlt wieder in der EU waren.
+Es wurde Euro akzeptiert, unser Taxi fur auf der "richtigen" Seite der Straße, man sah die gewohnten Nummernschilder.
+Zumindest an den Fahrzeugen der französischen Seite.
+
+Die Insel St. Martin teilt sich in die beiden Länder Saint Martin und St. Maarten auf.
+Erstes ist ein Überseegebiet Frankreichs, Teil der EU, sogar Teil des Euroraums und entsprechend massiv von Frankreich beeinflusst. 
+Zweiteres ein Teil der Niederländischen Krone, welches einen deutlich geringeren Einfluss aus der Heimat hat.
+Hier zahlt man mit Karibischen Gulden als Währung, wobei in der Praxis jeder US Dollar verwendet. 
+
+Der große Airport ist im südlichen, niederländischen Teil. Dort befand sich auch unsere Unterkunft, zu der wir mit dem Taxi fuhren. Wir waren also tatsächlich nicht in der EU, aber nah dran. 
 
 {% include foldergallery.html folder="2022-08-16/1" %}
 
 ## Tag 1
-Das erste Mal Mittagessen seit langem, es gibt im Holland Teil endlixh wieder guten Käse
-Einkaufen, schnell mal ins Wasser. Ganz schön steil vor der Tür, weil Hafen
-Um halb 8 los zum Essen, alles wie ausgestorben
+Da wir so früh aufgestanden waren hatten wir zum Mittag Hunger und waren das erste mal in dem Urlaub überhaupt irgendwo mittagessen.
+Als Vorspeise gab es importieren holländischen Gouda, was nach dem ganzen Analogkäse der amerikanisch geprägten Inseln vorher ein Segen war.
+Und dabei ist St. Maarten sonst sehr amerikanisch geprägt.
+
+Wir gingen einkaufen und sprangen direkt vor der Unterkunft ins Wasser, welches im Vergleich zu den Stränden auf Barbados erstaunlich schnell tief wurde.
+Aber dafür eben nur wenige Meter entfernt war.
+
+Als wir um halb 8 zum Abendessen los sind, war die Strandpromenade und auch die Stadt Phillipsburg wie ausgestorben.
+Ein paar witzige Fotos und eine Klischeewindmühle später haben wir aber noch noch was gefunden.
+Was weder gut noch günstig war. Aber eine Wahl hatten wir leider nicht.
 
 {% include foldergallery.html folder="2022-08-16/2" %}
 
-## Tag 2
-Laufen, trail running, klettern, viele Tiere
-Bestes gefuhlder Welt,: komplett durchgeschwitzt ins Meer
-Beim rauskommen in Badehose: hello James bond, are Ohr Read for your massage?
+## Tag 2: Trailrunning
+### Ein doofer Plan
+Ich war pünktlich wach und hatte Lust, laufen zu gehen.
+Es gab in 4km Entfernung einen Wanderweg an der Küste, 3km lang. Und eine nette Strecke über 4 weitere Kilometer zurück.
+Insofern nahm ich mir die 10km vor, wissend, dass ich vermutlich nicht den ganzen Wanderweg laufen, sondern Teile gehen müsste.
+
+Die 4km an der Küste entlang zum Start des Wanderweges waren zu beginn kein Problem, ich lief unter anderem am Cruiseship Terminal entlang.
+Dannach ging es aber doch einige Höhenmeter rauf und runter, auf dieser Insel ist wohl mangels Platz jeder Berg einfach steil.
+
+Das erste drittel vom Wanderweg konnte ich noch laufen, wobei das wohl eher Trailrunning war und ich für den Untergrund die falschen Schuhe anhatte.
+Irgendwann nach insgesamt 5km musste ich dann vor Erschöpfung auf Gehen wechseln. 
+Bergauf steinige Wege bei mindestens 35°C in der prallen Sonne hochrennen war doch anstrengender als gedacht.
+
+Das hatte aber den Vorteil, dass ich den großartigen Ausblick und die Tiere genießen konnte.
+Riesiege Leguane lagen in der Sonne, um dann im letzen Moment weg zurennen.
+Ich bin den Wanderweg zuende gegangen, weil es am Ende ähnlich steil wie vorher war, aber nun bergab ging.
+Das zu rennen wäre gefährlich geworden.
+
+Die 4km Rückweg waren pure Quälerei.
+Ich war mittlerweile eine Stunde in der prallen Sonne unterwegs, hatte nichts zu trinken dabei und das Höhenprofil komplett
+falsch eingeschätzt.
+Der Berg auf dem Weg zur Unterkunft hatte 300 Meter Höhe und locker 8%, wenn nicht gar 10% Steigung auf dem Weg rauf.
+Insofern bin ich grob die Hälfte gelaufen und die andere Hälfte gegangen.
+
+Einen Kilometer vor der Unterkunft kam ich wieder an den Strand und musste erstmal direkt ins Wasser springen, um mich abzukühlen.
+Das war vermutlich nicht so gesund, was ich da getrieben habe.
+
+Als ich allerdings in Boxershorts aus dem Wasser kam, wurde ich mit den Worten
+> Hello James Bond, are you ready for your massage?
+
+von einer großgewachsenen Dame begrüßt, die ihre Dienste am Strand feilbot.
+So lasziv wie sie klang, war ich mir nicht ganz sicher, was genau ihre Dienste waren.
+Aber der Spruch war so unerwartet, dass ich mich noch eine ganze Weile darüber kaputt gelacht habe.
+
+TODO: Strava
+
+### Der rest des Tages
+ZUrück bei den anderen in der Unterkunft gab es Frühstück und nochmal eine ausgiebige Runde schwimmen im Meer.
+
+Ich hatte am Tag vorher auf dem Rückweg vom Einkaufen ein paar nette Hoodies und T-Shirts gesehen, sodass wir zu viert loszogen um das genauer zu begutachten.
+
+
+ 
 Frühstücken, schnell schwimmen
 Shopping tour, nette hoodie. Super günstiger mount gay xo
 Radtour call, wieder schwimmen
@@ -31,7 +85,7 @@ Grillen und rum
 
 {% include foldergallery.html folder="2022-08-16/3" %}
 
-## Tag 3
+## Tag 3: Bootstour um die Insel
 Bootstour
 Chaienne aus Bayern
 Trinker Tour
@@ -56,7 +110,7 @@ Fucking hell, dann sagen wir halt gleich um 9 und ich schlafe länger. Dieses ge
 
 {% include foldergallery.html folder="2022-08-16/4" %}
 
-## Tag 4
+## Tag 4: Insel erkunden und Karaoke
 ### MIt dem Auto über die Insel
 Auto und setzt auf bumper auf
 Natur Schutz Melonen Kaktus, Stunde unterwegs
@@ -79,7 +133,7 @@ Jacky kennengelernt. Ca 20, macht eine eigene Website auf. Selber bikini model, 
 
 {% include foldergallery.html folder="2022-08-16/6" %}
 
-## Tag 5
+## Tag 5: Big Three
 
 Big three im park
 Ski lift fahren
