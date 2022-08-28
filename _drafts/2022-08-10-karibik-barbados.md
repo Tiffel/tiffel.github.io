@@ -15,7 +15,7 @@ Wo wir in Deutschland wohnen haben wir ihm anhand der Fußball Bundesliga erklä
 Wir hatten unseren Wohnort der Einfachheit halber spontan nach Leipzig verlegt, weil es dort im Gegensatz zu Dresden einen Erstliga Verein gibt. 
 
 Unser Flug hatte eine Zwischenlandung auf Sint Maarten, was unsere Dritte Insel werden sollte.
-Der Princess Juliana Airport ist für Start und Landung wirklich beeindrucktend und gilt wohl nicht umsonst als einer der schwierigsten der Welt.i
+Der Princess Juliana Airport ist für Start und Landung wirklich beeindrucktend und gilt wohl nicht umsonst als einer der schwierigsten der Welt.
 
 Angekommen auf Barabdos zogen Poca und ich den Jackpot: Wir wurden rausgezogen zum Corona Test. Alex und Vivi konnten ohne Test durch die Kontrolle.
 Nun hatten wir alle mehr oder weniger leichte Erkältungssymptome die Tage vorher.
@@ -26,17 +26,17 @@ Immerhin war ich eine Woche vorher noch in Moshpits auf dem Deichbrand.
 Und eine Woche Quarantäne Hotel auf eigene Rechnung und den Flug nach Sint Maarten verpassen wollte ja nun wirklich niemand.
 
 Gefühlt ewig andauernde 20 Minuten später gab es aber das negative Ergebnis und wir durften einreisen.
-Wir haben dann fix ein paar Barbadian Dollars gehohlt, ein Taxi eingesammelt und uns natürlich mal wieder mit dem Taxifahrer Ricky angefreundet und seine Telefonnummer mitgenommen.
+Wir haben dann fix ein paar Barbadian Dollars gehohlt, ein Taxi zur Unkterunft eingesammelt und uns natürlich mal wieder mit dem Taxifahrer Ricky angefreundet und seine Telefonnummer mitgenommen.
 Das scheint ein übliches Schema zu sein, von dem Gast und Fahrer profitieren.
 Wir bekommen ein Taxi per Whatsapp Message zum gewählten Zeitpunkt direkt vor die Haustür, der Taxifahrer spart den Mittelsmann und hat nen Dollar mehr in der Tasche. 
 
 Abendessen war mal wieder schwierig. Das vorher rausgesuchte Restaurant ging um 21:00 nicht mehr ans Telefon, obwohl es offen haben sollte. 
 Bei anderen Lieferdiensten exakt das gleiche Schema.
 Das ist wohl ein Nachteil der Nebensaison.
-Ricky hatte uns aber noch den Tip gegeben, dass die Tankstelle um die Ecke 24/7 geöffnet hat und essen verkauft.
-
+Ricky hatte uns aber noch den Tip gegeben, dass die Tankstelle um die Ecke 24/7 geöffnet hat und Essen verkauft.
+	
 Und wie sie dort Essen verkauft haben. 
-Nachts war das ein Fastfood Restaurant, ein Supermarkt und zugleich allgemeiner Treffpunkt, das nebenbei noch etwas Benzin hat.
+Nachts war die Tanke ein Fastfood Restaurant, ein Supermarkt und zugleich allgemeiner Treffpunkt, die nebenbei noch etwas Benzin hat.
 Es gab grob 10 Gerichte, die auf Bestellung "frisch" aus Fertigzutaten zusammengebaut bzw. belegt wurden. Also zum Beispiel Pizzen, Baguettes, Hot Dogs.
 Sicherlich keine kulinarische Meisterleistung, aber die Pizzen waren für eine 24/7 Tankstelle schon richtig gut.
 Das ziehe ich jederzeit einem McDonalds oder sonstigem miesen Junkfood Laden vor. 
@@ -44,7 +44,7 @@ Das ziehe ich jederzeit einem McDonalds oder sonstigem miesen Junkfood Laden vor
 {% include foldergallery.html folder="2022-08-10/1" %}
 
 ## Tag 1: Rum und Worthing Beach
-Wir waren auf Barabados in eine Ferienwohnung direkt an einem Golfplatz gelandet. Insofern nutzen Poca und ich die Ferne zum Verkehr, um eine Runde Laufen zu gehen.
+Wir waren auf Barabados in einer Ferienwohnung direkt an einem Golfplatz gelandet. Insofern nutzen Poca und ich die Ferne zum Verkehr, um eine Runde Laufen zu gehen.
 Dabei waren die Geschwindigkeit und die Entfernung total egal, wir endeten am Rockely Beach und sind dort spontan ins Wasser.
 Einfach weil wenig bessere Gefühle gibt, als nassgeschwitzt nach dem Sport ins Meer zu springen.
 
@@ -52,14 +52,14 @@ Und bei den Temperaturen kann man sowas auch einfach mal ohne Handtuch machen.
 Während wir trockneten und eigentlich nur den Sand von den Füßen loswerden wollten, wurden wir von Dave angesprochen.
 Dave war Besitzer einer der Buden an der Promenade und ein Veteran am Rockley Beach.
 
-TODO Dave Geschichte. Total lieber Mensch, Sanfte Stimme, Handgemachte Kunst, Marlens Halskette reparieren etc.
+TODO POCA: Dave Geschichte. Total lieber Mensch, Sanfte Stimme, Handgemachte Kunst, Halskette reparieren etc.
 
 Zurück in der Unterkunft gingen wir zu viert im Supermarkt um die Ecke einkaufen um dannach zu brunchen.
 Fürs Frühstück war es etwas spät geworden.
-.
+
 Aus uns vollständig unerklärlichen Gründen landete eine Flasche Rum und eine Flasche Cola in unserem Rucksack, welche wir nach dem Essen direkt auf das korrekte Mischverhältniss überprüfen mussten. 
 
-Gegen Halb drei fiel dann der Satz "Oh bin ich voll, dass ist geil" von einer anonym bleibenden Person unseer Reisegruppe und wir machten und auf den Weg zum Strand.
+Gegen Halb drei fiel dann der Satz "Oh bin ich voll, dass ist geil" von einer anonym bleibenden Person unserer Reisegruppe und wir machten und auf den Weg zum Strand.
 Der Worthing Beach war nach normalen Verhältnissen schon echt gut, hatte aber gegenüber dem beim morgentlichen Joggen gesehenen Rockley Beach keine Chance.
 Wir haben trotzdem das Meer genossen.
 
@@ -79,20 +79,22 @@ Am nächsten morgen ging ich vorm Frühstück mit etwas mehr Elan joggen, sodass
 Aber bei den Temperaturen und der Luftfeuchtigkeit ist das schon was anderes als in Deutschland.
 Aber ein schneller Abstecher zum Rockely Beach durfte auch hier nicht fehlen.
 
-Dort hatte ich noch eine seltsame Begegnung mit ein paar Locals. Jemand wollte wohl freundlich sein und sagte "Good morning" zu mir.
-Alles gut, man fällt als Weißer in der Nebensaison halt auf und es ist klar, dass man Tourist ist...
-Ich hatte beim Schuhe ausziehen aber noch meine Kopfhörer im Ohr und wurde dann eher direkt darauf hingewiesen, wie unhöfflich ich doch sei, die Begrüßung nicht zu erwiedern.
+Dort hatte ich eine seltsame Begegnung mit ein paar Locals.
+Jemand wollte wohl freundlich sein und sagte "Good morning" zu mir.
+Soweit so unspektakulär, man fällt als Weißer in der Nebensaison halt auf und es ist klar, dass man Tourist ist.
+Ich hatte beim Schuhe ausziehen aber noch meine Kopfhörer im Ohr und entsprechend die Begrüßung nicht gehört. 
+Daraufhin wurde ich dann eher direkt darauf hingewiesen, wie unhöfflich ich doch sei, die Begrüßung nicht zu erwiedern.
 Mein freundlicher Hinweis auf die Kopfhörer endete in einem Gespräch mit einem der Jugendlichen über Funkwellen, Bluetooth/Wifi/5G Wellen, die daraus folgende Impotenz und wie schlimm dass doch alles für die Menscheit sei. 
 Der Rest der Gruppe hat versucht, ihren Kumpel zu bremsen, ich hab mir derweil einen kleinen Spass daraus gemacht, die Dikussion zu führen.
-Aber da muss man zum die Uhrzeit, direkt nach dem Laufen und auf Englisch schon Bock drauf haben..
+Aber da muss man zum die Uhrzeit, direkt nach dem Laufen, auf Englisch und zu dem Thema schon Bock drauf haben...
 
 Nach der Diskussion war der Ausflug ins Meer umso besser.
 
 Nach dem späten Frühstück in der Ferienwohnung machten wir uns zu viert zum Rockely Beach auf, wo wir den Tag am Strand verbrachten.
 
-Die mitgebrachten Hängematten kamen zum ersten Mal zwischen den Palmen im Einsatz.
-Auch meine Schirchelmaske hatte ich dabei und an den richtigen Stellen gab es unglaublich bunte Fische zu sehen.
-Rockley Beach ist bis heute wohl der schönste Strand, an dem ich jemals war.	
+Die mitgebrachten Hängematten kamen zum ersten Mal zwischen den Palmen zum Einsatz.
+Auch meine Schorchelmaske hatte ich dabei und an den richtigen Stellen gab es unglaublich bunte Fische zu sehen.
+Rockley Beach ist bis heute wohl der schönste Strand, an dem ich jemals war.
 
 Neben der Bude von Dave gab es auch Buden die für Verpflegung sorgen.
 Wir hatten schnell unsere Location gefunden:
@@ -106,18 +108,18 @@ Ich hab das mal "Passiv-aggressive Kundenbindung" getauft.
 {% include foldergallery.html folder="2022-08-10/3" %}
 
 ## Tag 3: Schnorcheltour in der Carlisle Bay und Oistins Sea Food Market
-Wir hatten uns einen Schnorchelausflug in der Bucht vor Bridgetown gebucht.
+Am Tag vorher hatten wir uns einen Schnorchelausflug in der Bucht vor Bridgetown gebucht.
 In der Carlisle Bay sollte es Schildkröten und Schiffswracks geben.
 
 Wir hatten kurz überlegt einen Bus zu nehmen, aber eine Stunde an Stränden und Promenaden entlang der Südküste laufen war definitiv die bessere Wahl.
 Barabdos ist keine große Insel, in der Stunde haben wir grob die Hälfte der Südküste erwandert.
 Es gab ganz schön viel zu sehen, aber vorallem haben wir Pinki kennengelernt.
- 
-Pinki ist Surflehrer iund chillte mit seinem Kumpels am Strand.
+
+Pinki ist Surflehrer und chillte mit seinem Kumpels am Strand.
 Ich finde die Strategie, einfach vorbeilaufende Menschen anzusprechen und sonst den Tag zu vergammeln recht sympathisch.
 Super netter Kerl, der Poca und mich davon überzeugen konnte, über das Surfenlernen nachzudenken.
-Wir verabredeten uns zumindest mal, auf dem Rückweg der Schnroeltour nochmal zu quatschen.
-Aber eigentlich war uns schon klar, dass wir surfen wollen würden :)
+Wir verabredeten uns zumindest mal, auf dem Rückweg der Schnorcheltour nochmal zu quatschen.
+Aber eigentlich war uns schon klar, dass wir surfen wollen :)
 
 Angekommen am Pebbles Beach war noch etwas Zeit, sodass Alex, Poca und ich noch ein bischen die Gegend erkundeten.
 Der Weg nach Bridgetown hat mir Lust auf mehr von der Stadt gemacht.
@@ -162,8 +164,8 @@ Poca entschied sich mitzukommen, Pinki hatte schließlich behauptet, es gäbe do
 
 Wir nahmen also die 5km Fußweg auf uns, Bewegung kann man ja nie genug haben.
 
-Der Weg war tatsächlich ganz schön, wir kamen zu zweit leicht angetrunken ins Quatschen.
-Angekommen vor Ort stellte sich herraus, dass es wohl nichts streng vegetarisches zu essen gab.
+Der Weg war tatsächlich ganz nett, wir kamen zu zweit leicht angetrunken ins Quatschen.
+Angekommen vor Ort stellte sich heraus, dass es wohl nichts streng vegetarisches zu essen gab.
 Insofern teilten wir uns zu zweit eine Portion Mahi-Mahi mit Beans and Rice, Mac and Cheese und etwas Salat.
 Mega lecker, sowohl der Fisch für mich als auch die Beilagen für uns.
 Und das zu einem echt fairen Preis.
@@ -181,7 +183,7 @@ Leicht verkatert schafften wir es erst um 11 aus der Wohnung raus, sodass wir er
 Aber er war ja selber schuld, dass er uns am abend vorher zu so einem Markt schickt :)
 
 Nach ein paar Basics an Land zur Technik des Aufstehens ging es auch schon ins Wasser.
-Wir sollten immer wieder mit dem Board zu Pinki hinpaddeln, er gab uns abwechselnd im richtigen Moment Anschub, damit wir die Welle
+Wir sollten immer wieder mit dem Board zu Pinki hinpaddeln, er gab uns abwechselnd im richtigen Moment Anschub, damit wir auf der Welle surfen konnten
 
 Nach zwei, drei Versuchen stelle sich der erste Erfolg ein.
 Zumindest bei mir, ich schaffte es einige Meter.
@@ -196,11 +198,11 @@ Auf jeden Fall schaffte ich es einige Male, die grob 100 Meter bis fast an den S
 Wenn man einmal das Aufstehen geschafft hat, ist es "nur noch" die Balance zu halten und in die Knie zu gehen.
 Macht man sich zu gerade, verliert man sehr schnell Geschwindigkeit.
 
-Soweit so gut, der nächste Schritt zum eigenständigen surfen wäre dann mit den Wellen zu paddeln, im richtigen Moment auf Geschwindigkeit zu sein und aufzustehen.  
+Soweit so gut, der nächste Schritt zum eigenständigen Surfen wäre dann mit den Wellen zu paddeln, im richtigen Moment auf Geschwindigkeit zu sein und aufzustehen.  
 Das dürfte deutlich schwieriger und vorallen noch anstrengender sein.
 Aber für den ersten Tag war ich super zufrieden.
 
-Poca war verständlicherweise super unzufrieden, sodass sie noch vor Ort beschloss am nächsten Tag wieder zu kommen.
+Poca war verständlicherweise unzufrieden, sodass sie noch vor Ort beschloss am nächsten Tag wieder zu kommen.
 Bisher hatte sie es ja nur zu knapp 20 Minuten Unterricht gebracht.
 
 Nach dem Surfen sprach uns Alan an. Wir hatten auf dem Hinweg zu den Trockenübungen schon das Stativ und die Kamera mit dem riesiegen Teleobjektiv gesehen.
@@ -212,9 +214,9 @@ Dannach das Angebot, uns die Bilder einfach per Email zu schicken.
 Wenn sie uns gefallen sollten wir einfach in den nächsten Tagen vorbei kommen und ihm 60 BBD, also knapp 30 € für alle Bilder geben.
 Die Bilder waren schon beim gemeinsamen Anschauen auf dem Kamera Display so gut, dass uns klar war, dass wir sie kaufen würden.
 
-Alan war einfach super nett, Poca hatte später am Abend per Mail schon ihren zweiten Surfkurs Tag mit dazu gedealt.
+Alan war einfach super nett, Poca hatte später am Abend per Mail schon die Bilder ihres zweiten Surfkurstages mit dazu gedealt.
 
-Wir trafen auf Alex und Vivi am Rockley Beach, chillten am und im Wasser, hohlten noch eine runde Drinks an der üblichen Bar und diskutierten das Abendessen. 
+Wir trafen auf Alex und Vivi am Rockley Beach, chillten am und im Wasser, holten noch eine runde Drinks an der üblichen Bar und diskutierten das Abendessen. 
 Leider diskutierten wir so intensiv, dass wir den sich androhenden Regen etwas unterschätzt hatten.
 Innerhalb von wenigen Sekunden wechselte das Wetter von leicht bedeckt auf strömenden Regen und Weltuntergangstimmung.
 
@@ -227,7 +229,7 @@ Das Essen war super, aber vorallem der "Electric Blue Iced Tea" hatte es mir ang
 
 ### Tag 5: Bridgetown
 Alex hatte an den Tagen zuvor den Hastings Farmers Market in der Nähe aufgetan, welcher am Wochenende geöffnet sein sollte.
-Wir hatten uns vorgenommen, dort frühstücken zu gehen. 
+Wir hatten uns vorgenommen, dort frühstücken zu gehen und ggf. Lebensmittel fürs kochen einzukaufen.
 
 Der Markt war, gelinde gesagt, enttäuschend. Es gab einen Stand mit Obst und einen mit T-Shirts.
 Allerdings hatte das ansässige Cafe geöffnet, dort hab es wirklich gutes Frühstück.
@@ -248,7 +250,7 @@ Ich setze mich dazu, wir haben uns noch locker eine weitere Stunde unterhalten.
 Es wird der Moment kommen, wo die politische Situation wieder Reisen nach Venezuela zulässt.
 Nach Allens Erzählungen muss ich dort irgendwann hin, nur aktuell ists eher ungünstig wenn man heile zurück kommen mag.
 Er war dort lange als Touristenführer für Gewitter und deren Fotografie unterwegs.
-Die Gewitter sollen dort seinen Erzählungen nach sehr bliitzreich und vorallem regelmäßig sein, sodass das entsprechend beeindruckend seien dürfte.
+Die Gewitter sollen dort seinen Erzählungen nach sehr blitzreich und vorallem regelmäßig sein, sodass das entsprechend beeindruckend seien dürfte.
 
 Poca und ich verabschiedeten uns von Allen, namen uns vor in Kontakt zu bleiben und machten uns auf zur Bar am Rockley Beach.
 Dort war diesesmal der Chef selber da, mit dem wir auch gleich ins Gespräch kamen.
@@ -269,21 +271,21 @@ Unter anderem einen Textausschnitt einer meiner all-time favourite songs.
 ### Tag 6: Mount Gay Rum Distillery
 Für den letzen Tag auf Barbados hatten wir uns eine Führung durch die Mount Gay Distillery gebucht.
 Also eben nicht nur eine Runde durch das Visitor Center in Bridgetown, sondern durch die richtige Distille, wo der berühmte Rum hergestellt wird.
-Sehr praktisch für uns und ein bischen ein Vorbote auf das Tasting zum Abschluss war eine Abhohlung und Rückfahrt zur Unterkunft inkludiert.
+Sehr praktisch für uns und ein bischen ein Vorbote auf das Tasting zum Abschluss: Es war eine Abhohlung und Rückfahrt zur Unterkunft inkludiert.
 
 Wir wurden also morgens von einem Taxi abgehohlt und hatten beim einsammeln der anderen Gäste die Chance, den Nordwestlichen Teil der Insel sehen zu können.
 Die Fahrt ging entlang der Küste an sehr teurer aussehenden Clubs für Touristen entlang, aber auch durch Dörfer, wo am Straßenrand der frisch gefangene Fisch ausgenommen wurde.
 
 Angekommen an der Distille wurden wir bis zur Ankunft aller Teilnehmer in einem Warteraum geparkt.
-So wie der Raum ausgestattet war könnte ich mir den auch zuhause im feudalen Westfölügel meiner Wohung als Lesezimmer vorstellen.
+So wie der Raum ausgestattet war könnte ich mir den auch zuhause im feudalen Westflügel meiner Wohung als Lesezimmer vorstellen :)
 
-Als alle da waren wurden wir von Tina mit knallpinken Schutzhelmen ausgestattet, gebeten unseres Masken aufzusetzen und es ging los zum Brunnen.
+Als alle da waren wurden wir von unserem Guide Tina mit knallpinken Schutzhelmen ausgestattet, gebeten unsere Masken aufzusetzen und es ging los zum Brunnen.
 
 Der Brunnen war jetzt nicht besonders spannend, aber dort kommt das gesamte Wasser für die Rumproduktion wohl her.
 Der relevante Funfact auf dem Weg war allerdings die Herkunft des Namens "Mount Gay".
 > Mr. Gay war TODO (Erfinder des  Rum prozess?)
 
-Man merke auf der Hinfahrt, aber auch beim Blick in die Umliegenden Felder, dass Barbados eine sehr sehr flache Insel gibt 
+Man merke auf der Hinfahrt, aber auch beim Blick in die umliegenden Felder, dass Barbados eine sehr sehr flache Insel ist. 
 > Todo Ursprung insel
 
 Da vor dem erfinden der Prozesse für ordentlichen Alkohol die Leute einfach alles gesoffen hatten, waren sie wohl relativ benebelt und haben die kleine Erhöhung mit dem Brunnen drauf als "Mountain" bezeichnet, weil sie mehr als 50 Meter hoch ist. 
@@ -291,19 +293,19 @@ Da vor dem erfinden der Prozesse für ordentlichen Alkohol die Leute einfach all
 Spannender wurde es, als wir dannach in ein Gebäude gingen, in dem Molasse gelagert wurde.
 > TODO erklären was das ist.
 
-Das Zeuchs sieht in etwa so aus wie Teer, welcher Blasen geschlagen hat. Und verhält sich wohl wie Treisand, was reinfällt bleibt halt drin.
+Das Zeuchs sieht in etwa so aus wie Teer, welcher Blasen geschlagen hat. Und verhält sich wohl wie Treibsand, was reinfällt bleibt halt drin.
 Soll wohl hygiensich ok sein, ich hab die Begründung dafür aber nicht verstanden.
 
 Mittlerweile kommt nur noch 30% der Molasse von Barbados und 70% aus dem Rest der Karibik.
 Die Menge an Zuckerrohr auf Barbados reicht einerseits schon eine ganze Weile nicht mehr für die Menge an nachgefragtem Rum. 
-Andererseits hat sich der Geschacmk der Barbadian Molassse durch den veränderten Prozess so verändert, dass er viel zu intensiv geworden ist.
-Insofern muss einfach caribbean molasse zugemischt werden.
+Andererseits hat sich der Geschmack der Barbadian Molassse durch den veränderten Prozess so verändert, dass er viel zu intensiv geworden ist.
+Insofern muss Caribbean Molasse zugemischt werden, welche eher schwach im Eigengeschmack ist.
 
 Im nächsten Bereich konnten wir die beiden Molasse Sorten pur probieren. Beides ein bischen ekelhaft, weil es einfach ein unglaublich intensives Vorprodukt ist.
 Aber geschmacklich deutlich zu unterscheiden: Barbadian Molasse schmeckt wie eine sehr sehr reife Banane, Caribbean Molasse ist einfach nur süß.
 
-Weiter ging es über die Gährung zur Distiller, dem Kernprozess der Rumherstellung.
-War jetzt alles nicht so unglaublich spannend, wenn ein grobes Verständniss davon hat, wie ein Brand beliebiger Sort ensteht.
+Weiter ging es über die Gährung zur Distille, dem Kernprozess der Rumherstellung.
+War jetzt alles nicht so unglaublich spannend, wenn man vorher schon ein grobes Verständniss davon hatte, wie ein Brand beliebiger Sorte ensteht.
 Aber die großen Kessel Live zu sehen war cool. 
 Und es existiert ein Rohr seit TODO, was in einem Wasserband liegt um das Destilat zu kühlen. Das Rohr ist so alt, dass man eigentlich nur noch Algen sehen kann.
  
@@ -312,13 +314,14 @@ Das nennt sich aber noch nicht "Rum."
 
 Uns wurde noch eine weitere Distille gezeigt, in der statt mehreren Iterationen "Continuous Destillation" betrieben wird, bis der Alkoholgehalt erreicht ist.
 Der Witz zu "Continuous Delivery" und Alkohol für Software Entwickler schreibt sich praktisch von selbst, aber ich spare mir das mal.
-Auf jeden Fall gibts diese CD Distille seit 2018 und sie ist eine von dreien auf der Welt und das Ergebniss wird in noch keinem Rum von Mount Gay verwendet. 
+Auf jeden Fall gibts diese CD Distille seit 2018, sie ist eine von nur dreien auf der Welt und das Ergebniss wird in noch keinem Rum von Mount Gay verwendet. 
 
 Nächster Stop: Das Fasslager.
 Uns wurden die verschiedenen Lagerarten des namenlosen Zeuchs erklärt, welches nach dem Blending Prozess endlich "Rum" genannt wird.
 Primär werden Bourbon Fässer verwendet, Mount Gay kauft alle, die man irgendwie am Markt bekommen kann. 
-Kein wunder, dass die knapp sind. 
+Kein Wunder, dass die knapp sind. 
 Die riesige Whisky Industrie braucht diese ja auch.
+Und niemand trinkt freiwillig Bourbon.
 
 Nun kommt der oder die Master Blender(in) ins Spiel. Trudi $NACHNAME ist die erste Frau mit dem wichtigsten Job der Distille und genießt wohl weltweite Anerkennung.
 Auf jeden Fall ist es der Job von Ihr und ihrem Team von Apprentices, eine bestimmte Sorte von Rum immer wieder exakt zu produzieren, in dem die verschiedenen Rohprodukte aus den Fässer im richtigen Verhältniss gemischt werden.
@@ -335,10 +338,10 @@ Die Sorten waren
 1. XO: Premium Rum. Sehr sehr leicht, aber doch intensiv im Geschmack.
 
 Da, zumindest laut Tina, niemand die ersten beiden ernsthaft als Rum bezeichnen würde, hatten wir am Ende vier Drinks, aber doch nur zwei Rum.  
-Mit verschieden Techniken hat man wirklich spannende Sachen schmecken können. 
 Der Eclipse ist vermutlich ein besserer Havanna Club 3, und den trinkt ja nun wirklich niemand ohne Cola.
 
-Leicht angeheitert kauften wir noch drei Flaschen zu nem guten Kurs für den Zollfreien Export nach Deutschland und ließen und vom Taxi zurückfahren.
+Mit verschieden Techniken von ausatmen zu fast gurgeln hat man wirklich spannende Sachen schmecken können. 
+Leicht angeheitert kauften wir noch drei Flaschen zu einem guten Kurs für den Zollfreien Export nach Deutschland und ließen und vom Taxi zurückfahren.
 
 Wir sind dann nochmal kurz an den Strand.
 Ich habe noch einen Unterwasserfelsen erschnorchelt, an dem es super viele bunte Fische zusehen gab.
