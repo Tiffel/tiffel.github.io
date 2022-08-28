@@ -56,7 +56,7 @@ Das zu rennen wäre gefährlich geworden.
 Die 4km Rückweg waren pure Quälerei.
 Ich war mittlerweile eine Stunde in der prallen Sonne unterwegs, hatte nichts zu trinken dabei und das Höhenprofil komplett
 falsch eingeschätzt.
-Der Berg auf dem Weg zur Unterkunft hatte 300 Meter Höhe und locker 8%, wenn nicht gar 10% Steigung auf dem Weg rauf.
+Der Berg auf dem Weg zur Unterkunft hatte 150 Meter Höhe und locker 8%, wenn nicht gar 10% Steigung auf dem Weg rauf.
 Insofern bin ich grob die Hälfte gelaufen und die andere Hälfte gegangen.
 
 Einen Kilometer vor der Unterkunft kam ich wieder an den Strand und musste erstmal direkt ins Wasser springen, um mich abzukühlen.
@@ -69,15 +69,16 @@ von einer großgewachsenen Dame begrüßt, die ihre Dienste am Strand feilbot.
 So lasziv wie sie klang, war ich mir nicht ganz sicher, was genau ihre Dienste waren.
 Aber der Spruch war so unerwartet, dass ich mich noch eine ganze Weile darüber kaputt gelacht habe.
 
-TODO: Strava
+![](/img/2022-08-16/strava_st_martin_trailrun.png)
 
 ### Der rest des Tages
-ZUrück bei den anderen in der Unterkunft gab es Frühstück und nochmal eine ausgiebige Runde schwimmen im Meer.
+Zurück bei den anderen in der Unterkunft gab es Frühstück und nochmal eine ausgiebige Runde schwimmen im Meer.
 
 Ich hatte am Tag vorher auf dem Rückweg vom Einkaufen ein paar nette Hoodies und T-Shirts gesehen, sodass wir zu viert loszogen um das genauer zu begutachten.
 
+Am Nachmittag sind Poca und ich dann noch in einen Videocall zu unserer Radtour im September.
+Im Unterschied zum Homeoffice war diesesmal der Hintergrund mit türkisen Meer echt.
 
- 
 Frühstücken, schnell schwimmen
 Shopping tour, nette hoodie. Super günstiger mount gay xo
 Radtour call, wieder schwimmen
