@@ -5,14 +5,14 @@ title:  "Karibik Teil 3: St. Martin"
 
 ## Anreise
 Um kurz nach sieben starteten wir mit dem Taxi zum Flughafen.
-Uns war das bei der Einreise am Abend garnicht aufgefallen, aber das Gebäude war eigentlich nur ein Zelt mit ein paar wenigen festen Ständern.
+Uns war das bei der Einreise am Abend garnicht aufgefallen, aber das Flughafengebäude von Barbaddos war eigentlich nur ein Zelt mit ein paar wenigen festen Ständern.
 
 Der Flug war unspektakulär.
 Spannend war aber, dass wir nach der Landung gefühlt wieder in der EU waren.
 Es wurde Euro akzeptiert, unser Taxi fur auf der "richtigen" Seite der Straße, man sah die gewohnten Nummernschilder.
 Zumindest an den Fahrzeugen der französischen Seite.
 
-Die Insel St. Martin teilt sich in die beiden Länder Saint Martin und St. Maarten auf.
+Die Insel St. Martin teilt sich in die beiden Länder Saint-Martin und Sint Maarten auf.
 Erstes ist ein Überseegebiet Frankreichs, Teil der EU, sogar Teil des Euroraums und entsprechend massiv von Frankreich beeinflusst. 
 Zweiteres ein Teil der Niederländischen Krone, welches einen deutlich geringeren Einfluss aus der Heimat hat.
 Hier zahlt man mit Karibischen Gulden als Währung, wobei in der Praxis jeder US Dollar verwendet. 
@@ -22,7 +22,7 @@ Der große Airport ist im südlichen, niederländischen Teil. Dort befand sich a
 {% include foldergallery.html folder="2022-08-16/1" %}
 
 ## Tag 1
-Da wir so früh aufgestanden waren hatten wir zum Mittag Hunger und waren das erste mal in dem Urlaub überhaupt irgendwo mittagessen.
+Da wir so früh aufgestanden waren hatten wir zum Mittag Hunger und waren das erste mal in dem Urlaub überhaupt irgendwo Mittagessen.
 Als Vorspeise gab es importieren holländischen Gouda, was nach dem ganzen Analogkäse der amerikanisch geprägten Inseln vorher ein Segen war.
 Und dabei ist St. Maarten sonst sehr amerikanisch geprägt.
 
@@ -30,7 +30,7 @@ Wir gingen einkaufen und sprangen direkt vor der Unterkunft ins Wasser, welches 
 Aber dafür eben nur wenige Meter entfernt war.
 
 Als wir um halb 8 zum Abendessen los sind, war die Strandpromenade und auch die Stadt Phillipsburg wie ausgestorben.
-Ein paar witzige Fotos und eine Klischeewindmühle später haben wir aber noch noch was gefunden.
+Ein paar witzige Fotos und eine Klischeewindmühle später haben wir aber noch ein Restaurant gefunden.
 Was weder gut noch günstig war. Aber eine Wahl hatten wir leider nicht.
 
 {% include foldergallery.html folder="2022-08-16/2" %}
@@ -45,11 +45,11 @@ Die 4km an der Küste entlang zum Start des Wanderweges waren zu beginn kein Pro
 Dannach ging es aber doch einige Höhenmeter rauf und runter, auf dieser Insel ist wohl mangels Platz jeder Berg einfach steil.
 
 Das erste drittel vom Wanderweg konnte ich noch laufen, wobei das wohl eher Trailrunning war und ich für den Untergrund die falschen Schuhe anhatte.
-Irgendwann nach insgesamt 5km musste ich dann vor Erschöpfung auf Gehen wechseln. 
+Irgendwann nach insgesamt 5km musste ich dann aber vor Erschöpfung auf Gehen wechseln. 
 Bergauf steinige Wege bei mindestens 35°C in der prallen Sonne hochrennen war doch anstrengender als gedacht.
 
 Das hatte aber den Vorteil, dass ich den großartigen Ausblick und die Tiere genießen konnte.
-Riesiege Leguane lagen in der Sonne, um dann im letzen Moment weg zurennen.
+Riesige Leguane lagen in der Sonne, um dann im letzen Moment weg zurennen.
 Ich bin den Wanderweg zuende gegangen, weil es am Ende ähnlich steil wie vorher war, aber nun bergab ging.
 Das zu rennen wäre gefährlich geworden.
 
@@ -90,42 +90,42 @@ Den Abend verbrachten wir mit Kochen und Grillen sowie rumhängen am Strand bei 
 {% include foldergallery.html folder="2022-08-16/3" %}
 
 ## Tag 3: Bootstour um die Insel
-Leider war die Zehn Stunden lange Katamarantour rund um die Insel ausgebucht, sodass wir die sechs Stunden lange Tour mit 3 Stops an der Südseite buchen mussten.
+Leider war die Zehn Stunden lange Katamarantour rund um die Insel ausgebucht, sodass wir die sechs Stunden lange Tour mit mehreren Stops an der Südseite buchen mussten.
 Um kurz nach 9 ging es los, die Crew begrüßte uns, wir gingen mit insgesamt 22 Passagieren an Board.
 
+Witzige Truppe, die sich alle nicht besonders ernst genommen haben.
+Auf der einen Seite war klar zu sehen, dass Charlie als Veteran auf dem Boot jeden Handgriff schon Tausendmal gemacht hatte.
+Andererseits hat Youri als lernender Captain in Spee auch öfter mal in Frage gestellt, was Charlie da für umstädnliches Zeuchs macht.
 
+Chaienne war für Drinks zuständig und hat uns zuverlässig versorgt.
+Der Rum Punch war leider nicht so lecker wie in der Stammbar am Strand.
+Cors Light hat den Namen Bier nicht verdient sondern geht eher als Wasser mit leichtem Geschmack durch.
+Amerikanisches Budweiser ist auch nicht wirklch gut, sodass wir uns auf Carib Lager konzentrierten.
 
-Bootstour
-Chaienne aus Bayern
-Trinker Tour
-3 stops
-Rum punch doof. Cors light schmeckt wie Wasser, Budweiser (us) auch nicht gut. Carab lager ist erträglich
+Es stellte sich irgendwann heraus, dass Chaienne deutsch sprach, weil sie in Bayern geboren ist, aber ihre Familie vor 15 Jahren nach St. Maartin ausgewandert ist.
 
-Erster Stop
+Der erster Stop war klar auf Schnorcheln ausgelegt.
+Uns wurde vom Captain eine nette geschichte vom abgestürzten Hubschrauber, den sie dann mit einem Uboot bergen wollten erzählt, die natürlich erstunken und erlogen war.
+Die Gegenstände wie eben Heli, Uboot, ein Einkaufswagen etc. sind absichlicht und kontrolliert in dieser Bucht unter Wasser plaziert worden.
+
+Die Schildkröte, neben der ich eine ganze Weile her schwamm war aber echt und wollte vermutlich selber schauen, was es dort mit dem Zeuchs aufsich hat.
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-16/fish_heli.mp4' type='video/mp4'/> </video>
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-16/submarine.mp4' type='video/mp4'/> </video>
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-16/turtleswimming.mp4' type='video/mp4'/> </video>
 
-
-Zweiter Stop
+Der nächste Stop hatte eher den Strand im Fokus. 
+Ich hab mir beim Tauchen zwischen scharfen Steinen leider etwas weh getan.
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-16/katamaran.mp4' type='video/mp4'/> </video>
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-16/rocks.mp4' type='video/mp4'/> </video>
 
-Dritter Stop Flugzeuge
+Als Letzen Stop standen wir in der Einflugschneiße zum Flughafen und haben direkt über uns die Maschinen beobachten können
 
+Ein echt cooler Tag, ich hab mir allerdings nen ordentlichen Sonnenbrand am Oberkörper gehohlt.
 
-
-Abendessen
-Entscheiden wir später
-Dumme Idee, die Optionen werden halt nur schlechter
-Vivi:Warum. I have hört seit 2,5 Wochen niemand auf mich? Weil es meist nur unkonkreter bullshit ist.
-
-
-Vorschlag 08:30 start, weil ab da gemietetes auto verfügbar
-"Lass uns mal um halb 9 Uhr anpeilen und wenn es später wird..."
-Fucking hell, dann sagen wir halt gleich um 9 und ich schlafe länger. Dieses gelaber stinkt
+Wir waren dann noch gemeinsam Abendessen, sind aber recht pünkltich ins Bett.
+Soviel Sonne und Bier war anstrengend.
 
 {% include foldergallery.html folder="2022-08-16/4" %}
 
