@@ -5,17 +5,17 @@ title:  "Karibik Teil 3: St. Martin"
 
 ## Anreise
 Um kurz nach sieben starteten wir mit dem Taxi zum Flughafen.
-Uns war das bei der Einreise am Abend garnicht aufgefallen, aber das Flughafengebäude von Barbaddos war eigentlich nur ein Zelt mit ein paar wenigen festen Ständern.
+Uns war das bei der Einreise am Abend garnicht aufgefallen, aber das Flughafengebäude von Barbados war eigentlich nur ein Zelt mit ein paar wenigen festen Ständern.
 
 Der Flug war unspektakulär.
-Spannend war aber, dass wir nach der Landung gefühlt wieder in der EU waren.
-Es wurde Euro akzeptiert, unser Taxi fur auf der "richtigen" Seite der Straße, man sah die gewohnten Nummernschilder.
+Spannend war aber, dass wir nach der Landung auf dem doch spannenden Princess Juliana International Airport gefühlt wieder in der EU waren.
+Es wurde Euro akzeptiert, unser Taxi fuhr auf der "richtigen" Seite der Straße, man sah die gewohnten Nummernschilder.
 Zumindest an den Fahrzeugen der französischen Seite.
 
 Die Insel St. Martin teilt sich in die beiden Länder Saint-Martin und Sint Maarten auf.
 Erstes ist ein Überseegebiet Frankreichs, Teil der EU, sogar Teil des Euroraums und entsprechend massiv von Frankreich beeinflusst. 
-Zweiteres ein Teil der Niederländischen Krone, welches einen deutlich geringeren Einfluss aus der Heimat hat.
-Hier zahlt man mit Karibischen Gulden als Währung, wobei in der Praxis jeder US Dollar verwendet. 
+Zweiteres ein Teil des Königreichs der Niederlande, bei welchem die Niederlande selber einen deutlich geringeren Einfluss haben.
+Hier zahlt man mit Antillen-Gulden als Währung, wobei in der Praxis jeder US Dollar verwendet. 
 
 Der große Airport ist im südlichen, niederländischen Teil. Dort befand sich auch unsere Unterkunft, zu der wir mit dem Taxi fuhren. Wir waren also tatsächlich nicht in der EU, aber nah dran. 
 
@@ -24,12 +24,12 @@ Der große Airport ist im südlichen, niederländischen Teil. Dort befand sich a
 ## Tag 1
 Da wir so früh aufgestanden waren hatten wir zum Mittag Hunger und waren das erste mal in dem Urlaub überhaupt irgendwo Mittagessen.
 Als Vorspeise gab es importieren holländischen Gouda, was nach dem ganzen Analogkäse der amerikanisch geprägten Inseln vorher ein Segen war.
-Und dabei ist St. Maarten sonst sehr amerikanisch geprägt.
+Und dabei ist Sint Maarten sonst sehr amerikanisch geprägt.
 
 Wir gingen einkaufen und sprangen direkt vor der Unterkunft ins Wasser, welches im Vergleich zu den Stränden auf Barbados erstaunlich schnell tief wurde.
 Aber dafür eben nur wenige Meter entfernt war.
 
-Als wir um halb 8 zum Abendessen los sind, war die Strandpromenade und auch die Stadt Phillipsburg wie ausgestorben.
+Als wir um halb 8 zum Abendessen los sind, war die Strandpromenade und auch die Stadt Philippsburg wie ausgestorben.
 Ein paar witzige Fotos und eine Klischeewindmühle später haben wir aber noch ein Restaurant gefunden.
 Was weder gut noch günstig war. Aber eine Wahl hatten wir leider nicht.
 
@@ -39,13 +39,13 @@ Was weder gut noch günstig war. Aber eine Wahl hatten wir leider nicht.
 ### Ein doofer Plan
 Ich war pünktlich wach und hatte Lust, laufen zu gehen.
 Es gab in 4km Entfernung einen Wanderweg an der Küste, 3km lang. Und eine nette Strecke über 4 weitere Kilometer zurück.
-Insofern nahm ich mir die 10km vor, wissend, dass ich vermutlich nicht den ganzen Wanderweg laufen, sondern Teile gehen müsste.
+Insofern nahm ich mir die insgesamt 10km vor, wissend, dass ich vermutlich nicht den ganzen Wanderweg laufen, sondern Teile gehen müsste.
 
 Die 4km an der Küste entlang zum Start des Wanderweges waren zu beginn kein Problem, ich lief unter anderem am Cruiseship Terminal entlang.
 Dannach ging es aber doch einige Höhenmeter rauf und runter, auf dieser Insel ist wohl mangels Platz jeder Berg einfach steil.
 
 Das erste drittel vom Wanderweg konnte ich noch laufen, wobei das wohl eher Trailrunning war und ich für den Untergrund die falschen Schuhe anhatte.
-Irgendwann nach insgesamt 5km musste ich dann aber vor Erschöpfung auf Gehen wechseln. 
+Irgendwann nach ca. 5km musste ich dann aber vor Erschöpfung auf Gehen wechseln. 
 Bergauf steinige Wege bei mindestens 35°C in der prallen Sonne hochrennen war doch anstrengender als gedacht.
 
 Das hatte aber den Vorteil, dass ich den großartigen Ausblick und die Tiere genießen konnte.
@@ -90,23 +90,23 @@ Den Abend verbrachten wir mit Kochen und Grillen sowie rumhängen am Strand bei 
 {% include foldergallery.html folder="2022-08-16/3" %}
 
 ## Tag 3: Bootstour um die Insel
-Leider war die Zehn Stunden lange Katamarantour rund um die Insel ausgebucht, sodass wir die sechs Stunden lange Tour mit mehreren Stops an der Südseite buchen mussten.
+Die Zehn Stunden lange Katamarantour rund um die Insel war ausgebucht, sodass wir eine sechs Stunden lange Tour mit mehreren Stops an der Südseite der Insel buchten.
 Um kurz nach 9 ging es los, die Crew begrüßte uns, wir gingen mit insgesamt 22 Passagieren an Board.
 
-Witzige Truppe, die sich alle nicht besonders ernst genommen haben.
+Die Crew war eine witzige Truppe, die sich alle nicht besonders ernst genommen haben.
 Auf der einen Seite war klar zu sehen, dass Charlie als Veteran auf dem Boot jeden Handgriff schon Tausendmal gemacht hatte.
-Andererseits hat Youri als lernender Captain in Spee auch öfter mal in Frage gestellt, was Charlie da für umstädnliches Zeuchs macht.
+Andererseits hat Youri als lernender Captain in Spee auch öfter mal in Frage gestellt, was Charlie da für umständliches Zeuchs macht.
 
 Chaienne war für Drinks zuständig und hat uns zuverlässig versorgt.
-Der Rum Punch war leider nicht so lecker wie in der Stammbar am Strand.
-Cors Light hat den Namen Bier nicht verdient sondern geht eher als Wasser mit leichtem Geschmack durch.
+Der Rum Punch war leider nicht so lecker wie in der Stammbar am Strand, Cors Light hat den Namen Bier nicht verdient sondern geht eher als Wasser mit leichtem Geschmack durch.
 Amerikanisches Budweiser ist auch nicht wirklch gut, sodass wir uns auf Carib Lager konzentrierten.
 
 Es stellte sich irgendwann heraus, dass Chaienne deutsch sprach, weil sie in Bayern geboren ist, aber ihre Familie vor 15 Jahren nach St. Maartin ausgewandert ist.
+Ganz witzig
 
 Der erster Stop war klar auf Schnorcheln ausgelegt.
-Uns wurde vom Captain eine nette geschichte vom abgestürzten Hubschrauber, den sie dann mit einem Uboot bergen wollten erzählt, die natürlich erstunken und erlogen war.
-Die Gegenstände wie eben Heli, Uboot, ein Einkaufswagen etc. sind absichlicht und kontrolliert in dieser Bucht unter Wasser plaziert worden.
+Uns wurde vom Captain eine nette Geschichte vom abgestürzten Hubschrauber, den sie dann mit einem Uboot bergen wollten erzählt, die natürlich erstunken und erlogen war.
+Die Gegenstände wie eben Heli, Uboot, ein Einkaufswagen etc. sind absichtlicht und kontrolliert in dieser Bucht unter Wasser plaziert worden.
 
 Die Schildkröte, neben der ich eine ganze Weile her schwamm war aber echt und wollte vermutlich selber schauen, was es dort mit dem Zeuchs aufsich hat.
 
@@ -116,12 +116,12 @@ Die Schildkröte, neben der ich eine ganze Weile her schwamm war aber echt und w
 
 Der nächste Stop hatte eher den Strand im Fokus. 
 Ich hab mir beim Tauchen zwischen scharfen Steinen leider etwas weh getan.
+Aber durch Unterwasserschluchten zu schnorcheln hat einfach zu viel Spaß gemacht, um es nicht auszuprobieren.
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-16/katamaran.mp4' type='video/mp4'/> </video>
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-16/rocks.mp4' type='video/mp4'/> </video>
 
-Als Letzen Stop standen wir in der Einflugschneiße zum Flughafen und haben direkt über uns die Maschinen beobachten können
-
+Als Letzen Stop standen wir in der Einflugschneiße zum Flughafen und haben direkt über uns die Maschinen beobachten können.
 Ein echt cooler Tag, ich hab mir allerdings nen ordentlichen Sonnenbrand am Oberkörper gehohlt.
 
 Wir waren dann noch gemeinsam Abendessen, sind aber recht pünkltich ins Bett.
@@ -130,16 +130,54 @@ Soviel Sonne und Bier war anstrengend.
 {% include foldergallery.html folder="2022-08-16/4" %}
 
 ## Tag 4: Insel erkunden und Karaoke
-### MIt dem Auto über die Insel
-Auto und setzt auf bumper auf
-Natur Schutz Melonen Kaktus, Stunde unterwegs
-Coffee shop, leckeres Essen, Ziegenkäse Auflauf
-Margot market
-Coconuts getrunken
-Franz Bäckerei mit geilen Brot und Eis
-Baden, einkaufen, Baden
-Kolibri im Garten gesehen
-Abendessen in der Bar vom ersten Tag mit geilen Käse
+### Mit dem Auto über die Insel
+Unser Host Wally hatte uns für einen guten Kurs einen Mietwagen besorgt, sodass wir die Insel erkunden gefahren sind.
+
+Ich hatte mir ab Abend vorher grob ein paar Ziele herausgesucht, insofern war ich der Navigator für den Tag.
+Wir hielten am Ende des zuvor gelaufenen Wanderwegs, weil die Bucht einfach schön ist.
+
+Ansonsten fanden wir, noch auf der niederländischen Seite in einer Bucht eine leere Touristeninformation, die für Fotos herhalten musste.
+Angekommen auf der französischen Seite im Norden fanden wir an einem Aussichtspunkt einen verlassenen und verrosteten Truck und einige nette Klippen zum herumklettern.
+
+Auf dem Weg zwischen den einzelnen Stops hatte ich den Plan, dass wir "schöne" Wege an der Küste fahren.
+Das war nicht die beste aller Ideen.
+
+Die dünnen Straßen, die ich  auf Google Maps rausgesucht hatte waren in ziemlich schlechten Zustand.
+Zusätzlich waren die Speedbumbs ziemlich hoch und unser Auto hatte relativ schlechte Federn. 
+Wir mussten also öfter mal aussteigen, damit das Auto beim darüber fahren nicht ständig aufsetztete.
+
+Es hat eine ganze Weile gedauert, bis wir es aus dieser Ecke mit den kaputten Straßen wieder auf die Hauptstraße geschafft hatten
+Ab dann haben wir die kleinen Straßen auch lieber weggelassen.
+ 
+Sehr cool war für mich ein Rundweg zu Fuß gegenüber der Isla de pinel.
+Grob eine Stunde liefen wir an der Küste durch die Natur.
+Immmer wieder bergauf und ab, es gab eine ganze Menge zu sehen.
+Insbesondere der Melonenkaktus war extrem spannend, sowas kannte ich bisher noch nicht.
+Aber auch andere Pflanzen und Pferde gab es zu sehen.
+
+Nach dem halben Tag in der Sonne war der nächste Schritt, eine Toilette und vielleicht einen Snack zu finden.
+Wir landeten, weiterhin auf der französischen Seite der Insel, in einem Coffee Shop, wo es eine super Auswahl an Kleinigkeiten der französischen Küche zum Mittag gab.
+Mein Ziegenkäse Auflauf mit einem Bananensmoothie war, ähnlich wie der Gouda nach dem Analogkäse, eine kulinarische Erlösung nach durchwachsenen Essen der Wochen vorher.
+
+Der nächste Stop war der Marigot Market, was eigentlich ein Flea- und Streedfoodmarket sein sollte. 
+Ein wenig entäuschend vom Ausmaß her, es gab nicht wirklich viele geöffnete Buden und Stände.
+Ich kann mir aber vorstellen, dass das in der Hauptsaison dort ähnlich wie auf dem Naschmarkt in Wien abgeht.
+
+Geöffnet war aber der Coconut Man, bei dem Poca und ich je eine Kokusnuss tranken.
+Natürlich stilecht vor Ort mit der Machete geöffnet und mit einem Strohhalm direkt aus der Frucht.
+Nach dem wir ausgetrunken hatten, öffnete uns der Coconut Man die Nuss und wir konnten das Fruchtfleisch noch aufessen.
+Das war im Gegensatz zu den vorherigen Kokosnüssen neu und echt lecker. 
+
+Auf dem Weg zurück zum geparkten Auto sahen wir auf einemal den Heiligen Gral. Eine Artisan Boulangerie, also ein Bäckermeister mit traditioneller Handwerksausbildung.
+Wir waren also in der Lage, richtiges Baguette und Brot kaufen zu können.
+Kulinarisch wurder der Tag also immer besser, denn in der Bäckerrei gab es zusätzlich auch noch frisch gemachtes Eis, welches wir natürlich ausprobierten.
+
+Der rest des Tages bestand aus der Rückfahrt, Baden, einkaufen, und wieder Baden.
+Wir haben von unserer Terasse einen Kolibri in 3 Metern Entfernung beobachten können.
+Unmöglich, ihn mit unserem Kameraequipment fotografieren zu können, aber schön mal einen so hektischen Vogel in Live gesehen zu haben.
+
+Abendessen gab es in der Bar, in der wir das erste Mittagessen auf Sint Maarten hatten.
+Natürlich wieder mit dem leckeren Gouda als Vorspeise.
 
 {% include foldergallery.html folder="2022-08-16/5" %}
 

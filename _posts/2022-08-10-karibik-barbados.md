@@ -14,7 +14,7 @@ Er lernte seit einer Weile Deutsch und freute sich wie ein kleines Kind, zum ers
 Wo wir in Deutschland wohnen, haben wir ihm anhand der Fußball-Bundesliga erklärt, das war das Einfachste.
 Wir hatten unseren Wohnort der Einfachheit halber spontan nach Leipzig verlegt, weil es dort im Gegensatz zu Dresden einen Erstliga-Verein gibt. 
 
-Unser Flug hatte eine Zwischenlandung auf Sint Maarten, was unsere dritte Insel werden sollte.
+Unser Flug hatte eine Zwischenlandung auf St. Martin, was unsere dritte Insel werden sollte.
 Der Princess Juliana Airport ist für Start und Landung wirklich beeindruckend und gilt wohl nicht umsonst als einer der schwierigsten Flughäfen der Welt.
 
 Angekommen auf Barbados zogen Poca und ich den Jackpot: Wir wurden rausgezogen zum Corona-Test. Alex und Vivi konnten ohne Test durch die Kontrolle.
