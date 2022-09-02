@@ -102,7 +102,7 @@ Der Rum Punch war leider nicht so lecker wie in der Stammbar am Strand, Cors Lig
 Amerikanisches Budweiser ist auch nicht wirklch gut, sodass wir uns auf Carib Lager konzentrierten.
 
 Es stellte sich irgendwann heraus, dass Chaienne deutsch sprach, weil sie in Bayern geboren ist, aber ihre Familie vor 15 Jahren nach St. Maartin ausgewandert ist.
-Ganz witzig
+Ganz witzig.
 
 Der erster Stop war klar auf Schnorcheln ausgelegt.
 Uns wurde vom Captain eine nette Geschichte vom abgestürzten Hubschrauber, den sie dann mit einem Uboot bergen wollten erzählt, die natürlich erstunken und erlogen war.
@@ -176,50 +176,92 @@ Der rest des Tages bestand aus der Rückfahrt, Baden, einkaufen, und wieder Bade
 Wir haben von unserer Terasse einen Kolibri in 3 Metern Entfernung beobachten können.
 Unmöglich, ihn mit unserem Kameraequipment fotografieren zu können, aber schön mal einen so hektischen Vogel in Live gesehen zu haben.
 
-Abendessen gab es in der Bar, in der wir das erste Mittagessen auf Sint Maarten hatten.
-Natürlich wieder mit dem leckeren Gouda als Vorspeise.
-
 {% include foldergallery.html folder="2022-08-16/5" %}
 
 ### Karaoke
-karaoke bar
-99 Luftballons zusammen mit Marlen, gegen ein gratisproben Bier, weil die Holländer gerne deutsch hören wollten
-Dancing in the dark ist mega schwer zu singen. ich wurde "german bruce springsteen" genannt
-Smash mouth I'm a believer war einfacher, jemand ist einfach mit eingestiegen. Voll gut
-Jacky kennengelernt. Ca 20, macht eine eigene Website auf. Selber bikini model, aber kein adult content. Aber sonst wie only fans
+Abendessen gab es in der Bar, in der wir das erste Mittagessen auf Sint Maarten hatten.
+Natürlich wieder mit dem leckeren Gouda als Vorspeise.
+
+Wir hatten bei der Erkundungstour am Dienstag abend schon gesehen, dass die kitischige Hölländische Windmühle an der Promenade nicht nur eine Bar ist, sondern dort auch Freitags abends Karaoke ist.
+
+Wir sind also nach dem Abendessen zu viert da hin und Poca und ich sind leicht eskaliert.
+
+Die Barmannschaft war ein eingespieltes Team, wo auch jeder mal selber zwischendurch einen Song gesungen hat. 
+Bei unserer ersten Getränkebestellung wurde ich direkt angesprochen, wann ich denn was singen würde.
+Ich sagte, dass ich noch nicht wüsste was ich singen wollen würde.
+Der Barman hat es dann aber relativ einfach gemacht:
+> We love German Songs. And we love 99 Luuuftbalooons!
+
+Man hört meinem Englisch leider mehr als ich es mag an, dass Deutsch meine Muttersprache ist.
+
+Ich musste mich schon ein wenig überwinden und der allergrößte Sänger bin ich ja nun auch nicht. 
+Insofern war es super, dass mit Poca zusammen zu machen.
+
+Aber ein paar selbstgebraute Biere der Bar später ging es noch weitere male ans Mikrofon.
+
+Bruce Springsteens "Dancing in the dark" hab ich etwas unterschätzt. Rhytmisch doch ganz schon schwierig zu singen.
+Aber ich hatte zumindest beim Karaokemaster den Spitznamen "German Springsteen" sicher.
+Dahingegend war "I'm a beliver" in der Smash Mouth Version aus Shrek praktisch ein Selbstläufter,
+bei dem ich auch noch spontan von einem der richtig guten Sänger aus der Bar unterstützt wurde.
+Um dem Wunsch eines weiteren deutschen Songs nachzukommen hab ich mich bei "1000 und 1 Nacht" noch ordenlich zum Depp gemacht, Poca kam aber zur Hilfe :)
+
+Sie war auch bei mindenstens genausovielen Songs wie ich unterwegs, wenn auch bei der Musikauswahl ganz anders.
+Coole Erfahrung, niemnand hat sich besonders ernst genommen und einige waren sogar ganz gut in dem, was wie dargeboten haben.
 
 {% include foldergallery.html folder="2022-08-16/6" %}
 
-## Tag 5: Big Three
+## Tag 5: Big Three im Rainforest Adventure Park
+Unser letzer Tag auf St. Maarten sollte im Rainforst Advendure Park stattfinden.
+Wir hatten das ganz große Paket mit angeblich 5 Attraktionen gebucht.
 
-Big three im park
-Ski lift fahren
-Schooner ride mit tubes eher mittel
-Zip line 4 mal mit Aussicht auf Flughafen
-Flying Dutchman ohne Vivi, wir haben uns erst angestellt, als sie 45 min später unten war. Dachten das man schnell dran ist, weil es optisch so suggeriert wurde. Nochmal ne Stunde warten, um 60 Sekunden da runter zu düsen
-ich einkaufen fürs grillen, die anderen jetski
-checkin nervig, weil bilder von reisepässen zu schlecht für die bilderkennung sind. manuell eintragen wird aber nicht aktzeptiert, obwohl man nach erfolgreichem upload immernoch zum schalter muss. dumm
+Das Emilio Wilson Museum haben wir gleich links liegen gelassen, und der Sessellift den Berg hoch würd ich jetzt auch nicht als Attraktion sehen.
+Zumindest nicht, wenn man schonmal irgendwo im Winterurlaub einen Lift benutzt hat.
+
+Der erste Stop an der Mittelstation war der sogenannte Schooner Ride, bei welchem man auf einem Runden Schlauch eine Kunstrasen Bahn herunter gerutscht ist.
+Ganz nett, aber auch nicht wirklich spannend.
+
+Ein weiteres mal mit dem Sessellift hoch, dieses mal zur Bergstation und es wurde spannend.
+Dort begann der "Sentry Hill Zip Line flight", mit vier Seilbahnen zwischen den Bergkuppen hin und her.
+Seilbahnen sind immer witzig, diese waren sowohl ordentlich lang als auch über echt tiefe Abgründe.
+Und es gab einen super Ausblick auf die Insel und in der anderen Richtung den Flughafen.
+
+Zu dritt ging es dannach für Alex, Poca und mich zum Flying Dutchman.
+Der angeblich steilsten Seilbahn der Welt.
+Wenn man allerdings dannach googelt, stellt sich heraus, dass mindestens drei Seilbahnen auf der Welt diesen Titel für sich beanspruchen.
+
+Wir warteten auf das Signal von Vivi, dass sie mit dem Lift unten angekommen sei. 
+Leider sind in der Zeit eine große Menge von Menschen aus der nächsten  Zip Line Tour an uns vorbei, sodass wir dann noch über eine Stunde warten mussten, bis wir dran waren.
+Was für ein 60 Sekunden Erlebniss ziemlich unverhältnissmäßig ist.
+Aber Spaß gemacht hat es trotzdem, die 300 Meter herunter zu düsen.
+
+Man hatte tatsächlich auch nicht viel Zeit, sich Gedanken oder Sorgen zu machen. 
+Nach dem Einstieg in die Gurte wurde einfach ohne Rückfrage oder Vorwarnung ausgelöst und abwärts ging es.
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-16/flying_dutchman.mp4' type='video/mp4'/> </video>
 
+Wir machten uns nach dem Vormittag im Park zurück auf den Weg zur Unterkunft.
+Ich ging für das abendliche Grillen einkaufen, die anderen drei direkt zur Unterkunft, weil sie noch Jetski fahren wollten.
 
 {% include foldergallery.html folder="2022-08-16/7" %}
 
 ## Zurück nach Dresden
-Netter taxi Fahrer, von wally bestellt
-Der Airport stresst Menschen durch baggage drop-off, security check und emigration
-Wartebereich nervig, weil alles sehr eng und dauerhaft durchwandern in Schrei Ton. Am Airport wird nebenbei gebaut, vermutlich immernoch Nachwirkungen von irma 2017?
-Wir sollten mal los, das ging schneller als erwartet mit der boarding Schlange, da steht niemand mehr. Oder wir lassen uns einfach mal ausrufen.
- In dem Moment hören wir unsere Namen :)
+Für die Abreise hatte uns unser Host Wally ein Taxi bestellt.
+Der Fahrer war echt nett, wir haben uns auf dem Weg zum Airport nett unterhalten.
 
+Nachdem wir durch Baggacke Drop-Op und Security Check durch waren, gab es bei Emigration tatsächlich noch einen Ausreisestempel in den Reisepass.
 
-Transit USA: ging alles fix, border control agent war super nett
-Customs war albern
+Der Airport, inbesondere der Wartebereich war eine große Baustelle, vermutlich waren das immernoch Nachwirkungen von Hurricane Irma in 2017.
+Auf jeden Fall war alles, was benutzbar war relativ improvisiert, aber es gab in der Bar im Wartebereich Fassbier.
 
+Wir haben die Zeit so sehr ausgenutzt, dass wir tatsächlich zum Boarding ausgerufen wurden.
 
-DD Gepäck fehlt email
-gepäck am nächsten tag um 10 per kurier.
+Zum Umstieg in Washington mussten wir nochmal unser Gepäck selber tragen, weil die USA ja albernen Quatsch mit Transit und Einreise machen.
+Nochmal Passkontrolle, nochmal Security, nochmal Zoll.
+Nervig, aber doch unproblematisch.
+
+Nach einem weiteren Umstieg in Frankfurt und grob 16 Stunden unterwegs kamen wir in Dresden am Flughafen an.
+Mein Gepäck fehlte leider, kam an einen Tag später per Kurier zu mir nach hause.
+Hab ich mir also das Tragen gespart :)
+
 
 {% include foldergallery.html folder="2022-08-16/8" %}
-
-
