@@ -220,7 +220,7 @@ Zumindest nicht, wenn man schonmal irgendwo im Winterurlaub einen Lift benutzt h
 Der erste Stop an der Mittelstation war der sogenannte Schooner Ride, bei welchem man auf einem Runden Schlauch eine Kunstrasen Bahn herunter gerutscht ist.
 Ganz nett, aber auch nicht wirklich spannend.
 
-Ein weiteres mal mit dem Sessellift hoch, dieses mal zur Bergstation und es wurde spannend.
+Ein weiteres mal ging es mit dem Sessellift hoch, dieses mal zur Bergstation und es wurde spannend.
 Dort begann der "Sentry Hill Zip Line flight", mit vier Seilbahnen zwischen den Bergkuppen hin und her.
 Seilbahnen sind immer witzig, diese waren sowohl ordentlich lang als auch über echt tiefe Abgründe.
 Und es gab einen super Ausblick auf die Insel und in der anderen Richtung den Flughafen.
