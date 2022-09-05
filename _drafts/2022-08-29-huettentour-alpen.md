@@ -15,6 +15,7 @@ Dort wurde der zugchef getauscht und das boardrestaurant um 12:00 geschlossen, w
 
 
 
+{% include foldergallery.html folder="2022-08-29/1" %}
 
 
 ## Freitag
@@ -30,12 +31,14 @@ wildgrißehütte
 uhrig
 tour zu lang, erst um halb 8 da
 
-{% include foldergallery.html folder="2022-08-23/1" %}
+{% include foldergallery.html folder="2022-08-29/2" %}
 
 
 ## Samstag
 hoch und runter tour zum Kärlingerhaus
 
+
+{% include foldergallery.html folder="2022-08-29/3" %}
 
 ## Sonntag Abstieg und Rückreise
 3 Stunden steil runter nach st. bartholomä zum königssee
@@ -43,3 +46,6 @@ hoch und runter tour zum Kärlingerhaus
 in den see gesprungen
 essen in berchtesgarten
 zug zurück nach dd
+
+
+{% include foldergallery.html folder="2022-08-29/4" %}
