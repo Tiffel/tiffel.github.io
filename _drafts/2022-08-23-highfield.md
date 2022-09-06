@@ -78,14 +78,16 @@ TODO
 ### Neonschwarz
 {% include foldergallery.html folder="2022-08-23/4" %}
 
-
-### Sondaschule
+### The Hunna
 {% include foldergallery.html folder="2022-08-23/5" %}
+### Sondaschule
+{% include foldergallery.html folder="2022-08-23/6" %}
 
 
 ### Electric Callboy
-{% include foldergallery.html folder="2022-08-23/6" %}
+<video width='100%' preload='metadata' controls> <source src='/img/2022-08-23/electric-callboy.mp4' type='video/mp4'/> </video>
 
+{% include foldergallery.html folder="2022-08-23/7" %}
 
 ### Verpasste Dinge
 Bring me
@@ -93,7 +95,7 @@ Kraftklub
 
 
 ### Aftershowparty
-{% include foldergallery.html folder="2022-08-23/7" %}
+{% include foldergallery.html folder="2022-08-23/8" %}
 
 
 
