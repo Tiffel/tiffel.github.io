@@ -68,12 +68,24 @@ TODO
 
 {% include foldergallery.html folder="2022-08-23/1" %}
 
+### Opening Party
+
+{% include foldergallery.html folder="2022-08-23/2" %}
+
 ## Freitag
+{% include foldergallery.html folder="2022-08-23/3" %}
+
 ### Neonschwarz
+{% include foldergallery.html folder="2022-08-23/4" %}
+
 
 ### Sondaschule
+{% include foldergallery.html folder="2022-08-23/5" %}
+
 
 ### Electric Callboy
+{% include foldergallery.html folder="2022-08-23/6" %}
+
 
 ### Verpasste Dinge
 Bring me
@@ -81,6 +93,8 @@ Kraftklub
 
 
 ### Aftershowparty
+{% include foldergallery.html folder="2022-08-23/7" %}
+
 
 
 ## Samstag
