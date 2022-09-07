@@ -24,3 +24,9 @@ bis krakow gequält, weil scheiss boden mit sand.
 bäckerei/edeka
 
 nioch 13 km zum jagtschloss. wir waren leicht underdressed
+
+## Tag 4 - Rostock Überseehafen und auf nach Dänemark
+Früh los, um die Fähre zu bekommen. Früh genug da gewesen, schnelle Pommes an dem Imbiss vor ort.
+Eine ganze Menge Bikepacker da drauf
+
+Bier aus dem Shop, Zeit fürs bloggen

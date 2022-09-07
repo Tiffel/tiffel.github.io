@@ -3,34 +3,79 @@ layout: post
 title:  "Highfield"
 ---
 
+## Prolog am Mittwoch
+Ich hatte am Tag zuvor Alex Auto aus der Heimat gehohlt. Morgens mit dem Zug hin, Abends mit dem Auto zurück.
+Dort war ja noch der ganze Festival Krams vom Deichbrand (und mein Rennrad) drin.
+Ab Madgeburg war der Wagen ein kleines bisschen lauter als normal, in Dresden stellten Alex und ich gegen Mitternacht fest, dass der Auspuff einfach durchgebrochen war.
+
 ## Donnerstag: Anreise
-TODO
+Der Highfield Anreise Tag begann also damit, das wir den Auspuff notdürftig festbasteln mussten, während wir das Dosenbier aus Techien (Pfandfrei) verluden.
+
+Kurz nach der Autobahn Abfahrt tragen wir Lena, die aus Bayreuth angereißt war.
+Und während sie noch den geschenkten Schwimmring zwangsumarmte, um die Luft herauszubekommen, packten Alex und ich die Sackkarre und den Fahrradanhänger.
+So eine Absorberkühlbox und eine darin geschmuggelte Gasflasche ist schon was feines, wenn man sein Bier kalt haben möchte.
+
+Irgendwie war vom letzen Highfield die Erinnerung verloren gegangen, wie schlimm der Boden auf dem Zeltplatz ist.
+Die gesamte Insel ist ja künstlich aufgeschüttet, nach ca. 10cm kommt irgendeine unfassbar harte Schicht.
+Es war also echt nervig, die Zelte und Abspannleinen mit den Nägeln fest zu bekommen.
+Was zu sichtlichem Frust bei Lena führte, ihr Zelt nicht alleine aufstellen zu können.
+
+Alex hat aber mehrere Stunden unaufhörlich optimiert, bis unser Aufbau mit dem Pavillion zumindest für die Nacht stabil war.   
 
 {% include foldergallery.html folder="2022-08-23/1" %}
 
 ### Opening Party
-Beach party, nass geworden durch getanzt, Mischung aus allem
+Wir starteten irgendwann mit Einbruch der Dunkelheit zur Eröffnungsparty an den Strand. Der Regen wurde immer stärker, sodass Alex sich irgendwann verabschiede.
+Lena und ich haben den Regen ignoriert und einfach eine ganze Weile Barfuß im kalten Sand getanzt.
+
+Musikalisch war es eine Mischung aus irgendwie allem. Aber alle halbe Stunde gab es immer mal wieder rockige Musik, insofern war das schon ganz gut aushaltbar.
+Und wenn man gute Laune hat, kann man ja zu fast allem tanzen.
 
 {% include foldergallery.html folder="2022-08-23/2" %}
 
 ## Freitag
+Der erste echte Festivaltag begann mit der Anreise von meinem Kollegen Jonas, der den Weg aus Bern aufsich genommen hatte.
+Was allerdings von seinen beiden Freunden Simon und Cindy mit ihrer Anreise aus Zypern getoppt wurde.
+
+Wir vergrößerten das Camp um einen weiteren Pavillion und Zelte.
+Alex optimierte wieder mehrere Stunden bis zur Zeltnagel-Perfektion und Vivi reiste auch irgendwann vormittags an.
+
 {% include foldergallery.html folder="2022-08-23/3" %}
 
 ### Neonschwarz
-Neonschwarz Gesang schwach, aber sonst witzig
+Musikalisch begann das Festival um 17:00 mit Neonschwarz, von denen ich mir recht viel erhofft hatte.
+Leider wurde ich etwas enttäuscht.
+
+Der Gesang von Sängerin Marie Curry war Live erstaunlich schwach.
+Der Sprechgesang von allen drei Musikern war zwar richtig gut, aber wenn die Hooks alle nicht zünden, macht es nicht so richtig Spaß.   
 
 {% include foldergallery.html folder="2022-08-23/4" %}
 
 ### The Hunna
-Reste von hunnas. Mega guter Rock , unerwartet
+Lena und ich sind also rüber zur Green Stage, wo wir die Reste von The Hunna hörten.
+Das war richtig guter Rock und für uns komplett unerwartet.
+
+Was aber auch daran lag, dass wir beide in diese Band vorher nicht reingehört hatten.
 
 {% include foldergallery.html folder="2022-08-23/5" %}
 
 ### Sondaschule
-Sondaschule
-   Foh im ersten Song aus
-   Viel vom neuen Album, wenig Bock im Auftritt
-Steine
+Bei der Sondaschule hatte ich noch den verpennten Auftritt vom Rock im Park nachzuholen.
+Alex und Vivi kamen während der Wartezeit zu Lena und mir dazu.
+Und ich unterhielt mich mit der netten Dame, die meine Frage nach einem Selfie mit ihrem Dino damit erwiederte, dass sie selber unbedingt mit drauf muss.
+
+Sondaschule selber war soweit ok, hat mich aber auch nicht so richig abgeholt. 
+
+Auf der einen Seite hat es die Tontechnik tatsächlich geschafft, die FOH PA (also die Beschallung ins Publikum) bis zur Mitte des ersten Songs nicht einzuschalten.
+Das zerstört natürlich jedes Intro.
+ 
+Andererseits haben die Jungs ziemlich viel vom neuen Album gespielt, was ich bis zu dem Zeitpunkt noch nicht so intensiv gehört hatte.
+Dazu konnte man dem Sänger anmerken, dass er nicht so richtig Lust auf den Auftritt hatte.
+Schade, aber leider sieht man das hin und wieder bei Künstlern.
+
+Außerdem kam die Erinnerung an einen der Nachteile vom Highfield Festival wieder:
+Vor der Green Stage besteht der Untergrund aus ziemlich großen Steinen.
+Das macht das Tanzen ganz schön unangenehm.
 
 {% include foldergallery.html folder="2022-08-23/6" %}
 
