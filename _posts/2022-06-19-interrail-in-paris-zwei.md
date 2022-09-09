@@ -123,7 +123,7 @@ Auf dem Weg zum Eiffelturm am Vormittag hatte ich schon eine Menge aufgebauter T
 An diesem Samstag fand das Red Bull Cliff Diving in Paris statt.
 Turmspringen in die Seine.
 Typisch für ein Red Bull-Event -  so aufgezogen, dass es auch ohne irgendeine Ahnung von dem Sport eine gute Show ist.
-Das hab ich mir bestimmt eine Stunde lang angeschaut. Gute Musik, glückliche Menschen mit guter Stimmung und ein bischen Unterhaltung.
+Das hab ich mir bestimmt eine Stunde lang angeschaut. Gute Musik, glückliche Menschen mit guter Stimmung und ein bisschen Unterhaltung.
 Wobei die Schattenplätze bei weiterhin knappen 40℃ und keiner Wolke am Himmel begehrt waren.
 
 Nach dem Turmspringen habe ich mir noch ein bisschen die Zeit vertrieben, unter anderem am Hôtel des Invalides und an der Seine.
