@@ -182,50 +182,119 @@ Das Blasmusik mit zwei Drums und einem Rapper soviel Spaß machen kann, hat wohl
 
 Musikalisch anspruchsvoll und richtig gut gemacht.
 Das die Texte intelligent und witzig sind, wusste ja ich vorher schon.
-Die Musiker wissen offensichlich alle sehr gut, wie sie mit ihren eher klassischen Intrumenten Live aufzutreten haben.
+Die Musiker wissen offensichlich alle sehr gut, wie sie mit ihren eher klassischen Instrumenten Live aufzutreten haben.
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-23/sa/moop-mama_molotow.mp4' type='video/mp4'/> </video>
 
-Leider ist Moop Mama dieses Jahr nicht mehr auf Tour, aber wenn sie es sind, bin ih der erste, der ein Ticket zu einem Clubkonzert mit denen hat.
+Leider ist Moop Mama dieses Jahr nicht mehr auf Tour.
+Aber wenn sie es nächstes Jahr sind, bin ich der erste, der ein Ticket zu einem Clubkonzert kauft.
 Auch wenn auf Grund der größe der Band und der Instrumente von einem kleinen Club wie der Groove Station nicht mehr viel Übrig bleiben dürfte.
  
 {% include foldergallery.html folder="2022-08-23/sa/2" %}
 
 Die Jungs wussten allerdings auch, wie man mit dem Publikum umzugehen hat und haben ihre Songs entsprechend auf Festival und tanzwillige Menschen angepasst.
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-23/sa/moop-mama_circle.mp4' type='video/mp4'/> </video>
+
 ### Provinz
-Lenas Idee.
-Popig, aber live gut gemacht. Drums uns bass sorgen halt für groove. Klang ein bißchen so wie von wegen liesbrth
+Ich war ja durchaus skeptisch, nachdem ich irgendwann mal in Provinz reingehört hatte.
+Trotzdem ließ ich mich von Lena überzeugen, der jungen Band Live eine Chance zu geben.
+
+Alles relativ poppig und seicht, ich hatte sofort eine Assioziation zu "Von wegen Lisbeth".
+Aber wenn Basser und Drummer zu grooven wissen, kann auch Pop Spaß machen.
 
 {% include foldergallery.html folder="2022-08-23/sa/3" %}
 
 ### Lagwagon
-Beim vorbei laufen in lag wagon rei gehört. Das war krach und amerikanisches gelaber
+Auf dem Rückweg ins Camp hörten wir beim vorbeilaufen in Lagwagon rein.
+Eigentlich waren die Punkveteranen auf meiner Liste.
+
+Wir hörten das typische nervige Gelaber, was anscheinend die alternden amerikanischen Bands alle so an den Tag legen.
+Nur das im Gegensatz zu z.B. Offspring hier die Musik sehr schlecht gealtert ist.
+Das war einfach nur schlecht gespielter Krach.
+
+Kann man das also, falls Lagwagon nochmal auf Festivaltour in Europa sein sollte, durchaus ausplanen.
 
 ### Pause am Camp und am Strand
+Wir verbrachten einige Zeit im Camp bei Hopfenkaltschalen aus der Kühlbox.
+Jonas, Lena, Simon und ich fachsimpelten dabei über Musik jeglicher Art.
 
+Da die Duschen irgendwie ganz schön weit weg waren entschieden Lena und ich uns, den See zum schwimmen zu nutzen.
+Nach der Karibik war das alles ein kleines bischen kälter als gewohnt, aber echt angenehm und eine gelungene Abwechselung.
 
 ### Antilopen Gang
-alleine bis zum danger Dan solo Teil. Gut, aber falsche Stimmung.
+Ich startete alleine zur Antilopen Gang, da ich die kurz später, aber doch parallel spielenden Donots ja schon auf dem Rock im Park gesehen hatte.
+
+Die Außenseiter des deutschen Hip Hops höre ich ja echt gerne.
+Und nach dem nicht so tollen Neonschwarz Auftritt hat das echt Spaß gemacht.
+
+Als es dann allerdings zum Soloteil von Danger Dan überging, bin ich schnell los.
+Ich mag das Soloalbum von Dan wirklich gerne, aber es ist für ein Festival in Feierstimmung einfach genau das falsche. 
+Und da die Donots einfach ein Garant für ein gutes Konzert sind, musste ich zusehen, dort noch ins Infield zu kommen.
+
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-23/sa/antilopen-gang_pizza.mp4' type='video/mp4'/> </video>
 
 {% include foldergallery.html folder="2022-08-23/sa/4" %}
 
 ### Donots
-Rüber zu den Donots
-Mega Abriss, cover von 21th century digital boy, weil die das zweite mal für bad religion hier einspringen. Vermutlich Besser als das original
-Bei so long komplett die stimme verloren
-Stock gefangen. Schick Schnack schnuck verloren. Total emotional, am ganzen Körper gezittert
+Ich hab es so gerade und mit ein bisschen drängeln noch ins Infield zu Alex und Lena geschafft.
+Die Donots waren ein paar Tage vorher als Ersatz für Bad Religion angekündigt worden.
+Anscheinend schon das zweite mal in Folge für die Punkveteranen aus den USA, zu denen die Donots ja auch eine persönliche Beziehung haben.
+
+Und nach dem Konzert muss man sagen, dass es für die Stimmung vermutlich gut war, die Donots statt Bad Religion vor sich zu haben.
+Alternde Punkbands aus den USA hatten wir ja vormittags schon kurz.
+Und das Cover von 21st Century Digital Boy war vermutlich besser, als es die Original Interpreten hätten spielen können. 
+
+Die Ibbenbürener haben den ganzen Gig mal wieder richtig abgeliefert und den Laden abgerissen.
+Und Ingo hat das Bad in der Menge ausgiebigst genossen.
+Das war ähnlich gut wie zum Frühsport beim Rock im Park, aber einfach weil es am frühen Abend war eine ganz andere Stimmung.
+
+Ich war das Konzert dann aber mal wieder alleine mitten in der Menge unterwegs.
+Beim mitgrölen zu "So Long" hat dann meine eh schon angeschlagene Stimme vollständig versagt, für den Rest den Abends war dann nicht mehr viel mit Singen bei mir.
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-23/sa/donots_stop_the_clocks.mp4' type='video/mp4'/> </video>
+
+Zum Ende des Konzert ist mir noch eins der schönsten Festivalerlebnisse dieser Saison passiert:
+Der Drummer schmiss seine beiden Drumsticks ins Publikum, ich war an einem zuerst dran und konnte ihn fangen.
+Direkt neben mir hatte eine Frau auch zugegriffen und natürlich festgehalten, so gut sie konnte.
+Ich war mir sicher, dass ich (alleinschon wegen der Größe) zuerst dran war, und wir zerrten nun beide an dem Stick.
+Ich hätte vermutlich mehr Kraft gehabt, aber mein Nachbar zur rechten hatte die Situation mitbekommen und schlug Schnick-Schnack-Schnuck vor, auf das wir uns beide Zähneknirschend einließen.
+Wir sahen uns natürlich beide im Recht.
+Eine Hand fest am Drumstick duellierten wir uns über 3 oder 4 Runden, in denen wir immer die gleiche Geste zeigten. 
+In der folgenden Runde verlor ich schließlich das Duell.
+
+Es folgte ein gefühlt ewig andauernder Moment bis wir beide realitisert hatten, dass ihr Brunnen meine Schere schlägt, bis ich den Stick losließ und ihr gratulierte.
+Dieser Moment ging in den nächsten ewigen Moment über, bis sie realisiert hatte, dass ich Worthalte und sie wirklich nun den Drumstick gewonnen hatte.
+Sie brach in Freudentränen aus, fiel mir am ganzen Körper zitternd und schluzend um den Hals und hat sich mehrere Minuten einfach nur bedankt.
+
+Ich glaube, ich habe dort jemanden sehr sehr glücklich gemacht.
+Was mich sowohl in dem Moment als auch zwei Wochen später beim Tippen des Blogs selber viel froher macht, als es das Stück Holz vom Donots-Drummer je hätte machen könnnen.
 
 {% include foldergallery.html folder="2022-08-23/sa/5" %}
 
 ### Annenmaykantereit
-Neue Bassisting, mega sound, 4 streicher, 4 bläser
+Zwischen den Donots und Annenmaykantereit war mal wieder eine ganze Menge Zeit und es war problemlos möglich, das Infield zu Verlassen und wieder zu kommen.
+Was für einen Samstag abend um 21:00 echt ungewöhnlich ist.
+Aber hier war vermutlich zu merken, dass das Highfield nicht ausverkauft war.
+Vivi stieß zu uns und kurz vor dem Konzert war das Infield dann auch voll.
 
+AMK hat den Abend richtig aufgefahren.
+Die drei Kölner hatten ihre neue Bassistin dabei, von der ich nichts mitbekommen hatte. Aber der letze Liveauftritt, den ich gesehen hatte war auch 2019 in Dresden am Elbufer.
+
+Der Sound war richtig gut, unterstützt wurden die vier Bandmitglieder von gleich vier Bläsern und vier Streichern.
+Bisher kannte ich Live nur die Besetzung mit einer Trompete.
+Entsprechend hat sich das Arrangement der Titel nochmal ganz schön erweitert.
+Das hat richtig Spaß gemacht, selbst die Songs vom ersten Album nochmal so frisch zu erleben.
+
+Musikalisch eins der absoluten Highlights des Festivals, ich hab lange keine so runde Liveperformance gesehen.
+Alex und Vivi verabschieden sich zu meinem Unverständniss nach einer halben Stunde, Lena und ich quetschen die letzen Töne beim mitsingen aus den Stimmen heraus.
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-23/sa/AMK_poca_hontas.mp4' type='video/mp4'/> </video>
+
+Auch hier wieder, analog zu Moop Mama der Plan, für die nächste Tour Tickets zu kaufen.
+Im Idealfall für Clubkonzerte, aber dafür ist AMK wohl mittlerweile zu groß.
+
+Beendet wurde das Konzert nicht, wie früher, mit "Barfuß am Klavier", sondern mit "Tommi".
+Finde ich sehr passend, ich mag den Song sehr.
 
 {% include foldergallery.html folder="2022-08-23/sa/6" %}
 
