@@ -202,6 +202,9 @@ Popig, aber live gut gemacht. Drums uns bass sorgen halt für groove. Klang ein 
 ### Lagwagon
 Beim vorbei laufen in lag wagon rei gehört. Das war krach und amerikanisches gelaber
 
+### Pause am Camp und am Strand
+
+
 ### Antilopen Gang
 alleine bis zum danger Dan solo Teil. Gut, aber falsche Stimmung.
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-23/sa/antilopen-gang_pizza.mp4' type='video/mp4'/> </video>
@@ -222,29 +225,45 @@ Stock gefangen. Schick Schnack schnuck verloren. Total emotional, am ganzen Kör
 Neue Bassisting, mega sound, 4 streicher, 4 bläser
 
 
+<video width='100%' preload='metadata' controls> <source src='/img/2022-08-23/sa/AMK_poca_hontas.mp4' type='video/mp4'/> </video>
+
+{% include foldergallery.html folder="2022-08-23/sa/6" %}
+
 ## Sonntag
 Cleopatrik klang beim vorbeilaufen nett
 
 ### Kaffkiez
 Kaffkiez macht Hoffnung für deutschen Pop. Aushilfe David am Bass, der war zu leise. Das hätte es nochmal besser gemacht.
 
+{% include foldergallery.html folder="2022-08-23/so/1" %}
+
 ### Zebrahead
 Zebrahead viel circle recht nette mosch. Raus beim. Letzen song, weil Hals Treffer
 
+{% include foldergallery.html folder="2022-08-23/so/2" %}
+
 ### Montreal
 Montreal fast etwas zu poppig dannach, aber ab dem dritten sind wurde mitgesungen. Ich kannte mehr als erwartet. Stimme dannach komplett im Sack
+
+{% include foldergallery.html folder="2022-08-23/so/3" %}
 
 ### Beachpause
 Zurück, see
 Kochen
 
+{% include foldergallery.html folder="2022-08-23/so/4" %}
+
 ### Clueso
 4 5 songs. Musikalisch super, zu wenig eskalativ, fast langweilig
+
+{% include foldergallery.html folder="2022-08-23/so/5" %}
 
 ### Madsen
 richtig gut
 Schöner Song (name? so gut kenne ich dich)
 Golden earing mosch für Mädels zu eigenen song, name vergessen
+
+{% include foldergallery.html folder="2022-08-23/so/6" %}
 
 ### Broilers
 1:15h bis broilers warten. War aber leer, ging nochmal raus und locker bis 30 Minuten vor Beginn wieder rein. Mir ging es seit Madsen immer schlechter.
@@ -256,9 +275,13 @@ Riesiger circle bis hinten ans Gitter
 Im letzen Song raus, weil Kreislauf. Wasser und essen, dann ging es wieder
 Leicht melancholisch, weil die Saison zu Ende ist
 
+{% include foldergallery.html folder="2022-08-23/so/7" %}
+
 ## Abreise am Montag
 Ganz schön krank
 Abbau, karre super schwer
 Keine Ordner aufm Parkplatz, dauerte ewig
 
+
+{% include foldergallery.html folder="2022-08-23/mo/1" %}
 
