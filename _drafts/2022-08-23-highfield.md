@@ -302,35 +302,72 @@ Finde ich sehr passend, ich mag den Song sehr.
 Cleopatrik klang beim vorbeilaufen nett
 
 ### Kaffkiez
-Kaffkiez macht Hoffnung für deutschen Pop. Aushilfe David am Bass, der war zu leise. Das hätte es nochmal besser gemacht.
+Mit Kaffkiez ging es mir ähnlich wie mit Provinz.
+Kurz reingehört, für zu poppig befunden und mich vor Ort doch von Lena überzeugen lassen, der Truppe live eine Change zu geben.
+
+Genau solche Bands brauchen wir ganz dringend.
+Nachdem ich neulich mal wieder Radio gehört habe und mir bei dem ganzen Jammerkrams fast übel georden ist, macht Kaffkiez Hoffnung für die deutsche Popmusik.
+
+Handgemacht, netter Groove, seichte aber ehrliche Texte.
+Kann man echt machen, tanzbar ist es allemal.
+Und sympatisch wirken die Jungs definitiv.
 
 {% include foldergallery.html folder="2022-08-23/so/1" %}
 
 ### Zebrahead
-Zebrahead viel circle recht nette mosch. Raus beim. Letzen song, weil Hals Treffer
+Nach dem entspannten Einstieg in den Tag gab es direkt dannach von Zebrahead das harte Rock-Brett ins Gesicht.
+Jonas kam dazu, wir hatten das ganze Wochende noch kein Konzert gemeinsam vorne drin erlebt, weil wir immer bei verschiedenen Bands waren.
+Es hat Lena und mich tatsächlich ein paar Songs zum Umschalten der Musikrichtung gebraucht, aber dannach war es der erwartete Abriss.
+
+Jonas und ich waren nach dem Anfang praktisch die ganze Zeit im Circle Pit unterwegs.
+Da die Musik zwar hart, aber wenig aggressiv ist, wurde praktisch kaum gemoscht.
+Sondern sich einfach viel bewegt und nur am Rande mal etwas geschubbst.
+
+Anstrengend war es auf Grund der vielen Crowdsurfer trotzdem, aber ich bin ja nicht zum Spaß immer gerne mitten drin :)
 
 {% include foldergallery.html folder="2022-08-23/so/2" %}
 
 ### Montreal
-Montreal fast etwas zu poppig dannach, aber ab dem dritten sind wurde mitgesungen. Ich kannte mehr als erwartet. Stimme dannach komplett im Sack
+Der nächste Wechsel der Musikrichtung: Alex und Vivi stießen zu Lena und mir dazu. Jonas war irgendwie weg.
+Montreal war fast etwas zu poppig nach Zebrahead, aber ab dem dritten Song haben wir auch dort voll mitgesungen.
+Das ist einfach netter "Pop-Punk" oder wie auch immer man das nennen mag.
+
+Drummer Max Power machte sich einen Spaß daraus, seinen Job an den Drummer von Madsen abzugeben und sich vom Publikum Bier zu erschnorren, statt seiner Arbeit nachzugehen.
+
+Ich kannte mehr Songs als erwartet, obwohl ich beim letzen Livekonzert von Montral in der Groovestation vor ein paar Jahren wegen eines Treffers in den Magen früher nach Hause musste.
+
+Lena und ich standen in der ersten Reihe und waren, dem Kameramann direkt vor unserer Nase nach wohl ständig im Livestream zu sehen.
+Leider wurde der Auftritt von Montreal bis heute nicht zum nachträglichen Schauen veröffentlicht und das wird wohl auch nicht mehr passieren.
+
+Das Konzert war super, aber entsprechend war meine Stimme dannach auch komplett im Sack.
 
 {% include foldergallery.html folder="2022-08-23/so/3" %}
 
 ### Beachpause
-Zurück, see
-Kochen
+Wir machten uns also auf den Weg zurück zuum Camp. 
+Vivi verabschiede sich vom Festival, Alex, Lena und ich nutzen das mittlerweile richtig gute Wetter für einen erneuten Besuch am Strand.
+Einfach mega, wenn man Festival und Baden im See so einfach verbinden kann.
 
+Ich erwähnte es bereits, dass ist wirklich ein Alleinstellungsmerkmal vom Highfield, wenn das Wetter mitspielt.
+ 
 {% include foldergallery.html folder="2022-08-23/so/4" %}
 
 ### Clueso
-4 5 songs. Musikalisch super, zu wenig eskalativ, fast langweilig
+Da ich ja Madsen auf dem Deichband gesehen hatte, wollte ich zumindest den Anfang von Clueso sehen.
+
+Das war musikalisch gut gemacht, inbesondere war es aufwändig arrangiert.
+Aber mir war das für ein Festival und überhaupt für meine Stimmung in dem Moment viel zu wenig eskalativ.
+Man könnte fast sagen, es war mir zu langweilig.
 
 {% include foldergallery.html folder="2022-08-23/so/5" %}
 
 ### Madsen
-richtig gut
+
+richtig gute Rock Musik. Ich weiß garnicht, warum Madsen nicht schon länger auf meinem Radar ist, die Truppe macht ja schon irgendwei 20 Jahre Musik.
+
 Schöner Song (name? so gut kenne ich dich)
-Golden earing mosch für Mädels zu eigenen song, name vergessen
+
+Golden earing mosch für Mädels zu eigenen song, Love is a killer
 
 {% include foldergallery.html folder="2022-08-23/so/6" %}
 
