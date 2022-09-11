@@ -197,17 +197,26 @@ Die Jungs wussten allerdings auch, wie man mit dem Publikum umzugehen hat und ha
 Lenas Idee.
 Popig, aber live gut gemacht. Drums uns bass sorgen halt für groove. Klang ein bißchen so wie von wegen liesbrth
 
+{% include foldergallery.html folder="2022-08-23/sa/3" %}
+
 ### Lagwagon
 Beim vorbei laufen in lag wagon rei gehört. Das war krach und amerikanisches gelaber
 
 ### Antilopen Gang
 alleine bis zum danger Dan solo Teil. Gut, aber falsche Stimmung.
+<video width='100%' preload='metadata' controls> <source src='/img/2022-08-23/sa/antilopen-gang_pizza.mp4' type='video/mp4'/> </video>
+
+{% include foldergallery.html folder="2022-08-23/sa/4" %}
 
 ### Donots
 Rüber zu den Donots
 Mega Abriss, cover von 21th century digital boy, weil die das zweite mal für bad religion hier einspringen. Vermutlich Besser als das original
 Bei so long komplett die stimme verloren
 Stock gefangen. Schick Schnack schnuck verloren. Total emotional, am ganzen Körper gezittert
+
+<video width='100%' preload='metadata' controls> <source src='/img/2022-08-23/sa/donots_stop_the_clocks.mp4' type='video/mp4'/> </video>
+
+{% include foldergallery.html folder="2022-08-23/sa/5" %}
 
 ### Annenmaykantereit
 Neue Bassisting, mega sound, 4 streicher, 4 bläser
