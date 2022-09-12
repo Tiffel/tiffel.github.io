@@ -30,3 +30,29 @@ Früh los, um die Fähre zu bekommen. Früh genug da gewesen, schnelle Pommes an
 Eine ganze Menge Bikepacker da drauf
 
 Bier aus dem Shop, Zeit fürs bloggen
+
+## Tag 5 - Gegen den Wind nach Stege 
+Wind of change Ohrwurm 
+Harte Etappe,
+extra Tour rund um Stege.
+
+## Tag 6 - 
+Schönste etappe
+Top wetter, rückenwind
+
+
+## Tag 7 - Zieleinfahrt in Kopenhagen
+Entspannt nach Kopenhagen, super Rad Wege 
+Flasche an der mermaid vergessen
+Christiana, Bier am see
+Street food market
+50 jahre königin
+6 pack Bier und Danisches balett 
+
+## Tag 8 - Kopenhagen und Reise nach Berlin
+Teueres Hipster Frühstück
+
+Tour de France Etappe ein paar KM nachgefahren
+
+Poca Krank
+Flixbus auf Fähre

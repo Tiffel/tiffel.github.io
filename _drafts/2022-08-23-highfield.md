@@ -413,6 +413,11 @@ Auf dem Rückweg traf ich Alex und Lena wieder, die zwar nicht krank, aber auch 
 Der Abbau am Montag war relativ problemlos.
 Ich war mit Ibu und Taschentüchern bewaffnet auch einigermaßen in der Lage, meinen Teil beizutragen.
 
+Die Sackkarre war ganz schön schwer beladen, aber wir wollten nicht zweimal laufen.
+Entsprechend war der Weg bis zum Parkplatz ganz schön anstrengend, gerade weil ich nicht so fit war.
+Und die Karre habe ich dann auch vor Ort noch entsorgt.
+Der Fahrradanhänger als Transportmittel war allerdings die beste Idee des gesamten Festivals.
+
 Auf Parkplatz angekommen hatten wir nochmal über eine Stunde Wartezeit, weil die Organisatoren die Parkplatzwächter vergessen hatten.
 Der abfließende Verkehr stocke an allen Ecken und Enden, dabei wäre das alles relativ einfach lösbar gewesen. 
 
