@@ -362,32 +362,61 @@ Man könnte fast sagen, es war mir zu langweilig.
 {% include foldergallery.html folder="2022-08-23/so/5" %}
 
 ### Madsen
+Ich weiß garnicht, warum Madsen nicht schon länger auf meinem Radar ist, die Truppe macht ja schon irgendwie 20 Jahre Musik.
 
-richtig gute Rock Musik. Ich weiß garnicht, warum Madsen nicht schon länger auf meinem Radar ist, die Truppe macht ja schon irgendwei 20 Jahre Musik.
+Nachdem ich auf dem Deichbrand ja nur die letzen Minuten gesehen hatte, waren Alex, Lena und ich diesesmal das ganze Konzert vor Ort.
+Das war richtig gute deutsche Rock Musik.
 
-Schöner Song (name? so gut kenne ich dich)
+Abgesehen von den sehr bekannten Hits war mir das letze Mal schon der Song "Lova is a killer aufgefallen", welcher "Radar Love" von Golden Earring integriert bzw. zum Teil ein Cover ist.
+Echt gut gemacht, gerade wenn man das Original mag.
+Ganz witzig war der Fakt, dass auf Ansage des Sängers dazu eine Moschpit nur für Frauen eröffnet wurde, was erstaunlich gut funktioniert hat.
 
-Golden earing mosch für Mädels zu eigenen song, Love is a killer
+Außerdem ist mir "So cool bist Du nicht" in Erinnerung geblieben. Eine wirklich schöne Balade, welche Sänger Sebastian Madsen mit seiner Partnerin und Tourkeyboarderin im Duett sang.
 
 {% include foldergallery.html folder="2022-08-23/so/6" %}
 
 ### Broilers
-1:15h bis broilers warten. War aber leer, ging nochmal raus und locker bis 30 Minuten vor Beginn wieder rein. Mir ging es seit Madsen immer schlechter.
+Nach Madsen hatten wir leider mal wieder über eine Stunde Wartezeit bis zu den Broilers.
+Da mittlerweile doch einige Menschen abgereißt waren, war es Problemlos möglich, das Infield zu verlassen und 30 Minuten vor Beginn wieder zu kommen.
+Trotzdem ist das ein Problem des Highfields. Bands überlappen sich immer zwischen den Bühnen, bleibt man an einer Bühne muss man ewig warten.
 
+Ich war das ganze Wochenende schon ein bischen erkältet, aber in dieser Wartezeit ging es mir dann irgendwann richtig dreckig. 
+Wenn man dann mal zur Ruhe kommt, hohlt der Körper sich wohl die Pause, die man ihm vorher nicht gönnen wollte.
+Das bedeutete also für mich, sich bei den Broilers noch ein letzes mal zum Abschluss der Festivalsaison durchzubeißen.
+War nicht so wirklich schön, ging aber doch irgendwie, als es endlich los ging.
 
-viel getanzt mit etwas Geschubse, wenig echter mosch.
-Riesiger circle bis hinten ans Gitter
-Ähnlich gut wie bei rip
-Im letzen Song raus, weil Kreislauf. Wasser und essen, dann ging es wieder
-Leicht melancholisch, weil die Saison zu Ende ist
+Die Broilers haben im Prinzip das gleiche Konzert wie auf dem Rock im Park gespielt, nur dass diesesmal Bassistin Ines wieder am start war.
+Sie war bei RAR und RIP irgendwie ausgefallen.
+
+Tolles Konzert, nur überrascht hat mich einfach nicht mehr viel.
+Selbst die Witze in den Ansagen zwischen den Songs waren die gleichen.
+Aber auf dem Niveau ist vermutlich auch kein Platz mehr für Spontanität.
+Auch wenn man den Jungs und Mädels ansehen konnte, dass sie noch wirklcih Spaß auf der Bühne haben.
+
+Ich mischte mich mal wieder mitten in die Menge.
+Sehr angenehm war, dass wenig gemoscht, aber viel getanzt wurde.
+Und nach einem der ersten Circles war ich plötzlich ganz vorne in der zweiten Reihe.
+
+Überhaupt waren die Cirlepits riesig, teilweise das gesamte Infield bis hinten ans Gitter groß.
+Das hat schon ganz gut gerockt.
+
+Während der letzen Songs hat das mein Kreislauf irgendwann beschlossen, dass jetzt mal gut mit Konzert sei.
+Insofern bin ich etwas früher raus, was natürlich den Vorteil hatte, der Masse an Menschen zu entgehen.
+
+Leicht melancholisch, ziemlich krank und mit etwas zu Essen in der Hand habe ich den letzen Song dann von weiter hinten gesehen.
+
+Auf dem Rückweg traf ich Alex und Lena wieder, die zwar nicht krank, aber auch leicht melancholisch ob der beendeten Saison waren.
 
 {% include foldergallery.html folder="2022-08-23/so/7" %}
 
 ## Abreise am Montag
-Ganz schön krank
-Abbau, karre super schwer
-Keine Ordner aufm Parkplatz, dauerte ewig
+Der Abbau am Montag war relativ problemlos.
+Ich war mit Ibu und Taschentüchern bewaffnet auch einigermaßen in der Lage, meinen Teil beizutragen.
 
+Auf Parkplatz angekommen hatten wir nochmal über eine Stunde Wartezeit, weil die Organisatoren die Parkplatzwächter vergessen hatten.
+Der abfließende Verkehr stocke an allen Ecken und Enden, dabei wäre das alles relativ einfach lösbar gewesen. 
+
+Beim Highfield ist tatsächlich vieles gut, aber auch vieles kann man einfach besser machen.
+Da muss man einfach sagen, dass das Beichbrand bzgl. Organisation immer wieder Maßstäbe setzt.
 
 {% include foldergallery.html folder="2022-08-23/mo/1" %}
-
