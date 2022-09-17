@@ -182,7 +182,7 @@ Unmöglich, ihn mit unserem Kamera-Equipment fotografieren zu können. Aber sch�
 Abendessen gab es in der Bar, in der wir das erste Mittagessen auf Sint Maarten hatten.
 Natürlich wieder mit dem leckeren Gouda als Vorspeise.
 
-Wir hatten bei der Erkundungstour am Dienstagabend schon gesehen, dass die kitischige Hölländische Windmühle an der Promenade nicht nur eine Bar ist, sondern dort auch jeden Freitag abends Karaoke ist.
+Wir hatten bei der Erkundungstour am Dienstagabend schon gesehen, dass die kitischige holländische Windmühle an der Promenade nicht nur eine Bar ist, sondern dort auch jeden Freitag abends Karaoke ist.
 
 Wir sind also nach dem Abendessen zu viert da hin und Poca und ich sind leicht eskaliert.
 
