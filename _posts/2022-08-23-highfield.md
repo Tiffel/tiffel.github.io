@@ -95,7 +95,7 @@ Dasd der Hype um die Jungs so groß ist, hab ich nicht erwartet.
 
 Die Schlange war sehr Deutsch: Die Menschen stellten sich brav in Zweierreihen hinten an.
 
-Ich war an der Stelle dreist und stellte mich einfach ganz vorne an.
+Ich war an der Stelle dreist und mogelte mich einfach ganz vorne dazwischen.
 Die ersten zwei Leute angequatscht, während ich mich zwischen die Reihen schob.
 Daraufhin die nächsten beiden Leute links von mir in ein Gespräch verwickelt, so dass alle dachten, dass ich irgendwo dazu gehörte.
 Nicht die feine englische Art, aber auf fairem Wege hätte ich das Konzert von draußen sehen müssen..
@@ -286,7 +286,7 @@ Entsprechend hat sich das Arrangement der Titel nochmal ganz schön erweitert.
 Das hat richtig Spaß gemacht, selbst die Songs vom ersten Album nochmal so frisch zu erleben.
 
 Musikalisch eins der absoluten Highlights des Festivals, ich hab lange keine so runde Liveperformance gesehen.
-Alex und Vivi verabschieden sich zu meinem Unverständnis nach einer halben Stunde, Lena und ich quetschen die letzten Töne beim Mitsingen aus den Stimmen heraus.
+Alex und Vivi verabschieden sich nach einer halben Stunde, Lena und ich quetschen die letzten Töne beim Mitsingen aus den Stimmen heraus.
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-23/sa/AMK_poca_hontas.mp4' type='video/mp4'/> </video>
 
@@ -299,7 +299,6 @@ Finde ich sehr passend, ich mag den Song sehr.
 {% include foldergallery.html folder="2022-08-23/sa/6" %}
 
 ## Sonntag
-Cleopatrik klang beim vorbeilaufen nett
 
 ### Kaffkiez
 Mit Kaffkiez ging es mir ähnlich wie mit Provinz.
@@ -359,6 +358,7 @@ Das war musikalisch gut gemacht, insbesondere war es aufwändig arrangiert.
 Aber mir war das für ein Festival und überhaupt für meine Stimmung in dem Moment viel zu wenig eskalativ.
 Man könnte fast sagen, es war mir zu langweilig.
 
+Ich bin dann also nach 4-5 Songs wieder los.
 {% include foldergallery.html folder="2022-08-23/so/5" %}
 
 ### Madsen
