@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interrail Tour Teil 2: Der erste Tag in Paris"
+title:  "Interrail-Tour Teil 2: Der erste Tag in Paris"
 ---
 
 ## Mit dem Zug von Bruxelles-Midi nach Paris-Nord

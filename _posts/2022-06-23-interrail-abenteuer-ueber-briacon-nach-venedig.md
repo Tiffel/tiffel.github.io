@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interrail Tour Teil 3: Ein Abenteuer durch die Alpen nach Venedig"
+title:  "Interrail-Tour Teil 3: Ein Abenteuer durch die Alpen nach Venedig"
 ---
 
 ## Mit dem Nachtzug in die Alpen nach Briançon

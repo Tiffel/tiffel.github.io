@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interrail Tour Teil 2: Weitere zwei Tage in Paris"
+title:  "Interrail-Tour Teil 2: Weitere zwei Tage in Paris"
 ---
 
 ## Paris Tag 4: Buch lesen im Parc des Buttes-Chaumont, Belebtes Montmartre 

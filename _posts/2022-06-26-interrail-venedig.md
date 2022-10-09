@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interrail Tour Teil 4: Venedig"
+title:  "Interrail-Tour Teil 4: Venedig"
 ---
 
 ## Mit dem Zug von Oulx nach Venezia Santa Lucia

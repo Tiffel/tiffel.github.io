@@ -4,25 +4,25 @@ title:  "Deichbrand"
 ---
 
 ## Prolog: Anreise am Mittwoch
-Morgens um kurz nach zehn sollte es entspannt in Lübbecke losgegen, ich war um eins mit Flo und Lena am letzen Autohof vorm Festival verabredet.
+Morgens um kurz nach zehn sollte es entspannt in Lübbecke losgegen. Ich war um eins mit Flo und Lena am letzen Autohof vorm Festival verabredet.
 Für das Festival hatte ich mir den großen Kombi von Arne und Mel geliehen, um alles mitzubekommen.
 
-Alles war gepackt, ich hatte als letze Tat gerade durch die Beifahrertür meine Wasserflasche auf den Sitz und den Schlüssel auf die Mittelkonsole gelegt. Beifahrertür geschlossen, ums Auto herum gegangen und festgestellt, dass das Auto abgeschlossen ist.
+Alles war gepackt, ich hatte als letzte Tat gerade durch die Beifahrertür meine Wasserflasche auf den Sitz und den Schlüssel auf die Mittelkonsole gelegt. Beifahrertür geschlossen, ums Auto herum gegangen und festgestellt, dass das Auto abgeschlossen ist.
 Mit dem Schlüssel drinnen.
 Mir ist bis heute unklar, wie das passieren konnte.
 
 Glücklicherweise war Mel zuhause, sodass wir dann gemeinsam in deren Wohnung den Ersatzschlüssel suchen konnten.
 Der war nämlich seit einigen Wochen weg.
-Nach einer halben Stunde erfolgloser Suche kam so langsam Panik auf, wir waren kurz davor den Händler zum "legalen Knacken" anzurufen.
+Nach einer halben Stunde erfolgloser Suche kam so langsam Panik auf. Wir waren kurz davor, den Händler zum "legalen Knacken" anzurufen.
 In einem letzen Geistesblitz fanden wir dann aber doch den Schlüssel in einer Jacke. 
 Also ging es um kurz nach elf dann endlich los.
 
-Der Weg auf das Womo Camp Central war entspannt, wir hatten praktisch freie Platzwahl.
+Der Weg auf das Womo Camp Central war entspannt. Wir hatten praktisch freie Platzwahl.
 Die zehn Euro Aufpreis für die Frühanreise machen ja zwei Dinge: Einerseits wird die Anreise für alle entzerrt, andererseits kann bzw. muss 
-man einen Tag länger Festivalcamp Feeling genießen.
+man einen Tag länger Festivalcamp-Feeling genießen.
 
-Soweit so gut, mit den zwei Autos mussten wir ja nichts schleppen, sondern einfach nur aufbauen.
-Die Entscheidung, Wohnanhänger und Wohnmobil zuhause zu lassen und mit zwei PKW und Zelt zu fahren, war zwar neu, aber ganz gut.
+Soweit so gut. Mit den zwei Autos mussten wir ja nichts schleppen, sondern einfach nur aufbauen.
+Die Entscheidung, Wohnanhänger und Wohnmobil zu Hause zu lassen und mit zwei Pkw und Zelt zu fahren, war zwar neu, aber ganz gut.
 Spart echt Arbeit und mit einer Gasflasche und Absorberkühlbox wird auch das Bier nicht warm.
 
 Nachdem die Zelte standen und wir das Pavillion in der Mitte grob stehen hatten, kamen wir bei bester Laune ins quatschen.
@@ -31,13 +31,13 @@ Einen Moment später war das 20 Euro-Billigpavillion einmal um sich selbst und d
 Also machten wir drei uns auf zu einer langen Wanderung zum Festival-Aldi.
 Da das Infield am Mittwoch natürlich noch nicht offen hatte, mussten wir das Wegbier ganz außen herum tragen.
 
-Angekommen am Supermarkt stellte sich heraus, dass ein neues Pavillion in genauso mieser Qualität absurd teuer war, sodass wir uns für zwei Rollen Gaffa und etwas Redneck-Engineering entschieden.
-Zurück am Zeltplatz angekommen waren Alex und Vivi auch mittlerweile angekommen, nachdem sie mit dem Zug nach Cuxhaven und dann mit dem Shuttle gefahren waren.
+Angekommen am Supermarkt, stellte sich heraus, dass ein neues Pavillion in genauso mieser Qualität absurd teuer war, sodass wir uns für zwei Rollen Gaffa und etwas Redneck-Engineering entschieden.
+Zurück am Zeltplatz angekommen, waren Alex und Vivi auch mittlerweile angekommen, nachdem sie mit dem Zug nach Cuxhaven und dann mit dem Shuttle gefahren waren.
 
 Mit ein paar übrigen Stangen aus Alex Ersatzzelt und dem Gaffa war der Pavillion tatsächlich gerettet und hat auch bis zum Ende durchgehalten.
 
 Es wurde in der Abendsonne gelegen, Essen auf dem Gaskocher zubereitet und das eine oder andere Bier getrunken.
-Irgendwann sind wir dann auch los um, die Zeltplatz-Partys zu erkunden.
+Irgendwann sind wir dann auch los, um die Zeltplatz-Partys zu erkunden.
 Das war aber alles musikalisch erstaunlich schlecht.
 Bösartiges Elektro-Geballer, was selbst angetrunken nicht tanzbar war.
 
@@ -49,7 +49,7 @@ Aber trotzdem haben wir es nicht wirklich lange ausgehalten und sind für einen 
 {% include foldergallery.html folder="2022-07-25/mi" %}
 
 ## Tag Eins: Donnerstag
-Donnerstag ist ja der reguläre Anreisetag, vor 18:00 gibt es also nirgends Musik.
+Donnerstag ist ja der reguläre Anreisetag, vor 18:00 Uhr gibt es also nirgends Musik.
 
 In der Nacht haben wir es noch einigermaßen ignorieren können, aber am Tag konnten wir unseren Erzfeind des Festivals ausgiebig kennenlernen:
 Unsere Nachbarn hatten einen ganzen Bauwagen mitgebracht, der natürlich von einem Strom-Mopped betrieben wurde.
@@ -58,18 +58,18 @@ Die Jungs dort waren richtig stark am Hahn, sodass es öfter vorkam, dass jemand
 
 Super super nervig.
 Andere Nachbarn hatten aber, wie wir über den Tag erfuhren, schon morgens um acht eine Ansage gemacht:
-> "Wenn ihr das Horn noch einmal nachts benutzt, zerstören wir euer Camp. Ohne Verluste".
+> "Wenn ihr das Horn noch einmal nachts benutzt, zerstören wir euer Camp. Ohne Rücksicht auf Verluste".
 
-Das hat gewirkt, zumindest nachts war das Teil nun ruhig.
+Das hat gewirkt. Zumindest nachts war das Teil nun ruhig.
 Diesen und die weiteren Tage mussten wir es aber doch irgendwie ertragen.
 Den immer wieder aufkommenden Plan, nachts die Druckluftleitung zu zerschneiden, haben wir nie durchgezogen.
 
-Wir brachten den Tag ansonsten mit Essen, Glitzer-Tatoos und ziemlich viel Flunkyball rum.
+Wir brachten den Tag ansonsten mit Essen, Glitzer-Tattoos und ziemlich viel Flunkyball rum.
 
 Um sechs starteten Flo, Lena und ich dann ins Palastzelt, welches wir bis halb drei nicht mehr verlassen sollten.
 Für uns war es das erste Mal, den üblichen Donnerstags-DJ "Beauty and the Beats" nicht mitzunehmen.
 Der Musikgeschmack ist über die letzen Jahre einfach härter geworden, sodass es im Palastzelt echt viele neue Möglichkeiten für gute Musik gibt.
-Und live ist fast immer besser, als Popklassiker auf einen einen dauerhaften 4-on-the-floor Beat im Diskofox-Tempo zu feiern.
+Und live ist fast immer besser, als Popklassiker auf einem dauerhaften 4-on-the-floor Beat im Diskofox-Tempo zu feiern.
 
 {% include foldergallery.html folder="2022-07-25/do/1" %}
 

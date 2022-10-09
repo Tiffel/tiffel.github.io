@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interrail Tour Teil 2: Musée du Louvre et la Tour Eiffel"
+title:  "Interrail-Tour Teil 2: Musée du Louvre et la Tour Eiffel"
 ---
 
 ## Paris Tag 2: Das Louvre

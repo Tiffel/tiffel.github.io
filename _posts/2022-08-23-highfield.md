@@ -4,8 +4,8 @@ title:  "Highfield"
 ---
 
 ## Prolog am Mittwoch
-Ich hatte am Tag zuvor Alex Auto aus der Heimat geholt. Morgens mit dem Zug hin, Abends mit dem Auto zurück.
-Dort war ja noch der ganze Festival Krams vom Deichbrand (und mein Rennrad) drin.
+Ich hatte am Tag zuvor Alex Auto aus der Heimat geholt. Morgens mit dem Zug hin, abends mit dem Auto zurück.
+Dort war ja noch der ganze Festival-Krams vom Deichbrand (und mein Rennrad) drin.
 
 Das wäre an sich ja schon ein relativ anstrengender Tag gewesen.
 Dazu kam der Fakt, dass der Wagen ab Magdeburg ein kleines bisschen lauter als normal war.
@@ -14,14 +14,14 @@ Schade.
 
 ## Donnerstag: Anreise
 Der Anreisetag begann also damit, dass wir den Auspuff notdürftig festbasteln mussten, damit auf dem bekannten Acker, der als Parkplatz dient, nichts abfällt.
-Ein bisschen Redneck-Engineering, während wir das Dosenbier aus Tschechien (Pfandfrei) einluden.
+Ein bisschen Redneck-Engineering, während wir das Dosenbier aus Tschechien (pfandfrei) einluden.
 
 Kurz vorm Ziel trafen wir Lena, die mit dem eigenen Auto aus Bayreuth angereist war.
 Und während sie auf dem Parkplatz noch den geschenkten Schwimmring zwangsumarmte, um die Luft herauszubekommen, packten Alex und ich die Sackkarre und den Fahrradanhänger.
 So eine Absorberkühlbox und eine darin geschmuggelte Gasflasche ist schon was feines, wenn man sein Bier kalt haben möchte.
 
 Irgendwie war vom letzten Highfield die Erinnerung verloren gegangen, wie schlimm der Boden auf dem Zeltplatz ist.
-Die gesamte Insel ist ja künstlich aufgeschüttet, nach ca. 10 cm kommt irgendeine unfassbar harte Schicht.
+Die gesamte Insel ist ja künstlich aufgeschüttet. Nach ca. zehn Zentimetern kommt irgendeine unfassbar harte Schicht.
 Es war also echt nervig, die Zelte und Abspannleinen mit den Nägeln festzubekommen.
 Was zu sichtlichem Frust bei Lena führte, ihr Zelt nicht alleine aufstellen zu können.
 
@@ -30,10 +30,10 @@ Alex hat aber mehrere Stunden unaufhörlich optimiert, bis unser Aufbau mit dem 
 {% include foldergallery.html folder="2022-08-23/do/1" %}
 
 ### Opening Party
-Wir starteten irgendwann mit Einbruch der Dunkelheit zur Eröffnungsparty an den Strand. Der Regen wurde immer stärker, sodass Alex sich irgendwann verabschiede.
+Wir starteten irgendwann mit Einbruch der Dunkelheit zur Eröffnungsparty an den Strand. Der Regen wurde immer stärker, sodass Alex sich irgendwann verabschiedete.
 Lena und ich haben den Regen ignoriert und einfach eine ganze Weile Barfuß im kalten Sand getanzt.
 
-Musikalisch war es eine Mischung aus irgendwie allem. Aber alle halbe Stunde gab es immer mal wieder rockige Musik, insofern war das schon ganz gut aushaltbar.
+Musikalisch war es eine Mischung aus irgendwie allem. Aber alle halbe Stunde gab es immer mal wieder rockige Musik. Insofern war das schon ganz gut aushaltbar.
 Und wenn man gute Laune hat, kann man ja zu fast allem tanzen.
 
 {% include foldergallery.html folder="2022-08-23/do/2" %}
@@ -43,13 +43,13 @@ Der erste echte Festivaltag begann mit der Anreise von meinem Kollegen Jonas, de
 Was allerdings von seinen beiden Freunden Simon und Cindy mit ihrer Anreise aus Zypern getoppt wurde.
 
 Wir vergrößerten das Camp um einen weiteren Pavillon und Zelte.
-Es war für den Nachmittag und die kommende Nacht starker Regen angekündigt, insofern steckten wir etwas mehr arbeit in den Aufbau des Camps
+Es war für den Nachmittag und die kommende Nacht starker Regen angekündigt. Insofern steckten wir etwas mehr Arbeit in den Aufbau des Camps
 Alex optimierte wieder mehrere Stunden bis zur Zeltnagel-Perfektion und Vivi reiste auch irgendwann vormittags an.
 
 {% include foldergallery.html folder="2022-08-23/fr/1" %}
 
 ### Neonschwarz
-Musikalisch begann das Festival um 17:00 mit Neonschwarz, von denen ich mir recht viel erhofft hatte.
+Musikalisch begann das Festival um 17:00 Uhr mit Neonschwarz, von denen ich mir recht viel erhofft hatte.
 Leider wurde ich etwas enttäuscht.
 
 Der Gesang von Sängerin Marie Curry war live erstaunlich schwach.
@@ -81,7 +81,7 @@ Schade, aber leider sieht man das hin und wieder bei Künstlern.
 
 Außerdem kam die Erinnerung an einen der Nachteile vom Highfield Festival wieder:
 Vor der Green Stage besteht der Untergrund aus ziemlich großen Steinen.
-Das macht das Tanzen ganz schön unangenehm, insbesondere in Chucks oder Gummistiefel. 
+Das macht das Tanzen ganz schön unangenehm, insbesondere in Chucks oder Gummistiefeln. 
 
 Das nächste Mal habe ich beim Highfield entweder meine Bergstiefel oder Springerstiefel dabei. 
 
@@ -91,14 +91,14 @@ Das nächste Mal habe ich beim Highfield entweder meine Bergstiefel oder Springe
 Nach Sondaschule waren theoretisch 75 Minuten Zeit, bis auf der gleichen Stage Electric Callboy starten sollte.
 
 Ich bin raus, um kurz auf Klo zu gehen und über eine Stunde vor Beginn war die Schlange zum Infield schon mehrere hundert Meter lang.
-Dasd der Hype um die Jungs so groß ist, hab ich nicht erwartet.
+Dass der Hype um die Jungs so groß ist, hab ich nicht erwartet.
 
 Die Schlange war sehr Deutsch: Die Menschen stellten sich brav in Zweierreihen hinten an.
 
 Ich war an der Stelle dreist und mogelte mich einfach ganz vorne dazwischen.
 Die ersten zwei Leute angequatscht, während ich mich zwischen die Reihen schob.
 Daraufhin die nächsten beiden Leute links von mir in ein Gespräch verwickelt, so dass alle dachten, dass ich irgendwo dazu gehörte.
-Nicht die feine englische Art, aber auf fairem Wege hätte ich das Konzert von draußen sehen müssen..
+Nicht die feine englische Art, aber auf fairem Wege hätte ich das Konzert von draußen sehen müssen...
   
 Kurz vor Öffnung des Einlasses zum Infield wurde dann doch gedrängelt ohne Ende.
 Die Security deeskalierte so gut es ging, während jetzt mehrere Hundert Menschen versuchen, sich vorne reinzuquetschen.
@@ -118,7 +118,7 @@ Zwei 130kg Metalheads Arm in Arm 1-2-Tipp tanzen zu sehen, war schon süß.
 
 {% include foldergallery.html folder="2022-08-23/fr/5" %}
 
-### Pause am Camp und Verpasste Bands
+### Pause am Camp und verpasste Bands
 Ich bin also danach alleine zurück zum Camp, wo Alex und Vivi rumhingen.
 
 Während der Pause mit einer Ibu und einem (mglw. auch zwei bis drei) Bier fasste ich den Entschluss, nicht mehr zu Kraftklub zu gehen.
@@ -153,12 +153,12 @@ Dieses Mal nicht Opening- sondern Aftershowparty genannt.
 Lena und ich sind also irgendwann rüber zum Tanzen, Alex und Vivi zurück ins Camp.
 
 Es regnete noch wesentlich stärker als am Abend zuvor.
-Den Regen einfach zu akzeptieren und unbeschwert zu tanzen hat super Spaß gemacht.
+Den Regen einfach zu akzeptieren und unbeschwert zu tanzen, hat super Spaß gemacht.
 Das Highlight war, zu Toto's "Africa" mit den grob 30 Leuten  mitzusingen.
 > I bless the rains down in Africaaaaaa...
 
 Irgendwann gegen zwei Uhr ging die Gleichung zwischen Müdigkeit und Kälte gegenüber der Musikauswahl nicht mehr auf.
-Es gab ja weiterhin einen Mischmasch aus Rock, Hip-Hop und komischem Zeuchs was ich nicht kannte.
+Es gab ja weiterhin einen Mischmasch aus Rock, Hip-Hop und komischem Zeuchs, was ich nicht kannte.
 
 Wir machten uns also doch zurück zum Camp auf, tranken einen Scotch zum Abschluss und dann war auch gut.
 Es war schließlich eiskalt und es regnete weiterhin in Strömen.
@@ -166,7 +166,7 @@ Es war schließlich eiskalt und es regnete weiterhin in Strömen.
 {% include foldergallery.html folder="2022-08-23/fr/6" %}
 
 ## Samstag
-Am Samstagvormittag stellen wir fest, dass unser Camp bis auf ein paar doofe Fehler dem Regen in der Nacht gut standgehalten hatte.
+Am Samstagvormittag stellten wir fest, dass unser Camp bis auf ein paar doofe Fehler dem Regen in der Nacht gut standgehalten hatte.
 Die Wettervorhersage wurde langsam besser, der Boden war aber trotzdem ein einziger Matschhaufen.
 
 Der Stimmung tat das größtenteils keinen Abbruch.
@@ -197,7 +197,7 @@ Die Jungs wussten allerdings auch, wie man mit dem Publikum umzugehen hat und ha
 
 ### Provinz
 Ich war ja durchaus skeptisch, nachdem ich irgendwann mal in Provinz reingehört hatte.
-Trotzdem ließ ich mich von Lena überzeugen, der jungen Band Live eine Chance zu geben.
+Trotzdem ließ ich mich von Lena überzeugen, der jungen Band live eine Chance zu geben.
 
 Alles relativ poppig und seicht, ich hatte sofort eine Assoziation zu "Von wegen Lisbeth".
 Aber wenn Basser und Drummer zu grooven wissen, kann auch Pop Spaß machen.
@@ -225,10 +225,10 @@ Nach der Karibik war das alles ein kleines bisschen kälter als gewohnt, aber ec
 Ich startete alleine zur Antilopen Gang, da ich die kurz später, aber doch parallel spielenden Donots ja schon auf dem Rock im Park gesehen hatte.
 
 Die Außenseiter des deutschen Hip Hops höre ich ja echt gerne.
-Und nach dem nicht so tollen Neonschwarz Auftritt hat das echt Spaß gemacht.
+Und nach dem nicht so tollen Neonschwarz-Auftritt hat das echt Spaß gemacht.
 
 Als es dann allerdings zum Soloteil von Danger Dan überging, bin ich schnell los.
-Ich mag das Soloalbum von Dan wirklich gerne, aber es ist für ein Festival in Feierstimmung einfach genau das falsche. 
+Ich mag das Soloalbum von Dan wirklich gerne. Aber es ist für ein Festival in Feierstimmung einfach genau das falsche. 
 Und da die Donots einfach ein Garant für ein gutes Konzert sind, musste ich zusehen, dort noch ins Infield zu kommen.
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-23/sa/antilopen-gang_pizza.mp4' type='video/mp4'/> </video>
@@ -236,9 +236,9 @@ Und da die Donots einfach ein Garant für ein gutes Konzert sind, musste ich zus
 {% include foldergallery.html folder="2022-08-23/sa/4" %}
 
 ### Donots
-Ich habe es so gerade und mit ein bisschen drängeln noch ins Infield zu Alex und Lena geschafft.
+Ich habe es so gerade und mit ein bisschen Drängeln noch ins Infield zu Alex und Lena geschafft.
 Die Donots waren ein paar Tage vorher als Ersatz für Bad Religion angekündigt worden.
-Anscheinend schon das zweite mal in Folge für die Punkveteranen aus den USA, zu denen die Donots ja auch eine persönliche Beziehung haben.
+Anscheinend schon das zweite Mal in Folge für die Punkveteranen aus den USA, zu denen die Donots ja auch eine persönliche Beziehung haben.
 
 Und nach dem Konzert muss man sagen, dass es für die Stimmung vermutlich gut war, die Donots statt Bad Religion vor sich zu haben.
 Alternde Punkbands aus den USA hatten wir ja vormittags schon kurz.
@@ -249,22 +249,22 @@ Und Ingo hat das Bad in der Menge ausgiebigst genossen.
 Das war ähnlich gut wie zum Frühsport beim Rock im Park, aber einfach weil es am frühen Abend war, eine ganz andere Stimmung.
 
 Ich war das Konzert dann aber mal wieder alleine mitten in der Menge unterwegs.
-Beim mitgrölen zu "So Long" hat dann meine eh schon angeschlagene Stimme vollständig versagt, für den Rest des Abends war dann nicht mehr viel mit Singen bei mir.
+Beim Mitgrölen zu "So Long" hat dann meine eh schon angeschlagene Stimme vollständig versagt. Für den Rest des Abends war dann nicht mehr viel mit Singen bei mir.
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-23/sa/donots_stop_the_clocks.mp4' type='video/mp4'/> </video>
 
-Zum Ende des Konzert ist mir noch eins der schönsten Festivalerlebnisse dieser Saison passiert:
-Der Drummer schmiss seine beiden Drumsticks ins Publikum, ich war an einem zuerst dran und konnte ihn fangen.
+Zum Ende des Konzerts ist mir noch eins der schönsten Festivalerlebnisse dieser Saison passiert:
+Der Drummer schmiss seine beiden Drumsticks ins Publikum. Ich war an einem zuerst dran und konnte ihn fangen.
 Direkt neben mir hatte eine Frau auch zugegriffen und natürlich festgehalten, so gut sie konnte.
 Ich war mir sicher, dass ich (allein schon wegen der Größe) zuerst dran war, und wir zerrten nun beide an dem Stick.
 Ich hätte vermutlich mehr Kraft gehabt, aber mein Nachbar zur Rechten hatte die Situation mitbekommen und schlug Schnick-Schnack-Schnuck vor, auf das wir uns beide zähneknirschend einließen.
 Wir sahen uns natürlich beide im Recht.
-Eine Hand fest am Drumstick duellierten wir uns über 3 oder 4 Runden, in denen wir immer die gleiche Geste zeigten. 
+Eine Hand fest am Drumstick duellierten wir uns über drei oder vier Runden, in denen wir immer die gleiche Geste zeigten. 
 In der folgenden Runde verlor ich schließlich das Duell.
 
 Es folgte ein gefühlt ewig andauernder Moment, bis wir beide realisiert hatten, dass ihr Brunnen meine Schere schlägt, bis ich den Stick losließ und ihr gratulierte.
-Dieser Moment ging in den nächsten ewigen Moment über, bis sie realisiert hatte, dass ich Worthalte und sie wirklich nun den Drumstick gewonnen hatte.
-Sie brach in Freudentränen aus, fiel mir am ganzen Körper zitternd und schluzend um den Hals und hat sich mehrere Minuten einfach nur bedankt.
+Dieser Moment ging in den nächsten ewigen Moment über, bis sie realisiert hatte, dass ich Wort halte und sie wirklich nun den Drumstick gewonnen hatte.
+Sie brach in Freudentränen aus, fiel mir am ganzen Körper zitternd und schluchzend um den Hals und hat sich mehrere Minuten einfach nur bedankt.
 
 Ich glaube, ich habe dort jemanden sehr sehr glücklich gemacht.
 Was mich sowohl in dem Moment als auch zwei Wochen später beim Tippen des Blogs selber viel froher macht, als es das Stück Holz vom Donots-Drummer je hätte machen können.
@@ -273,20 +273,20 @@ Was mich sowohl in dem Moment als auch zwei Wochen später beim Tippen des Blogs
 
 ### Annenmaykantereit
 Zwischen den Donots und Annenmaykantereit war mal wieder eine ganze Menge Zeit und es war problemlos möglich, das Infield zu verlassen und wiederzukommen.
-Was für einen Samstagabend um 21:00 echt ungewöhnlich ist.
+Was für einen Samstagabend um 21:00 Uhr echt ungewöhnlich ist.
 Aber hier war vermutlich zu merken, dass das Highfield nicht ausverkauft war.
 Vivi stieß zu uns und kurz vor dem Konzert war das Infield dann auch voll.
 
 AMK hat den Abend richtig aufgefahren.
-Die drei Kölner hatten ihre neue Bassistin dabei, von der ich nichts mitbekommen hatte. Aber der letze Liveauftritt, den ich gesehen hatte war auch 2019 in Dresden am Elbufer.
+Die drei Kölner hatten ihre neue Bassistin Sophie Chassée dabei, von der ich nichts mitbekommen hatte. Aber der letze Live-Auftritt, den ich gesehen hatte, war auch 2019 in Dresden am Elbufer, noch mit Malte Huck am Bass.
 
-Der Sound war richtig gut, unterstützt wurden die vier Bandmitglieder von gleich vier Bläsern und vier Streichern.
-Bisher kannte ich live nur die Besetzung mit einer Trompete.
+Der Sound war richtig gut. Unterstützt wurden die vier Bandmitglieder von gleich vier Bläsern und vier Streichern.
+Bisher kannte ich live nur die Besetzung durch Ferdinand Schwarz mit einer Trompete .
 Entsprechend hat sich das Arrangement der Titel nochmal ganz schön erweitert.
 Das hat richtig Spaß gemacht, selbst die Songs vom ersten Album nochmal so frisch zu erleben.
 
-Musikalisch eins der absoluten Highlights des Festivals, ich hab lange keine so runde Liveperformance gesehen.
-Alex und Vivi verabschieden sich nach einer halben Stunde, Lena und ich quetschen die letzten Töne beim Mitsingen aus den Stimmen heraus.
+Musikalisch eins der absoluten Highlights des Festivals. Ich hab lange keine so runde Live-Performance gesehen.
+Alex und Vivi verabschiedeten sich nach einer halben Stunde, Lena und ich quetschten die letzten Töne beim Mitsingen aus den Stimmen heraus.
 
 <video width='100%' preload='metadata' controls> <source src='/img/2022-08-23/sa/AMK_poca_hontas.mp4' type='video/mp4'/> </video>
 
@@ -294,7 +294,7 @@ Auch hier wieder, analog zu Moop Mama der Plan, für die nächste Tour Tickets z
 Im Idealfall für Clubkonzerte, aber dafür ist AMK wohl mittlerweile zu groß.
 
 Beendet wurde das Konzert nicht, wie früher, mit "Barfuß am Klavier", sondern mit "Tommi".
-Finde ich sehr passend, ich mag den Song sehr.
+Finde ich sehr passend. Ich mag den Song sehr.
 
 {% include foldergallery.html folder="2022-08-23/sa/6" %}
 
@@ -315,7 +315,7 @@ Und sympathisch wirken die Jungs definitiv.
 
 ### Zebrahead
 Nach dem entspannten Einstieg in den Tag gab es direkt danach von Zebrahead das harte Rock-Brett ins Gesicht.
-Jonas kam dazu, wir hatten das ganze Wochenende noch kein Konzert gemeinsam vorne drin erlebt, weil wir immer bei verschiedenen Bands waren.
+Jonas kam dazu. Wir hatten das ganze Wochenende noch kein Konzert gemeinsam vorne drin erlebt, weil wir immer bei verschiedenen Bands waren.
 Es hat Lena und mich tatsächlich ein paar Songs zum Umschalten der Musikrichtung gebraucht, aber danach war es der erwartete Abriss.
 
 Jonas und ich waren nach dem Anfang praktisch die ganze Zeit im Circle Pit unterwegs.
@@ -344,7 +344,7 @@ Das Konzert war super, aber entsprechend war meine Stimme danach auch komplett i
 
 ### Beachpause
 Wir machten uns also auf den Weg zurück zum Camp. 
-Vivi verabschiede sich vom Festival, Alex, Lena und ich nutzen das mittlerweile richtig gute Wetter für einen erneuten Besuch am Strand.
+Vivi verabschiedete sich vom Festival. Alex, Lena und ich nutzten das mittlerweile richtig gute Wetter für einen erneuten Besuch am Strand.
 Einfach mega, wenn man Festival und Baden im See so einfach verbinden kann.
 
 Ich erwähnte es bereits, das ist wirklich ein Alleinstellungsmerkmal vom Highfield, wenn das Wetter mitspielt.
@@ -358,20 +358,20 @@ Das war musikalisch gut gemacht, insbesondere war es aufwändig arrangiert.
 Aber mir war das für ein Festival und überhaupt für meine Stimmung in dem Moment viel zu wenig eskalativ.
 Man könnte fast sagen, es war mir zu langweilig.
 
-Ich bin dann also nach 4-5 Songs wieder los.
+Ich bin dann also nachvier bis fünf Songs wieder los.
 {% include foldergallery.html folder="2022-08-23/so/5" %}
 
 ### Madsen
-Ich weiß gar nicht, warum Madsen nicht schon länger auf meinem Radar ist, die Truppe macht ja schon irgendwie 20 Jahre Musik.
+Ich weiß gar nicht, warum Madsen nicht schon länger auf meinem Radar ist. Die Truppe macht ja schon irgendwie 20 Jahre Musik.
 
 Nachdem ich auf dem Deichbrand ja nur die letzten Minuten gesehen hatte, waren Alex, Lena und ich dieses mal das ganze Konzert vor Ort.
 Das war richtig gute deutsche Rockmusik.
 
-Abgesehen von den sehr bekannten Hits war mir das letzte Mal schon der Song "Love is a killer aufgefallen", welcher "Radar Love" von Golden Earring integriert bzw. zum Teil ein Cover ist.
+Abgesehen von den sehr bekannten Hits war mir das letzte Mal schon der Song "Love is a killer" aufgefallen, welcher "Radar Love" von Golden Earring integriert bzw. zum Teil ein Cover ist.
 Echt gut gemacht, gerade wenn man das Original mag.
 Ganz witzig war der Fakt, dass auf Ansage des Sängers dazu eine Moschpit nur für Frauen eröffnet wurde, was erstaunlich gut funktioniert hat.
 
-Außerdem ist mir "So cool bist Du nicht" in Erinnerung geblieben. Eine wirklich schöne Ballade, die Sänger Sebastian Madsen mit seiner Partnerin und Tourkeyboarderin im Duett sang.
+Außerdem ist mir "So cool bist Du nicht" in Erinnerung geblieben. Eine wirklich schöne Ballade, die Sänger Sebastian Madsen mit seiner Partnerin und Tour-Keyboarderin im Duett sang.
 
 {% include foldergallery.html folder="2022-08-23/so/6" %}
 
@@ -388,9 +388,9 @@ War nicht so wirklich schön, ging aber doch irgendwie, als es endlich losging.
 Die Broilers haben im Prinzip das gleiche Konzert wie auf dem Rock im Park gespielt, nur dass diesmal Bassistin Ines wieder am Start war.
 Sie war bei RAR und RIP irgendwie ausgefallen.
 
-Tolles Konzert, nur überrascht hat mich einfach nicht mehr viel.
+Tolles Konzert. Nur überrascht hat mich einfach nicht mehr viel.
 Selbst die Witze in den Ansagen zwischen den Songs waren die gleichen.
-Aber auf dem Niveau ist vermutlich auch kein Platz mehr für Spontanität.
+Aber auf dem Niveau ist vermutlich auch kein Platz mehr für Spontaneität.
 Auch wenn man den Jungs und Mädels ansehen konnte, dass sie noch wirklich Spaß auf der Bühne haben.
 
 Ich mischte mich mal wieder mitten in die Menge.
@@ -405,7 +405,7 @@ Insofern bin ich etwas früher raus, was natürlich den Vorteil hatte, der Masse
 
 Leicht melancholisch, ziemlich krank und mit etwas zu Essen in der Hand habe ich den letzten Song dann von weiter hinten gesehen.
 
-Auf dem Rückweg traf ich Alex und Lena wieder, die zwar nicht krank, aber auch leicht melancholisch ob der beendeten Saison waren.
+Auf dem Rückweg traf ich Alex und Lena wieder, die zwar nicht krank, aber auch leicht melancholisch wegen der beendeten Saison waren.
 
 {% include foldergallery.html folder="2022-08-23/so/7" %}
 
