@@ -6,3 +6,4 @@ vendor
 Gemfile.lock
 *.swp
 **/.DS_Store
+.idea
