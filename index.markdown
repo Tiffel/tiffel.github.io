@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Dieser Blog ist beendet, es folgen keine neuen Inhalte mehr.
